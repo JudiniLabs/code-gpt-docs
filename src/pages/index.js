@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <Layout
       title={`AI inside your IDE`}
-      description="Improve your code with Code GPT <head />">
+      description="Improve your code with Code GPT <AI />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
