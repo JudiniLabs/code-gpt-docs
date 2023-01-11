@@ -1,41 +1,26 @@
-# Website
+# Code GPT - Documentation
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+[![](https://dcbadge.vercel.app/api/server/E7kYzcvE)](https://discord.gg/E7kYzcvE)
 
-### Installation
+Code GPT is an open source project.
+
+In this repository you will find all the documentation about the extension, Tips for Writing Queries, news about upcoming updates and more.
+
+## Ways to contribute:
+
+- Writing articles with consultation tips
+- Translating articles (languages ​​supported by the extension are English, Spanish, Portuguese and French)
+- Giving feedback and in the community of Discord, Facebook and Reddit.
+
+### Install
+```
+$ npm i
+```
+
+### Start project
 
 ```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
+$ npm start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

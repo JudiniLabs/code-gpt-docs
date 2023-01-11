@@ -5,31 +5,28 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/code_gpt_easy_to_use.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Code GPT was designed from the ground up to be easily installed and with simple usage options.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Flexible Configuration',
+    Svg: require('@site/static/img/code_gpt_config.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Modify the parameters of each query to better tune each response generation
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Select AI providers',
+    Svg: require('@site/static/img/code_gpt_select_provider.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Select different providers like <a href="https://openai.com/" target="_blank">OpenAI</a>, <a href="https://cohere.ai/" target="_blank">Cohere</a> or <a href="https://www.ai21.com/" target="_blank">AI21</a>.
       </>
     ),
   },
