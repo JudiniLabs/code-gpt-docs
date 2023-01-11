@@ -39,6 +39,10 @@ const config = {
           //editUrl:
             //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+        gtag: {
+          trackingID: 'G-GEEJMKY9EX',
+          anonymizeIP: true,
+        },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
