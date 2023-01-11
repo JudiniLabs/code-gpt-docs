@@ -21,6 +21,14 @@ function HomepageHeader() {
             Code GPT Tutorial 📚
           </Link>
         </div>
+        <br></br>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--light button--lg"
+            to="https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt">
+            Get the extension
+          </Link>
+        </div>
       </div>
     </header>
   );
