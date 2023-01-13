@@ -130,8 +130,12 @@ const config = {
               //   to: '/blog',
               // },
               {
-                label: 'Code GPT Extension',
+                label: 'Code GPT Marketplace',
                 href: 'https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt',
+              },
+              {
+                label: 'Code GPT Open VSX',
+                href: 'https://open-vsx.org/extension/DanielSanMedium/dscodegpt'
               },
               {
                 label: 'Visual Studio Code',
