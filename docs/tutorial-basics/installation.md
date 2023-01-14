@@ -13,7 +13,7 @@ Visual Studio Code: [Download](https://code.visualstudio.com/download)
 
 Or you can search for Code GPT in the Extensions tab.
 
-<img width="453" alt="Captura de Pantalla 2023-01-14 a la(s) 15 05 01" src="https://user-images.githubusercontent.com/6216945/212494271-256734c6-6cab-4c12-bb8f-dae1ffa74b33.png">
+![Extension Tab](https://user-images.githubusercontent.com/6216945/212494271-256734c6-6cab-4c12-bb8f-dae1ffa74b33.png)
 
 ## Get your api key
 Select an AI provider:
