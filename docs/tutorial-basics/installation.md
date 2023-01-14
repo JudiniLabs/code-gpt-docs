@@ -8,7 +8,8 @@ sidebar_position: 1
 Visual Studio Code: [Download](https://code.visualstudio.com/download)
 
 ## Download & install Code GPT Extension
-[Download from Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
+- [Download from Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
+- [Download from Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
 
 Or you can search for Code GPT in the Extensions tab.
 
@@ -19,13 +20,14 @@ Select an AI provider:
   - Go to **View API Keys**
   - Create a new Secret Key
 
-- ### Cohere
+- ### Cohere (Not in production yet)
   - Create an account in [cohere.ai](https://cohere.ai/)
   - Go to your [dashboard](https://dashboard.cohere.ai/)
   - Copy the API KEY
 
-- ### AI21
-  - Coming soon...
+- ### AI21 (Not in production yet)
+  - Create an account in [AI21](https://www.ai21.com/)
+  - Go to your 
 
 ## Use your API KEY
 
