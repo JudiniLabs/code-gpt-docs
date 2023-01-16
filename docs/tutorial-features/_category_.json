@@ -1,6 +1,6 @@
 {
-    "label": "Cohere",
-    "position": 4,
+    "label": "Features",
+    "position": 3,
     "link": {
       "type": "generated-index"
     }
