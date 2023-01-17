@@ -120,6 +120,10 @@ const config = {
                 label: 'Facebook Group',
                 href: 'https://www.facebook.com/groups/1590127588169761',
               },
+              {
+                label: 'Product Hunt',
+                href: 'https://www.producthunt.com/posts/code-gpt'
+              }
             ],
           },
           {
