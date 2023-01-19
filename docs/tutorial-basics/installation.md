@@ -37,4 +37,4 @@ Press **cmd + shift + p** and search for `CodeGPT: Set API KEY`
 
 ## Remove your API KEY
 
-Press **cmd + shift + p** and search for `CodeGPT: Remove API KEY`
+If you want to remove your API Key to add a new one, press **cmd + shift + p** and search for `CodeGPT: Remove API KEY`
