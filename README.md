@@ -1,16 +1,20 @@
 # Code GPT - Docs
-
 [![](https://dcbadge.vercel.app/api/server/E7kYzcvE)](https://discord.gg/E7kYzcvE)
+## Code GPT extension repository
+ 
+- https://github.com/davila7/codegpt
 
-Code GPT is an open source project.
+That repository is private for the moment, since the code is being prepared to be published as open source.
+I am working very hard to have a good path to receive contributions, it will soon be published on the https://codegpt.co page and in the official communities to start collaborating on the project. I appreciate your patience.
 
+## Code GPT Docs repository
 In this repository you will find all the documentation about the extension, Tips for Writing Queries, news about upcoming updates and more.
 
 ## Ways to contribute:
 
-- Writing articles with consultation tips
-- Translating articles (languages ​​supported by the extension are English, Spanish, Portuguese and French)
-- Giving feedback and in the community of Discord, Facebook and Reddit.
+- Writing a new article
+- Translating articles
+- Giving feedback and in the community of [Discord](https://discord.gg/xc5RcH5n), [Facebook](https://www.facebook.com/groups/1590127588169761) and [Reddit](https://www.reddit.com/r/CodeGPT_VSCode/).
 
 ### Install
 ```
