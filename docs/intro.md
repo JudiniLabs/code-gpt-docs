@@ -25,7 +25,9 @@ https://openai.com/api/
 
 In the menu select Manage Account, then in the Usage section, you will be able to see the amount of credits available and used.
 
+<img width="182" alt="Captura de Pantalla 2023-01-21 a la(s) 4 24 34 p  m" src="https://user-images.githubusercontent.com/6216945/213941730-b48b8b6a-8f0d-4fea-b4b3-42edc838f42e.png">
+
 In this image you can see that $13 USD has been used out of a total of $18.
 
-
+<img width="647" alt="Captura de Pantalla 2023-01-22 a la(s) 4 32 08 p  m" src="https://user-images.githubusercontent.com/6216945/213941720-1ae816dd-fedb-4026-ae8c-b8b374d1d0dd.png">
 
