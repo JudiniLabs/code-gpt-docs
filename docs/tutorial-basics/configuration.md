@@ -18,7 +18,9 @@ Tokens can be thought of as pieces of words. Before the API processes the prompt
 
 Each model has a maximum number of tokens. Select the number of tokens depending on the length of the response you want to get and the selected model.
 
-Learn more: [Max Token in Medium](https://medium.com/@dan.avila7/concepto-de-tokens-en-openai-f5d4196076f6)
+Learn more: 
+- [Tokens by OpenAI (English)](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
+- [Max Token in Medium (Spanish)](https://medium.com/@dan.avila7/concepto-de-tokens-en-openai-f5d4196076f6)
 
 ### Language
 Select the language in which you will work the interactions with the API.
@@ -28,11 +30,15 @@ For functionalities such as Explain or Document, each query will be made in the 
 ### Model
 The service provides access to many different models, grouped by family and ability. A model family typically associates models by their intended task.
 
-Learn more: [Model in Medium](https://medium.com/@dan.avila7/modelos-de-gpt-3-y-codex-11a64948d87)
+Learn more: 
+- [Models by OpenAI (English)](https://beta.openai.com/docs/models/overview)
+- [Model in Medium (Spanish)](https://medium.com/@dan.avila7/modelos-de-gpt-3-y-codex-11a64948d87)
 
 ### Temperature
 This is a parameter that can be adjusted. It determines the level of randomness or "creativity" in the generated text. A higher temperature will result in more varied and creative output, while a lower temperature will produce output that is more similar to the training data and less likely to contain unexpected or surprising content.
 
 It is a value between 0 and 1. 0 being the most deterministic and 1 being the most random and creative. The default temperature is 0.3
 
-Learn more: [Temperature in Medium](https://medium.com/@dan.avila7/c%C3%B3mo-manejar-los-par%C3%A1metros-temperature-y-top-p-en-openai-b45892b250be)
+Learn more: 
+- [Temperature by Cohere (English)](https://docs.cohere.ai/docs/temperature)
+- [Temperature in Medium (Spanish)](https://medium.com/@dan.avila7/c%C3%B3mo-manejar-los-par%C3%A1metros-temperature-y-top-p-en-openai-b45892b250be)
