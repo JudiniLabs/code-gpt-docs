@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Compile & Run
 
-With this feature you will be able select a code and then Compile and Run the code.
+With this feature you will be able select a code and then **Compile and Run** the code.
 
 - Select the code
 - Right click and select **Compile & Run CodeGPT**
