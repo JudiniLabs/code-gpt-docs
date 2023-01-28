@@ -24,9 +24,9 @@ function HomepageHeader() {
         <br></br>
         <div className={styles.buttons}>
           <Link
-            className="button button--light button--lg"
-            to="https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt">
-            Get the extension
+            className="button button--success button--lg"
+            to="vscode:extension/danielsanmedium.dscodegpt">
+            Quick Install
           </Link>
         </div>
       </div>
