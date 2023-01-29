@@ -27,10 +27,11 @@ Select an AI provider:
   - Go to your [dashboard](https://dashboard.cohere.ai/)
   - Copy the API KEY
 
-- ### AI21 (Not in production yet)
+<!-- 
+ - ### AI21 (Not in production yet)
   - Create an account in [AI21](https://www.ai21.com/)
-  - Go to your 
-
+  - Go to your
+-->
 ## Use your API KEY
 
 Press **cmd + shift + p** and search for `CodeGPT: Set API KEY`
