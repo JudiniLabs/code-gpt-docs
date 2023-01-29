@@ -8,7 +8,7 @@ sidebar_position: 3
 ## OpenAI
 
 If you are getting OpenAI API errors check the following link for the reason and how to fix it:
-[OpenAI API Errors](https://help.openai.com/en/articles/6891839-api-error-code-guidance)
+[OpenAI API Errors](https://help.openai.com/en/collections/3675931-openai-api#api-error-codes-explained)
 
 ## Cohere
 
