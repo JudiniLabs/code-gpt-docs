@@ -2,46 +2,32 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Este tutorial te enseñará cómo usar la extensión y también te mostraremos consejos para que pueda aprovechar al máximo todas las funciones de Code GPT 
 
-## Getting Started
+Suscribete para obtener todas las actualizaciones y noticias: [Suscribirse 📨](https://817715f5.sibforms.com/serve/MUIEAMf2kzgJKDLrfbc46jFqp1U2BCxtNd2G2YfHO_4Wdqvdj0FqFJzy7a-_iVFmCKBzuSIjfoqot4O8DJXEj288d_YmAXXYKQCe34E0CseCIq7Ozvg90PktET7eeGdlTtrSc5f4S4pMYkyrJdQRSjLyur5_l1r3mUyCbDahOq4M8Jc5Hy-c9ZX_wkX-qt5lH0ORt6ePXfyRrGZY)
 
-Get started by **creating a new site**.
+## ¡Importante! 
+Code GPT es **GRATIS** pero los proveedores de APIs de inteligencia artificial que consume pueden ser de pago.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### OpenAI API
+Para usar la extensión con OpenAI debes tener créditos cargados en tu cuenta. Esta extensión usa la API Oficial de OpenAI la cual es de pago.
 
-### What you'll need
+Los precios los puedes encontrar en el siguiente link:
+https://openai.com/api/pricing/
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Si tu no tienes créditos, comenzarás a recibir un error en las llamadas a la API:
+**You exceeded your current quota, please check your plan and billing details**
 
-## Generate a new site
+Para revisar tus créditos disponibles, debes iniciar sesión en tu cuenta:
 
-Generate a new Docusaurus site using the **classic template**.
+https://openai.com/api/
 
-The classic template will automatically be added to your project after you run the command:
+En el menú **Manage Account**, luego en la sección **Usage** encontrarás el monto de créditos disponibles y utilizados
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+![Manage Account](https://user-images.githubusercontent.com/6216945/213941730-b48b8b6a-8f0d-4fea-b4b3-42edc838f42e.png)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+En esta imagen podemos ver una cuenta con $13 USD utilizados de un total de $18 USD.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+![Credits](https://user-images.githubusercontent.com/6216945/213941720-1ae816dd-fedb-4026-ae8c-b8b374d1d0dd.png)
