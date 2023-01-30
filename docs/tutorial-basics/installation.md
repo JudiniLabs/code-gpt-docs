@@ -19,10 +19,11 @@ Or you can search for Code GPT in the Extensions tab.
 Select an AI provider:
 - ### OpenAI
   - Create an account in [openai.com](https://openai.com/api/)
-  - Go to **View API Keys**
-  - Create a new Secret Key
+  - Go to [View API Keys](https://beta.openai.com/account/api-keys)
+  - Press the button **Create a new secret key**
+  - Copy the API Key
 
-- ### Cohere (Not in production yet)
+- ### Cohere
   - Create an account in [cohere.ai](https://cohere.ai/)
   - Go to your [dashboard](https://dashboard.cohere.ai/)
   - Copy the API KEY
