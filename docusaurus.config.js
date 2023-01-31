@@ -69,7 +69,7 @@ const config = {
         title: 'Code GPT',
         logo: {
           alt: 'Code GPT',
-          src: 'img/code_gpt_circle.svg',
+          src: 'img/mini_gpt_circle.png',
         },
         items: [
           {
