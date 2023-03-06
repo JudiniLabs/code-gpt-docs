@@ -10,6 +10,8 @@ OpenAI is an artificial intelligence research organization that aims to develop 
 GPT-3 (Generative Pre-trained Transformer 3) is one of the most advanced natural language processing models developed by OpenAI. It can generate human-like text and perform a wide variety of language-based tasks such as language translation, text completion, and summarization. It's also able to answer questions, generate stories and poetry, and even write code. It has been trained on a large corpus of text data and can understand and respond to a wide range of topics.
 
 ### Models GPT-3 available in Code GPT
+- gpt-3.5-turbo-0301
+- gpt-3.5-turbo
 - text-davinci-003
 - text-curie-001
 - text-babbage-001
