@@ -2,17 +2,10 @@
 sidebar_position: 11
 ---
 
-# Open Chat - Beta
-
-**Not in production yet**
-
-Press `cmd + shift + p` and search for CodeGPT: Open Chat
-
-![OpenChat](https://user-images.githubusercontent.com/6216945/213043309-c23d4458-e2e7-476d-8d85-1a491834b16d.png)
-
-To start you can ask a question, make a comment or suggestion.
-Code GPT will show you the result and then you can continue making queries on that first comment.
+# CodeGPT Chat - Beta
 
 
+Allows you to start a conversation with the chat interface. The Chat remembers the last concepts of the conversation.
 
+![gif_chat_codegpt](https://user-images.githubusercontent.com/6216945/223215907-892275a5-8bf4-4f83-954c-fb9a73038bd6.gif)
 
