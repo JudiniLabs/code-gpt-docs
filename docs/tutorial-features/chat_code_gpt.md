@@ -1,9 +1,9 @@
 ---
 sidebar_position: 11
 ---
+# CodeGPT Chat
 
-# CodeGPT Chat - Beta
-
+Click on the chat icon on the sidebar of Visual Studio Code
 
 Allows you to start a conversation with the chat interface. The Chat remembers the last concepts of the conversation.
 
