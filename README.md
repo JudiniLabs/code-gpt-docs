@@ -1,5 +1,5 @@
 # Code GPT - Docs
-[![](https://dcbadge.vercel.app/api/server/E7kYzcvE)](https://discord.gg/E7kYzcvE)
+[![](https://dcbadge.vercel.app/api/server/E7kYzcvE)](https://discord.gg/769uqnK3)
 
 # https://codegpt.co 👈
 
