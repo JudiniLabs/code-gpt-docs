@@ -1,6 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
+const { ProvidePlugin } = require("webpack");
+const path = require("path");
 
+const examplesPath = path.resolve(__dirname, "..", "examples", "src");
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -26,7 +29,44 @@ const config = {
     defaultLocale: 'en',
     locales: ['en','pt','es'], // es, fr, pt
   },
-
+  customFields:{
+    mendableAnonKey: process.env.MENDABLE_ANON_KEY,
+  },
+  plugins: [
+    () => ({
+      name: "custom-webpack-config",
+      configureWebpack: () => ({
+        plugins: [
+          new ProvidePlugin({
+            process: require.resolve("process/browser"),
+          }),
+        ],
+        resolve: {
+          fallback: {
+            path: false,
+            url: false,
+          },
+          alias: {
+            "@examples": examplesPath,
+          },
+        },
+        module: {
+          rules: [
+            {
+              test: examplesPath,
+              use: "raw-loader",
+            },
+            {
+              test: /\.m?js/,
+              resolve: {
+                fullySpecified: false,
+              },
+            },
+          ],
+        },
+      }),
+    })
+  ],
   presets: [
     [
       'classic',
