@@ -14,7 +14,7 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <img height="400px" width="650px" src="https://user-images.githubusercontent.com/6216945/227110771-71c53663-72da-4a48-9b68-19a7e8783ff8.gif" alt="CodeGPT Chat" />
+        <img height="400px" width="650px" src="https://user-images.githubusercontent.com/6216945/227382051-b8290762-fd7f-44c5-88d5-93b659384f5d.gif" alt="CodeGPT Chat" />
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
