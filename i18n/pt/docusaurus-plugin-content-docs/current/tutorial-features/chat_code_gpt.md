@@ -1,14 +1,9 @@
 ---
-sidebar_position: 10
+sidebar_position: 1
 ---
 
-# Chat Aberto - Beta
+# CodeGPT Chat
 
-**Ainda não em produção**
+Selecione o ícone de bate-papo da barra lateral principal do VSCode e comece a conversar com seu código
 
-Pressione `cmd + shift + p` e procure por CodeGPT: Open Chat
-
-![OpenChat](https://user-images.githubusercontent.com/6216945/213043309-c23d4458-e2e7-476d-8d85-1a491834b16d.png)
-
-Para começar, você pode fazer uma pergunta, fazer um comentário ou sugestão.
-O código GPT mostrará o resultado e você poderá continuar fazendo consultas nesse primeiro comentário.
+![Untitled design (4)](https://user-images.githubusercontent.com/6216945/227110771-71c53663-72da-4a48-9b68-19a7e8783ff8.gif)
