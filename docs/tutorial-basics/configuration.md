@@ -4,15 +4,30 @@ sidebar_position: 2
 
 # Configuration
 
-## Accessing the Configuration Options
+## Accessing Code GPT's Settings
 1. In Visual Studio Code, click **`File` > `Preferences` > `Settings`**.  This will open the Settings window.  
 2. On the left-hand side of the Settings window, click **`Extensions`**, and then click **`CodeGPT`**.
 
+<details>
+
+<summary>Screenshot: Code GPT Settings</summary>
+
 ![Captura-de-Pantalla-2023-01-04-a-la-s-2-29-15-p-m-](https://user-images.githubusercontent.com/6216945/210634562-1dd5f8cd-4625-42fc-92f4-7e1b5f132c49.png)
 
-## API Key
+</details>
+
+## Available Settings
+
+### API Key
+
 Select your API provider from the dropdown menu. 
-> *See the API Keys the [Installation](./installation.md) section for more information.*
+
+:::info Entering your API Key
+
+*See the [Installation](./installation.md) page for more information about how to set up Code GPT with your API Key.*
+
+:::
+
 ### Max Token
 Tokens can be thought of as pieces of words. Before the API processes the prompts, the input is broken down into tokens.
 

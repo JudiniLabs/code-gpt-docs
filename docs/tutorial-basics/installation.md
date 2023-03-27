@@ -9,19 +9,19 @@ Visual Studio Code: [Download](https://code.visualstudio.com/download)
 
 ## Install the Code GPT Extension
 You can install the extension from the Visual Studio Marketplace, Open VSX, or directly from the Extensions tab in Visual Studio Code.
+- <details>
+      <summary>Search for Code GPT in the Extensions tab, or</summary>
+      <div><img src="https://user-images.githubusercontent.com/6216945/212494271-256734c6-6cab-4c12-bb8f-dae1ffa74b33.png"/></div>
+    </details>
 - [Download from Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt), or 
-- [Download from Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt), or
-- Search for Code GPT in the Extensions tab.
-
-
-![Extension Tab](https://user-images.githubusercontent.com/6216945/212494271-256734c6-6cab-4c12-bb8f-dae1ffa74b33.png)
+- [Download from Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
 
 ## Get your API key
 This will differ depending on the provider you choose:
 - ### OpenAI
   - Go to the [API Keys page on OpenAI](https://platform.openai.com/account/api-keys).
   - Log in with your OpenAI account (or [create a new account](https://platform.openai.com/signup))
-  - Click the button labeled **Create a new secret key**
+  - Click the button labeled **`Create a new secret key`**
   - A new dialog window will appear, containing a text box with your API key. 
   - Copy this API Key to your clipboard.
 
@@ -38,14 +38,15 @@ This will differ depending on the provider you choose:
 ## Enter your API Key
 Once you have your API Key, you can enter it into CodeGPT:
 - Open up Visual Studio Code 
-- In VSCode, open the Command Palette (*View>Command Palette* or **⌘+⇧+P**)
-- In the Command Palette, search for `CodeGPT: Set API KEY` and press Enter
+- In VSCode, open the Command Palette by clicking **`View` > `Command Palette`** (or use the keyboard shortcut **⌘+⇧+P**)
+- In the Command Palette, search for `CodeGPT: Set API KEY` and press **Enter⏎**
 - A new dialog window will appear, prompting you to enter your API Key. 
-- Paste your API Key into the text box and press Enter.
+- Paste your API Key into the text box and press **Enter⏎**.
 
+:::caution
 
+If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
 
->⚠️ If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
-
+:::
 
 
