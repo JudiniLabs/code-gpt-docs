@@ -4,19 +4,12 @@ sidebar_position: 2
 
 # Configuration
 
-Go to **Settings > Extensions > CodeGPT**
-
 Complete the following information:
 ![Captura-de-Pantalla-2023-01-04-a-la-s-2-29-15-p-m-](https://user-images.githubusercontent.com/6216945/210634562-1dd5f8cd-4625-42fc-92f4-7e1b5f132c49.png)
 
-### AI Provider
-Select the AI ​​provider:and then enter the API Key of the selected provider
-- [OpenAI](https://www.codegpt.co/docs/tutorial-ai-providers/openai)
-- [Cohere](https://www.codegpt.co/docs/tutorial-ai-providers/cohere)
 ### API Key
-Enter the API Key of the selected provider
-- To enter your [API Key](/docs/tutorial-basics/installation#get-yout-api-key) press cmd+shift+p and search for `CodeGPT: Set API KEY`. Your API KEY will be safely stored. 
-
+Select your API provider from the dropdown menu. 
+> *See the API Keys the [Installation](installation.md) section for more information.*
 ### Max Token
 Tokens can be thought of as pieces of words. Before the API processes the prompts, the input is broken down into tokens.
 
