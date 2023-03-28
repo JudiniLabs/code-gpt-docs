@@ -10,7 +10,7 @@ Subscribe to stay up to date with new updates: [Subscribe 📨](https://817715f5
 
 :::caution
 
-While the CodeGPT extension is free, it requires you to use an API from an external provider (see [Providers](providers.md)). **These external providers are paid services**, although they may offer limited usage for free.
+While the CodeGPT extension is free, it requires you to use an API from an external provider (see [Providers](/docs/category/ai-providers)). **These external providers are paid services**, although they may offer limited usage for free.
 
 :::
 
