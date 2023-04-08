@@ -31,9 +31,14 @@ This will differ depending on the provider you choose:
   - Copy the API Key
 
 - ### AI21
-  - Create an account in [AI21](https://www.ai21.com/)
+  - Create an account in [AI21](https://console.anthropic.com/)
   - Go to your [account](https://studio.ai21.com/account/account)
   - Copy the API Key
+
+- ### Anthropic
+  - Create an account in [Anthropic](https://www.ai21.com/)
+  - Go to yours [API Keys](https://console.anthropic.com/account/keys)
+  - Generate and copy the API Key
 
 ## Enter your API Key
 Once you have your API Key, you can enter it into CodeGPT:
@@ -42,6 +47,7 @@ Once you have your API Key, you can enter it into CodeGPT:
 - In the Command Palette, search for `CodeGPT: Set API KEY` and press **Enter⏎**
 - A new dialog window will appear, prompting you to enter your API Key. 
 - Paste your API Key into the text box and press **Enter⏎**.
+- Run the command `Developer: Reload Window`
 
 :::caution
 
