@@ -22,7 +22,9 @@ The goal of Anthropic is to ensure that as AI continues to become more advanced 
 
 Claude can be a delightful company representative, a research assistant, a creative partner, a task automator, and more. Personality, tone, and behavior can all be customized to your needs.
 
-### Command Nightly available in Code GPT
+To access Claude, you must enter https://www.anthropic.com/product and then select "Request Access".
+
+### Claude Models available in Code GPT
 - Claude v1
 - Claude v1.2
 - Claude Instant v1
