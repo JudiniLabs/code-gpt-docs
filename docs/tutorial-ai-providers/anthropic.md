@@ -28,3 +28,4 @@ To access Claude, you must enter https://www.anthropic.com/product and then sele
 - Claude v1
 - Claude v1.2
 - Claude Instant v1
+- Claude Instant v1.1
