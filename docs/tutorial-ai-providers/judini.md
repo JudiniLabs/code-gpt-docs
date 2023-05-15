@@ -4,4 +4,6 @@ sidebar_position: 2
 
 # Judini
 
-Working on this!
+[Waiting List](https://judini.ai/)
+
+Working on this tutorial!
