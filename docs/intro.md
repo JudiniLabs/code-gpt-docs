@@ -6,7 +6,7 @@ sidebar_position: 1
 
  This tutorial will teach you how to use the extension and we will also show you tips so that you can get the most out of all the extension's features.
 
- <p align="center">
+<p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/a7f7acc0-4e85-4e88-9370-a2d2f1163a1d" />
 </p>
 
