@@ -25,15 +25,29 @@ This will differ depending on the provider you choose:
   - A new dialog window will appear, containing a text box with your API key. 
   - Copy this API Key to your clipboard.
 
+---
+
+- ### Judini
+  - Request your API Key from the [Judini's](https://judini.ai) team
+  - Go to the Settings section and copy your **`User ID`**
+  - In VSCode press ```cmd + shift + p``` and search **`Set Judini Data`**
+  - Paste the API Key and User ID
+
+---
+
 - ### Cohere
   - Create an account in [cohere.ai](https://cohere.ai/)
   - Go to your [dashboard](https://dashboard.cohere.ai/)
   - Copy the API Key
 
+---
+
 - ### AI21
   - Create an account in [AI21](https://console.anthropic.com/)
   - Go to your [account](https://studio.ai21.com/account/account)
   - Copy the API Key
+
+---
 
 - ### Anthropic
   - Create an account in [Anthropic](https://www.ai21.com/)

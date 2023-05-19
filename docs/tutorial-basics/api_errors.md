@@ -4,7 +4,6 @@ sidebar_position: 3
 
 # API Errors
 
-
 ## OpenAI
 
 If you are getting OpenAI API errors check the following link for the reason and how to fix it
@@ -20,12 +19,18 @@ If you are getting OpenAI API errors check the following link for the reason and
 - [Error Code 429 - The engine is currently overloaded. Please try again later.](https://help.openai.com/en/articles/6891834-error-code-429-the-engine-is-currently-overloaded-please-try-again-later)
 - [Error Code 401 - Invalid Authentication](https://help.openai.com/en/articles/6891767-error-code-401-invalid-authentication)
 
-## Cohere
 
+## Judini
+[Juidini Documentation](https://judini.gitbook.io/api-judini/)
+
+## Cohere
 If you are getting Cohere API errors check the following link for the reason and how to fix it:
 [Cohere API Errors](https://docs.cohere.ai/reference/errors)
 
 
 ## AI21
-
 [AI21 Documentation](https://docs.ai21.com/reference/j2-complete-api-ref)
+
+## Anthropic
+If you are getting Anthropic API errors check the following link for the reason and how to fix it:
+[Anthropic API Errors](https://console.anthropic.com/docs/api/errors)
