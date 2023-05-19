@@ -25,7 +25,9 @@ Claude can be a delightful company representative, a research assistant, a creat
 To access Claude, you must enter https://www.anthropic.com/product and then select "Request Access".
 
 ### Claude Models available in Code GPT
-- Claude v1
-- Claude v1.2
-- Claude Instant v1
-- Claude Instant v1.1
+
+- Claude v1: claude-v1
+- Claude v1.2: claude-v1.2
+- Claude V1.3 100K: claude-v1.3-100k
+- Claude Instant v1: claude-instant-v1
+- Claude Instant v1.1 100k: claude-instant-v1.1-100k
