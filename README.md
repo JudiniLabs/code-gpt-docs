@@ -7,7 +7,7 @@ Join our waiting list to be one of the first to start using this tool.
 
 [✨ Demo video](https://twitter.com/dani_avila7/status/1647402647262044160)
 
-[✨ Click here to join our beta program](https://judini.ai/signup?utm_source=codegpt)
+[✨ Click here to join our beta program](https://judini.ai/beta?utm_source=codegpt)
 
 <hr>
 
