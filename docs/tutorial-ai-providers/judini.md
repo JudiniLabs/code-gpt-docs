@@ -28,7 +28,7 @@ Then select the option to deploy the list of agents:
 
 <img width="182" alt="Captura de Pantalla 2023-05-18 a la(s) 9 08 34 p  m" src="https://github.com/davila7/code-gpt-docs/assets/6216945/d8a2e2e8-2525-49f5-b8e7-384ac57c8432">
 
-Finally, select an agent and start interacting
+Finally, select an agent and start interacting in the chat
 
 
 
