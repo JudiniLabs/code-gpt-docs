@@ -15,6 +15,13 @@ Join our waiting list to be one of the first to start using this tool.
 
 ## Judini Agents 🤖
 
-Entra en tu cuenta de Judini y 
+To connect your Judini account, visit the following link: [Judini Installation](https://www.codegpt.co/docs/tutorial-basics/installation#judini)
+
+Open the chat and select the option to load agents:
+
+Then select the option to deploy the list of agents:
+
+Finally, select an agent and start interacting
+
 
 
