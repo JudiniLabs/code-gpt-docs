@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Anthropic
 
-Official website: https://www.anthropic.com/
+Official website https://www.anthropic.com
 
 Anthropic is an AI safety startup based in San Francisco. They're focused on developing techniques to ensure that AI systems are aligned with human values and behave ethically.
 Some of their key research areas include:

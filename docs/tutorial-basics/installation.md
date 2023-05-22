@@ -54,6 +54,14 @@ This will differ depending on the provider you choose:
   - Go to yours [API Keys](https://console.anthropic.com/account/keys)
   - Generate and copy the API Key
 
+---
+
+- ### GPT4All
+  - Download GPT4All at the following link: [gpt4all.io](https://gpt4all.io/)
+  - Go to the **`Downloads`** menu and download all the models you want to use
+  - Go to the **`Settings`** section and enable the **`Enable web server`** option
+
+
 ## Enter your API Key
 Once you have your API Key, you can enter it into CodeGPT:
 - Open up Visual Studio Code 

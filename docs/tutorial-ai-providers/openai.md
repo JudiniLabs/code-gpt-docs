@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # OpenAI
 
-Official website: https://openai.com/
+Official website https://openai.com
 
 OpenAI is an artificial intelligence research organization that aims to develop and promote friendly AI in a way that benefits all of humanity. They have developed a number of AI models, including GPT-3 and GPT-4, arguably the most advanced natural language processing models in the world.
 

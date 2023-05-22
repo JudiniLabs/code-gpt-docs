@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/code_gpt_select_provider.svg').default,
     description: (
       <>
-        Select different providers like <a href="https://openai.com/" target="_blank">OpenAI</a>, <a href="https://judini.ai" target="_blank">Judini</a>, <a href="https://cohere.ai/" target="_blank">Cohere</a>, <a href="https://www.ai21.com/" target="_blank">AI21</a> or <a href="https://www.anthropic.com/" target="_blank">Anthropic</a>.
+        Select different providers like <a href="https://openai.com/" target="_blank">OpenAI</a>, <a href="https://judini.ai" target="_blank">Judini</a>, <a href="https://cohere.ai/" target="_blank">Cohere</a>, <a href="https://www.ai21.com/" target="_blank">AI21</a>, <a href="https://www.anthropic.com/" target="_blank">Anthropic</a> or <a href="https://gpt4all.io" target="_blank">GPT4All</a>.
       </>
     ),
   },
