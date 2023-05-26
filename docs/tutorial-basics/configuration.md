@@ -37,17 +37,19 @@ Learn more:
 - [Tokens by OpenAI (English)](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
 - [Max Token in Medium (Spanish)](https://medium.com/@dan.avila7/concepto-de-tokens-en-openai-f5d4196076f6)
 
-## Query Language
-Select the language in which you will work the interactions with the API.
-
-For functionalities such as Explain or Document, each query will be made in the selected language.
-
 ## Model
 The service provides access to many different models, grouped by family and ability. A model family typically associates models by their intended task.
 
 Learn more: 
 - [Models by OpenAI (English)](https://beta.openai.com/docs/models/overview)
 - [Model in Medium (Spanish)](https://medium.com/@dan.avila7/modelos-de-gpt-3-y-codex-11a64948d87)
+
+## Organization ID (OpenAI)
+The organization ID information only applies to OpenAI and allows you to select the organization with which you will be using your API Key
+
+## Query Language
+Select the language in which you will work the interactions with the API.
+For functionalities such as Explain or Document, each query will be made in the selected language.
 
 ## Temperature
 This is a parameter that can be adjusted. It determines the level of randomness or "creativity" in the generated text. A higher temperature will result in more varied and creative output, while a lower temperature will produce output that is more similar to the training data and less likely to contain unexpected or surprising content.
