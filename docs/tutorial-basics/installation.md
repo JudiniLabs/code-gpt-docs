@@ -61,6 +61,10 @@ This will differ depending on the provider you choose:
   - Go to the **`Downloads`** menu and download all the models you want to use
   - Go to the **`Settings`** section and enable the **`Enable web server`** option
 
+- ### Huggingface
+  - Create an account in [Huggingface](https://huggingface.co/)
+  - Go to your [Profile - Settings - Access Tokens](https://huggingface.co/settings/tokens)
+  - Generate and copy the API Key
 
 ## Enter your API Key
 Once you have your API Key, you can enter it into CodeGPT:
