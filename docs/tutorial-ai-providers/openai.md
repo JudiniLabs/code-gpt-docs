@@ -15,9 +15,8 @@ GPT (Generative Pre-trained Transformer) is one of the most advanced natural lan
 - gpt-4
 - gpt-4-32k
 - gpt-3.5-turbo
+- gpt-3.5-turbo-16k
 - text-davinci-003
-- text-curie-001
-- text-babbage-001
 - text-ada-001
 
 ## OpenAI API
