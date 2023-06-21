@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Cohere
@@ -15,3 +15,7 @@ Command is a generative model that responds well with instruction-like prompts, 
 ### Command Nightly available in Code GPT
 - command-xlarge-nightly
 - command-medium-nightly
+
+### Connect this provider with CodeGPT
+
+[Connect Cohere](https://docs.codegpt.co/docs/tutorial-basics/installation#cohere)

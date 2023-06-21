@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Anthropic
@@ -31,3 +31,7 @@ To access Claude, you must enter https://www.anthropic.com/product and then sele
 - Claude V1.3 100K: claude-v1.3-100k
 - Claude Instant v1: claude-instant-v1
 - Claude Instant v1.1 100k: claude-instant-v1.1-100k
+
+### Connect this provider with CodeGPT
+
+[Connect Anthropic](https://docs.codegpt.co/docs/tutorial-basics/installation#anthropic)

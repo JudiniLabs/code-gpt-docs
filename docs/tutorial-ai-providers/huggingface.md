@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 # Hugging Face
@@ -15,3 +15,7 @@ The Hugging Face is a platform designed to share pre-trained AI models and colla
 - google/flan-t5-xxl
 - HuggingFaceH4/starchat-beta
 - tiiuae/falcon-7b-instruct
+
+### Connect this provider with CodeGPT
+
+[Connect HuggingFace](https://docs.codegpt.co/docs/tutorial-basics/installation#huggingface)

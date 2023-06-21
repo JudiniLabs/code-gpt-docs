@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 # GPT4All
@@ -21,3 +21,8 @@ GPT4All is an open-source ecosystem designed to train and deploy powerful, custo
 - vicuna-13b-1.1-q4_2
 - vicuna-7b-1.1-q4_2
 - wizardLM-7B.q4_2
+
+
+### Connect this provider with CodeGPT
+
+[Connect GPT4All](https://docs.codegpt.co/docs/tutorial-basics/installation#gpt4all)
