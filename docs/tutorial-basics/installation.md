@@ -51,14 +51,14 @@ This will differ depending on the provider you choose:
 ---
 
 - ### AI21
-  - Create an account in [AI21](https://console.anthropic.com/)
+  - Create an account in [AI21](https://www.ai21.com/)
   - Go to your [account](https://studio.ai21.com/account/account)
   - Copy the API Key
 
 ---
 
 - ### Anthropic
-  - Create an account in [Anthropic](https://www.ai21.com/)
+  - Create an account in [Anthropic](https://console.anthropic.com/)
   - Go to yours [API Keys](https://console.anthropic.com/account/keys)
   - Generate and copy the API Key
 
