@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# Google PaLM 2
+# Google
 
 Official website https://ai.google/discover/palm2/
 
-### PaLM (Pathways Language Model)
+### PaLM 2 (Pathways Language Model)
 
 PaLM 2 is the next generation of large language models developed by Google. It builds upon Google's legacy of breakthrough research in machine learning and responsible AI.
 
