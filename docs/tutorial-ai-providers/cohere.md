@@ -15,6 +15,8 @@ Command is a generative model that responds well with instruction-like prompts, 
 ### Command Nightly available in Code GPT
 - command-xlarge-nightly
 - command-medium-nightly
+- command-light-nightly
+- chat (Coral)
 
 ### Connect this provider with CodeGPT
 
