@@ -35,11 +35,21 @@ This will differ depending on the provider you choose:
 
 ---
 
-- ### Judini
-  - Request your API Key from the [Judini's](https://judini.ai) team
+- ### Microsoft Azure
+  - Create an account in [Microsoft Azure](https://azure.microsoft.com/en-us/free)
+  - Get access to [Azure OpenAI Services](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
+  - Go to [Azure OpenAI Studio](https://oai.azure.com/)
+  - Get your Endpoint and Secret Key
+  - In VSCode press ```cmd + shift + p``` and search **`Set Azure Data`**
+  - Paste the Endpoint and Secret Key
+
+---
+
+- ### CodeGPT Plus
+  - Request your API Key from the [CodeGPT Plus](https://account.codegpt.co)
   - Go to the Settings section and copy your **`User ID`**
-  - In VSCode press ```cmd + shift + p``` and search **`Set Judini Data`**
-  - Paste the API Key and User ID
+  - In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
+  - Paste your API Key
 
 ---
 
