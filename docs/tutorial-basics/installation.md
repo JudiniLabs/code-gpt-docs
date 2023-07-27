@@ -40,6 +40,7 @@ This will differ depending on the provider you choose:
   - Get access to [Azure OpenAI Services](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
   - Go to [Azure OpenAI Studio](https://oai.azure.com/)
   - Get your Endpoint and Secret Key
+  - In CodeGPT Settings change the provider to ```Azure``` and the model to ```azure```
   - In VSCode press ```cmd + shift + p``` and search **`Set Azure Data`**
   - Paste the Endpoint and Secret Key
 
