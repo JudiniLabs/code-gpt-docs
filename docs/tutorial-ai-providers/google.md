@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Google MakerSuite
 
-Official website https://ai.google/discover/palm2/
+Official website https://developers.generativeai.google/products/makersuite
 
 ### PaLM 2 (Pathways Language Model)
 
