@@ -27,11 +27,13 @@ This will differ depending on the provider you choose:
 
 ---
 
-- ### Google PaLM 2
-  - Request to PaLM 2 in this link [PaLM 2 Waitlist](https://makersuite.google.com/)
+- ### Google PaLM 2 with MakerSuite
+  - Request to PaLM 2 in this link [PaLM 2 MakerSuite](https://makersuite.google.com/)
   - Go to the [Get API key](https://makersuite.google.com/app/apikey) menu
   - Create a new API key
-  - Copy this API Key to your clipboard.
+  - Copy this API Key to your clipboard
+  - In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
+  - Paste your API Key
 
 ---
 

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Google
+# Google MakerSuite
 
 Official website https://ai.google/discover/palm2/
 
@@ -16,6 +16,7 @@ PaLM 2 excels at advanced reasoning tasks, including code and math, classificati
 ### Google PaLM 2 Models available in Code GPT
 
 - chat-bison-001
+- text-bison-001
 
 ### Connect this provider with CodeGPT
 
