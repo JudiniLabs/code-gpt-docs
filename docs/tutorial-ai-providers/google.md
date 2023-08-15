@@ -20,4 +20,4 @@ PaLM 2 excels at advanced reasoning tasks, including code and math, classificati
 
 ### Connect this provider with CodeGPT
 
-[Connect Google PaLM 2](https://docs.codegpt.co/docs/tutorial-basics/installation#google-palm-2)
+[Connect Google PaLM 2 - MakerSuite](https://docs.codegpt.co/docs/tutorial-basics/installation#google-palm-2-with-makersuite)
