@@ -28,7 +28,7 @@ This will differ depending on the provider you choose:
 ---
 
 - ### Google PaLM 2 with MakerSuite
-  - Request to PaLM 2 in this link [PaLM 2 MakerSuite](https://makersuite.google.com/)
+  - Request access to PaLM 2 in this link [PaLM 2 MakerSuite](https://makersuite.google.com/)
   - Go to the [Get API key](https://makersuite.google.com/app/apikey) menu
   - Create a new API key
   - Copy this API Key to your clipboard
