@@ -1,13 +1,13 @@
 # CodeGPT News 🗞
 
-## Judini
-Exciting news! You can soon integrate Judini within CodeGPT. This feature allows you to load information within Visual Studio Code to have a better understanding of your project's context.
+## CodeGPT Plus
+Exciting news! You can start using CodeGPT Plus. This feature allows you to load information within Visual Studio Code to have a better understanding of your project's context.
 
-Join our waiting list to be one of the first to start using this tool.
+Be one of the first to start using this tool.
 
-[✨ Demo video](https://twitter.com/dani_avila7/status/1647402647262044160)
+[✨ Demo video](https://www.youtube.com/watch?v=UX9LncRh0h8)
 
-[✨ Click here to join our beta program](https://judini.ai/beta?utm_source=codegpt)
+[✨ Click here to join our beta program](https://account.codegpt.co/auth/register)
 
 <hr>
 
