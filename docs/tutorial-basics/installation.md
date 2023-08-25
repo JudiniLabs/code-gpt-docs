@@ -27,6 +27,14 @@ This will differ depending on the provider you choose:
 
 ---
 
+- ### CodeGPT Plus
+  - Request your API Key from the [CodeGPT Plus](https://account.codegpt.co/auth/register)
+  - Go to the Settings / Access tokens and copy your **`API Key`**
+  - In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
+  - Paste your API Key
+
+---
+
 - ### Google PaLM 2 with MakerSuite
   - Request access to PaLM 2 in this link [PaLM 2 MakerSuite](https://makersuite.google.com/)
   - Go to the [Get API key](https://makersuite.google.com/app/apikey) menu
@@ -48,18 +56,12 @@ This will differ depending on the provider you choose:
 
 ---
 
-- ### CodeGPT Plus
-  - Request your API Key from the [CodeGPT Plus](https://account.codegpt.co)
-  - Go to the Settings section and copy your **`User ID`**
-  - In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
-  - Paste your API Key
-
----
-
 - ### Cohere
   - Create an account in [cohere.ai](https://cohere.ai/)
   - Go to your [dashboard](https://dashboard.cohere.ai/)
   - Copy the API Key
+  - In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
+  - Paste your API Key
 
 ---
 
@@ -67,6 +69,8 @@ This will differ depending on the provider you choose:
   - Create an account in [AI21](https://www.ai21.com/)
   - Go to your [account](https://studio.ai21.com/account/account)
   - Copy the API Key
+  - In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
+  - Paste your API Key
 
 ---
 
@@ -74,13 +78,8 @@ This will differ depending on the provider you choose:
   - Create an account in [Anthropic](https://console.anthropic.com/)
   - Go to yours [API Keys](https://console.anthropic.com/account/keys)
   - Generate and copy the API Key
-
----
-
-- ### GPT4All
-  - Download GPT4All at the following link: [gpt4all.io](https://gpt4all.io/)
-  - Go to the **`Downloads`** menu and download all the models you want to use
-  - Go to the **`Settings`** section and enable the **`Enable web server`** option
+  - In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
+  - Paste your API Key
 
 ---
 
@@ -88,13 +87,11 @@ This will differ depending on the provider you choose:
   - Create an account in [Huggingface](https://huggingface.co/)
   - Go to your [Profile - Settings - Access Tokens](https://huggingface.co/settings/tokens)
   - Generate and copy the API Key
+  - In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
+  - Paste your API Key
 
 ## Enter your API Key
 Once you have your API Key, you can enter it into CodeGPT:
-- Open up Visual Studio Code 
-- In VSCode, open the Command Palette by clicking **`View` > `Command Palette`** (or use the keyboard shortcut **⌘+⇧+P**)
-- In the Command Palette, search for `CodeGPT: Set API KEY` and press **Enter⏎**
-- A new dialog window will appear, prompting you to enter your API Key. 
 - Paste your API Key into the text box and press **Enter⏎**.
 - Run the command `Developer: Reload Window`
 
@@ -103,5 +100,19 @@ Once you have your API Key, you can enter it into CodeGPT:
 If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
 
 :::
+
+## Providers that do not need api key
+
+- ### GPT4All
+  - Download GPT4All at the following link: [gpt4all.io](https://gpt4all.io/)
+  - Go to the **`Downloads`** menu and download all the models you want to use
+  - Go to the **`Settings`** section and enable the **`Enable web server`** option
+
+---
+- ### Ollama
+  - Download Ollama at the following link: [ollama.ai](https://ollama.ai/)
+  - Install Ollama and then run this command ```ollama pull codellama```
+  - You can get more models like: **llama2, llama2:13b and llama2:70b**
+
 
 
