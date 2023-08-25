@@ -13,6 +13,7 @@ Cohere is an artificial intelligence company that specializes in developing lang
 Command is a generative model that responds well with instruction-like prompts, and is available in two sizes: medium and xlarge. The xlarge model demonstrates better performance, and medium is a great option for developers who require fast response, like those building chatbots.
 
 ### Command Nightly available in Code GPT
+- Coral: Chat model (https://cohere.com/chat)
 - command-xlarge-nightly
 - command-medium-nightly
 - command-light-nightly
