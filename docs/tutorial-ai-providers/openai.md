@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # OpenAI
@@ -17,7 +17,6 @@ GPT (Generative Pre-trained Transformer) is one of the most advanced natural lan
 - gpt-3.5-turbo
 - gpt-3.5-turbo-16k
 - text-davinci-003
-- text-ada-001
 
 ## OpenAI API
 
