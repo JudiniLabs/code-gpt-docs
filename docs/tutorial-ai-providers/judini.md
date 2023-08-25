@@ -2,11 +2,9 @@
 sidebar_position: 3
 ---
 
-# Judini - CodeGPT Plus
+# CodeGPT Plus by Judini
 
-Official website https://judini.ai
-
-Exciting news! You can soon integrate Judini within CodeGPT. This feature allows you to load information within Visual Studio Code to have a better understanding of your project's context.a
+Official website https://account.codegpt.co
 
 Join our waiting list to be one of the first to start using this tool.
 
@@ -15,24 +13,13 @@ Join our waiting list to be one of the first to start using this tool.
 [✨ Click here to join our beta program](https://account.codegpt.co/auth/register)
 
 
-## Judini Agents 🤖
+## CodeGPT Agents 🤖
 
-To connect your Judini account, visit the following link: [Judini Installation](https://www.codegpt.co/docs/tutorial-basics/installation#judini)
+To connect your CodeGPT Plus account, visit the following link: [CodeGPT Plus Installation](https://www.codegpt.co/docs/tutorial-basics/installation#judini)
 
-Go to settings and select Judini in your Api Key Provider and model
-
-<p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/014e4aec-f415-4976-b627-e244364bec20" />
-</p>
+Go to settings and select **CodeGPT Plus** in your Api Key Provider and model
 
 Open the chat and select the option to load agents:
-
-<p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/03984383-a38f-4868-aebe-87eb62baa78b" />
-</p>
-
-
-Then select the option to deploy the list of agents:
 
 <p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/d8a2e2e8-2525-49f5-b8e7-384ac57c8432" />
