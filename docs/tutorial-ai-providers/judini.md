@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Judini
+# Judini - CodeGPT Plus
 
 Official website https://judini.ai
 
@@ -10,9 +10,9 @@ Exciting news! You can soon integrate Judini within CodeGPT. This feature allows
 
 Join our waiting list to be one of the first to start using this tool.
 
-[✨ Demo video](https://twitter.com/dani_avila7/status/1647402647262044160)
+[✨ Demo video](https://www.youtube.com/watch?v=UX9LncRh0h8)
 
-[✨ Click here to join our beta program](https://judini.ai/signup?utm_source=codegpt)
+[✨ Click here to join our beta program](https://account.codegpt.co/auth/register)
 
 
 ## Judini Agents 🤖
