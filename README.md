@@ -1,6 +1,4 @@
 # CodeGPT News 🗞
-
-[!IMPORTANT] 
 ## ✨ Support CodeGPT 🥳
 
 Our extension is free and we want to keep it that way forever.
