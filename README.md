@@ -17,9 +17,10 @@ Exciting news! You can start using CodeGPT Plus. This feature allows you to load
 
 Be one of the first to start using this tool.
 
-- [Demo video](https://www.youtube.com/watch?v=UX9LncRh0h8)
+- [Create an account for free](https://account.codegpt.co/auth/register)
+  
+- [Tutorial](https://www.youtube.com/watch?v=UX9LncRh0h8)
 
-- [Click here to join our beta program](https://account.codegpt.co/auth/register)
 
 ## ✨ Claude 2 🤖 from Anthropic lands on CodeGPT
 
