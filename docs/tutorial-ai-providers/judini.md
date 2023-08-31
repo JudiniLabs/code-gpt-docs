@@ -15,7 +15,7 @@ Join our waiting list to be one of the first to start using this tool.
 
 ## CodeGPT Agents 🤖
 
-To connect your CodeGPT Plus account, visit the following link: [CodeGPT Plus Installation](https://www.codegpt.co/docs/tutorial-basics/installation#judini)
+To connect your CodeGPT Plus account, visit the following link: [CodeGPT Plus Installation](https://account.codegpt.co/auth/register)
 
 Go to settings and select **CodeGPT Plus** in your Api Key Provider and model
 
