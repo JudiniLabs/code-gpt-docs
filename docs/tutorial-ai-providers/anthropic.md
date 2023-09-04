@@ -26,9 +26,9 @@ To access Claude, you must enter https://www.anthropic.com/product and then sele
 
 ### Claude Models available in Code GPT
 
+- claude-2
 - claude-v1.3-100k
 - claude-instant-v1.3-100k
-- claude-2
 
 ### Connect this provider with CodeGPT
 

@@ -12,9 +12,9 @@ The Hugging Face is a platform designed to share pre-trained AI models and colla
 
 ### Huggingface Models available in Code GPT
 
-- google/flan-t5-xxl
 - HuggingFaceH4/starchat-beta
 - tiiuae/falcon-7b-instruct
+- codellama/CodeLlama-34b-Instruct-hf
 
 ### Connect this provider with CodeGPT
 
