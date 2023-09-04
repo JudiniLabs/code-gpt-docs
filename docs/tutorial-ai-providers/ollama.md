@@ -16,7 +16,14 @@ Opensource proyecto to run, create, and share large language models (LLMs).
 - llama2:13b
 - llama2:70b
 - codellama
-
+- codellama:34b
+- codellama:7b-python
+- codellama:34b-python
+- phind-codellama
+- phind-codellama:34b
+- wizardcoder
+- wizardcoder:python
+- wizardcoder:34b-python
 
 ### Connect this provider with CodeGPT
 
