@@ -23,4 +23,4 @@ Azure offers OpenAI models that leverage the power of GPT-3.5, a state-of-the-ar
 
 ### Video tutorialdocusaurus start
 
-[![CodeGPT Azure]](https://youtu.be/bIChZZjgE_k?feature=shared)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/bIChZZjgE_k?si=YIED37k2djgG6-ch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
