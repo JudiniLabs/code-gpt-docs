@@ -59,3 +59,11 @@ It is a value between 0 and 1. 0 being the most deterministic and 1 being the mo
 Learn more: 
 - [Temperature by Cohere (English)](https://docs.cohere.ai/docs/temperature)
 - [Temperature in Medium (Spanish)](https://medium.com/@dan.avila7/c%C3%B3mo-manejar-los-par%C3%A1metros-temperature-y-top-p-en-openai-b45892b250be)
+
+## Window Memory
+
+It stores a list of past conversations, but only the last K (a specific number) conversations are used from the saved list. This is done to prevent the buffer from becoming too large and exceeding the token limit.
+
+- default: 4
+- minimum: 1
+- maximum: 50
