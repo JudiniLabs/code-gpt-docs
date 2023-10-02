@@ -24,6 +24,7 @@ Opensource proyecto to run, create, and share large language models (LLMs).
 - wizardcoder
 - wizardcoder:python
 - wizardcoder:34b-python
+- mistral
 
 ### Connect this provider with CodeGPT
 
