@@ -13,7 +13,7 @@ sidebar_position: 1
  :::
 
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/4c478f3e-b222-42d0-a079-5a1d8167159c">
+    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/4c478f3e-b222-42d0-a079-5a1d8167159c" />
 </p>
  
  In this tutorial, we'll guide you through downloading and setting up CodeGPT, and show you some typical use cases, so you can seamlessly integrate it into your coding workflow. 
