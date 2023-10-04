@@ -8,13 +8,17 @@ sidebar_position: 1
  
 :::info
  
- CodeGPT is a powerful extension harnessing the capabilities of Large Language Models (LLMs) to boost your programming tasks using AI. This tool not only allows you to interact with your work environment dynamically but can also create AI Agents that enrich LLMs with context and connect you with repositories, reports, and other critical areas of your business. 
+ CodeGPT is a powerful extension harnessing the capabilities of Large Language Models (LLMs) to boost your programming tasks using AI. 
+ 
+ This tool not only allows you to interact with your work environment dynamically but can also create AI Agents that enrich LLMs with context and connect you with repositories, reports, and other critical areas of your business. 
  
 :::
 
 <p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/4c478f3e-b222-42d0-a079-5a1d8167159c" />
 </p>
+
+### Getting Started with CodeGPT: Your Guide to an AI-Enhanced Coding Experience
  
  In this tutorial, we'll guide you through downloading and setting up CodeGPT, and show you some typical use cases, so you can seamlessly integrate it into your coding workflow. 
  
@@ -30,5 +34,6 @@ While the CodeGPT extension is free, it requires you to use an API from an exter
 
 :::
 
+--- 
 
-
+In the next module you will learn how to install and configure the extension. Click on Basis to continue.
