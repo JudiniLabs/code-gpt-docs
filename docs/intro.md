@@ -12,7 +12,7 @@ sidebar_position: 1
  
  :::
 
- <p align="center">
+<p align="center">
     <img width="1280" alt="Captura de pantalla 2023-10-04 a las 06 39 51" src="https://github.com/davila7/code-gpt-docs/assets/6216945/4c478f3e-b222-42d0-a079-5a1d8167159c">
 </p>
  

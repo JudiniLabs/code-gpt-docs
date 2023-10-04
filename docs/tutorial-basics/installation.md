@@ -9,11 +9,16 @@ Visual Studio Code: [Download](https://code.visualstudio.com/download)
 
 ## Install the Code GPT Extension
 You can install the extension from the Visual Studio Marketplace, Open VSX, or directly from the Extensions tab in Visual Studio Code.
-- <details>
-      <summary>Search for Code GPT in the Extensions tab, or</summary>
-      <div><img src="https://user-images.githubusercontent.com/6216945/212494271-256734c6-6cab-4c12-bb8f-dae1ffa74b33.png"/></div>
-    </details>
+
+<summary>Search for Code GPT in the Extensions tab</summary>
+<p align="center">
+      <img src="https://user-images.githubusercontent.com/6216945/212494271-256734c6-6cab-4c12-bb8f-dae1ffa74b33.png"/>
+</p>
+
+You can either click on this link to go directly to the CodeGPT's Visual Studio Marketplace page:
 - [Download from Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt), or 
+
+Or you can download the extension via Open VSX:
 - [Download from Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
 
 ## Get your API key
