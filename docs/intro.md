@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introduction to CodeGPT Extension
+# About CodeGPT
 
 ### Welcome to our tutorial on utilizing CodeGPT in Visual Studio Code! 
  
