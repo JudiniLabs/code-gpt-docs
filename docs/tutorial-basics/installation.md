@@ -16,7 +16,7 @@ You can install the extension from the Visual Studio Marketplace, Open VSX, or d
 </p>
 
 You can either click on this link to go directly to the CodeGPT's Visual Studio Marketplace page:
-- [Download from Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt), or 
+- [Download from Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 
 Or you can download the extension via Open VSX:
 - [Download from Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
@@ -29,6 +29,7 @@ This will differ depending on the provider you choose:
   - Click the button labeled **`Create a new secret key`**
   - A new dialog window will appear, containing a text box with your API key. 
   - Copy this API Key to your clipboard.
+  - Paste your API Key
 
 ---
 
@@ -98,7 +99,7 @@ This will differ depending on the provider you choose:
 ## Enter your API Key
 Once you have your API Key, you can enter it into CodeGPT:
 - Paste your API Key into the text box and press **Enter⏎**.
-- Run the command `Developer: Reload Window`
+- Execute the command `Developer: Reload Window` to apply changes.
 
 :::caution
 

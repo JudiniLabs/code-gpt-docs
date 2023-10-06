@@ -21,3 +21,7 @@ PaLM 2 excels at advanced reasoning tasks, including code and math, classificati
 ### Connect this provider with CodeGPT
 
 [Connect Google PaLM 2 - MakerSuite](https://docs.codegpt.co/docs/tutorial-basics/installation#google-palm-2-with-makersuite)
+
+### Video
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1u8rIO7UEjs?si=t4OTbGmyeOEVE-PB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
