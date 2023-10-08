@@ -9,9 +9,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Code GPT',
+  title: 'CodeGPT',
   tagline: 'Artificial intelligence inside your IDE with this open source extension',
-  url: 'https://code-gpt-docs.vercel.app/',
+  url: 'https://docs.codegpt.co/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
