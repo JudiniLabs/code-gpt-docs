@@ -106,10 +106,11 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Code GPT',
+        title: 'CodeGPT',
         logo: {
-          alt: 'Code GPT',
+          alt: 'CodeGPT',
           src: 'img/mini_gpt_circle.png',
+          to: '/docs/intro'
         },
         items: [
           {
@@ -152,14 +153,14 @@ const config = {
                 label: 'Discord',
                 href: 'https://discord.gg/vgTGsVr69s',
               },
-              {
-                label: 'Reddit',
-                href: 'https://www.reddit.com/r/CodeGPT_VSCode/',
-              },
-              {
-                label: 'Facebook Group',
-                href: 'https://www.facebook.com/groups/1590127588169761',
-              },
+              // {
+              //   label: 'Reddit',
+              //   href: 'https://www.reddit.com/r/CodeGPT_VSCode/',
+              // },
+              // {
+              //   label: 'Facebook Group',
+              //   href: 'https://www.facebook.com/groups/1590127588169761',
+              // },
               {
                 label: 'Product Hunt',
                 href: 'https://www.producthunt.com/posts/code-gpt'
@@ -192,7 +193,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Code GPT Docs, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} CodeGPT Docs, Built with Docusaurus.`,
       },
       // prism: {
       //   theme: lightCodeTheme,
