@@ -110,7 +110,8 @@ const config = {
         logo: {
           alt: 'CodeGPT',
           src: 'img/mini_gpt_circle.png',
-          to: '/docs/intro'
+          href: '/docs/intro',
+          target: '_self',
         },
         items: [
           {
