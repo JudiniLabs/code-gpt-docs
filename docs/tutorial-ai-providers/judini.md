@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# CodeGPT Plus by Judini
+# CodeGPT Plus
 
 Official website https://account.codegpt.co
 
