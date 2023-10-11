@@ -10,7 +10,7 @@ sidebar_position: 2
 
 :::note CodeGPT Settings
 
-![Captura-de-Pantalla-2023-01-04-a-la-s-2-29-15-p-m-](https://user-images.githubusercontent.com/6216945/210634562-1dd5f8cd-4625-42fc-92f4-7e1b5f132c49.png)
+![Captura-de-Pantalla-2023-01-04-a-la-s-2-29-15-p-m-](https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274431737-b31ae5a8-8636-4a75-a32b-79062d0087de.png)
 
 :::
 
