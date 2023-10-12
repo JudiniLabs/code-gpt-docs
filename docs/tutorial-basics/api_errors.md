@@ -8,10 +8,10 @@ sidebar_position: 3
 
 If you are getting OpenAI API errors check the following link for the reason and how to fix it
 
-### All Errors
+#### All Errors
 - [OpenAI API Errors](https://help.openai.com/en/collections/3675931-openai-api#api-error-codes-explained)
 
-### Typical OpenAI errors
+#### Typical OpenAI errors
 
 - [Error Code 404: The model: gpt-4 does not exist](https://community.openai.com/t/when-i-try-the-gpt-4-model-chat-completion-in-api-request-i-get-an-error-that-model-does-not-exist/98850)
 - [Error Code 429 - Rate limit reached for requests](https://help.openai.com/en/articles/6891829-error-code-429-rate-limit-reached-for-requests)
@@ -20,8 +20,8 @@ If you are getting OpenAI API errors check the following link for the reason and
 - [Error Code 401 - Invalid Authentication](https://help.openai.com/en/articles/6891767-error-code-401-invalid-authentication)
 
 
-## Judini
-[Juidini Documentation](https://judini.gitbook.io/api-judini/)
+## CodeGPT Plus
+[CodeGPT Plus](https://plus.codegpt.co)
 
 ## Cohere
 If you are getting Cohere API errors check the following link for the reason and how to fix it:
@@ -34,3 +34,9 @@ If you are getting Cohere API errors check the following link for the reason and
 ## Anthropic
 If you are getting Anthropic API errors check the following link for the reason and how to fix it:
 [Anthropic API Errors](https://console.anthropic.com/docs/api/errors)
+
+## HuggingFace
+[HuggingFace Documentation](https://huggingface.co/docs/inference-endpoints/index)
+
+## Ollama
+[Ollama](https://ollama.ai/)

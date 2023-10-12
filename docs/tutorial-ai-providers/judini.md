@@ -4,28 +4,37 @@ sidebar_position: 1
 
 # CodeGPT Plus
 
-Official website https://account.codegpt.co
+Official website https://codegpt.co
 
-Join our waiting list to be one of the first to start using this tool.
+[✨ Click here to create a free CodeGTP Plus account](https://account.codegpt.co/auth/register)
 
-[✨ Demo video](https://www.youtube.com/watch?v=UX9LncRh0h8)
+## Connect CodeGPT Plus
 
-[✨ Click here to join our beta program](https://account.codegpt.co/auth/register)
+In this tutorial you will see how to connect your CodeGPT Plus account with the extension in VSCode
+
+:::note CodeGPT Plus
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/UX9LncRh0h8?si=WhWQFld30fGUoYOF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
+
+## Select yout Agents 🤖
+
+Make sure you have **CodeGPT Plus** selected as the provider and **CodeGPT Plus** as the model in settings
+
+:::info Settings
 
 
-## CodeGPT Agents 🤖
 
-To connect your CodeGPT Plus account, visit the following link: [CodeGPT Plus Installation](https://account.codegpt.co/auth/register)
+:::
 
-Go to settings and select **CodeGPT Plus** in your Api Key Provider and model
+Now you can select your agents:
 
-Open the chat and select the option to load agents:
-
+:::note Select an Agents
 <p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/d8a2e2e8-2525-49f5-b8e7-384ac57c8432" />
 </p>
+:::
 
-Finally, select an agent and start interacting in the chat
+Interact with agents that come with information loaded from CodeGPT Plus
 
 
 

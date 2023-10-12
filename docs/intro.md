@@ -14,19 +14,22 @@ sidebar_position: 1
  
 :::
 
+:::note CodeGPT VSCode Extension
 <p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/4c478f3e-b222-42d0-a079-5a1d8167159c" />
 </p>
+:::
 
 ### Getting Started with CodeGPT: Your Guide to an AI-Enhanced Coding Experience
  
  In this tutorial, we'll guide you through downloading and setting up CodeGPT, and show you some typical use cases, so you can seamlessly integrate it into your coding workflow. 
  
- Let's get started and dive right into the AI-enhanced coding experience!
 
+:::note Let's get started and dive right into the AI-enhanced coding experience!
 <p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/a7f7acc0-4e85-4e88-9370-a2d2f1163a1d" />
 </p>
+:::
 
 :::caution
 
