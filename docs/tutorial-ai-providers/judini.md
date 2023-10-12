@@ -20,7 +20,7 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 
 Make sure you have **CodeGPT Plus** selected as the provider and **CodeGPT Plus** as the model in settings
 
-:::info Settings
+:::note Settings
 <p align="center">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274446065-993eca0d-30e3-4642-8e08-c5e51381f0e6.png" />
 </p>
