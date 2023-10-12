@@ -21,16 +21,16 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 Make sure you have **CodeGPT Plus** selected as the provider and **CodeGPT Plus** as the model in settings
 
 :::info Settings
-
-
-
+<p align="center">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274446065-993eca0d-30e3-4642-8e08-c5e51381f0e6.png" />
+</p>
 :::
 
 Now you can select your agents:
 
 :::note Select an Agents
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/d8a2e2e8-2525-49f5-b8e7-384ac57c8432" />
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274446169-16c2182e-ce76-41c5-8ca4-59e1069dee60.png" />
 </p>
 :::
 
