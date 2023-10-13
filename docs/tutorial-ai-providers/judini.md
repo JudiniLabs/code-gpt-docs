@@ -16,8 +16,7 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UX9LncRh0h8?si=WhWQFld30fGUoYOF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
 
-## Select yout Agents 🤖
-
+## Select your provider and model
 Make sure you have **CodeGPT Plus** selected as the provider and **CodeGPT Plus** as the model in settings
 
 :::note Settings
@@ -26,7 +25,14 @@ Make sure you have **CodeGPT Plus** selected as the provider and **CodeGPT Plus*
 </p>
 :::
 
-Now you can select your agents:
+## Select an Agent 🤖
+Open the chat and select your agent
+
+:::note Open the chat
+<p align="center">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274446169-16c2182e-ce76-41c5-8ca4-59e1069dee60.png" />
+</p>
+:::
 
 :::note Select an Agents
 <p align="center">
