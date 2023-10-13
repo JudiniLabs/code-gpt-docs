@@ -29,8 +29,9 @@ Make sure you have **CodeGPT Plus** selected as the provider and **CodeGPT Plus*
 Open the chat and select your agent
 
 :::note Open the chat
+
 <p align="center">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274446169-16c2182e-ce76-41c5-8ca4-59e1069dee60.png" />
+    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/0c64590b-503d-4cfe-9b68-0dad0f52cfa8" />
 </p>
 :::
 
