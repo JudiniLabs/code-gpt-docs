@@ -13,6 +13,11 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 ## Connect CodeGPT Plus account
 
 ### Connect by Login
+:::note CodeGPT Plus
+<p align="center">
+    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/85ce16c7-f6e9-4def-a52e-6f861c385f5d" />
+</p>
+:::
 
 ### Connect by API Key
   - Request your API Key from the [CodeGPT Plus](https://account.codegpt.co/auth/register)
