@@ -28,7 +28,7 @@ Or you can download the extension via Open VSX:
 
 
 ## Cursor
-First download and install Cursor: [Download](https://cursor.sh/)
+If you prefer to use Cursor, you can download it at this link: [Download](https://cursor.sh/)
 
 :::note Search for Code GPT in the Extensions tab
 <p align="center">
