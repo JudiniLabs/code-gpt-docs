@@ -15,7 +15,7 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 ### Connect by Login
 :::note CodeGPT Plus
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/85ce16c7-f6e9-4def-a52e-6f861c385f5d" />
+    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/a52e225b-ee54-442d-9fed-1df917d6be6f" />
 </p>
 :::
 
