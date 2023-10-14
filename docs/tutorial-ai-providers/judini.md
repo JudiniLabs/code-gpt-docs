@@ -6,11 +6,23 @@ sidebar_position: 1
 
 Official website https://codegpt.co
 
+In this tutorial you will see how to connect your CodeGPT Plus account with the extension in VSCode
+
 [✨ Click here to create a free CodeGTP Plus account](https://account.codegpt.co/auth/register)
 
-## Connect CodeGPT Plus
+## Connect CodeGPT Plus account
 
-In this tutorial you will see how to connect your CodeGPT Plus account with the extension in VSCode
+### Connect by Login
+
+### Connect by API Key
+  - Request your API Key from the [CodeGPT Plus](https://account.codegpt.co/auth/register)
+  - Go to the Settings / Access tokens and copy your **`API Key`**
+  - In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
+  - Paste your API Key
+
+:::caution Remove Key
+If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
+:::
 
 :::note CodeGPT Plus
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UX9LncRh0h8?si=WhWQFld30fGUoYOF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

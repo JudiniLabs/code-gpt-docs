@@ -18,12 +18,21 @@ sidebar_position: 2
 
 ### API Key
 
-Select your API provider from the dropdown menu. 
+Select your AI provider from the dropdown menu, then enter the API Key for the selected provider.
 
-:::info Entering your API Key
+:::info Get your API Key
 
-*See the [Installation](./installation.md) page for more information about how to set up Code GPT with your API Key.*
-
+- [CodeGPT Plus](/docs/tutorial-ai-providers/judini)
+- [OpenAI](/docs/tutorial-ai-providers/openai)
+- [Google Makersuite](/docs/tutorial-ai-providers/google)
+- [Microsoft Azure](/docs/tutorial-ai-providers/microsoft-azure)
+- [Anthropic](/docs/tutorial-ai-providers/anthropic)
+- [Cohere](/docs/tutorial-ai-providers/cohere)
+- [AI21](/docs/tutorial-ai-providers/ai21)
+- [Huggingface](/docs/tutorial-ai-providers/huggingface)
+- [GPT4All](/docs/tutorial-ai-providers/gpt4all)
+- [Ollama](/docs/tutorial-ai-providers/judini)
+  
 :::
 
 ### Max Token
