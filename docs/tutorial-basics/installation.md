@@ -32,7 +32,7 @@ If you prefer to use Cursor, you can download it at this link: [Download](https:
 
 :::note Search for Code GPT in the Extensions tab
 <p align="center">
-      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/ec68d8d7-fa99-454c-876d-1e52815667c7" />
+      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/58262780-461f-4e88-8a53-08a313e0297b" />
 </p>
 :::
 
