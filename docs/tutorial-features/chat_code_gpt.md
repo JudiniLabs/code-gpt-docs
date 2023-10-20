@@ -11,7 +11,7 @@ Navigate to the tools tab and click on the 💬 option.
 
 :::note CodeGPT Chat
 <p align="center">
-      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/fad033c3-16b9-4f27-a4ff-1033e3bb67eb" />
+      <img width="350" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/fad033c3-16b9-4f27-a4ff-1033e3bb67eb" />
 </p>
 :::
 
@@ -21,7 +21,7 @@ Once the chat tab is open, you can start a conversation by typing a message and 
 
 :::note CodeGPT Chat conversation
 <p align="center">
-      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/52480e2c-f1ac-4e28-b71b-7af781d08dd2" />
+      <img width="400" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/52480e2c-f1ac-4e28-b71b-7af781d08dd2" />
 </p>
 :::
 
@@ -47,3 +47,9 @@ Change according to the theme you have installed
     <img src="https://user-images.githubusercontent.com/6216945/227375441-212d8467-4469-44dd-9160-67fe2941eed4.gif" />
 </p>
 :::
+
+The **CodeGPT Chat** feature revolutionizes collaboration and problem-solving. Its integration directly within your text editor streamlines the development process. 
+
+By enabling code selection, you can easily share snippets and receive tailored assistance. This adaptable tool harmonizes with your chosen theme, enhancing visual coherence. 
+
+Make the most of CodeGPT Chat and experience a new level of productivity in your coding endeavors.
