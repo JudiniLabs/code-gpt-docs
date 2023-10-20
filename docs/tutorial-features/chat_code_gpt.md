@@ -11,7 +11,7 @@ Navigate to the tools tab and click on the 💬 option.
 
 :::note CodeGPT Chat
 <p align="center">
-      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/ec68d8d7-fa99-454c-876d-1e52815667c7" />
+      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/fad033c3-16b9-4f27-a4ff-1033e3bb67eb" />
 </p>
 :::
 
@@ -21,7 +21,7 @@ Once the chat tab is open, you can start a conversation by typing a message and 
 
 :::note CodeGPT Chat conversation
 <p align="center">
-      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/ec68d8d7-fa99-454c-876d-1e52815667c7" />
+      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/52480e2c-f1ac-4e28-b71b-7af781d08dd2" />
 </p>
 :::
 
