@@ -8,8 +8,16 @@ sidebar_position: 2
 The Code Autocompletion with Model Selection feature empowers you to choose from a curated selection of models including those from OpenAI, Anthropic, Ollama, and Google Makersuite. This advanced tool enhances your coding experience by providing accurate and contextually relevant code suggestions.
 
 ## How to Use:
-- Selecting Models:
-    - Access a diverse range of models including OpenAI, Anthropic, Ollama, and Google Makersuite for tailored code suggestions.
+- Autocomplete Settings:
+    - Check the option ✅ **Enable CodeGPT Copilot**
+    - **Max Tokens:** The maximum number of tokens to generate. The model will stop once this many tokens have been generated, so this value trades off between latency and coherence.
+    - **Provider:**
+        - OpenAI - gpt-3.5-turbo-instruct
+        - Anthropic - claude-2
+        - Anthropic - claude-instant-1
+        - Ollama - codellama
+        - Google - text-bison-001 (english only)
+    - **Suggestion Delay:** The delay in milliseconds between the last character typed and the request for suggestions.
 
 :::note Code Autocomplete settings
 <p align="center">
