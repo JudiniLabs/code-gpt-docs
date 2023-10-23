@@ -27,11 +27,6 @@ Be one of the first to start using this tool.
 Now you can use Claude 2 from Anthropic, check this link:
 [Documentation](https://docs.codegpt.co/docs/tutorial-ai-providers/anthropic)
 
-## ✨ PromptLayer 📝
-
-PromptLayer is an innovative plugin for prompt engineers that makes managing OpenAI usage history, performance, and prompt templates visually and efficiently.
-[Documentation](https://www.codegpt.co/docs/tutorial-extras/prompt)
-
 ## ✨ Join Our Community 🤜 🤛
 
 We believe in collaboration and feedback, which is why we encourage you to get involved in our vibrant and welcoming Discord community. Feel free to ask questions, suggest new features, and share your experience with fellow coders.

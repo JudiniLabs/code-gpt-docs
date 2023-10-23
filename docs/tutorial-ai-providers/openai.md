@@ -29,7 +29,7 @@ If you want to remove your API Key from CodeGPT, open the Command Palette and se
 - gpt-4-32k
 - gpt-3.5-turbo
 - gpt-3.5-turbo-16k
-- text-davinci-003
+- gpt-3.5-turbo-instruct
 
 ## OpenAI API
 

@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 # CodeGPT Chat
 
+## Description
 The CodeGPT Chat feature enhances your development experience by allowing you to engage in conversations with a Large Language Models (LLM) directly within your text editor. This tutorial will guide you through the steps to make the most of this powerful tool.
 
 ## How to Use:
