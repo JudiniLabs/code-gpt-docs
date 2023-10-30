@@ -24,6 +24,11 @@ To access Claude, you must enter https://www.anthropic.com/product and then sele
 If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
 :::
 
+## Connect Google Makersuite tutorial
+:::note Connect Anthropic Claude
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1Xs1QVKhmZ8?si=IZHm0mZlO_8hGStT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
+
 ### Claude Models available in Code GPT
 - claude-2
 - claude-v1.3-100k
