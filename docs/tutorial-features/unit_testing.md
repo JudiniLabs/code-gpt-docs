@@ -15,6 +15,6 @@ The CodeGPT Unit Testing feature empowers you to quickly generate unit tests for
 
 
 ## Example:
-In this example, we select the code, then execute the Unit Test CodeGPT command to automatically generate a unit test for the chosen code snippet. Boost code reliability and streamline your testing process with CodeGPT's Unit Testing feature.
+In this example, we select the code, and then execute the Unit Test CodeGPT command to automatically generate a unit test for the chosen code snippet. Boost code reliability and streamline your testing process with CodeGPT's Unit Testing feature.
 
 ![Copy of Copy of Copy of Untitled Design](https://user-images.githubusercontent.com/6216945/213288371-6e088b84-ff3a-4910-a50c-e23b55607ed3.gif)
