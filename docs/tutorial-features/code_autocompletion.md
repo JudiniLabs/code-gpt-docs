@@ -16,7 +16,7 @@ The Code Autocompletion with Model Selection feature empowers you to choose from
         - Anthropic - claude-2
         - Anthropic - claude-instant-1
         - Ollama - codellama
-        - Google - text-bison-001 (english only)
+        - Google - text-bison-001 (English only)
     - **Suggestion Delay:** The delay in milliseconds between the last character typed and the request for suggestions.
 
 :::note Code Autocomplete settings
