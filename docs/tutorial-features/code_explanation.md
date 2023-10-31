@@ -20,8 +20,6 @@ Select the code and then click on `Explain CodeGPT`
 </p>
 :::
 
-<br>
-
 :::note CodeGPT: Result
 <p align="center">
   <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/e5c503d6-bac4-4fd5-8222-5ce433f0a40c" />
