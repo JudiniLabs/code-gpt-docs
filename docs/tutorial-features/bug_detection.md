@@ -14,8 +14,8 @@ The ***CodeGTP: Bug Detection*** feature empowers you to proactively identify an
     - Choose the ***CodeGTP: Bug Detection*** option from the context menu.
 
 :::note CodeGPT: Bug Detection
-<p align="center">    
-  <img width="350" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/09e399fc-40d0-48c6-be7d-4224579380d4" />
+<p align="center">
+  <img width="550" height="250" src="https://github.com/davila7/code-gpt-docs/assets/6216945/09e399fc-40d0-48c6-be7d-4224579380d4" />
 </p>
 :::
 
