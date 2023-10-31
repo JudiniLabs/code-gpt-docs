@@ -6,7 +6,7 @@ sidebar_position: 10
 
 Official website https://ollama.ai
 
-Opensource proyecto to run, create, and share large language models (LLMs).
+Opensource project to run, create, and share large language models (LLMs).
 ## Conenct Ollama Models
 - Download Ollama at the following link: [ollama.ai](https://ollama.ai/)
 - Install Ollama and then run this command ```ollama pull codellama```
