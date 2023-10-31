@@ -6,7 +6,7 @@ Official website https://cohere.ai
 
 Cohere is an artificial intelligence company that specializes in developing language models. They use advanced natural language processing and machine learning techniques to improve the understanding of human language and the ability to generate text automatically. Their models are used in applications such as sentiment analysis, summarization, and machine translation.
 
-## Connect yout Cohere account
+## Connect your Cohere account
 - Create an account in [cohere.ai](https://cohere.ai/)
 - Go to your [dashboard](https://dashboard.cohere.ai/)
 - Copy the API Key
