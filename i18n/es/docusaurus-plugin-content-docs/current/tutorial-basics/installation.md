@@ -20,15 +20,15 @@ Puedes instalar la extensión desde el marketplace de Visual Studio Code, OpenVS
 
 ### Marketplace de VSCode
 También puedes hacer click en este link para ir directamente a la página del marketplace de Visual Studio Code:
-- [Download from Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
+- [Descargar desde el Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 
 ### Open VSX
 O puedes descargar la extensión mediante Open VSX:
-- [Download from Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
+- [Descargar desde Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
 
 
 ## Cursor
-Si prefieres utilizar el IDE Cursor, también puedes instalarlo en este link: [Download](https://cursor.sh/)
+Si prefieres utilizar el IDE Cursor, también puedes instalarlo en este link: [Descargar](https://cursor.sh/)
 
 :::note Buscar por Code GPT en el tab de extensiones de Cursor
 <p align="center">
