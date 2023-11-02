@@ -8,8 +8,8 @@ sidebar_position: 3
 The CodeGPT Code Explanation feature empowers you to gain deeper insights into your codebase. By selecting specific code segments, you can request CodeGPT to provide detailed explanations and clarifications.
 
 ## How to Use:
-- Select the code
-- Right click and select **CodeGPT: Code Explanation**
+- Select the Code: Highlight the code snippet
+- Right-click on the selected code then select **CodeGPT: Code Explanation**
 
 ## Example
 Select the code, right click then select `CodeGPT: Code Explanation`
