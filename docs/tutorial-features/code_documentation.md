@@ -13,6 +13,7 @@ The CodeGPT Code Documentation feature enables you to effortlessly generate comp
 
 Empower your codebase with well-structured documentation. Enhance collaboration and comprehension for both current and future development efforts.
 
+## Example
 Select the code, right click then select `CodeGPT: Code Documentation`
 
 :::note CodeGPT: Code Documentation

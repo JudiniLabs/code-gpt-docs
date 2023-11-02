@@ -11,6 +11,9 @@ The ***CodeGTP: Bug Detection*** feature empowers you to proactively identify an
 - Select the Code: Highlight the code snippet
 - Right-click on the selected code then select **CodeGPT: Bug Detection**
 
+## Example
+Select the code, right click then select `CodeGPT: Bug Detection`
+
 :::note CodeGPT: Bug Detection
 <p align="center">
   <img width="550" height="250" src="https://github.com/davila7/code-gpt-docs/assets/6216945/4f8a15f9-f182-431a-abf4-89f037533cf7" />
