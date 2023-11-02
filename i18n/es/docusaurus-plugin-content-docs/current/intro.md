@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Intro
+# Sobre CodeGPT
 
 Este tutorial te enseñará cómo usar la extensión y también te mostraremos consejos para que pueda aprovechar al máximo todas las funciones de Code GPT 
 
