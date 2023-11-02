@@ -28,7 +28,7 @@ In this example, we request to open a CSV file, retrieve the columns, and then p
 
 ### Prompt:
 
-```python
+```python noInline
 # Your task is to open the file located at '../datasets/data_test.csv', read the data, identify the columns, and then create a meaningful chart to visualize it
 ```
 
