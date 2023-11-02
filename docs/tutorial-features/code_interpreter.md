@@ -8,6 +8,11 @@ sidebar_position: 8
 
 The ***Code Interpreter with Python*** (Beta) feature allows you to seamlessly request and receive code suggestions within comments. This powerful tool enhances your coding experience by providing quick and relevant code snippets.
 
+With the integration of Jupyter Notebook, you can now execute code snippets directly in your environment.
+
+## Requirements
+- [Jupyter Notebook](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+
 ## How to Use:
 - Requesting Code in a Comment:
     - Write a comment with your specific code request (Ensure your cursor is at the end of the comment line).
@@ -19,12 +24,17 @@ The ***Code Interpreter with Python*** (Beta) feature allows you to seamlessly r
     - Implement the suggested code to enhance your project.
 
 ## Example
-In this example we write a comment requesting a function that validates an email with regex and documents each line
+In this example, we request to open a CSV file, retrieve the columns, and then plot the data.
 
+### Prompt:
+
+```python noInline
+# Your task is to open the file located at '../datasets/data_test.csv', read the data, identify the columns, and then create a meaningful chart to visualize it
+```
 
 :::note CodeGPT: Code Interpreter
 <p align="center">
-      <img width="350" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/fad033c3-16b9-4f27-a4ff-1033e3bb67eb" />
+      <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/314b2a0b-c89a-4458-ae58-1dc2c58a384d" />
 </p>
 :::
 

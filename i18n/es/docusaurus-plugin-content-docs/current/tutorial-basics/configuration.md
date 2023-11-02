@@ -4,46 +4,66 @@ sidebar_position: 2
 
 # Configuración
 
-Ingresa en **Settings > Extensions > CodeGPT**
+## Ingresando a los Settings de CodeGPT
+1. En Visual Studio Code, haz click en **`File` > `Preferences` > `Settings`** para abrir la ventana de Settings.  
+2. En la sección dela izquierda haz click en **`Extensions`**, y luego click en **`CodeGPT`**.
 
-Completa la siguiente información:
-![Captura-de-Pantalla-2023-01-04-a-la-s-2-29-15-p-m-](https://user-images.githubusercontent.com/6216945/210634562-1dd5f8cd-4625-42fc-92f4-7e1b5f132c49.png)
+:::note CodeGPT Settings
 
-### Proveedor de AI
-Selecciona un proveedor de AI: luego ingresa el API Key del proveedor seleccionado
-- [OpenAI](https://www.codegpt.co/docs/tutorial-ai-providers/openai)
-- [Cohere](https://www.codegpt.co/docs/tutorial-ai-providers/cohere)
+![Captura-de-Pantalla-2023-01-04-a-la-s-2-29-15-p-m-](https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274431737-b31ae5a8-8636-4a75-a32b-79062d0087de.png)
+
+:::
+
+## Settings Disponibles
+
 ### API Key
-Ingresa el API Key del proveedor seleccionado
-- Para ingresar el [API Key](/docs/tutorial-basics/installation#get-yout-api-key) presiona cmd+shift+p y busca `CodeGPT: Set API KEY`. De esta forma se guardará tu API Key de forma segura.
+
+Selecciona el proveedor de API Key en el selector, luego ingresa la API Key para el proveedor seleccionado.
+
+:::info Obtén tu API Key desde el Proveedor seleccionado
+
+- [CodeGPT Plus](/docs/tutorial-ai-providers/judini)
+- [OpenAI](/docs/tutorial-ai-providers/openai)
+- [Google Makersuite](/docs/tutorial-ai-providers/google)
+- [Microsoft Azure](/docs/tutorial-ai-providers/microsoft-azure)
+- [Anthropic](/docs/tutorial-ai-providers/anthropic)
+- [Cohere](/docs/tutorial-ai-providers/cohere)
+- [AI21](/docs/tutorial-ai-providers/ai21)
+- [Huggingface](/docs/tutorial-ai-providers/huggingface)
+- [GPT4All](/docs/tutorial-ai-providers/gpt4all)
+- [Ollama](/docs/tutorial-ai-providers/judini)
+  
+:::
 
 ### Max Token
-Los tokens pueden ser explicados como piezas de palabras. Antes de que la API procese el prompt de entrada, el input es dividido en tokens.
+Los tokens pueden ser considerados como piezas de palabras. Antes de que la API procese las solicitudes, la entrada se descompone en tokens.
 
-Cada modelo que selecciones tiene un numero máximo de tokens. Selecciona la cantidad de tokens dependiendo del largo de la respuesta que quieres obtener desde la API
+Cada modelo tiene un número máximo de tokens. Seleccione el número de tokens en función de la longitud de la respuesta que desea obtener y del modelo seleccionado.
 
-Más información: 
-- [Tokens by OpenAI (English)](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
-- [Max Token in Medium (Spanish)](https://medium.com/@dan.avila7/concepto-de-tokens-en-openai-f5d4196076f6)
-
-### Language
-Seleccioan el idioma con el que se realizarán las consultas a la API.
-
-Para funcionalidades como Explain o Document, cada consulta que obtengas vendrá en el idioma que selecciones.
+Más información: [Tokens por OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
 
 ### Model
-Cada proveedor cuenta con diferentes tipos de modelos, agrupados por familia o habilidad. Cada familia de modelos está asociado a habilidades o tareas especificas. 
+El servicio proporciona acceso a muchos modelos diferentes, agrupados por familia y habilidad. Una familia de modelos generalmente asocia modelos por su tarea prevista.
 
-Más información: 
-- [Models by OpenAI (English)](https://beta.openai.com/docs/models/overview)
-- [Model in Medium (Spanish)](https://medium.com/@dan.avila7/modelos-de-gpt-3-y-codex-11a64948d87)
+Más información: [Models por OpenAI](https://beta.openai.com/docs/models/overview)
+
+### Organization ID (OpenAI)
+La información de ID de organización solo se aplica a OpenAI y te permite seleccionar la organización con la que usarás tu clave de API.
+
+### Query Language
+Selecciona el idioma en el que trabajarás las interacciones con la API. Para funcionalidades como Explicar o Documentar, cada consulta se realizará en el idioma seleccionado.
 
 ### Temperature
-Este parámetro que puedes modificar. Esto determina que tan random o "creativa" puede ser la generación de texto. Mientras más temperatura, la API retornará más variedad y creatividad, mientras menos temperatura la API retornará de forma más directa y tendrémos menos sorpresas en el cotenido que traiga.
+Este es un parámetro que se puede ajustar. Determina el nivel de aleatoriedad o "creatividad" en el texto generado. Una temperatura más alta resultará en una salida más variada y creativa, mientras que una temperatura más baja producirá una salida que es más similar a los datos de entrenamiento y menos probable que contenga contenido inesperado o sorprendente.
 
-Este valor puede ir de 0 a 1. Siendo 0 el más directo y 1 el más random y creativo.
-Por defecto la extensión tiene el valor 0.3
+Es un valor entre 0 y 1. 0 siendo el más determinista y 1 siendo el más aleatorio y creativo. La temperatura predeterminada es 0.3.
 
-Más información: 
-- [Temperature by Cohere (English)](https://docs.cohere.ai/docs/temperature)
-- [Temperature in Medium (Spanish)](https://medium.com/@dan.avila7/c%C3%B3mo-manejar-los-par%C3%A1metros-temperature-y-top-p-en-openai-b45892b250be)
+Más información: [Temperature por Cohere](https://docs.cohere.ai/docs/temperature)
+
+### Window Memory
+
+Almacena una lista de conversaciones pasadas, pero solo se utilizan las últimas K (un número específico) conversaciones de la lista guardada. Esto se hace para evitar que el búfer se vuelva demasiado grande y exceda el límite de tokens.
+
+- default: 4
+- minimum: 1
+- maximum: 50
