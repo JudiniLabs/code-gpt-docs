@@ -7,7 +7,7 @@ sidebar_position: 1
 CodeGPT is accessible on both [VSCode](https://code.visualstudio.com/) and [Cursor](https://cursor.sh/). In this tutorial, we'll guide you through the installation process regardless of your preferred text editor. Let's get started!
 
 ## Visual Studio Code
-First download and install Visual studio Code: [Download](https://code.visualstudio.com/download)
+First download and install Visual Studio Code: [Download](https://code.visualstudio.com/download)
 
 ### Install the Code GPT Extension
 You can install the extension from the Visual Studio Marketplace, Open VSX, or directly from the Extensions tab in Visual Studio Code.
