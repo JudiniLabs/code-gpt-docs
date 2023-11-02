@@ -48,7 +48,8 @@ Asegúrate de tener **CodeGPT Plus** seleccionado como proveedor y **CodeGPT Plu
 
 Abre el chat y selecciona tu agente.
 
-:::note Abrir el chat <p align="center">
+:::note Abrir el chat 
+<p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/0c64590b-503d-4cfe-9b68-0dad0f52cfa8" />
 </p>
 :::
