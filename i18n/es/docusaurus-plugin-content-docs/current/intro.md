@@ -4,30 +4,39 @@ sidebar_position: 1
 
 # Sobre CodeGPT
 
-Este tutorial te enseñará cómo usar la extensión y también te mostraremos consejos para que pueda aprovechar al máximo todas las funciones de Code GPT 
+### Te damos la bienvenida a nuestro tutorial sobre cómo utilizar CodeGPT en Visual Studio Code! 
+ 
+CodeGPT es una poderosa extensión que aprovecha las capacidades de los Modelos de Lenguaje Grandes (LLMs) para mejorar tus tareas de programación utilizando inteligencia artificial.
+ 
+:::info
 
-Suscribete para obtener todas las actualizaciones y noticias: [Suscribirse 📨](https://817715f5.sibforms.com/serve/MUIEAMf2kzgJKDLrfbc46jFqp1U2BCxtNd2G2YfHO_4Wdqvdj0FqFJzy7a-_iVFmCKBzuSIjfoqot4O8DJXEj288d_YmAXXYKQCe34E0CseCIq7Ozvg90PktET7eeGdlTtrSc5f4S4pMYkyrJdQRSjLyur5_l1r3mUyCbDahOq4M8Jc5Hy-c9ZX_wkX-qt5lH0ORt6ePXfyRrGZY)
+Esta herramienta no solo te permite interactuar dinámicamente con tu entorno de trabajo, sino que tambiénes de IA que enriquecen LLMs con contexto y te conectan con repositorios, informes y otras áreas críticas de tu negocio.
+ 
+:::
 
-## ¡Importante! 
-Code GPT es **GRATIS** pero los proveedores de APIs de inteligencia artificial que consume pueden ser de pago.
+:::note CodeGPT VSCode Extensión
+<p align="center">
+    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/4c478f3e-b222-42d0-a079-5a1d8167159c" />
+</p>
+:::
 
-### OpenAI API
-Para usar la extensión con OpenAI debes tener créditos cargados en tu cuenta. Esta extensión usa la API Oficial de OpenAI la cual es de pago.
+### Empezando con CodeGPT: Tu guía para una experiencia de codificación mejorada con IA
+ 
+En este tutorial, te guiaremos a través de la descarga y configuración de CodeGPT, y te mostraremos algunos casos de uso típicos, para que puedas integrarlo sin problemas en tu flujo de trabajo de codificación. 
+ 
 
-Los precios los puedes encontrar en el siguiente link:
-https://openai.com/api/pricing/
+:::note ¡Comencemos y sumerjámonos en la experiencia de codificación mejorada por la inteligencia artificial!
+<p align="center">
+    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/a7f7acc0-4e85-4e88-9370-a2d2f1163a1d" />
+</p>
+:::
 
-Si tu no tienes créditos, comenzarás a recibir un error en las llamadas a la API:
-**You exceeded your current quota, please check your plan and billing details**
+:::caution
 
-Para revisar tus créditos disponibles, debes iniciar sesión en tu cuenta:
+El código dice que aunque la extensión CodeGPT es gratuita, requiere que uses una API de un proveedor externo (ver [Proveedores](/docs/category/ai-providers)). **Estos proveedores externos son servicios pagados**, aunque pueden ofrecer un uso limitado de forma gratuita.
 
-https://openai.com/api/
+:::
 
-En el menú **Manage Account**, luego en la sección **Usage** encontrarás el monto de créditos disponibles y utilizados
+--- 
 
-![Manage Account](https://user-images.githubusercontent.com/6216945/213941730-b48b8b6a-8f0d-4fea-b4b3-42edc838f42e.png)
-
-En esta imagen podemos ver una cuenta con $13 USD utilizados de un total de $18 USD.
-
-![Credits](https://user-images.githubusercontent.com/6216945/213941720-1ae816dd-fedb-4026-ae8c-b8b374d1d0dd.png)
+Responde acerca de este código ### En el siguiente módulo aprenderás cómo instalar y configurar la extensión. Haz clic en [Básicos](/docs/category/basics) para continuar.
