@@ -21,10 +21,9 @@ The ***Code Interpreter with Python*** (Beta) feature allows you to seamlessly r
 ## Example
 In this example we write a comment requesting a function that validates an email with regex and documents each line
 
-
 :::note CodeGPT: Code Interpreter
 <p align="center">
-      <img width="350" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/fad033c3-16b9-4f27-a4ff-1033e3bb67eb" />
+      <img width="350" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/314b2a0b-c89a-4458-ae58-1dc2c58a384d" />
 </p>
 :::
 
