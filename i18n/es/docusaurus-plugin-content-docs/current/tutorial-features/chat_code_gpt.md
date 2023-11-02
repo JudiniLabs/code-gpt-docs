@@ -3,12 +3,12 @@ sidebar_position: 1
 ---
 # CodeGPT Chat
 
-## Description
-The CodeGPT Chat feature enhances your development experience by allowing you to engage in conversations with a Large Language Models (LLM) directly within your text editor. This tutorial will guide you through the steps to make the most of this powerful tool.
+## Descripción
+La función de chat de CodeGPT mejora tu experiencia de desarrollo al permitirte entablar conversaciones con Modelos de Lenguaje de Gran Tamaño (LLM) directamente dentro de tu editor de texto. Este tutorial te guiará a través de los pasos para aprovechar al máximo esta poderosa herramienta.
 
-## How to Use:
-### Open the Chat Tab:
-Navigate to the tools tab and click on the 💬 option.
+## Cómo utilizarlo:
+### Abrir la pestaña de chat:
+Navega hasta la pestaña de herramientas y haz clic en la opción 💬.
 
 :::note CodeGPT Chat
 <p align="center">
@@ -16,18 +16,17 @@ Navigate to the tools tab and click on the 💬 option.
 </p>
 :::
 
-### Engage in Conversation:
+### Iniciar una conversación:
+Una vez que se abre la pestaña de chat, puedes iniciar una conversación escribiendo un mensaje y presionando 'Enter'.
 
-Once the chat tab is open, you can start a conversation by typing a message and hitting 'Enter'.
-
-:::note CodeGPT Chat conversation
+:::note CodeGPT Chat
 <p align="center">
       <img width="400" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/52480e2c-f1ac-4e28-b71b-7af781d08dd2" />
 </p>
 :::
 
-### Using Code Selection:
-To share code snippets, simply select the desired code in your editor.
+### Utilizar código seleccionado:
+Para compartir fragmentos de código, simplemente selecciona el código deseado en tu editor.
 
 :::note Code Selection
 <p align="center">
@@ -35,13 +34,12 @@ To share code snippets, simply select the desired code in your editor.
 </p>
 :::
 
-Pose questions or request assistance by typing your inquiry in the chat. CodeGPT will respond with helpful suggestions and explanations.
+Haz preguntas o solicita ayuda escribiendo tu consulta en el chat. CodeGPT responderá con sugerencias útiles y explicaciones.
 
-### Theme Adaptability:
+### Adaptabilidad de los Temas:
+CodeGPT Chat se integra perfectamente con el tema que hayas elegido. Se adapta para coincidir con la configuración existente de VSCode, asegurando una experiencia consistente y visualmente agradable.
 
-CodeGPT Chat seamlessly integrates with your chosen theme. It adapts to match your existing VSCode configuration, ensuring a consistent and visually pleasing experience.
-
-Change according to the theme you have installed
+Cambia de acuerdo al tema que hayas instalado.
 
 :::note CodeGPT Chat Themes
 <p align="center">
@@ -49,8 +47,8 @@ Change according to the theme you have installed
 </p>
 :::
 
-The **CodeGPT Chat** feature revolutionizes collaboration and problem-solving. Its integration directly within your text editor streamlines the development process. 
+La función de **CodeGPT Chat** revoluciona la colaboración y la resolución de problemas. Su integración directa en tu editor de texto agiliza el proceso de desarrollo.
 
-By enabling code selection, you can easily share snippets and receive tailored assistance. This adaptable tool harmonizes with your chosen theme, enhancing visual coherence. 
+Al permitir la selección de código, puedes compartir fácilmente fragmentos y recibir asistencia personalizada. Esta herramienta adaptable se armoniza con el tema que hayas elegido, mejorando la coherencia visual.
 
-Make the most of CodeGPT Chat and experience a new level of productivity in your coding endeavors.
+Aprovecha al máximo CodeGPT Chat y experimenta un nuevo nivel de productividad en tus esfuerzos de codificación.

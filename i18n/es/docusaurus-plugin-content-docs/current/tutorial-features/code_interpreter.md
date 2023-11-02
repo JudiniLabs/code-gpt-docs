@@ -4,27 +4,25 @@ sidebar_position: 8
 
 # Run Code Interpreter (Beta)
 
-## Description
+La función ***Code Interpreter with Python*** (Beta) te permite solicitar y recibir sugerencias de código de manera fluida dentro de los comentarios. Esta herramienta poderosa mejora tu experiencia de programación al proporcionar fragmentos de código rápidos y relevantes.
 
-The ***Code Interpreter with Python*** (Beta) feature allows you to seamlessly request and receive code suggestions within comments. This powerful tool enhances your coding experience by providing quick and relevant code snippets.
+Con la integración de Jupyter Notebook, ahora puedes ejecutar fragmentos de código directamente en tu entorno.
 
-With the integration of Jupyter Notebook, you can now execute code snippets directly in your environment.
-
-## Requirements
+## Requisitos
 - [Jupyter Notebook](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
-## How to Use:
-- Requesting Code in a Comment:
-    - Write a comment with your specific code request (Ensure your cursor is at the end of the comment line).
+## Cómo utilizarlo:
+- Solicitando código en un comentario:
+    - Escriba un comentario con su solicitud de código específica (asegúrese de que el cursor esté al final de la línea de comentario).
 
-- Initiating Code Suggestions:
-    - Press ```cmd + shift + i``` to trigger the code suggestion mode.
+- Iniciando sugerencias de código:
+    - Presione ```cmd + shift + i``` para activar el modo de sugerencia de código.
 
-- Utilize the Code:
-    - Implement the suggested code to enhance your project.
+- Utilice el código:
+    - Implemente el código sugerido para mejorar su proyecto.
 
-## Example
-In this example, we request to open a CSV file, retrieve the columns, and then plot the data.
+## Ejemplo
+En este ejemplo, solicitamos abrir un archivo CSV, recuperar las columnas y luego trazar los datos.
 
 ### Prompt:
 
