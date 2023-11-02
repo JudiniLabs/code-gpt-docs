@@ -39,4 +39,4 @@ El código dice que aunque la extensión CodeGPT es gratuita, requiere que uses 
 
 --- 
 
-Responde acerca de este código ### En el siguiente módulo aprenderás cómo instalar y configurar la extensión. Haz clic en [Básicos](/docs/category/basics) para continuar.
+En el siguiente módulo aprenderás cómo instalar y configurar la extensión. Haz clic en [Básicos](/docs/category/basics) para continuar.
