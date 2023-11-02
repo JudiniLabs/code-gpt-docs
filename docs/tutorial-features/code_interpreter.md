@@ -26,6 +26,12 @@ With the integration of Jupyter Notebook, you can now execute code snippets dire
 ## Example
 In this example, we request to open a CSV file, retrieve the columns, and then plot the data.
 
+### Prompt:
+
+```python
+# Your task is to open the file located at '../datasets/data_test.csv', read the data, identify the columns, and then create a meaningful chart to visualize it
+```
+
 :::note CodeGPT: Code Interpreter
 <p align="center">
       <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/314b2a0b-c89a-4458-ae58-1dc2c58a384d" />
