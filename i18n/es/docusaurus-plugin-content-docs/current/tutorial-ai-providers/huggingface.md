@@ -7,7 +7,7 @@ Sitio web oficial website https://huggingface.co/
 
 El Hugging Face es una plataforma diseñada para compartir modelos de inteligencia artificial pre-entrenados y colaborar en el desarrollo y compart de recursos relacionados con la inteligencia artificial y el procesamiento del lenguaje natural (NLP). Sirve como un repositorio central para una amplia gama de modelos, incluyendo aquellos para tareas como generación de texto, clasificación de texto, traducción, respuesta a preguntas y más.
 
-## Conectar su cuenta de Cohere
+## Conectar su cuenta de Huggingface
 - Cree una cuenta en [Huggingface](https://huggingface.co/)
 - Vaya a [Perfil-Configuración-Tokens de acceso](https://huggingface.co/settings/tokens)
 - Generar y copiar la API Key

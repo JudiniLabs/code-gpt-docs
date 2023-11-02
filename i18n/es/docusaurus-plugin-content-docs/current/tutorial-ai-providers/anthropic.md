@@ -20,7 +20,7 @@ Claude puede ser un representante de la empresa encantador, un asistente de inve
 :::caution Eliminar la API Key 
 Si desea eliminar su clave API de CodeGPT, abra la Paleta de comandos y busque `CodeGPT: Remove API KEY`.
 
-## Tutorial de conexión de Google Makersuite
+## Tutorial de conexión de Anthropic
 :::note Conectar Anthropic Claude ::: 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1Xs1QVKhmZ8?si=IZHm0mZlO_8hGStT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

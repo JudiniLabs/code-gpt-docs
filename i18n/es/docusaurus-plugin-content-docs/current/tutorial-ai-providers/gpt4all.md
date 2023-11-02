@@ -2,27 +2,23 @@
 sidebar_position: 9
 ---
 
-# Cohere
-Official website https://cohere.ai
+# GPT4All
 
-Cohere es una empresa de inteligencia artificial especializada en el desarrollo de modelos de lenguaje. Utilizan técnicas avanzadas de procesamiento de lenguaje natural y aprendizaje automático para mejorar la comprensión del lenguaje humano y la capacidad de generar texto automáticamente. Sus modelos se utilizan en aplicaciones como análisis de sentimientos, resumen y traducción automática.
+Sitio web oficial: https://gpt4all.io
 
-## Conectar su cuenta de Cohere
-- Cree una cuenta en [cohere.ai](https://cohere.ai/)
-- Vaya a su [dashboard](https://dashboard.cohere.ai/) 
-- Copie la API Key
-- En VSCode, ingrese el comando ```cmd + shift + p``` y busque **`Set API Key`**
-- Pegue su clave API
+GPT4All es un ecosistema de código abierto diseñado para entrenar e implementar modelos de lenguaje grandes y personalizados que se ejecutan localmente en CPUs de grado de consumo. 
 
-:::caution Eliminar la API Key
-Si desea eliminar su clave API de CodeGPT, abra la Paleta de comandos y busque `CodeGPT: Remove API KEY`.
-:::
+El ecosistema cuenta con un cliente de chat de escritorio fácil de usar y enlaces oficiales para Python, TypeScript y GoLang, y da la bienvenida a contribuciones y colaboración de la comunidad de código abierto.[Github GPT4All](https://github.com/nomic-ai/gpt4all)
 
-## Modelos nocturnos de comando disponibles en Code GPT
-- coral (Para el modelo de Chat, visite: https://cohere.com/chat)
-- command-xlarge-nightly
-- command-medium-nightly
-- command-light-nightly
+## Conectar los modelos GPT4All
+  - Descargue GPT4All en el siguiente enlace: [gpt4all.io](https://gpt4all.io/)
+  - Diríjase al menú **`Descargas`** y descargue todos los modelos que desee utilizar
+  - Diríjase al menú **`Configuración`** y habilite la opción **`Habilitar el servidor web`**
+
+## MOdelos de GPT4All disponibles en Code GPT
+- gpt4all-j-v1.3-groovy
+- vicuna-13b-1.1-q4_2
+- replit-code-v1-3b
 
 ## Errores de API
-Si está recibiendo errores de API, verifique el siguiente enlace: [Cohere API Errors](https://docs.cohere.ai/reference/errors) https://cohere.ai. 
+Si está recibiendo errores de API, verifique el siguiente enlace:[GPT4All Documentation](https://docs.gpt4all.io/index.html)

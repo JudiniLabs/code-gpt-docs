@@ -20,6 +20,7 @@ En este tutorial verás cómo conectar tu cuenta de CodeGPT Plus con la extensi�
 :::
 
 ### Conectar por clave API
+
 - Solicita tu clave API desde [CodeGPT Plus](https://account.codegpt.co/auth/register)
 - Ve a Configuración / Tokens de acceso y copia tu **`Clave API`**
 - En VSCode, presiona ```cmd + shift + p``` y busca **`Establecer clave API`**
@@ -47,8 +48,7 @@ Asegúrate de tener **CodeGPT Plus** seleccionado como proveedor y **CodeGPT Plu
 
 Abre el chat y selecciona tu agente.
 
-:::note Abrir el chat 
-<p align="center">
+:::note Abrir el chat <p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/0c64590b-503d-4cfe-9b68-0dad0f52cfa8" />
 </p>
 :::

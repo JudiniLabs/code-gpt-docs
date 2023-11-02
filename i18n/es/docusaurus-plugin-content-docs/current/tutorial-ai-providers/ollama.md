@@ -2,27 +2,31 @@
 sidebar_position: 10
 ---
 
-# Cohere
-Official website https://cohere.ai
+# Ollama
 
-Cohere es una empresa de inteligencia artificial especializada en el desarrollo de modelos de lenguaje. Utilizan técnicas avanzadas de procesamiento de lenguaje natural y aprendizaje automático para mejorar la comprensión del lenguaje humano y la capacidad de generar texto automáticamente. Sus modelos se utilizan en aplicaciones como análisis de sentimientos, resumen y traducción automática.
+Sitio web oficial: https://ollama.ai
 
-## Conectar su cuenta de Cohere
-- Cree una cuenta en [cohere.ai](https://cohere.ai/)
-- Vaya a su [dashboard](https://dashboard.cohere.ai/) 
-- Copie la API Key
-- En VSCode, ingrese el comando ```cmd + shift + p``` y busque **`Set API Key`**
-- Pegue su clave API
+Proyecto de código abierto para ejecutar, crear y compartir modelos de lenguaje grandes (LLM).
 
-:::caution Eliminar la API Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
-:::
+## Conenct Ollama Models
+- Descargar Ollama en el siguiente enlace: [ollama.ai](https://ollama.ai/)
+- Instalar Ollama y luego ejecutar el comando ```ollama pull codellama```
+- Puedes obtener modelos como: **llama2, llama2:13b and llama2:70b**
 
-## Modelos nocturnos de comando disponibles en Code GPT
-- coral (Para el modelo de Chat, visite: https://cohere.com/chat)
-- command-xlarge-nightly
-- command-medium-nightly
-- command-light-nightly
+## Modelos Ollama disponibles en Code GPT
+- llama2
+- llama2:13b
+- llama2:70b
+- codellama
+- codellama:34b
+- codellama:7b-python
+- codellama:34b-python
+- phind-codellama
+- phind-codellama:34b
+- wizardcoder
+- wizardcoder:python
+- wizardcoder:34b-python
+- mistral
 
 ## Errores de API
-Si está recibiendo errores de API, verifique el siguiente enlace: [Cohere API Errors](https://docs.cohere.ai/reference/errors) https://cohere.ai. 
+Si está recibiendo errores de API, verifique el siguiente enlace: [Ollama Documentation](https://ollama.ai/)
