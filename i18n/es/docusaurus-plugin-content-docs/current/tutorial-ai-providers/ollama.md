@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # Cohere
-Sitio web oficial https://cohere.ai
+Official website https://cohere.ai
 
 Cohere es una empresa de inteligencia artificial especializada en el desarrollo de modelos de lenguaje. Utilizan técnicas avanzadas de procesamiento de lenguaje natural y aprendizaje automático para mejorar la comprensión del lenguaje humano y la capacidad de generar texto automáticamente. Sus modelos se utilizan en aplicaciones como análisis de sentimientos, resumen y traducción automática.
 
@@ -14,11 +14,11 @@ Cohere es una empresa de inteligencia artificial especializada en el desarrollo 
 - En VSCode, ingrese el comando ```cmd + shift + p``` y busque **`Set API Key`**
 - Pegue su clave API
 
-:::caution Eliminar la API Key 
-Si desea eliminar su clave API de CodeGPT, abra la Paleta de comandos y busque `CodeGPT: Remove API KEY`.
+:::caution Eliminar la API Key
+If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
 :::
 
-## Modelos Nightly disponibles en Code GPT
+## Modelos nocturnos de comando disponibles en Code GPT
 - coral (Para el modelo de Chat, visite: https://cohere.com/chat)
 - command-xlarge-nightly
 - command-medium-nightly
