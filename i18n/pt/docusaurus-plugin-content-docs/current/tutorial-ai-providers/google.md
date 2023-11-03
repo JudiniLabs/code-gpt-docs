@@ -1,39 +1,33 @@
 ---
-sidebar_position:
----
 sidebar_position: 5
 ---
 
-# Anthropic
-Website oficial: https://www.anthropic.com
+# Google MakerSuite
+Official website https://developers.generativeai.google/products/makersuite
 
-A Anthropic é uma startup de segurança de IA com sede em San Francisco. Eles estão focados no desenvolvimento de técnicas para garantir que os sistemas de IA estejam alinhados com os valores humanos e se comportem de forma ética. Algumas das principais áreas de pesquisa incluem:
+## PaLM 2 (Modelo de Lenguaje de Pathways) 
+PaLM 2 es la próxima generación de modelos de lenguaje grandes desarrollados por Google de investigación innovadora en aprendizaje automático e IA responsable.
 
-# Claude
-Claude pode ser um representante encantador da empresa, um assistente de pesquisa, um parceiro criativo, um automatizador de tarefas e muito mais. Personalidade, tom e comportamento podem ser personalizados de acordo com suas necessidades.
+## Conectar su cuenta de Google MakerSuite
+- Solicite acceso a PaLM 2 en este enlace [Google MakerSuite](https://makersuite.google.com/)
+- Ingrese al menú [Get API key](https://makersuite.google.com/app/apikey)
+- Crear un nuevo API key
+- Copiar el API Key
+- En VSCode, ingrese el comando ```cmd + shift + p``` y busque **`Set API Key`**
+- Pegue su clave API del portapapeles
 
-Para acessar Claude, você deve entrar em https://www.anthropic.com/product e depois selecionar "Solicitar Acesso".
-
-## Conecte sua conta Anthropic
-- Crie uma conta em [Anthropic](https://console.anthropic.com/)
-- Acesse suas [API Key](https://console.anthropic.com/account/keys)
-- Gere e copie a Chave da API
-- No VSCode, pressione ```cmd + shift + p``` e procure por **`Set API Key`**
-- Cole sua Chave da API
-
-:::caution Remover API Key
-Se desejar remover sua API Key do CodeGPT, abra a Paleta de Comandos e procure por `CodeGPT: Remove API KEY`.
+:::caution Eliminar la API Key 
+Si desea eliminar su clave API de CodeGPT, abra la Paleta de comandos y busque `CodeGPT: Remove API KEY`.
 :::
 
-## Tutorial de Conexão ao Google Makersuite
-:::note Conectar Anthropic Claude
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1Xs1QVKhmZ8?si=IZHm0mZlO_8hGStT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Tutorial para conectar Google Makersuite
+:::note Conectar con Google Makersuite
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1u8rIO7UEjs?si=t4OTbGmyeOEVE-PB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
 
-### Modelos Claude disponíveis no Code GPT
-- claude-2
-- claude-v1.3-100k
-- claude-instant-v1.3-100k
+## Modelos disponibles de Google PaLM 2 en Code GPT
+- chat-bison-001
+- text-bison-001
 
-## Erros da API
-Se você estiver recebendo erros da API, confira o seguinte link: [Erros da API Anthropic](https://docs.anthropic.com/claude/reference/errors-and-rate-limits)
+## Errores de API
+Si está recibiendo errores de API, verifique el siguiente enlace: [Google Makersuite Documentation](https://developers.generativeai.google/api/rest/generativelanguage)
