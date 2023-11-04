@@ -11,4 +11,4 @@ Whether you're building a chatbot, a virtual assistant, or any application that 
 Our API is RESTful, ensuring broad compatibility and easy integration across platforms. We also offer SDKs in Python and JavaScript, providing you with the flexibility to implement our AI Agents in your preferred language.
 
 ### Ready to revolutionize your development process? 
-Visit our [CodeGPT Developer Hub](https://api-doc.codegpt.co/) to learn how you can integrate our AI Agents into your applications. The future of coding is at your fingertips, waiting to be explored.
+Visit our [CodeGPT Developer Hub](https://developers.codegpt.co/) to learn how you can integrate our AI Agents into your applications. The future of coding is at your fingertips, waiting to be explored.
