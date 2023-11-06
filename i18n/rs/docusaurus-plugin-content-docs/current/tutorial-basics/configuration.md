@@ -2,25 +2,25 @@
 sidebar_position: 2
 ---
 
-# Configuration
+# Настройка
 
-## Accessing Code GPT's Settings
-1. In Visual Studio Code, click **`File` > `Preferences` > `Settings`**.  This will open the Settings window.  
-2. On the left-hand side of the Settings window, click **`Extensions`**, and then click **`CodeGPT`**.
+## Доступ к настройкам Code GPT
+1. В Visual Studio Code нажмите **`Файл` > `Настройки`**. Это откроет окно настроек.
+2. На левой стороне окна настроек выберите **`Расширения`**, а затем выберите **`CodeGPT`**.
 
-:::note CodeGPT Settings
+:::note Настройки CodeGPT
 
 ![Captura-de-Pantalla-2023-01-04-a-la-s-2-29-15-p-m-](https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274431737-b31ae5a8-8636-4a75-a32b-79062d0087de.png)
 
 :::
 
-## Available Settings
+## Доступные настройки
 
-### API Key
+### Ключ API
 
-Select your AI provider from the dropdown menu, then enter the API Key for the selected provider.
+Выберите своего поставщика искусственного интеллекта из выпадающего меню, а затем введите ключ API для выбранного поставщика.
 
-:::info Get your API Key
+:::info Получите ключ API
 
 - [CodeGPT Plus](/docs/tutorial-ai-providers/judini)
 - [OpenAI](/docs/tutorial-ai-providers/openai)
@@ -35,36 +35,37 @@ Select your AI provider from the dropdown menu, then enter the API Key for the s
   
 :::
 
-### Max Token
-Tokens can be thought of as pieces of words. Before the API processes the prompts, the input is broken down into tokens.
+### Максимальное количество токенов
+Токены можно рассматривать как части слов. Перед тем как API обрабатывает запросы, входные данные разбиваются на токены.
 
-Each model has a maximum number of tokens. Select the number of tokens depending on the length of the response you want to get and the selected model.
+У каждой модели есть максимальное количество токенов. Выберите количество токенов в зависимости от длины ответа, который вы хотите получить, и выбранной модели.
 
-Learn more: [Tokens by OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
+Узнайте больше: [Токены OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
 
-### Model
-The service provides access to many different models, grouped by family and ability. A model family typically associates models by their intended task.
+### Модель
+Сервис предоставляет доступ к множеству различных моделей, сгруппированных по семье и способностям. Семейство моделей обычно объединяет модели по их предназначенной задаче.
 
-Learn more: [Models by OpenAI](https://beta.openai.com/docs/models/overview)
+Узнайте больше: [Модели OpenAI](https://beta.openai.com/docs/models/overview)
 
-### Organization ID (OpenAI)
-The organization ID information only applies to OpenAI and allows you to select the organization with which you will be using your API Key
+### Идентификатор организации (OpenAI)
+Информация об идентификаторе организации применяется только к OpenAI и позволяет вам выбрать организацию, с которой будете использовать свой ключ API.
 
-### Query Language
-Select the language in which you will work the interactions with the API.
-For functionalities such as Explain or Document, each query will be made in the selected language.
+### Язык запроса
+Выберите язык, на котором вы будете взаимодействовать с API. Для функций, таких как Объяснить или Документировать, каждый запрос будет выполнен на выбранном языке.
 
-### Temperature
-This is a parameter that can be adjusted. It determines the level of randomness or "creativity" in the generated text. A higher temperature will result in more varied and creative output, while a lower temperature will produce output that is more similar to the training data and less likely to contain unexpected or surprising content.
+### Температура
+Это параметр, который можно настроить. Он определяет уровень случайности или "творчества" в сгенерированном тексте. Более высокая температура приводит к более разнообразному и креативному выводу, в то время как более низкая температура создает вывод, более похожий на данные обучения и менее вероятно содержащий неожиданный или удивительный контент.
 
-It is a value between 0 and 1. 0 being the most deterministic and 1 being the most random and creative. The default temperature is 0.3
+Значение находится в диапазоне от 0 до 1. 0 - наиболее детерминированное, а 1 - наиболее случайное и креативное. Температура по умолчанию - 0,3.
 
-Learn more: [Temperature by Cohere](https://docs.cohere.ai/docs/temperature)
+Узнайте больше: [Температура Cohere](https://docs.cohere.ai/docs/temperature)
 
-### Window Memory
+### Память окна
 
-It stores a list of past conversations, but only the last K (a specific number) conversations are used from the saved list. This is done to prevent the buffer from becoming too large and exceeding the token limit.
+Он хранит список предыдущих бесед, но из сохраненного списка используются только последние K (конкретное число) бесед. Это делается, чтобы избежать переполнения буфера и превышения лимита на токены.
 
-- default: 4
-- minimum: 1
-- maximum: 50
+- по умолчанию: 4
+- минимум: 1
+- максимум: 50
+
+
