@@ -3,31 +3,31 @@ sidebar_position: 3
 ---
 
 # Google MakerSuite
-Official website https://developers.generativeai.google/products/makersuite
+Официальный веб-сайт https://developers.generativeai.google/products/makersuite
 
 ## PaLM 2 (Pathways Language Model)
-PaLM 2 is the next generation of large language models developed by Google. It builds upon Google's legacy of breakthrough research in machine learning and responsible AI.
+PaLM 2 - это следующее поколение больших языковых моделей, разработанных Google. Он продолжает историю Google в области прорывных исследований в машинном обучении и ответственном искусственном интеллекте.
 
-## Connect your Google MakerSuite Account
-- Request access to PaLM 2 in this link [Google MakerSuite](https://makersuite.google.com/)
-- Go to the [Get API key](https://makersuite.google.com/app/apikey) menu
-- Create a new API key
-- Copy this API Key to your clipboard
-- In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
-- Paste your API Key
+## Подключение вашей учетной записи Google MakerSuite
+- Запросите доступ к PaLM 2 по этой ссылке [Google MakerSuite](https://makersuite.google.com/)
+- Перейдите в меню [Get API key](https://makersuite.google.com/app/apikey)
+- Создайте новый API-ключ
+- Скопируйте этот API-ключ в буфер обмена
+- В VSCode нажмите ```cmd + shift + p``` и найдите **`Set API Key`**
+- Вставьте свой API-ключ
 
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
+:::caution Удаление ключа
+Если вы хотите удалить свой API-ключ из CodeGPT, откройте Палитру команд и найдите `CodeGPT: Remove API KEY`.
 :::
 
-## Connect Google Makersuite tutorial
-:::note Connect Google Makersuite
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1u8rIO7UEjs?si=t4OTbGmyeOEVE-PB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Руководство по подключению Google Makersuite
+:::note Подключите Google Makersuite
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1u8rIO7UEjs?si=t4OTbGmyeOEVE-PB" title="Проигрыватель видео YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
 
-## Google PaLM 2 Models available in Code GPT
+## Модели Google PaLM 2, доступные в Code GPT
 - chat-bison-001
 - text-bison-001
 
-## API Errors
-If you are getting API errors check the following link: [Google Makersuite Documentation](https://developers.generativeai.google/api/rest/generativelanguage)
+## Ошибки API
+Если у вас возникают ошибки API, проверьте следующую ссылку: [Документация Google Makersuite](https://developers.generativeai.google/api/rest/generativelanguage)
