@@ -2,14 +2,14 @@
 sidebar_position: 3
 ---
 
-# Errores de API
+# Ошибки API
 
 ## OpenAI
 
-Si está recibiendo mensajes de error de la API de OpenAI, consulte el siguiente enlace para conocer la razón y cómo solucionarlo:
-[Errores de API de OpenAI](https://help.openai.com/en/collections/3675931-openai-api#api-error-codes-explained)
+Если вы получаете сообщения об ошибках от API OpenAI, перейдите по следующей ссылке, чтобы узнать причину и как её исправить:
+[Ошибки API OpenAI](https://help.openai.com/en/collections/3675931-openai-api#api-error-codes-explained)
 
 ## Cohere
 
-Si está recibiendo mensajes de error de la API de Cohere, consulte el siguiente enlace para conocer la razón y cómo solucionarlo:
-[Errores de API de Cohere](https://docs.cohere.ai/reference/errors)
+Если вы получаете сообщения об ошибках от API Cohere, перейдите по следующей ссылке, чтобы узнать причину и как её исправить:
+[Ошибки API Cohere](https://docs.cohere.ai/reference/errors)
