@@ -8,9 +8,9 @@ Official website https://ollama.ai
 
 Opensource project to run, create, and share large language models (LLMs).
 ## Conenct Ollama Models
-- Download Ollama at the following link: [ollama.ai](https://ollama.ai/)
-- Install Ollama and then run this command ```ollama pull codellama```
-- You can get more models like: **mistral, llama2, llama2:13b and llama2:70b**
+- Download Ollama from the following link: [ollama.ai](https://ollama.ai/)
+- Install Ollama and use the model codellama by running the command ```ollama pull codellama```
+- If you want to use mistral or other models, you will need to replace codellama with the desired model. For example: ```ollama pull mistral```
 
 # How to use Ollama
 - Open CodeGPT Setting in VSCode and Select Ollama like a Provider
