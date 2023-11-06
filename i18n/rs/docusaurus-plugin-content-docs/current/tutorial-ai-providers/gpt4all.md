@@ -4,21 +4,21 @@ sidebar_position: 9
 
 # GPT4All
 
-Official website https://gpt4all.io
+Официальный веб-сайт https://gpt4all.io
 
-GPT4All is an open-source ecosystem designed to train and deploy powerful, customized large language models that run locally on consumer-grade CPUs. 
+GPT4All - это экосистема с открытым исходным кодом, разработанная для обучения и развертывания мощных, настраиваемых больших языковых моделей, работающих локально на процессорах для домашних компьютеров.
 
-The ecosystem features a user-friendly desktop chat client and official bindings for Python, TypeScript, and GoLang, welcoming contributions and collaboration from the open-source community. [Github GPT4All](https://github.com/nomic-ai/gpt4all)
+В экосистеме есть удобный клиент чата для рабочего стола и официальные привязки для Python, TypeScript и GoLang, приветствуются вклады и сотрудничество от сообщества с открытым исходным кодом. [Github GPT4All](https://github.com/nomic-ai/gpt4all)
 
-## Connect GPT4All Models
-  - Download GPT4All at the following link: [gpt4all.io](https://gpt4all.io/)
-  - Go to the **`Downloads`** menu and download all the models you want to use
-  - Go to the **`Settings`** section and enable the **`Enable web server`** option
+## Подключение моделей GPT4All
+  - Загрузите GPT4All по следующей ссылке: [gpt4all.io](https://gpt4all.io/)
+  - Перейдите в меню **`Downloads`** и загрузите все модели, которые вы хотите использовать
+  - Перейдите в раздел **`Settings`** и включите опцию **`Enable web server`**
 
-## GPT4All Models available in Code GPT
+## Модели GPT4All, доступные в Code GPT
 - gpt4all-j-v1.3-groovy
 - vicuna-13b-1.1-q4_2
 - replit-code-v1-3b
 
-## API Errors
-If you are getting API errors check the following link: [GPT4All Documentation](https://docs.gpt4all.io/index.html)
+## Ошибки API
+Если у вас возникают ошибки API, проверьте следующую ссылку: [Документация GPT4All](https://docs.gpt4all.io/index.html)
