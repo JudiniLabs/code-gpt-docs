@@ -2,26 +2,26 @@
 sidebar_position: 6
 ---
 # Cohere
-Official website https://cohere.ai
+Официальный веб-сайт https://cohere.ai
 
-Cohere is an artificial intelligence company that specializes in developing language models. They use advanced natural language processing and machine learning techniques to improve the understanding of human language and the ability to generate text automatically. Their models are used in applications such as sentiment analysis, summarization, and machine translation.
+Cohere - это компания в области искусственного интеллекта, специализирующаяся на разработке языковых моделей. Они используют передовые методы обработки естественного языка и машинного обучения для улучшения понимания человеческого языка и способности генерировать текст автоматически. Их модели используются в приложениях, таких как анализ тональности, суммаризация и машинный перевод.
 
-## Connect yout Cohere account
-- Create an account in [cohere.ai](https://cohere.ai/)
-- Go to your [dashboard](https://dashboard.cohere.ai/)
-- Copy the API Key
-- In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
-- Paste your API Key
+## Подключение вашей учетной записи Cohere
+- Создайте учетную запись в [cohere.ai](https://cohere.ai/)
+- Перейдите в [вашу панель управления](https://dashboard.cohere.ai/)
+- Скопируйте API-ключ
+- В VSCode нажмите ```cmd + shift + p``` и найдите **`Set API Key`**
+- Вставьте свой API-ключ
 
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
+:::caution Удаление ключа
+Если вы хотите удалить свой API-ключ из CodeGPT, откройте Палитру команд и найдите `CodeGPT: Remove API KEY`.
 :::
 
-## Command Nightly models available in Code GPT
-- coral (Chat model, visit: https://cohere.com/chat)
+## Модели Command Nightly, доступные в Code GPT
+- coral (Модель чата, посетите: https://cohere.com/chat)
 - command-xlarge-nightly
 - command-medium-nightly
 - command-light-nightly
 
-## API Errors
-If you are getting API errors check the following link: [Cohere API Errors](https://docs.cohere.ai/reference/errors)
+## Ошибки API
+Если у вас возникают ошибки API, проверьте следующую ссылку: [Ошибки API Cohere](https://docs.cohere.ai/reference/errors)
