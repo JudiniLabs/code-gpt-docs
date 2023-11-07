@@ -15,7 +15,7 @@ Cohere est une entreprise d'intelligence artificielle spécialisée dans le dév
 - Collez votre clé API
 
 :::caution Supprimer API Key
-Si vous souhaitez supprimer votre API Key de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Supprimer API Key`.
+Si vous souhaitez supprimer votre API Key de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Remove API Key`.
 
 ## Modèles Nightly disponibles dans Code GPT
 - coral (Pour le modèle de chat, visitez : https://cohere.com/chat)
