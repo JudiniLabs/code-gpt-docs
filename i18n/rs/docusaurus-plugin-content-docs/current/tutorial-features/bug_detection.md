@@ -2,21 +2,20 @@
 sidebar_position: 6
 ---
 
-# Bug Detection
+# Détection de Bugs
 
 ## Description
-The ***CodeGTP: Bug Detection*** feature empowers you to proactively identify and resolve issues in your codebase. By selecting specific code segments, you can prompt CodeGPT to perform a thorough analysis for bugs or potential problems.
+La fonction ***CodeGPT : Détection de Bugs*** vous permet d'identifier de manière proactive et de résoudre les problèmes dans votre base de code. En sélectionnant des segments de code spécifiques, vous pouvez inciter CodeGPT à effectuer une analyse approfondie pour détecter les bogues ou les problèmes potentiels.
 
-## How to Use:
-- **Select the Code**: Highlight the code snippet you want to examine for issues.
-- **Initiate Bug Detection**:
-    - Right-click on the selected code.
-    - Choose the ***CodeGTP: Bug Detection*** option from the context menu.
+## Comment Utiliser :
+- **Sélectionnez le Code** : Mettez en surbrillance l'extrait de code que vous souhaitez examiner pour détecter les problèmes.
+- **Initiez la Détection de Bugs** :
+    - Cliquez avec le bouton droit sur le code sélectionné.
+    - Choisissez l'option ***CodeGPT : Détection de Bugs*** dans le menu contextuel.
 
-:::note CodeGPT: Bug Detection
+:::note CodeGPT : Détection de Bugs
 <p align="center">
       <img width="350" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/fad033c3-16b9-4f27-a4ff-1033e3bb67eb" />
 </p>
 :::
-
 
