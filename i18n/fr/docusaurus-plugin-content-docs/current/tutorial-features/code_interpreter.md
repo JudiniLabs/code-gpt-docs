@@ -2,27 +2,27 @@
 sidebar_position: 8
 ---
 
-# Execução do Intérprete de Código (Beta)
+# Exécution de l'Interpréteur de Code (Bêta)
 
-## Descrição
+## Description
 
-A funcionalidade ***Code Interpreter com Python*** (Beta) permite que você solicite e receba sugestões de código de forma integrada em comentários. Essa ferramenta poderosa aprimora sua experiência de programação, fornecendo trechos de código rápidos e relevantes.
+La fonction ***Interpréteur de Code avec Python*** (Bêta) vous permet de demander et de recevoir des suggestions de code de manière fluide au sein des commentaires. Cet outil puissant améliore votre expérience de programmation en fournissant des extraits de code rapides et pertinents.
 
-## Como usar:
-- Solicitar Código em um Comentário:
-    - Escreva um comentário com sua solicitação de código específica (certifique-se de que o cursor esteja no final da linha de comentário).
+## Comment l'utiliser :
+- Demande de code dans un commentaire :
+    - Rédigez un commentaire avec votre demande de code spécifique (assurez-vous que le curseur se trouve à la fin de la ligne de commentaire).
 
-- Iniciar Sugestões de Código:
-    - Pressione ```cmd + shift + i``` para ativar o modo de sugestão de código.
+- Activation des suggestions de code :
+    - Appuyez sur ```cmd + shift + i``` pour activer le mode de suggestion de code.
 
-- Utilize o Código:
-    - Implemente o código sugerido para aprimorar seu projeto.
+- Utilisation du code :
+    - Implémentez le code suggéré pour améliorer votre projet.
 
-## Exemplo
-Neste exemplo, escrevemos um comentário solicitando uma função que valide um e-mail com regex e documente cada linha.
+## Exemple
+Dans cet exemple, nous rédigeons un commentaire demandant une fonction de validation d'une adresse e-mail avec regex et documentant chaque ligne.
 
 
-:::note CodeGPT: Code Interpreter
+:::note CodeGPT: Interpréteur de Code
 <p align="center">
       <img width="350" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/fad033c3-16b9-4f27-a4ff-1033e3bb67eb" />
 </p>
