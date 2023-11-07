@@ -16,7 +16,7 @@ Empodera tu base de código con documentación bien estructurada. Mejora la cola
 ## Ejemplo
 Selecciona el código, haz clic con el botón derecho y selecciona `CodeGPT: Documentación de Código`
 
-:::nota CodeGPT: Documentación de Código
+:::note CodeGPT: Documentación de Código
 <p align="center">
   <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/33987e8d-e921-402e-a32e-8f33a437f9de" />
 </p>
