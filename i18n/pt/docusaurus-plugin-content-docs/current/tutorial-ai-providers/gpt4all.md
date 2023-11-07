@@ -12,7 +12,7 @@ O ecossistema apresenta um cliente de bate-papo de desktop fácil de usar e vinc
 ## Conectar Modelos GPT4All
 - Baixe o GPT4All no seguinte link: [gpt4all.io](https://gpt4all.io/)
 - Acesse o menu **`Downloads`** e baixe todos os modelos que deseja usar
-- Acesse a seção **`Configurações`** e ative a opção **`Ativar servidor web`**
+- Acesse a seção **`Settings`** e ative a opção **`Enable web service`**
 
 ## Modelos GPT4All disponíveis no Code GPT
 - gpt4all-j-v1.3-groovy
