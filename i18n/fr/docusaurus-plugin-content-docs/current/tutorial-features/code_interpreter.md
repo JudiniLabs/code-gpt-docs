@@ -33,9 +33,8 @@ Dans cet exemple, nous demandons d'ouvrir un fichier CSV, de récupérer les col
 ```
 :::note CodeGPT: Interpréteur de Code
 <p align="center">
-      <img width="350" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/fad033c3-16b9-4f27-a4ff-1033e3bb67eb" />
+      <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/314b2a0b-c89a-4458-ae58-1dc2c58a384d" />
 </p>
 :::
-
 
 
