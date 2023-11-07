@@ -2,19 +2,18 @@
 sidebar_position: 7
 ---
 
-# Unit Testing
+# Модульное тестирование
 
-## Description
-The CodeGPT Unit Testing feature empowers you to quickly generate unit tests for your code. By selecting specific code segments, you can prompt CodeGPT to create a corresponding unit test, enhancing code reliability and quality.
+## Описание
+Функция модульного тестирования CodeGPT позволяет вам быстро создавать модульные тесты для вашего кода. Выбирая конкретные сегменты кода, вы можете вызвать CodeGPT на создание соответствующего модульного теста, улучшая надежность и качество кода.
 
-## How to Use:
-- Select the Code: Highlight the code snippet you want to create a unit test for.
-- Initiate Unit Testing:
-    - Right-click on the selected code.
-    - Choose the Unit Test CodeGPT option from the context menu.
+## Инструкции по использованию:
+- Выделите код: выделите сегмент кода, для которого вы хотите создать модульный тест.
+- Инициируйте модульное тестирование:
+    - Щелкните правой кнопкой мыши по выделенному коду.
+    - Выберите опцию "Модульный тест CodeGPT" из контекстного меню.
 
-
-## Example:
-In this example, we select the code, then execute the Unit Test CodeGPT command to automatically generate a unit test for the chosen code snippet. Boost code reliability and streamline your testing process with CodeGPT's Unit Testing feature.
+## Пример:
+В этом примере мы выбираем код, а затем выполняем команду "Модульный тест CodeGPT", чтобы автоматически создать модульный тест для выбранного фрагмента кода. Увеличьте надежность кода и упростите процесс тестирования с помощью функции модульного тестирования CodeGPT.
 
 ![Copy of Copy of Copy of Untitled Design](https://user-images.githubusercontent.com/6216945/213288371-6e088b84-ff3a-4910-a50c-e23b55607ed3.gif)
