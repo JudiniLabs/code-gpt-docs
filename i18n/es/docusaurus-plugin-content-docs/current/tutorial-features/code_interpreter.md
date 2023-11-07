@@ -30,7 +30,7 @@ En este ejemplo, solicitamos abrir un archivo CSV, recuperar las columnas y lueg
 # Tu tarea es abrir el archivo ubicado en '../datasets/data_test.csv', leer los datos, identificar las columnas y luego crear un gráfico significativo para visualizarlos.
 ```
 
-:::nota CodeGPT: Intérprete de Código
+:::note CodeGPT: Intérprete de Código
 <p align="center">
       <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/314b2a0b-c89a-4458-ae58-1dc2c58a384d" />
 </p>
