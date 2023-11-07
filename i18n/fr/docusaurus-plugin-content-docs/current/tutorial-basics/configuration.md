@@ -5,7 +5,7 @@ sidebar_position: 2
 # Configuration
 
 ## Accès aux paramètres de Code GPT
-1. Dans Visual Studio Code, cliquez sur **`File` > `Preference` > `Settings`**. Cela ouvrira la fenêtre des paramètres.
+1. Dans Visual Studio Code, cliquez sur **`File` > `Preferences` > `Settings`**. Cela ouvrira la fenêtre des paramètres.
 2. Sur le côté gauche de la fenêtre des paramètres, cliquez sur **`Extensions`**, puis cliquez sur **`CodeGPT`**.
 
 :::note Paramètres de CodeGPT
