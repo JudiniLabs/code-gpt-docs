@@ -1,4 +1,3 @@
-```markdown
 ---
 sidebar_position: 7
 ---
@@ -16,4 +15,3 @@ La fonction de Tests Unitaires de CodeGPT vous permet de générer rapidement de
 
 ## Exemple :
 Dans cet exemple, nous sélectionnons le code, puis nous exécutons la commande de Tests Unitaires de CodeGPT pour générer automatiquement un test unitaire pour le fragment de code choisi. Améliorez la fiabilité du code et simplifiez votre processus de test avec la fonction de Tests Unitaires de CodeGPT.
-```
