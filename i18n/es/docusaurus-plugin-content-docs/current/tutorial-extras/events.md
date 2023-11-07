@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Events
+# Eventos
 ## Hackaton
 - [Lablab.ai](https://lablab.ai/)
 
