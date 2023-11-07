@@ -17,7 +17,7 @@ PaLM 2 est la prochaine génération de modèles de langage de grande envergure 
 - Collez votre API Key
 
 :::caution Supprimer API Key
-Si vous souhaitez supprimer votre API Key de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Supprimer API Key`.
+Si vous souhaitez supprimer votre API Key de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Remove API Key`.
 
 ## Tutoriel de connexion Google Makersuite
 :::note Connexion à Google Makersuite
