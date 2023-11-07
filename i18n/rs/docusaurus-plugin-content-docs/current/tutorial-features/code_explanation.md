@@ -2,21 +2,19 @@
 sidebar_position: 3
 ---
 
-# Code Explanation
+# Explication de Code
 
 ## Description
-The CodeGPT Code Explanation feature empowers you to gain deeper insights into your codebase. By selecting specific code segments, you can request CodeGPT to provide detailed explanations and clarifications.
+La fonction d'explication de code de CodeGPT vous permet d'obtenir des informations approfondies sur votre base de code. En sélectionnant des segments de code spécifiques, vous pouvez demander à CodeGPT de fournir des explications détaillées et des clarifications.
 
-## How to Use:
-- Select the code
-- Right click and select **Explain CodeGPT**
+## Comment Utiliser :
+- Sélectionnez le code
+- Cliquez avec le bouton droit et choisissez **Expliquer avec CodeGPT**
 
-## Example
-Select the code and then click on `Explain CodeGPT`
+## Exemple
+Sélectionnez le code, puis cliquez sur `Expliquer avec CodeGPT`
 
-![Explain1](https://user-images.githubusercontent.com/6216945/209589948-6d6171a2-0716-45cd-8d7c-9ab73ec077cf.png)
+![Expliquer1](https://user-images.githubusercontent.com/6216945/209589948-6d6171a2-0716-45cd-8d7c-9ab73ec077cf.png)
 
-Result:
-![Explain2](https://user-images.githubusercontent.com/6216945/209589987-b94984ef-932c-429f-8f19-67377f479433.png)
-
-
+Résultat :
+![Expliquer2](https://user-images.githubusercontent.com/6216945/209589987-b94984ef-932c-429f-8f19-67377f479433.png)
