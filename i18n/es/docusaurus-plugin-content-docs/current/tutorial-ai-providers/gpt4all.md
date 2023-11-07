@@ -12,10 +12,10 @@ El ecosistema cuenta con un cliente de chat de escritorio fácil de usar y enlac
 
 ## Conectar los modelos GPT4All
   - Descargue GPT4All en el siguiente enlace: [gpt4all.io](https://gpt4all.io/)
-  - Diríjase al menú **`Descargas`** y descargue todos los modelos que desee utilizar
-  - Diríjase al menú **`Configuración`** y habilite la opción **`Habilitar el servidor web`**
+  - Diríjase al menú **`Downloads`** y descargue todos los modelos que desee utilizar
+  - Diríjase al menú **`Settings`** y habilite la opción **`Enable web server`**
 
-## MOdelos de GPT4All disponibles en Code GPT
+## Modelos de GPT4All disponibles en Code GPT
 - gpt4all-j-v1.3-groovy
 - vicuna-13b-1.1-q4_2
 - replit-code-v1-3b
