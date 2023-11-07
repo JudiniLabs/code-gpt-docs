@@ -4,23 +4,23 @@ sidebar_position: 2
 
 # Configuration
 
-## Accessing Code GPT's Settings
-1. In Visual Studio Code, click **`File` > `Preferences` > `Settings`**.  This will open the Settings window.  
-2. On the left-hand side of the Settings window, click **`Extensions`**, and then click **`CodeGPT`**.
+## Accès aux paramètres de Code GPT
+1. Dans Visual Studio Code, cliquez sur **`Fichier` > `Préférences` > `Paramètres`**. Cela ouvrira la fenêtre des paramètres.
+2. Sur le côté gauche de la fenêtre des paramètres, cliquez sur **`Extensions`**, puis cliquez sur **`CodeGPT`**.
 
-:::note CodeGPT Settings
+:::note Paramètres de CodeGPT
 
 ![Captura-de-Pantalla-2023-01-04-a-la-s-2-29-15-p-m-](https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274431737-b31ae5a8-8636-4a75-a32b-79062d0087de.png)
 
 :::
 
-## Available Settings
+## Paramètres Disponibles
 
-### API Key
+### Clé API
 
-Select your AI provider from the dropdown menu, then enter the API Key for the selected provider.
+Sélectionnez votre fournisseur d'IA dans le menu déroulant, puis saisissez la clé API du fournisseur sélectionné.
 
-:::info Get your API Key
+:::info Obtenez votre clé API
 
 - [CodeGPT Plus](/docs/tutorial-ai-providers/judini)
 - [OpenAI](/docs/tutorial-ai-providers/openai)
@@ -35,36 +35,36 @@ Select your AI provider from the dropdown menu, then enter the API Key for the s
   
 :::
 
-### Max Token
-Tokens can be thought of as pieces of words. Before the API processes the prompts, the input is broken down into tokens.
+### Nombre Max de Tokens
+Les tokens peuvent être considérés comme des morceaux de mots. Avant que l'API traite les suggestions, l'entrée est décomposée en tokens.
 
-Each model has a maximum number of tokens. Select the number of tokens depending on the length of the response you want to get and the selected model.
+Chaque modèle a un nombre maximum de tokens. Sélectionnez le nombre de tokens en fonction de la longueur de la réponse que vous souhaitez obtenir et du modèle sélectionné.
 
-Learn more: [Tokens by OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
+En savoir plus : [Tokens par OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
 
-### Model
-The service provides access to many different models, grouped by family and ability. A model family typically associates models by their intended task.
+### Modèle
+Le service propose l'accès à de nombreux modèles différents, regroupés par famille et capacité. Une famille de modèles associe généralement des modèles à leur tâche prévue.
 
-Learn more: [Models by OpenAI](https://beta.openai.com/docs/models/overview)
+En savoir plus : [Modèles par OpenAI](https://beta.openai.com/docs/models/overview)
 
-### Organization ID (OpenAI)
-The organization ID information only applies to OpenAI and allows you to select the organization with which you will be using your API Key
+### ID de l'Organisation (OpenAI)
+Les informations sur l'ID de l'organisation s'appliquent uniquement à OpenAI et vous permettent de sélectionner l'organisation avec laquelle vous utiliserez votre clé API.
 
-### Query Language
-Select the language in which you will work the interactions with the API.
-For functionalities such as Explain or Document, each query will be made in the selected language.
+### Langage de la Requête
+Sélectionnez la langue dans laquelle vous effectuerez les interactions avec l'API. Pour des fonctionnalités telles qu'Expliquer ou Documenter, chaque requête sera effectuée dans la langue sélectionnée.
 
-### Temperature
-This is a parameter that can be adjusted. It determines the level of randomness or "creativity" in the generated text. A higher temperature will result in more varied and creative output, while a lower temperature will produce output that is more similar to the training data and less likely to contain unexpected or surprising content.
+### Température
+Il s'agit d'un paramètre qui peut être ajusté. Il détermine le niveau de hasard ou de "créativité" dans le texte généré. Une température plus élevée donnera un résultat plus varié et créatif, tandis qu'une température plus basse produira un résultat plus similaire aux données d'entraînement et moins susceptible de contenir du contenu inattendu ou surprenant.
 
-It is a value between 0 and 1. 0 being the most deterministic and 1 being the most random and creative. The default temperature is 0.3
+Il s'agit d'une valeur comprise entre 0 et 1. 0 étant le plus déterministe et 1 étant le plus aléatoire et créatif. La température par défaut est de 0,3.
 
-Learn more: [Temperature by Cohere](https://docs.cohere.ai/docs/temperature)
+En savoir plus : [Température par Cohere](https://docs.cohere.ai/docs/temperature)
 
-### Window Memory
+### Mémoire de Fenêtre
 
-It stores a list of past conversations, but only the last K (a specific number) conversations are used from the saved list. This is done to prevent the buffer from becoming too large and exceeding the token limit.
+Il stocke une liste de conversations passées, mais seules les dernières K (un nombre spécifique) conversations sont utilisées à partir de la liste sauvegardée. Cela est fait pour éviter que la mémoire ne devienne trop grande et dépasse la limite de tokens.
 
-- default: 4
-- minimum: 1
-- maximum: 50
+- par défaut : 4
+- minimum : 1
+- maximum : 50
+
