@@ -2,17 +2,15 @@
 sidebar_position: 5
 ---
 
-# Code Documentation
+# Documentação de Código
 
-## Description
-The CodeGPT Code Documentation feature enables you to effortlessly generate comprehensive documentation for your codebase. By selecting specific code segments, you can prompt CodeGPT to create detailed and informative documentation.
+## Descrição
+A funcionalidade de Documentação de Código do CodeGPT permite que você gere facilmente documentação abrangente para a sua base de código. Selecionando segmentos específicos de código, você pode solicitar ao CodeGPT que crie documentação detalhada e informativa.
 
-## How to Use:
-- Select the Code: Highlight the code snippet you want to document for enhanced clarity and understanding.
-- Initiate Documentation:
-    - Right-click on the selected code.
-    - Choose the Document CodeGPT option from the context menu.
+## Como Usar:
+- Selecione o Código: Destaque o trecho de código que você deseja documentar para maior clareza e compreensão.
+- Inicie a Documentação:
+    - Clique com o botão direito no código selecionado.
+    - Escolha a opção Documentar CodeGPT no menu de contexto.
 
-Empower your codebase with well-structured documentation. Enhance collaboration and comprehension for both current and future development efforts. Unlock the full potential of your code with CodeGPT's Documentation feature.
-
-
+Capacite sua base de código com documentação bem estruturada. Aprimore a colaboração e a compreensão, tanto para os esforços de desenvolvimento atuais quanto futuros. Desbloqueie todo o potencial do seu código com a funcionalidade de Documentação do CodeGPT.
