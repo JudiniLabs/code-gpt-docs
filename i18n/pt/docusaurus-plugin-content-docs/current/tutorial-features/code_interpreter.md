@@ -1,20 +1,28 @@
 ---
-sidebar_position: 3
+sidebar_position: 8
 ---
 
-# Explicação de Código
+# Execução do Interpretador de Código (Beta)
 
 ## Descrição
-A funcionalidade de Explicação de Código do CodeGPT capacita você a obter insights mais profundos em sua base de código. Selecionando segmentos específicos de código, você pode solicitar ao CodeGPT para fornecer explicações detalhadas e esclarecimentos.
+
+A funcionalidade ***Code Interpreter com Python*** (Beta) permite solicitar e receber sugestões de código de maneira simples dentro de comentários. Essa poderosa ferramenta aprimora sua experiência de codificação, fornecendo trechos de código rápidos e relevantes.
 
 ## Como Usar:
-- Selecione o código
-- Clique com o botão direito e selecione **Explicar CodeGPT**
+- Solicitando Código em um Comentário:
+    - Escreva um comentário com sua solicitação de código específica (certifique-se de que o cursor esteja no final da linha do comentário).
+
+- Iniciando as Sugestões de Código:
+    - Pressione ```cmd + shift + i``` para ativar o modo de sugestão de código.
+
+- Utilize o Código:
+    - Implemente o código sugerido para aprimorar seu projeto.
 
 ## Exemplo
-Selecione o código e clique em `Explicar CodeGPT`
+Neste exemplo, escrevemos um comentário solicitando uma função que valide um email com regex e documente cada linha.
 
-![Explicação1](https://user-images.githubusercontent.com/6216945/209589948-6d6171a2-0716-45cd-8d7c-9ab73ec077cf.png)
-
-Resultado:
-![Explicação2](https://user-images.githubusercontent.com/6216945/209589987-b94984ef-932c-429f-8f19-67377f479433.png)
+:::note CodeGPT: Interpretador de Código
+<p align="center">
+      <img width="350" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/fad033c3-16b9-4f27-a4ff-1033e3bb67eb" />
+</p>
+:::
