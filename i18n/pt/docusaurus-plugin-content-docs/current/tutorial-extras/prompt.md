@@ -4,6 +4,7 @@ sidebar_position: 1
 
 # Prompt
 
-- [Learn Prompting Free Course](https://learnprompting.org/)
-- [OpenAI prompt best practices](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
-- [Prompt Engineering - Microsoft](https://microsoft.github.io/prompt-engineering/)
+- [Aprenda a Criar Prompts - Curso Gratuito](https://learnprompting.org/)
+- [Melhores Práticas para Prompts da OpenAI](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
+- [Engenharia de Prompts - Microsoft](https://microsoft.github.io/prompt-engineering/)
+
