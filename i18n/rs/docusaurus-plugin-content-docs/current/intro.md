@@ -2,30 +2,30 @@
 sidebar_position: 1
 ---
 
-# About CodeGPT
+# À Propos de CodeGPT
 
-### Welcome to our tutorial on utilizing CodeGPT in Visual Studio Code! 
+### Bienvenue dans notre tutoriel sur l'utilisation de CodeGPT dans Visual Studio Code ! 
  
- CodeGPT is a powerful extension harnessing the capabilities of Large Language Models (LLMs) to boost your programming tasks using AI. 
+ CodeGPT est une extension puissante qui exploite les capacités des grands modèles de langage (LLM) pour améliorer vos tâches de programmation à l'aide de l'IA. 
  
 :::info
 
- This tool not only allows you to interact with your work environment dynamically but can also create AI Agents that enrich LLMs with context and connect you with repositories, reports, and other critical areas of your business. 
+ Cet outil vous permet non seulement d'interagir dynamiquement avec votre environnement de travail, mais il peut également créer des agents IA qui enrichissent les LLM de contexte et vous connectent à des référentiels, des rapports et d'autres domaines essentiels de votre entreprise. 
  
 :::
 
-:::note CodeGPT VSCode Extension
+:::note Extension CodeGPT pour VSCode
 <p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/4c478f3e-b222-42d0-a079-5a1d8167159c" />
 </p>
 :::
 
-### Getting Started with CodeGPT: Your Guide to an AI-Enhanced Coding Experience
+### Premiers Pas avec CodeGPT : Votre Guide vers une Expérience de Codage Améliorée par l'IA
  
- In this tutorial, we'll guide you through downloading and setting up CodeGPT, and show you some typical use cases, so you can seamlessly integrate it into your coding workflow. 
+ Dans ce tutoriel, nous vous guiderons à travers le téléchargement et la configuration de CodeGPT, et nous vous montrerons quelques cas d'utilisation typiques, afin que vous puissiez l'intégrer facilement dans votre flux de travail de codage. 
  
 
-:::note Let's get started and dive right into the AI-enhanced coding experience!
+:::note Commençons et plongeons directement dans l'expérience de codage améliorée par l'IA !
 <p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/a7f7acc0-4e85-4e88-9370-a2d2f1163a1d" />
 </p>
@@ -33,10 +33,10 @@ sidebar_position: 1
 
 :::caution
 
-While the CodeGPT extension is free, it requires you to use an API from an external provider (see [Providers](/docs/category/ai-providers)). **These external providers are paid services**, although they may offer limited usage for free.
+Bien que l'extension CodeGPT soit gratuite, elle nécessite l'utilisation d'une API provenant d'un fournisseur externe (voir [Fournisseurs](/docs/category/ai-providers)). **Ces fournisseurs externes sont des services payants**, bien qu'ils puissent offrir une utilisation limitée gratuite.
 
 :::
 
 --- 
 
-In the next module you will learn how to install and configure the extension. Click on [Basics](/docs/category/basics) to continue.
+Dans le prochain module, vous apprendrez comment installer et configurer l'extension. Cliquez sur [Principes de base](/docs/category/basics) pour continuer.
