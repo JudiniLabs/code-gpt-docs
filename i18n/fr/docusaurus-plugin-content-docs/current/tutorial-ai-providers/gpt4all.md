@@ -12,8 +12,8 @@ L'écosystème comprend un client de discussion convivial pour le bureau et des 
 
 ## Connectez les modèles GPT4All
   - Téléchargez GPT4All sur le lien suivant : [gpt4all.io](https://gpt4all.io/)
-  - Rendez-vous dans le menu **`Téléchargements`** et téléchargez tous les modèles que vous souhaitez utiliser
-  - Rendez-vous dans le menu **`Paramètres`** et activez l'option **`Activer le serveur web`**
+  - Rendez-vous dans le menu **`Downloads`** et téléchargez tous les modèles que vous souhaitez utiliser
+  - Rendez-vous dans le menu **`Parameters`** et activez l'option **`Enable web service`**
 
 ## Modèles GPT4All disponibles dans Code GPT
 - gpt4all-j-v1.3-groovy
