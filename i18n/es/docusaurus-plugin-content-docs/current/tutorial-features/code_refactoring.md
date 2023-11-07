@@ -16,7 +16,7 @@ Experimenta el poder de las capacidades de refactorización inteligente de CodeG
 ## Ejemplo
 Selecciona el código, haz clic con el botón derecho y selecciona `CodeGPT: Refactorización de Código`
 
-:::nota CodeGPT: Refactorización de Código
+:::note CodeGPT: Refactorización de Código
 <p align="center">
   <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/adf6b3ff-0ed2-4a28-8711-449df5f1e230" />
 </p>
