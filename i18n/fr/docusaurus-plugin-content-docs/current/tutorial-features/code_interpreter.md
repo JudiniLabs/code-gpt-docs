@@ -2,24 +2,24 @@
 sidebar_position: 8
 ---
 
-# Run Code Interpreter (Beta)
+# Execução do Intérprete de Código (Beta)
 
-## Description
+## Descrição
 
-The ***Code Interpreter with Python*** (Beta) feature allows you to seamlessly request and receive code suggestions within comments. This powerful tool enhances your coding experience by providing quick and relevant code snippets.
+A funcionalidade ***Code Interpreter com Python*** (Beta) permite que você solicite e receba sugestões de código de forma integrada em comentários. Essa ferramenta poderosa aprimora sua experiência de programação, fornecendo trechos de código rápidos e relevantes.
 
-## How to Use:
-- Requesting Code in a Comment:
-    - Write a comment with your specific code request (Ensure your cursor is at the end of the comment line).
+## Como usar:
+- Solicitar Código em um Comentário:
+    - Escreva um comentário com sua solicitação de código específica (certifique-se de que o cursor esteja no final da linha de comentário).
 
-- Initiating Code Suggestions:
-    - Press ```cmd + shift + i``` to trigger the code suggestion mode.
+- Iniciar Sugestões de Código:
+    - Pressione ```cmd + shift + i``` para ativar o modo de sugestão de código.
 
-- Utilize the Code:
-    - Implement the suggested code to enhance your project.
+- Utilize o Código:
+    - Implemente o código sugerido para aprimorar seu projeto.
 
-## Example
-In this example we write a comment requesting a function that validates an email with regex and documents each line
+## Exemplo
+Neste exemplo, escrevemos um comentário solicitando uma função que valide um e-mail com regex e documente cada linha.
 
 
 :::note CodeGPT: Code Interpreter
