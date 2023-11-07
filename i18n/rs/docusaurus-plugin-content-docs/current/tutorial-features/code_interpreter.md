@@ -2,27 +2,27 @@
 sidebar_position: 8
 ---
 
-# Run Code Interpreter (Beta)
+# Запуск интерпретатора кода (Бета-версия)
 
-## Description
+## Описание
 
-The ***Code Interpreter with Python*** (Beta) feature allows you to seamlessly request and receive code suggestions within comments. This powerful tool enhances your coding experience by providing quick and relevant code snippets.
+Функция интерпретатора кода с Python (Бета-версия) позволяет вам легко запросить и получить предложения кода в комментариях. Это мощное средство улучшает ваш опыт в программировании, предоставляя быстрые и актуальные фрагменты кода.
 
-## How to Use:
-- Requesting Code in a Comment:
-    - Write a comment with your specific code request (Ensure your cursor is at the end of the comment line).
+## Инструкции по использованию:
+- Запрос кода в комментарии:
+    - Напишите комментарий с вашим конкретным запросом кода (убедитесь, что курсор находится в конце строки комментария).
 
-- Initiating Code Suggestions:
-    - Press ```cmd + shift + i``` to trigger the code suggestion mode.
+- Инициирование предложений кода:
+    - Нажмите `cmd + shift + i`, чтобы активировать режим предложения кода.
 
-- Utilize the Code:
-    - Implement the suggested code to enhance your project.
+- Используйте код:
+    - Внедрите предложенный код, чтобы улучшить свой проект.
 
-## Example
-In this example we write a comment requesting a function that validates an email with regex and documents each line
+## Пример
+В этом примере мы напишем комментарий с запросом функции для проверки электронной почты с использованием регулярных выражений и документацию каждой строки.
 
 
-:::note CodeGPT: Code Interpreter
+:::note CodeGPT: Интерпретатор кода
 <p align="center">
       <img width="350" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/fad033c3-16b9-4f27-a4ff-1033e3bb67eb" />
 </p>
