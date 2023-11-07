@@ -2,19 +2,15 @@
 sidebar_position: 4
 ---
 
-# Code Refactoring
+# Рефакторинг кода
 
-## Description
-The CodeGPT Code Refactoring feature empowers you to optimize your codebase effortlessly. By selecting specific code segments, you can request CodeGPT to perform intelligent refactoring operations, enhancing code readability and efficiency.
+## Описание
+Функция рефакторинга кода CodeGPT позволяет вам легко оптимизировать ваш код. Выбрав конкретные сегменты кода, вы можете запросить у CodeGPT выполнение интеллектуальных операций по рефакторингу, улучшая читаемость и эффективность кода.
 
-## How to Use:
-- Select the Code: Highlight the code snippet you want to refactor for improved quality.
-- Initiate Refactoring:
-    - Right-click on the selected code.
-    - Choose the Refactor CodeGPT option from the context menu.
+## Инструкции по использованию:
+- Выделите код: выделите фрагмент кода, который вы хотите оптимизировать для улучшения его качества.
+- Инициируйте рефакторинг:
+    - Щелкните правой кнопкой мыши по выделенному коду.
+    - Выберите опцию "Рефакторинг кода CodeGPT" в контекстном меню.
 
-Experience the power of CodeGPT's intelligent refactoring capabilities. Elevate the quality of your code with ease and precision.
-
-
-
-
+Оцените мощь интеллектуальных средств рефакторинга CodeGPT. Повысьте качество вашего кода с легкостью и точностью.
