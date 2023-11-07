@@ -2,13 +2,14 @@
 sidebar_position: 5
 ---
 
-# API de CodeGPT
+# API do CodeGPT
 
-Libera el poder de nuestros Agentes de IA en tus propias aplicaciones con la API de CodeGPT Plus. Esta API proporciona un acceso para aprovechar la inteligencia de los Agentes de IA de CodeGPT Plus, permitiéndote integrar sus capacidades en cualquier aplicación, independientemente del lenguaje de programación que utilices.
+Libere o poder de nossos Agentes de IA em suas próprias aplicações com a API do CodeGPT Plus. Esta API oferece uma porta de entrada para aproveitar a inteligência dos Agentes de IA do CodeGPT Plus, permitindo que você integre suas capacidades em qualquer aplicativo, independentemente da linguagem de programação que você usa.
 
-Ya sea que estés construyendo un chatbot, un asistente virtual o cualquier aplicación que requiera comprender y generar texto similar al humano, la API de CodeGPT Plus es tu clave para desbloquear un nuevo nivel de interactividad.
+Esteja você construindo um chatbot, um assistente virtual ou qualquer aplicativo que exija compreensão e geração de texto semelhante ao humano, a API do CodeGPT Plus é a chave para desbloquear um novo nível de interatividade.
 
-Nuestra API es RESTful, lo que garantiza una amplia compatibilidad y una fácil integración en diversas plataformas. También ofrecemos SDK en Python y JavaScript, brindándote la flexibilidad para implementar nuestros Agentes de IA en tu lenguaje preferido.
+Nossa API é RESTful, garantindo ampla compatibilidade e fácil integração em diversas plataformas. Também oferecemos SDKs em Python e JavaScript, proporcionando a flexibilidade para implementar nossos Agentes de IA em sua linguagem preferida.
 
-### ¿Listo para revolucionar tu proceso de desarrollo?
-Visita nuestro [Centro de Desarrolladores de CodeGPT](https://developers.codegpt.co/) para aprender cómo puedes integrar nuestros Agentes de IA en tus aplicaciones. El futuro de la programación está al alcance de tu mano, esperando ser explorado.
+### Pronto para revolucionar seu processo de desenvolvimento?
+Visite nosso [Centro de Desenvolvedores do CodeGPT](https://developers.codegpt.co/) para aprender como você pode integrar nossos Agentes de IA em suas aplicações. O futuro da programação está ao alcance de suas mãos, esperando para ser explorado.
+
