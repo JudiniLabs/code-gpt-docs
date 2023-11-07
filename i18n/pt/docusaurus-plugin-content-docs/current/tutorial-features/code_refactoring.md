@@ -2,19 +2,16 @@
 sidebar_position: 4
 ---
 
-# Code Refactoring
+# Refatoração de Código
 
-## Description
-The CodeGPT Code Refactoring feature empowers you to optimize your codebase effortlessly. By selecting specific code segments, you can request CodeGPT to perform intelligent refactoring operations, enhancing code readability and efficiency.
+## Descrição
+A funcionalidade de Refatoração de Código do CodeGPT capacita você a otimizar seu código de forma eficaz. Ao selecionar segmentos específicos de código, você pode solicitar ao CodeGPT que execute operações de refatoração inteligentes, aprimorando a legibilidade e eficiência do código.
 
-## How to Use:
-- Select the Code: Highlight the code snippet you want to refactor for improved quality.
-- Initiate Refactoring:
-    - Right-click on the selected code.
-    - Choose the Refactor CodeGPT option from the context menu.
+## Como Usar:
+- Selecione o Código: Destaque o trecho de código que você deseja refatorar para melhorar a qualidade.
+- Iniciar a Refatoração:
+    - Clique com o botão direito no código selecionado.
+    - Escolha a opção Refatorar com o CodeGPT no menu de contexto.
 
-Experience the power of CodeGPT's intelligent refactoring capabilities. Elevate the quality of your code with ease and precision.
-
-
-
+Experimente o poder das capacidades de refatoração inteligente do CodeGPT. Eleve a qualidade do seu código com facilidade e precisão.
 
