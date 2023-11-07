@@ -5,7 +5,7 @@ sidebar_position: 2
 # Configuração
 
 ## Acessando as Configurações do Code GPT
-1. No Visual Studio Code, clique em **`Arquivo` > `Preferências` > `Configurações`**. Isso abrirá a janela de Configurações.
+1. No Visual Studio Code, clique em **`File` > `Preferences` > `Settings`**. Isso abrirá a janela de Configurações.
 2. No lado esquerdo da janela de Configurações, clique em **`Extensões`**, e depois clique em **`CodeGPT`**.
 
 :::note Configurações do CodeGPT
