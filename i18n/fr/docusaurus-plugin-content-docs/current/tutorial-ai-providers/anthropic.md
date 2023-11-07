@@ -18,7 +18,7 @@ Claude peut être un représentant d'entreprise charmant, un assistant de recher
 - Collez votre API Key
 
 :::caution Supprimer API Key
-Si vous souhaitez supprimer votre API Key de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Supprimer API Key`.
+Si vous souhaitez supprimer votre API Key de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Remove API Key`.
 
 ## Tutoriel de connexion Anthropic
 :::note Connecter Anthropic Claude ::: 
