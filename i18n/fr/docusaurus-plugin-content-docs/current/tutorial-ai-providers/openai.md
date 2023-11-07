@@ -10,13 +10,13 @@ OpenAI est une organisation dont l'objectif est de développer et de promouvoir 
 ## Connexion de votre compte OpenAI
 - Accédez à la page [API Keys sur OpenAI](https://platform.openai.com/account/api-keys).
 - Connectez-vous avec votre compte OpenAI (ou [créez un nouveau compte](https://platform.openai.com/signup))
-- Cliquez sur le bouton étiqueté **`Créer une nouvelle clé secrète`**
+- Cliquez sur le bouton étiqueté **`Create a new API Key`**
 - Une nouvelle fenêtre de dialogue apparaîtra, contenant un champ de texte avec votre API Key.
 - Copiez cette API Key dans votre presse-papiers.
 - Collez votre API Key
 
 :::caution Supprimer API Key
-Si vous souhaitez supprimer votre API Key de CodeGPT, ouvrez la palette de commandes et recherchez CodeGPT : `CodeGPT: Supprimer API Key`.
+Si vous souhaitez supprimer votre API Key de CodeGPT, ouvrez la palette de commandes et recherchez CodeGPT : `CodeGPT: Remove API Key`.
 :::
 
 :::note Se connecter avec OpenAI :::
