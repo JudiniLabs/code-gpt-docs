@@ -5,9 +5,9 @@ sidebar_position: 2
 # Autocompletado de Código - Novedades
 
 ## Descripción
-La función de Autocompletado de Código con Selección de Modelo te permite elegir entre una selección cuidadosamente curada de modelos, incluidos los de OpenAI, Anthropic, Ollama y Google Makersuite. Esta herramienta avanzada mejora tu experiencia de programación al proporcionar sugerencias de código precisas y contextualmente relevantes.
+La función de Autocompletado de Código con Selección de Modelo te permite elegir entre una selección cuidadosamente curada de modelos, incluidos los de OpenAI, Anthropic, Ollama y Google Makersuite. Esta avanzada herramienta mejora tu experiencia de programación proporcionando sugerencias de código precisas y contextualmente relevantes.
 
-## Cómo Usar:
+## Cómo Utilizarlo:
 - Configuración de Autocompletado:
     - Marca la opción ✅ **Habilitar CodeGPT Copilot**
     - **Máx. Tokens:** El número máximo de tokens a generar. El modelo se detendrá una vez que se haya generado este número de tokens, por lo que este valor equilibra entre latencia y coherencia.
@@ -17,7 +17,7 @@ La función de Autocompletado de Código con Selección de Modelo te permite ele
         - Anthropic - claude-instant-1
         - Ollama - codellama
         - Google - text-bison-001 (solo en inglés)
-    - **Retraso en las Sugerencias:** El retraso en milisegundos entre la última tecla presionada y la solicitud de sugerencias.
+    - **Retraso de Sugerencias:** El retraso en milisegundos entre la última tecla presionada y la solicitud de sugerencias.
 
 :::nota Configuración de Autocompletado de Código
 <p align="center">
