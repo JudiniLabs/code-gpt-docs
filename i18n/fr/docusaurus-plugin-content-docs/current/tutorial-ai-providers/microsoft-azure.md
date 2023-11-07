@@ -12,11 +12,11 @@ Site officiel https://azure.microsoft.com/en-us/products/ai-services/openai-serv
 - Allez dans [Azure OpenAI Studio](https://oai.azure.com/)
 - Obtenez votre Point de Terminaison et Key Secrète
 - Dans la configuration de CodeGPT, changez le fournisseur en ```Azure``` et le modèle en ```Azure```
-- Dans VSCode, entrez la commande ```cmd + shift + p``` et recherchez **`Définir la clé API`**
+- Dans VSCode, entrez la commande ```cmd + shift + p``` et recherchez **`Set API Key`**
 - Collez votre API Key
 
 :::caution Supprimer API Key
-Si vous souhaitez supprimer votre API Key de CodeGPT, ouvrez la Palette de commandes et recherchez `CodeGPT: Supprimer API Key`.
+Si vous souhaitez supprimer votre API Key de CodeGPT, ouvrez la Palette de commandes et recherchez `CodeGPT: Remove API Key`.
 :::
 
 ## Connexion à Microsoft Azure
