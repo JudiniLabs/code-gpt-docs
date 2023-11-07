@@ -2,34 +2,35 @@
 sidebar_position: 2
 ---
 
-# Code Autocompletion - New
+# Autocompletar Código - Novo
 
-## Description
-The Code Autocompletion with Model Selection feature empowers you to choose from a curated selection of models including those from OpenAI, Anthropic, Ollama, and Google Makersuite. This advanced tool enhances your coding experience by providing accurate and contextually relevant code suggestions.
+## Descrição
+A funcionalidade de Autocompletar Código com Seleção de Modelo capacita você a escolher a partir de uma seleção criteriosamente elaborada de modelos, incluindo aqueles da OpenAI, Anthropic, Ollama e Google Makersuite. Essa avançada ferramenta aprimora sua experiência de codificação, fornecendo sugestões de código precisas e contextualmente relevantes.
 
-## How to Use:
-- Autocomplete Settings:
-    - Check the option ✅ **Enable CodeGPT Copilot**
-    - **Max Tokens:** The maximum number of tokens to generate. The model will stop once this many tokens have been generated, so this value trades off between latency and coherence.
-    - **Provider:**
+## Como Usar:
+- Configurações de Autocompletar:
+    - Marque a opção ✅ **Ativar CodeGPT Copilot**
+    - **Máx. Tokens:** O número máximo de tokens a serem gerados. O modelo irá parar assim que esse número de tokens for gerado, de modo que esse valor equilibra entre latência e coerência.
+    - **Provedor:**
         - OpenAI - gpt-3.5-turbo-instruct
         - Anthropic - claude-2
         - Anthropic - claude-instant-1
         - Ollama - codellama
-        - Google - text-bison-001 (english only)
-    - **Suggestion Delay:** The delay in milliseconds between the last character typed and the request for suggestions.
+        - Google - text-bison-001 (somente em inglês)
+    - **Atraso nas Sugestões:** O atraso em milissegundos entre o último caractere digitado e a solicitação de sugestões.
 
-:::note Code Autocomplete settings
+:::note Configurações de Autocompletar de Código
 <p align="center">
       <img width="600" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/b4b09276-bc7e-4a8d-847b-371a8bd34488" />
 </p>
 :::
 
-- Effortless Integration:
-    - Seamlessly incorporate the suggested code snippets into your project, improving code quality and efficiency.
+- Integração Sem Esforço:
+    - Incorpore de forma contínua os trechos de código sugeridos em seu projeto, melhorando a qualidade e eficiência do código.
 
-:::note Code Autocomplete
+:::note Autocompletar Código
 <p align="center">
       <img width="600" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/cc3bb10a-5528-4671-8cc7-522e957e2bdd" />
 </p>
 :::
+
