@@ -14,7 +14,7 @@ La función de Pruebas Unitarias de CodeGPT te permite generar rápidamente prue
 ## Ejemplo
 Selecciona el código, haz clic con el botón derecho y selecciona `CodeGPT: Pruebas Unitarias`
 
-:::nota CodeGPT: Pruebas Unitarias
+:::note CodeGPT: Pruebas Unitarias
 <p align="center">
   <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/5b14b329-7b91-43cf-a194-ceb6a7932c07" />
 </p>
