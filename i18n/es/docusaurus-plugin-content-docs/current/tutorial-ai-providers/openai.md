@@ -16,7 +16,7 @@ OpenAI es una organización que tiene como objetivo desarrollar y promover una I
 - Pegue su clave API
 
 :::caution Eliminar la API Key
-Si desea eliminar su clave API de CodeGPT, abra la Paleta de comandos y busque CodeGPT: `CodeGPT: Eliminar API KEY`.
+Si desea eliminar su clave API de CodeGPT, abra la Paleta de comandos y busque CodeGPT: `CodeGPT: Remove API KEY`.
 :::
 
 :::note Conectar con OpenAI :::
