@@ -1,7 +1,8 @@
 ---
 sidebar_position: 3
 ---
-# Tools
+
+# Outils
 - [OpenAI ChatGPT](https://chat.openai.com/)
 - [OpenAI Whisper](https://github.com/openai/whisper)
 - [OpenAI Dall-e](https://openai.com/dall-e-2/)
