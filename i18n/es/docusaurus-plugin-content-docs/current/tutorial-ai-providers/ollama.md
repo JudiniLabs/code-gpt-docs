@@ -6,14 +6,30 @@ sidebar_position: 10
 
 Sitio web oficial: https://ollama.ai
 
-Proyecto de código abierto para ejecutar, crear y compartir modelos de lenguaje grandes (LLM).
+Proyecto de código abierto para ejecutar, crear y compartir modelos de lenguaje grandes (LLMs).
+## Conectar modelos de Ollama
+- Descarga Ollama desde el siguiente enlace: [ollama.ai](https://ollama.ai/)
+- Instala Ollama y utiliza el modelo "codellama" ejecutando el comando ```ollama pull codellama```
+- Si deseas usar "mistral" u otros modelos, deberás reemplazar "codellama" por el modelo deseado. Por ejemplo: ```ollama pull mistral```
 
-## Conenct Ollama Models
-- Descargar Ollama en el siguiente enlace: [ollama.ai](https://ollama.ai/)
-- Instalar Ollama y luego ejecutar el comando ```ollama pull codellama```
-- Puedes obtener modelos como: **llama2, llama2:13b and llama2:70b**
+# Cómo usar Ollama
+- Abre la Configuración de CodeGPT en VSCode y selecciona Ollama como proveedor
 
-## Modelos Ollama disponibles en Code GPT
+:::note Ollama
+<p align="center">
+    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/ddec585e-84c6-49c4-86ac-be624fbfd9ee" />
+</p>
+:::
+
+- Selecciona uno de los Modelos de Ollama
+
+:::note Modelos de Ollama
+<p align="center">
+    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/1bf08939-60fe-4ad1-b588-898c20f2a8e8" />
+</p>
+:::
+
+## Modelos de Ollama disponibles en Code GPT
 - llama2
 - llama2:13b
 - llama2:70b
@@ -28,5 +44,5 @@ Proyecto de código abierto para ejecutar, crear y compartir modelos de lenguaje
 - wizardcoder:34b-python
 - mistral
 
-## Errores de API
-Si está recibiendo errores de API, verifique el siguiente enlace: [Ollama Documentation](https://ollama.ai/)
+## Errores de la API
+Si estás obteniendo errores de la API, verifica el siguiente enlace: [Documentación de Ollama](https://ollama.ai/)
