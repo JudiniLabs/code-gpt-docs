@@ -2,30 +2,29 @@
 sidebar_position: 1
 ---
 
-# À Propos de CodeGPT
+# О CodeGPT
 
-### Bienvenue dans notre tutoriel sur l'utilisation de CodeGPT dans Visual Studio Code ! 
- 
- CodeGPT est une extension puissante qui exploite les capacités des grands modèles de langage (LLM) pour améliorer vos tâches de programmation à l'aide de l'IA. 
- 
+### Добро пожаловать в наш учебник по использованию CodeGPT в Visual Studio Code!
+
+CodeGPT - это мощное расширение, использующее возможности больших языковых моделей (LLM) для улучшения ваших задач программирования с использованием искусственного интеллекта.
+
 :::info
 
- Cet outil vous permet non seulement d'interagir dynamiquement avec votre environnement de travail, mais il peut également créer des agents IA qui enrichissent les LLM de contexte et vous connectent à des référentiels, des rapports et d'autres domaines essentiels de votre entreprise. 
- 
+Этот инструмент позволяет вам не только динамично взаимодействовать с вашим рабочим окружением, но также создавать агентов искусственного интеллекта, обогащающих LLM контекстом и связывающих вас с репозиториями, отчетами и другими важными областями вашего бизнеса.
+
 :::
 
-:::note Extension CodeGPT pour VSCode
+:::note Расширение CodeGPT для VSCode
 <p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/4c478f3e-b222-42d0-a079-5a1d8167159c" />
 </p>
 :::
 
-### Premiers Pas avec CodeGPT : Votre Guide vers une Expérience de Codage Améliorée par l'IA
- 
- Dans ce tutoriel, nous vous guiderons à travers le téléchargement et la configuration de CodeGPT, et nous vous montrerons quelques cas d'utilisation typiques, afin que vous puissiez l'intégrer facilement dans votre flux de travail de codage. 
- 
+### Начало работы с CodeGPT: Ваш путеводитель по улучшенному опыту программирования с использованием искусственного интеллекта
 
-:::note Commençons et plongeons directement dans l'expérience de codage améliorée par l'IA !
+В этом учебнике мы расскажем вам о загрузке и настройке CodeGPT и покажем некоторые типичные случаи использования, чтобы вы могли легко интегрировать его в свой рабочий процесс программирования.
+
+:::note Начнем и погрузимся в улучшенный опыт программирования с использованием искусственного интеллекта!
 <p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/a7f7acc0-4e85-4e88-9370-a2d2f1163a1d" />
 </p>
@@ -33,10 +32,11 @@ sidebar_position: 1
 
 :::caution
 
-Bien que l'extension CodeGPT soit gratuite, elle nécessite l'utilisation d'une API provenant d'un fournisseur externe (voir [Fournisseurs](/docs/category/ai-providers)). **Ces fournisseurs externes sont des services payants**, bien qu'ils puissent offrir une utilisation limitée gratuite.
+Несмотря на то, что расширение CodeGPT является бесплатным, оно требует использования API от внешнего поставщика (см. [Поставщики](/docs/category/ai-providers)). **Эти внешние поставщики являются платными услугами**, хотя они могут предоставлять ограниченное бесплатное использование.
 
 :::
 
---- 
+---
 
-Dans le prochain module, vous apprendrez comment installer et configurer l'extension. Cliquez sur [Principes de base](/docs/category/basics) pour continuer.
+В следующем модуле вы узнаете, как установить и настроить расширение. Щелкните [Основы](/docs/category/basics), чтобы продолжить.
+
