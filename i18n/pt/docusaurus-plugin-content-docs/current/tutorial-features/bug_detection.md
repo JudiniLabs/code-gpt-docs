@@ -1,15 +1,21 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
-# API de CodeGPT
+# Detecção de Bugs
 
-Desata el poder de nuestros Agentes de IA en tus propias aplicaciones con la API de CodeGPT Plus. Esta API proporciona una puerta de enlace para aprovechar la inteligencia de los Agentes de IA de CodeGPT Plus, lo que te permite integrar sus capacidades en cualquier aplicación, independientemente del lenguaje de programación que utilices.
+## Descrição
+A funcionalidade ***CodeGPT: Detecção de Bugs*** capacita você a identificar e resolver proativamente problemas no seu código. Ao selecionar segmentos de código específicos, você pode solicitar ao CodeGPT que realize uma análise minuciosa para encontrar bugs ou problemas potenciais.
 
-Ya sea que estés construyendo un chatbot, un asistente virtual o cualquier aplicación que requiera comprender y generar texto de manera similar a un humano, la API de CodeGPT Plus es tu clave para desbloquear un nuevo nivel de interactividad.
+## Como Usar:
+- Selecione o Código: Destaque o trecho de código
+- Clique com o botão direito no código selecionado e escolha **CodeGPT: Detecção de Bugs**
 
-Nuestra API es RESTful, lo que garantiza una amplia compatibilidad y una fácil integración en diversas plataformas. También ofrecemos SDK en Python y JavaScript, lo que te brinda la flexibilidad para implementar nuestros Agentes de IA en tu lenguaje preferido.
+## Exemplo
+Selecione o código, clique com o botão direito e escolha `CodeGPT: Detecção de Bugs`
 
-### ¿Listo para revolucionar tu proceso de desarrollo?
-Visita nuestro [Centro de Desarrolladores de CodeGPT](https://developers.codegpt.co/) para aprender cómo puedes integrar nuestros Agentes de IA en tus aplicaciones. El futuro de la programación está al alcance de tus manos, esperando ser explorado.
-
+:::note CodeGPT: Detecção de Bugs
+<p align="center">
+  <img width="550" height="250" src="https://github.com/davila7/code-gpt-docs/assets/6216945/4f8a15f9-f182-431a-abf4-89f037533cf7" />
+</p>
+:::

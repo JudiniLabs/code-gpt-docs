@@ -5,13 +5,17 @@ sidebar_position: 7
 # Tests Unitaires
 
 ## Description
-La fonction de Tests Unitaires de CodeGPT vous permet de générer rapidement des tests unitaires pour votre code. En sélectionnant des segments de code spécifiques, vous pouvez demander à CodeGPT de créer un test unitaire correspondant, améliorant ainsi la fiabilité et la qualité du code.
+La fonctionnalité de Tests Unitaires de CodeGPT vous permet de générer rapidement des tests unitaires pour votre code. En sélectionnant des segments de code spécifiques, vous pouvez demander à CodeGPT de créer un test unitaire correspondant, améliorant ainsi la fiabilité et la qualité du code.
 
-## Comment l'utiliser :
-- Sélectionnez le Code : Mettez en surbrillance le fragment de code pour lequel vous souhaitez créer un test unitaire.
-- Initiez les Tests Unitaires :
-    - Cliquez avec le bouton droit de la souris sur le code sélectionné.
-    - Choisissez l'option de Tests Unitaires de CodeGPT dans le menu contextuel.
+## Comment Utiliser :
+- Sélectionnez le Code : Mettez en surbrillance l'extrait de code.
+- Cliquez avec le bouton droit sur le code sélectionné, puis sélectionnez **CodeGPT: Tests Unitaires**
 
-## Exemple :
-Dans cet exemple, nous sélectionnons le code, puis nous exécutons la commande de Tests Unitaires de CodeGPT pour générer automatiquement un test unitaire pour le fragment de code choisi. Améliorez la fiabilité du code et simplifiez votre processus de test avec la fonction de Tests Unitaires de CodeGPT.
+## Exemple
+Sélectionnez le code, cliquez avec le bouton droit, puis sélectionnez `CodeGPT: Tests Unitaires`
+
+:::note CodeGPT: Tests Unitaires
+<p align="center">
+  <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/5b14b329-7b91-43cf-a194-ceb6a7932c07" />
+</p>
+:::

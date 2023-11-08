@@ -4,37 +4,35 @@ sidebar_position: 1
 
 # Instalação
 
-## Instale o Visual Studio Code
-Visual Studio Code: [Download](https://code.visualstudio.com/download)
+O CodeGPT está acessível tanto no [VSCode](https://code.visualstudio.com/) quanto no [Cursor](https://cursor.sh/). Neste tutorial, o guiaremos através do processo de instalação, independentemente do seu editor de texto preferido. Vamos começar!
 
-## Baixe e instale a extensão Code GPT
-- [Baixe do Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
-- [Baixe do Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
+## Visual Studio Code
+Primeiro, faça o download e instale o Visual Studio Code: [Download](https://code.visualstudio.com/download)
 
-Ou você pode procurar por Código GPT na guia Extensões.
+### Instale a Extensão Code GPT
+Você pode instalar a extensão no Visual Studio Marketplace, no Open VSX ou diretamente na guia Extensões no Visual Studio Code.
 
-![Aba Extensão](https://user-images.githubusercontent.com/6216945/212494271-256734c6-6cab-4c12-bb8f-dae1ffa74b33.png)
+:::note Pesquise por Code GPT na guia Extensões
+<p align="center">
+      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/ec68d8d7-fa99-454c-876d-1e52815667c7" />
+</p>
+:::
 
-## Obtenha sua chave de API
-Selecione um provedor de IA:
-- ### OpenAI
-  - Crie uma conta em [openai.com](https://openai.com/api/)
-  - Vá para **View api keys**
-  - Crie uma nova Key secreta
+### Visual Studio Code Marketplace
+Você pode clicar neste link para ir diretamente para a página do CodeGPT no Visual Studio Marketplace:
+- [Download no Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 
-- ### Cohere (Ainda não está em produção)
-  - Crie uma conta em [cohere.ai](https://cohere.ai/)
-  - Vá para o seu [painel](https://dashboard.cohere.ai/)
-  - Copie a API KEY
+### Open VSX
+Ou você pode baixar a extensão via Open VSX:
+- [Download no Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
 
-- ### AI21 (ainda não está em produção)
-  - Crie uma conta no [AI21](https://www.ai21.com/)
-  - Vá para sua
+## Cursor
+Se você preferir usar o Cursor, pode baixá-lo neste link: [Download](https://cursor.sh/)
 
-## Use sua API KEY
+:::note Pesquise por Code GPT na guia Extensões
+<p align="center">
+      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/58262780-461f-4e88-8a53-08a313e0297b" />
+</p>
+:::
 
-Pressione **cmd + shift + p** e procure por `CodeGPT: Set API KEY`
-
-## Remova sua API KEY
-
-Se você deseja remover sua chave de API para adicionar uma nova, pressione **cmd + shift + p** e procure por `CodeGPT: Remove API KEY`
+Agora que você tem a extensão instalada, é preciso prosseguir com a [configuração](/docs/tutorial-basics/configuration) apropriada.
