@@ -53,7 +53,7 @@ OpenAI - это организация исследования искусств
 ![Кредиты](https://user-images.githubusercontent.com/6216945/213941720-1ae816dd-fedb-4026-ae8c-b8b374d1d0dd.png)
 :::
 
-## Ошибки API
+## API errors
 Если у вас возникают ошибки API, проверьте следующую ссылку: [Ошибки OpenAI API](https://help.openai.com/en/collections/3675931-openai-api#api-error-codes-explained)
 
 ### Типичные ошибки OpenAI
