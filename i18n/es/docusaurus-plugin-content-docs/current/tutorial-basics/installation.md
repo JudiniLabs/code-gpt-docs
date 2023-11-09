@@ -7,7 +7,7 @@ sidebar_position: 1
 Código GPT está disponible tanto en [VSCode](https://code.visualstudio.com/) como en [Cursor](https://cursor.sh/) a través del proceso de instalación independientemente de tu editor de texto preferido. ¡Comencemos!
 
 ## Visual Studio Code
-Primero descarga e instala Visual Studio Code: [Descargar](https://code.visualstudio.com/download)
+Primero descarga e instala Visual Studio Code: [Download](https://code.visualstudio.com/download)
 
 ### Install la extensión de Code GPT
 Puedes instalar la extensión desde el marketplace de Visual Studio Code, OpenVSX o directamente del taba de extensiones dentro de VSCode
@@ -20,15 +20,15 @@ Puedes instalar la extensión desde el marketplace de Visual Studio Code, OpenVS
 
 ### Marketplace de VSCode
 También puedes hacer click en este link para ir directamente a la página del marketplace de Visual Studio Code:
-- [Descargar desde el Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
+- [Download from Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 
 ### Open VSX
 O puedes descargar la extensión mediante Open VSX:
-- [Descargar desde Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
+- [Download by Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
 
 
 ## Cursor
-Si prefieres utilizar el IDE Cursor, también puedes instalarlo en este link: [Descargar](https://cursor.sh/)
+Si prefieres utilizar el IDE Cursor, también puedes instalarlo en este link: [Download](https://cursor.sh/)
 
 :::note Buscar por Code GPT en el tab de extensiones de Cursor
 <p align="center">
