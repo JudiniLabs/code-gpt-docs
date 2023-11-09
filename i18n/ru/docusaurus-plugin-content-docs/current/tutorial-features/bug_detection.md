@@ -12,7 +12,7 @@ sidebar_position: 6
 - Правой кнопкой мыши щелкните выбранный код, затем выберите **CodeGPT: Bug Detection**.
 
 ## Пример
-Выберите код, щелкните правой кнопкой мыши, затем выберите `CodeGPT: Обнаружение ошибок`.
+Выберите код, щелкните правой кнопкой мыши, затем выберите `CodeGPT: Bug Detection`.
 
 :::note CodeGPT Bug Detection
 <p align="center">
