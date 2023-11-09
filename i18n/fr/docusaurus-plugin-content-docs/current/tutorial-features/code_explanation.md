@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Explication de Code
+# Code Explanation
 
 ## Description
 La fonction d'explication de code de CodeGPT vous permet d'obtenir des informations approfondies sur votre base de code. En sélectionnant des segments de code spécifiques, vous pouvez demander à CodeGPT de fournir des explications détaillées et des clarifications.
