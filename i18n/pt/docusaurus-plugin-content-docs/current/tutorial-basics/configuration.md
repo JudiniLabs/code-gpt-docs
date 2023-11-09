@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Acessando as Configurações do Code GPT
 1. No Visual Studio Code, clique em **`File` > `Preferences` > `Settings`**. Isso abrirá a janela de Configurações.
-2. No lado esquerdo da janela de Configurações, clique em **`Extensões`**, e depois clique em **`CodeGPT`**.
+2. No lado esquerdo da janela de Configurações, clique em **`Extensions`**, e depois clique em **`CodeGPT`**.
 
 :::note Configurações do CodeGPT
 
@@ -18,9 +18,9 @@ sidebar_position: 2
 
 ### Chave de API
 
-Selecione o seu provedor de IA no menu suspenso e, em seguida, insira a Chave de API do provedor selecionado.
+Selecione o seu provedor de IA no menu suspenso e, em seguida, insira a API Key do provedor selecionado.
 
-:::info Obtenha sua Chave de API
+:::info Obtenha sua API Key
 
 - [CodeGPT Plus](/docs/tutorial-ai-providers/judini)
 - [OpenAI](/docs/tutorial-ai-providers/openai)
