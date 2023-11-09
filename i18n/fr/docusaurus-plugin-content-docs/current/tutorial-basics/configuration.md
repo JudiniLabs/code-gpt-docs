@@ -16,11 +16,11 @@ sidebar_position: 2
 
 ## Paramètres Disponibles
 
-### Clé API
+### API Key
 
-Sélectionnez votre fournisseur d'IA dans le menu déroulant, puis saisissez la clé API du fournisseur sélectionné.
+Sélectionnez votre fournisseur d'IA dans le menu déroulant, puis saisissez la API Key du fournisseur sélectionné.
 
-:::info Obtenez votre clé API
+:::info Obtenez votre API Key
 
 - [CodeGPT Plus](/docs/tutorial-ai-providers/judini)
 - [OpenAI](/docs/tutorial-ai-providers/openai)
@@ -40,15 +40,15 @@ Les tokens peuvent être considérés comme des morceaux de mots. Avant que l'AP
 
 Chaque modèle a un nombre maximum de tokens. Sélectionnez le nombre de tokens en fonction de la longueur de la réponse que vous souhaitez obtenir et du modèle sélectionné.
 
-En savoir plus : [Tokens par OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
+En savoir plus : [Tokens by OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
 
 ### Modèle
 Le service propose l'accès à de nombreux modèles différents, regroupés par famille et capacité. Une famille de modèles associe généralement des modèles à leur tâche prévue.
 
-En savoir plus : [Modèles par OpenAI](https://beta.openai.com/docs/models/overview)
+En savoir plus : [Models by OpenAI](https://beta.openai.com/docs/models/overview)
 
 ### ID de l'Organisation (OpenAI)
-Les informations sur l'ID de l'organisation s'appliquent uniquement à OpenAI et vous permettent de sélectionner l'organisation avec laquelle vous utiliserez votre clé API.
+Les informations sur l'ID de l'organisation s'appliquent uniquement à OpenAI et vous permettent de sélectionner l'organisation avec laquelle vous utiliserez votre API Key.
 
 ### Langage de la Requête
 Sélectionnez la langue dans laquelle vous effectuerez les interactions avec l'API. Pour des fonctionnalités telles qu'Expliquer ou Documenter, chaque requête sera effectuée dans la langue sélectionnée.
@@ -58,7 +58,7 @@ Il s'agit d'un paramètre qui peut être ajusté. Il détermine le niveau de has
 
 Il s'agit d'une valeur comprise entre 0 et 1. 0 étant le plus déterministe et 1 étant le plus aléatoire et créatif. La température par défaut est de 0,3.
 
-En savoir plus : [Température par Cohere](https://docs.cohere.ai/docs/temperature)
+En savoir plus : [Temperature by Cohere](https://docs.cohere.ai/docs/temperature)
 
 ### Mémoire de Fenêtre
 
