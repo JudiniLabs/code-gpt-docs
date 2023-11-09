@@ -9,7 +9,7 @@ La función de Pruebas Unitarias de CodeGPT te permite generar rápidamente prue
 
 ## Cómo Usar:
 - Selecciona el Código: Resalta el fragmento de código
-- Haz clic con el botón derecho en el código seleccionado y selecciona **CodeGPT: Pruebas Unitarias**
+- Haz clic con el botón derecho en el código seleccionado y selecciona **CodeGPT: Unit Testing**
 
 ## Ejemplo
 Selecciona el código, haz clic con el botón derecho y selecciona `CodeGPT: Unit Testing`
