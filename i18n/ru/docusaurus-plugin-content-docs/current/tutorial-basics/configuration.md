@@ -40,12 +40,12 @@ sidebar_position: 2
 
 У каждой модели есть максимальное количество токенов. Выберите количество токенов в зависимости от длины ответа, который вы хотите получить, и выбранной модели.
 
-Узнайте больше: [Токены OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
+Узнайте больше: [Tokens by OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
 
 ### Модель
 Сервис предоставляет доступ к множеству различных моделей, сгруппированных по семье и способностям. Семейство моделей обычно объединяет модели по их предназначенной задаче.
 
-Узнайте больше: [Models OpenAI](https://beta.openai.com/docs/models/overview)
+Узнайте больше: [Models by OpenAI](https://beta.openai.com/docs/models/overview)
 
 ### Идентификатор организации (OpenAI)
 Информация об идентификаторе организации применяется только к OpenAI и позволяет вам выбрать организацию, с которой будете использовать свой ключ API.
@@ -58,7 +58,7 @@ sidebar_position: 2
 
 Значение находится в диапазоне от 0 до 1. 0 - наиболее детерминированное, а 1 - наиболее случайное и креативное. Температура по умолчанию - 0,3.
 
-Узнайте больше: [Tempeture Cohere](https://docs.cohere.ai/docs/temperature)
+Узнайте больше: [Tempeture by Cohere](https://docs.cohere.ai/docs/temperature)
 
 ### Память окна
 
