@@ -45,5 +45,5 @@ sidebar_position: 10
 - wizardcoder:34b-python
 - mistral
 
-## Ошибки API
-Если у вас возникли ошибки API, ознакомьтесь со следующей ссылкой: [Документация Ollama](https://ollama.ai/)
+## API errors
+Если у вас возникли ошибки API, ознакомьтесь со следующей ссылкой: [Ollama Documentation](https://ollama.ai/)
