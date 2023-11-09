@@ -15,7 +15,7 @@ Site officiel https://azure.microsoft.com/en-us/products/ai-services/openai-serv
 - Dans VSCode, entrez la commande ```cmd + shift + p``` et recherchez **`Set API Key`**
 - Collez votre API Key
 
-:::caution Supprimer API Key
+:::caution Remove API Key
 Si vous souhaitez supprimer votre API Key de CodeGPT, ouvrez la Palette de commandes et recherchez `CodeGPT: Remove API Key`.
 :::
 
