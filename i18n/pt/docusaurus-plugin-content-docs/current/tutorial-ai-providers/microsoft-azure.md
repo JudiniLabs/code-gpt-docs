@@ -1,6 +1,6 @@
 ## Microsoft Azure
 - Crie uma conta no [Microsoft Azure](https://azure.microsoft.com/en-us/free)
-- Acesse os [Serviços OpenAI Azure](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
+- Acesse os [Azure OpenAI Services](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
 - Vá para o [Azure OpenAI Studio](https://oai.azure.com/)
 - Obtenha seu Endpoint e Chave Secreta
 - Nas Configurações do CodeGPT, altere o provedor para ```Azure``` e o modelo para ```azure```
