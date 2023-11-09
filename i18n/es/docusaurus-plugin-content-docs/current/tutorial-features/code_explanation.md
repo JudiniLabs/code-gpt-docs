@@ -14,7 +14,7 @@ La función de Explicación de Código de CodeGPT te permite obtener informació
 ## Ejemplo
 Selecciona el código, haz clic con el botón derecho y selecciona `CodeGPT: Code Explanation`
 
-:::nota CodeGPT: Code Explanation
+:::note CodeGPT: Code Explanation
 <p align="center">
   <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/dd6bd392-9ddb-4be9-81af-7929d34f60ad" />
 </p>
