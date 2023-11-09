@@ -30,5 +30,5 @@ sidebar_position: 4
 - gpt-35-turbo
 - gpt-35-turbo-16k
 
-## Ошибки API
-Если у вас возникают ошибки API, проверьте следующую ссылку: [Документация Microsoft Azure](https://azure.microsoft.com/en-us/products/ai-services/openai-service/)
+## API errors
+Если у вас возникают ошибки API, проверьте следующую ссылку: [Microsoft Azure Documentation](https://azure.microsoft.com/en-us/products/ai-services/openai-service/)
