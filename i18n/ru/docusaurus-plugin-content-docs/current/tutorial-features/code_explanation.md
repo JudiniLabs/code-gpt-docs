@@ -9,12 +9,12 @@ sidebar_position: 3
 
 ## Как использовать:
 - Выделите код: выделите сегмент кода
-- Щелкните правой кнопкой мыши по выбранному коду, затем выберите **CodeGPT: Code Explination**
+- Щелкните правой кнопкой мыши по выбранному коду, затем выберите **CodeGPT: Code Explanation**
 
 ## Пример
-Выберите код, щелкните правой кнопкой мыши и выберите `Code Explination`
+Выберите код, щелкните правой кнопкой мыши и выберите `Code Explanation`
 
-:::note CodeGPT: Code Explination
+:::note CodeGPT: Code Explanation
 <p align="center">
   <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/dd6bd392-9ddb-4be9-81af-7929d34f60ad" />
 </p>
