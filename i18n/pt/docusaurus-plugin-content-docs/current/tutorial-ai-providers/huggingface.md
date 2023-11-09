@@ -9,7 +9,7 @@ A Hugging Face é uma plataforma projetada para compartilhar modelos de IA pré-
 
 ## Huggingface
 - Crie uma conta em [Huggingface](https://huggingface.co/)
-- Acesse seu [Perfil - Configurações - Tokens de Acesso](https://huggingface.co/settings/tokens)
+- Acesse seu [Profile - Settings - Access Tokens](https://huggingface.co/settings/tokens)
 - Gere e copie a Chave da API
 - No VSCode, pressione ```cmd + shift + p``` e procure por **`Set API Key`**
 - Cole sua Chave da API
