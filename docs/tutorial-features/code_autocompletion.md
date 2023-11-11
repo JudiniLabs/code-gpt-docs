@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Code Autocompletion - New
+# Code Autocompletion
 
 ## Description
 The Code Autocompletion with Model Selection feature empowers you to choose from a curated selection of models including those from OpenAI, Anthropic, Ollama, and Google Makersuite. This advanced tool enhances your coding experience by providing accurate and contextually relevant code suggestions.
@@ -16,6 +16,7 @@ The Code Autocompletion with Model Selection feature empowers you to choose from
         - Anthropic - claude-2
         - Anthropic - claude-instant-1
         - Ollama - codellama
+        - Ollama - mistral:instruct
         - Google - text-bison-001 (English only)
     - **Suggestion Delay:** The delay in milliseconds between the last character typed and the request for suggestions.
 
