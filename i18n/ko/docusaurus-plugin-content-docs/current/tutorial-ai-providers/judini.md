@@ -4,61 +4,60 @@ sidebar_position: 1
 
 # CodeGPT Plus
 
-Official website https://codegpt.co
+공식 웹사이트 https://codegpt.co
 
-In this tutorial you will see how to connect your CodeGPT Plus account with the extension in VSCode
+이 튜토리얼에서는 VSCode에서 확장 프로그램과 CodeGPT Plus 계정을 연결하는 방법을 알아볼 것입니다.
 
-[✨ Click here to create a free CodeGTP Plus account](https://account.codegpt.co/auth/register)
+[✨ 무료 CodeGPT Plus 계정을 만들려면 여기를 클릭하세요](https://account.codegpt.co/auth/register)
 
-## Connect CodeGPT Plus account
+## CodeGPT Plus 계정 연결
 
-### Connect by Login
+### 로그인으로 연결
 :::note CodeGPT Plus
 <p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/a52e225b-ee54-442d-9fed-1df917d6be6f" />
 </p>
 :::
 
-### Connect by API Key
-  - Request your API Key from the [CodeGPT Plus](https://account.codegpt.co/auth/register)
-  - Go to the Settings / Access tokens and copy your **`API Key`**
-  - In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
-  - Paste your API Key
+### API 키로 연결
+  - [CodeGPT Plus](https://account.codegpt.co/auth/register)에서 API 키를 요청합니다.
+  - 설정 / 액세스 토큰으로 이동하고 **`API 키`**를 복사합니다.
+  - VSCode에서 ```cmd + shift + p```를 누르고 **`Set API Key`**를 검색합니다.
+  - API 키를 붙여넣습니다.
 
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
+:::caution 키 제거
+CodeGPT에서 API 키를 제거하려면 명령 팔레트를 열고 `CodeGPT: Remove API KEY`를 검색합니다.
 :::
 
 :::note CodeGPT Plus
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UX9LncRh0h8?si=WhWQFld30fGUoYOF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
 
-## Select your provider and model
-Make sure you have **CodeGPT Plus** selected as the provider and **CodeGPT Plus** as the model in settings
+## 공급자 및 모델 선택
+설정에서 **CodeGPT Plus**를 공급자로 선택하고 모델을 **CodeGPT Plus**로 선택했는지 확인하십시오.
 
-:::note Settings
+:::note 설정
 <p align="center">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274446065-993eca0d-30e3-4642-8e08-c5e51381f0e6.png" />
 </p>
 :::
 
-## Select an Agent 🤖
-Open the chat and select your agent
+## 에이전트 선택 🤖
+채팅을 열고 에이전트를 선택하십시오.
 
-:::note Open the chat
-
+:::note 채팅 열기
 <p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/0c64590b-503d-4cfe-9b68-0dad0f52cfa8" />
 </p>
 :::
 
-:::note Select an Agents
+:::note 에이전트 선택
 <p align="center">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274446169-16c2182e-ce76-41c5-8ca4-59e1069dee60.png" />
 </p>
 :::
 
-Interact with agents that come with information loaded from CodeGPT Plus
+CodeGPT Plus에서 로드된 정보를 가진 에이전트와 상호 작용
 
 
 
