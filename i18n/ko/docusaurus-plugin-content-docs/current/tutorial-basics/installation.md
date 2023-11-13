@@ -35,4 +35,4 @@ CodeGPT는 [VSCode](https://code.visualstudio.com/) 및 [Cursor](https://cursor.
       <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/58262780-461f-4e88-8a53-08a313e0297b" />
 </p>
 
-이제 익스텐션이 설치되었으므로 적절한 구성을 진행해야 [절한](https://docs.codegpt.co/docs/tutorial-basics/configuration).
+이제 익스텐션이 설치되었으므로 적절한 구성을 진행해야 [configuration](https://docs.codegpt.co/docs/tutorial-basics/configuration).
