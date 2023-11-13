@@ -4,16 +4,16 @@ sidebar_position: 10
 
 # Ollama
 
-Official website https://ollama.ai
+공식 웹사이트 https://ollama.ai
 
-Opensource project to run, create, and share large language models (LLMs).
-## Conenct Ollama Models
-- Download Ollama from the following link: [ollama.ai](https://ollama.ai/)
-- Install Ollama and use the model codellama by running the command ```ollama pull codellama```
-- If you want to use mistral or other models, you will need to replace codellama with the desired model. For example: ```ollama pull mistral```
+대형 언어 모델 (LLM)을 실행, 생성 및 공유하기 위한 오픈소스 프로젝트입니다.
+## Ollama 모델 연결
+- 다음 링크에서 Ollama를 다운로드합니다: [ollama.ai](https://ollama.ai/)
+- Ollama를 설치하고 명령어 ```ollama pull codellama```를 실행하여 모델 codellama를 사용합니다.
+- mistral 또는 다른 모델을 사용하려면 codellama를 원하는 모델로 바꿔야 합니다. 예를 들어: ```ollama pull mistral```
 
-# How to use Ollama
-- Open CodeGPT Setting in VSCode and Select Ollama like a Provider
+# Ollama 사용 방법
+- VSCode에서 CodeGPT 설정을 열고 제공자로 Ollama를 선택합니다.
 
 :::note Ollama
 <p align="center">
@@ -21,15 +21,15 @@ Opensource project to run, create, and share large language models (LLMs).
 </p>
 :::
 
-- Select one of the Ollama Models
+- Ollama 모델 중 하나를 선택합니다.
 
-:::note Ollama Models
+:::note Ollama 모델
 <p align="center">
     <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/1bf08939-60fe-4ad1-b588-898c20f2a8e8" />
 </p>
 :::
 
-## Ollama Models available in Code GPT
+## Code GPT에서 사용 가능한 Ollama 모델
 - llama2
 - llama2:13b
 - llama2:70b
@@ -44,5 +44,6 @@ Opensource project to run, create, and share large language models (LLMs).
 - wizardcoder:34b-python
 - mistral
 
-## API Errors
-If you are getting API errors check the following link: [Ollama Documentation](https://ollama.ai/)
+## API 오류
+API 오류가 발생하는 경우 다음 링크를 확인하세요: [Ollama 문서](https://ollama.ai/)
+
