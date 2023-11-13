@@ -1,56 +1,57 @@
 ---
 sidebar_position: 1
 ---
-# CodeGPT Chat
+# CodeGPT 채팅
 
-## Description
-The CodeGPT Chat feature enhances your development experience by allowing you to engage in conversations with a Large Language Models (LLM) directly within your text editor. This tutorial will guide you through the steps to make the most of this powerful tool.
+## 설명
+CodeGPT 채팅 기능은 텍스트 편집기 내에서 Large Language Models (LLM)와 직접 대화함으로써 개발 경험을 향상시킵니다. 이 튜토리얼에서는 이 강력한 도구를 최대한 활용하는 단계를 안내합니다.
 
-## How to Use:
-### Open the Chat Tab:
-Navigate to the tools tab and click on the 💬 option.
+## 사용 방법:
+### 채팅 탭 열기:
+도구 탭으로 이동하고 💬 옵션을 클릭합니다.
 
-:::note CodeGPT Chat
+:::note CodeGPT 채팅
 <p align="center">
       <img width="350" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/fad033c3-16b9-4f27-a4ff-1033e3bb67eb" />
 </p>
 :::
 
-### Engage in Conversation:
+### 대화 참여:
 
-Once the chat tab is open, you can start a conversation by typing a message and hitting 'Enter'.
+채팅 탭이 열리면 메시지를 입력하고 'Enter'를 눌러 대화를 시작할 수 있습니다.
 
-:::note CodeGPT Chat conversation
+:::note CodeGPT 채팅 대화
 <p align="center">
       <img width="400" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/52480e2c-f1ac-4e28-b71b-7af781d08dd2" />
 </p>
 :::
 
-### Using Code Selection:
-To share code snippets, simply select the desired code in your editor.
+### 코드 선택 사용:
+코드 스니펫을 공유하려면 편집기에서 원하는 코드를 선택하면 됩니다.
 
-:::note Code Selection
+:::note 코드 선택
 <p align="center">
       <img src="https://user-images.githubusercontent.com/6216945/227110771-71c53663-72da-4a48-9b68-19a7e8783ff8.gif" />
 </p>
 :::
 
-Pose questions or request assistance by typing your inquiry in the chat. CodeGPT will respond with helpful suggestions and explanations.
+채팅에 질문을 하거나 도움을 요청하려면 채팅에 질문을 입력하면 CodeGPT가 도움이 되는 제안과 설명을 제공합니다.
 
-### Theme Adaptability:
+### 테마 적응성:
 
-CodeGPT Chat seamlessly integrates with your chosen theme. It adapts to match your existing VSCode configuration, ensuring a consistent and visually pleasing experience.
+CodeGPT 채팅은 선택한 테마와 원활하게 통합됩니다. 기존의 VSCode 구성과 일치하도록 조정되어 일관된 시각적으로 만족스러운 경험을 제공합니다.
 
-Change according to the theme you have installed
+설치된 테마에 따라 변경
 
-:::note CodeGPT Chat Themes
+:::note CodeGPT 채팅 테마
 <p align="center">
     <img src="https://user-images.githubusercontent.com/6216945/227375441-212d8467-4469-44dd-9160-67fe2941eed4.gif" />
 </p>
 :::
 
-The **CodeGPT Chat** feature revolutionizes collaboration and problem-solving. Its integration directly within your text editor streamlines the development process. 
+**CodeGPT 채팅** 기능은 협업과 문제 해결을 혁신합니다. 텍스트 편집기 내에서 직접 통합되어 개발 프로세스를 간소화합니다.
 
-By enabling code selection, you can easily share snippets and receive tailored assistance. This adaptable tool harmonizes with your chosen theme, enhancing visual coherence. 
+코드 선택을 활성화하여 쉽게 코드 스니펫을 공유하고 맞춤형 지원을 받을 수 있습니다. 이 적응 가능한 도구는 선택한 테마와 조화롭게 어울려 시각적 일관성을 강화합니다.
 
-Make the most of CodeGPT Chat and experience a new level of productivity in your coding endeavors.
+CodeGPT 채팅을 최대한 활용하여 코딩 노력에서 생산성을 새로운 수준으로 끌어올리세요.
+
