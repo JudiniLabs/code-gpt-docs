@@ -4,25 +4,25 @@ sidebar_position: 8
 
 # Huggingface
 
-Official website https://huggingface.co/
+공식 웹사이트 https://huggingface.co/
 
-The Hugging Face is a platform designed to share pre-trained AI models and collaborate on the development and sharing of resources related to AI and natural language processing (NLP). It serves as a central repository for a wide range of models, including those for tasks such as text generation, text classification, translation, question answering, and more.
+Hugging Face는 사전 훈련된 AI 모델을 공유하고 AI 및 자연어 처리 (NLP) 관련 리소스의 개발과 공유에 대한 협업을 위해 설계된 플랫폼입니다. 이는 텍스트 생성, 텍스트 분류, 번역, 질문 응답 등과 같은 다양한 작업에 대한 모델을 중앙 저장소로 제공합니다.
 
 ## Huggingface
-- Create an account in [Huggingface](https://huggingface.co/)
-- Go to your [Profile - Settings - Access Tokens](https://huggingface.co/settings/tokens)
-- Generate and copy the API Key
-- In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
-- Paste your API Key
+- [Huggingface](https://huggingface.co/)에서 계정을 만듭니다.
+- [프로필 - 설정 - 액세스 토큰](https://huggingface.co/settings/tokens)으로 이동합니다.
+- API 키를 생성하고 복사합니다.
+- VSCode에서 ```cmd + shift + p```를 누르고 **`Set API Key`**를 검색합니다.
+- API 키를 붙여넣습니다.
 
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
+:::caution 키 제거
+CodeGPT에서 API 키를 제거하려면 명령 팔레트를 열고 `CodeGPT: Remove API KEY`를 검색합니다.
 :::
 
-### Huggingface Models available in Code GPT
+### Code GPT에서 사용 가능한 Huggingface 모델
 - HuggingFaceH4/starchat-beta
 - tiiuae/falcon-7b-instruct
 - codellama/CodeLlama-34b-Instruct-hf
 
-## API Errors
-If you are getting API errors check the following link: [Huggingface Documentation](https://huggingface.co/docs/inference-endpoints/index)
+## API 오류
+API 오류가 발생하는 경우 다음 링크를 확인하십시오: [Huggingface 문서](https://huggingface.co/docs/inference-endpoints/index)
