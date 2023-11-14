@@ -27,7 +27,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'es','pt','fr', 'ru', 'ko'], // es, fr, pt
+    locales: ['en', 'es','pt','fr', 'ko'], // es, fr, pt
   },
   customFields:{
     mendableAnonKey: process.env.MENDABLE_ANON_KEY,
