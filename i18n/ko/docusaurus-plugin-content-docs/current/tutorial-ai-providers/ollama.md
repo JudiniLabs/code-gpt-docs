@@ -45,5 +45,5 @@ sidebar_position: 10
 - mistral
 
 ## API 오류
-API 오류가 발생하는 경우 다음 링크를 확인하세요: [Ollama 문서](https://ollama.ai/)
+API 오류가 발생하는 경우 다음 링크를 확인하세요: [Ollama Documentation](https://ollama.ai/)
 
