@@ -11,7 +11,7 @@ OpenAI는 모든 인류에 이익을 주는 방식으로 친화적인 인공 지
 ## OpenAI 계정 연결
 - [OpenAI의 API 키 페이지](https://platform.openai.com/account/api-keys)로 이동합니다.
 - OpenAI 계정으로 로그인합니다 (또는 [새 계정을 만듭니다](https://platform.openai.com/signup)).
-- **`새로운 시크릿 키 생성`**이라고 표시된 버튼을 클릭합니다.
+- **`Create a new secret key`**이라고 표시된 버튼을 클릭합니다.
 - 새 대화 창이 나타나며 여기에 API 키가 포함된 텍스트 상자가 있습니다.
 - 이 API 키를 클립 보드에 복사합니다.
 - API 키를 붙여넣습니다.
@@ -53,12 +53,12 @@ API 키를 CodeGPT에서 제거하려면 명령 팔레트를 열고 `CodeGPT: Re
 ![Credits](https://user-images.githubusercontent.com/6216945/213941720-1ae816dd-fedb-4026-ae8c-b8b374d1d0dd.png)
 :::
 
-## API 오류
-API 오류가 발생하는 경우 다음 링크를 확인하세요: [OpenAI API 오류](https://help.openai.com/en/collections/3675931-openai-api#api-error-codes-explained)
+## API Errors
+API 오류가 발생하는 경우 다음 링크를 확인하세요: [OpenAI API Errors](https://help.openai.com/en/collections/3675931-openai-api#api-error-codes-explained)
 
 ### 일반적인 OpenAI 오류
-- [오류 코드 404: 모델 gpt-4가 존재하지 않습니다](https://community.openai.com/t/when-i-try-the-gpt-4-model-chat-completion-in-api-request-i-get-an-error-that-model-does-not-exist/98850)
-- [오류 코드 429 - 요청에 대한 요청 비율 제한 도달](https://help.openai.com/en/articles/6891829-error-code-429-rate-limit-reached-for-requests)
-- [오류 코드 429 - 현재 할당량을 초과했습니다. 플랜 및 빌링 세부 정보를 확인하세요.](https://help.openai.com/en/articles/6891831-error-code-429-you-exceeded-your-current-quota-please-check-your-plan-and-billing-details)
-- [오류 코드 429 - 엔진이 현재 과부하 상태입니다. 나중에 다시 시도하세요.](https://help.openai.com/en/articles/6891834-error-code-429-the-engine-is-currently-overloaded-please-try-again-later)
-- [오류 코드 401 - 잘못된 인증](https://help.openai.com/en/articles/6891767-error-code-401-invalid-authentication)
+- [Error Code 404: 모델 gpt-4가 존재하지 않습니다](https://community.openai.com/t/when-i-try-the-gpt-4-model-chat-completion-in-api-request-i-get-an-error-that-model-does-not-exist/98850)
+- [Error Code 429 - 요청에 대한 요청 비율 제한 도달](https://help.openai.com/en/articles/6891829-error-code-429-rate-limit-reached-for-requests)
+- [Error Code 429 - 현재 할당량을 초과했습니다. 플랜 및 빌링 세부 정보를 확인하세요.](https://help.openai.com/en/articles/6891831-error-code-429-you-exceeded-your-current-quota-please-check-your-plan-and-billing-details)
+- [Error Code 429 - 엔진이 현재 과부하 상태입니다. 나중에 다시 시도하세요.](https://help.openai.com/en/articles/6891834-error-code-429-the-engine-is-currently-overloaded-please-try-again-later)
+- [Error Code 401 - 잘못된 인증](https://help.openai.com/en/articles/6891767-error-code-401-invalid-authentication)
