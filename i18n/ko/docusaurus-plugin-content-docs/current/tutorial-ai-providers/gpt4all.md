@@ -21,4 +21,4 @@ GPT4All은 소비자급 CPU에서 로컬로 실행되는 강력하고 사용자 
 - replit-code-v1-3b
 
 ## API 오류
-API 오류가 발생하는 경우 다음 링크를 확인하십시오: [GPT4All 문서](https://docs.gpt4all.io/index.html)
+API 오류가 발생하는 경우 다음 링크를 확인하십시오: [GPT4All Documentation](https://docs.gpt4all.io/index.html)
