@@ -35,5 +35,5 @@ CodeGPT에서 API 키를 제거하려면 명령 팔레트를 열고 `CodeGPT: Re
 - claude-instant-v1.3-100k
 
 ## API 오류
-API 오류가 발생하는 경우 다음 링크를 확인하세요: [Anthropic API 오류](https://docs.anthropic.com/claude/reference/errors-and-rate-limits)
+API 오류가 발생하는 경우 다음 링크를 확인하세요: [Anthropic API Errors](https://docs.anthropic.com/claude/reference/errors-and-rate-limits)
 
