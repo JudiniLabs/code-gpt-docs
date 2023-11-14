@@ -10,7 +10,7 @@ Hugging Face는 사전 훈련된 AI 모델을 공유하고 AI 및 자연어 처�
 
 ## Huggingface
 - [Huggingface](https://huggingface.co/)에서 계정을 만듭니다.
-- [프로필 - 설정 - 액세스 토큰](https://huggingface.co/settings/tokens)으로 이동합니다.
+- [Profile - Settings - Access Tokens](https://huggingface.co/settings/tokens)으로 이동합니다.
 - API 키를 생성하고 복사합니다.
 - VSCode에서 ```cmd + shift + p```를 누르고 **`Set API Key`**를 검색합니다.
 - API 키를 붙여넣습니다.
@@ -25,4 +25,4 @@ CodeGPT에서 API 키를 제거하려면 명령 팔레트를 열고 `CodeGPT: Re
 - codellama/CodeLlama-34b-Instruct-hf
 
 ## API 오류
-API 오류가 발생하는 경우 다음 링크를 확인하십시오: [Huggingface 문서](https://huggingface.co/docs/inference-endpoints/index)
+API 오류가 발생하는 경우 다음 링크를 확인하십시오: [Huggingface Documentation](https://huggingface.co/docs/inference-endpoints/index)
