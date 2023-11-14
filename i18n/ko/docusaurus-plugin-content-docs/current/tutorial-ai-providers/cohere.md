@@ -25,4 +25,4 @@ CodeGPT에서 API 키를 제거하려면 명령 팔레트를 열고 `CodeGPT: Re
 - command-light-nightly
 
 ## API 오류
-API 오류가 발생하는 경우 다음 링크
+API 오류가 발생하는 경우 다음 링크를 확인하십시오:[Cohere API Errors](https://docs.cohere.com/reference/errors)
