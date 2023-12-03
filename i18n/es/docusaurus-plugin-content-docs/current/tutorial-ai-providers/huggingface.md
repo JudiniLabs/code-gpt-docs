@@ -22,6 +22,7 @@ Si desea eliminar su clave API de CodeGPT, abra la Paleta de comandos y busque `
 - HuggingFaceH4/starchat-beta
 - tiiuae/falcon-7b-instruct
 - codellama/CodeLlama-34b-Instruct-hf
+- mistralai/Mistral-7B-v0.1
 
 ## Errores de API
 Si está recibiendo errores de API, verifique el siguiente enlace: [Huggingface Documentation](https://huggingface.co/docs/inference-endpoints/index) 

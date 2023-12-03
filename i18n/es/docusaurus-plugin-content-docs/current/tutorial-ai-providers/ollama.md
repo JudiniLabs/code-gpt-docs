@@ -43,6 +43,9 @@ Proyecto de código abierto para ejecutar, crear y compartir modelos de lenguaje
 - wizardcoder:python
 - wizardcoder:34b-python
 - mistral
+- zephyr
+- deepseek-coder
+- deepseek-coder:33b
 
 ## Errores de la API
 Si estás obteniendo errores de la API, verifica el siguiente enlace: [Documentación de Ollama](https://ollama.ai/)

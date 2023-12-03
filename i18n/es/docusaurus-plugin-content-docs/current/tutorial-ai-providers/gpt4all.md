@@ -19,6 +19,8 @@ El ecosistema cuenta con un cliente de chat de escritorio fácil de usar y enlac
 - gpt4all-j-v1.3-groovy
 - vicuna-13b-1.1-q4_2
 - replit-code-v1-3b
+- mistral-7b-openorca
+- gpt4all-falcon-q4_0
 
 ## Errores de API
 Si está recibiendo errores de API, verifique el siguiente enlace:[GPT4All Documentation](https://docs.gpt4all.io/index.html)

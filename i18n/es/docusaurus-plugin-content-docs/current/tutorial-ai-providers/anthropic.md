@@ -25,6 +25,7 @@ Si desea eliminar su clave API de CodeGPT, abra la Paleta de comandos y busque `
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1Xs1QVKhmZ8?si=IZHm0mZlO_8hGStT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Modelos de Claude disponibles en Code GPT
+- claude-2.1
 - claude-2
 - claude-v1.3-100k
 - claude-instant-v1.3-100k
