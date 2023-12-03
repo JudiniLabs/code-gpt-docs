@@ -31,6 +31,7 @@ If you want to remove your API Key from CodeGPT, open the Command Palette and se
 
 ### Claude Models available in Code GPT
 - claude-2
+- claude-2.1
 - claude-v1.3-100k
 - claude-instant-v1.3-100k
 

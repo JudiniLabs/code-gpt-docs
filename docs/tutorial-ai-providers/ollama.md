@@ -43,6 +43,9 @@ Opensource project to run, create, and share large language models (LLMs).
 - wizardcoder:python
 - wizardcoder:34b-python
 - mistral
+- zephyr
+- deepseek-coder
+- deepseek-coder:33b
 
 ## API Errors
 If you are getting API errors check the following link: [Ollama Documentation](https://ollama.ai/)

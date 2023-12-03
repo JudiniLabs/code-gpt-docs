@@ -23,6 +23,7 @@ If you want to remove your API Key from CodeGPT, open the Command Palette and se
 - HuggingFaceH4/starchat-beta
 - tiiuae/falcon-7b-instruct
 - codellama/CodeLlama-34b-Instruct-hf
+- mistralai/Mistral-7B-v0.1
 
 ## API Errors
 If you are getting API errors check the following link: [Huggingface Documentation](https://huggingface.co/docs/inference-endpoints/index)

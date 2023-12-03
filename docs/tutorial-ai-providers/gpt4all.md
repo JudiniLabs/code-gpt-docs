@@ -19,6 +19,8 @@ The ecosystem features a user-friendly desktop chat client and official bindings
 - gpt4all-j-v1.3-groovy
 - vicuna-13b-1.1-q4_2
 - replit-code-v1-3b
+- mistral-7b-openorca
+- gpt4all-falcon-q4_0
 
 ## API Errors
 If you are getting API errors check the following link: [GPT4All Documentation](https://docs.gpt4all.io/index.html)
