@@ -9,15 +9,15 @@ A funcionalidade de Autocompletar Código com Seleção de Modelo capacita você
 
 ## Como Usar:
 - Configurações de Autocompletar:
-    - Marque a opção ✅ **Ativar CodeGPT Copilot**
-    - **Máx. Tokens:** O número máximo de tokens a serem gerados. O modelo irá parar assim que esse número de tokens for gerado, de modo que esse valor equilibra entre latência e coerência.
-    - **Provedor:**
+    - Marque a opção ✅ **Enable CodeGPT Copilot**
+    - **Max Tokens:** O número máximo de tokens a serem gerados. O modelo irá parar assim que esse número de tokens for gerado, de modo que esse valor equilibra entre latência e coerência.
+    - **Provider:**
         - OpenAI - gpt-3.5-turbo-instruct
         - Anthropic - claude-2
         - Anthropic - claude-instant-1
         - Ollama - codellama
         - Google - text-bison-001 (somente em inglês)
-    - **Atraso nas Sugestões:** O atraso em milissegundos entre o último caractere digitado e a solicitação de sugestões.
+    - **Suggestion Delay:** O atraso em milissegundos entre o último caractere digitado e a solicitação de sugestões.
 
 :::note Configurações de Autocompletar de Código
 <p align="center">

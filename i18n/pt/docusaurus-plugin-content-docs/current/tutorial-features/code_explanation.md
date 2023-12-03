@@ -9,12 +9,12 @@ A funcionalidade de Explicação de Código do CodeGPT permite que você obtenha
 
 ## Como Usar:
 - Selecione o Código: Destaque o trecho de código
-- Clique com o botão direito no código selecionado e selecione **CodeGPT: Explicação de Código**
+- Clique com o botão direito no código selecionado e selecione **CodeGPT: Code Explanation**
 
 ## Exemplo
-Selecione o código, clique com o botão direito e selecione `CodeGPT: Explicação de Código`
+Selecione o código, clique com o botão direito e selecione `Code Explanation`
 
-:::note CodeGPT: Explicação de Código
+:::note CodeGPT: Code Explanation
 <p align="center">
   <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/dd6bd392-9ddb-4be9-81af-7929d34f60ad" />
 </p>

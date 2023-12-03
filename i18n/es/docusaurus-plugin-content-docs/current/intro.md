@@ -10,7 +10,7 @@ CodeGPT es una poderosa extensión que aprovecha las capacidades de los Modelos 
  
 :::info
 
-Esta herramienta no solo te permite interactuar dinámicamente con tu entorno de trabajo, sino que tambiénes de IA que enriquecen LLMs con contexto y te conectan con repositorios, informes y otras áreas críticas de tu negocio.
+Esta herramienta no solo interactúa con su entorno de trabajo, sino que puede crear agentes de inteligencia artificial para agregar contexto a su LLM y conectarlo con repositorios, informes y otras áreas importantes de su negocio.
  
 :::
 

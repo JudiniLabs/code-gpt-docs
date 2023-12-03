@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Ejecutar Intérprete de Código (Beta)
 
-La función ***Intérprete de Código con Python*** (Beta) te permite solicitar y recibir sugerencias de código de manera fluida dentro de los comentarios. Esta herramienta poderosa mejora tu experiencia de programación al proporcionar fragmentos de código rápidos y relevantes.
+La función ***Code Interpreter with Python*** (Beta) te permite solicitar y recibir sugerencias de código de manera fluida dentro de los comentarios. Esta herramienta poderosa mejora tu experiencia de programación al proporcionar fragmentos de código rápidos y relevantes.
 
 Con la integración de Jupyter Notebook, ahora puedes ejecutar fragmentos de código directamente en tu entorno.
 

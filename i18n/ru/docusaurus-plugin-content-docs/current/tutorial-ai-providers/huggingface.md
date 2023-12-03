@@ -24,5 +24,5 @@ Hugging Face - это платформа, созданная для обмена
 - tiiuae/falcon-7b-instruct
 - codellama/CodeLlama-34b-Instruct-hf
 
-## Ошибки API
+## API errors
 Если у вас возникают ошибки API, проверьте следующую ссылку: [Документация Huggingface](https://huggingface.co/docs/inference-endpoints/index)

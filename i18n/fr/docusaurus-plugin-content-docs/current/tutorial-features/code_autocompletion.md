@@ -9,15 +9,15 @@ La fonctionnalité d'autocomplétion de code avec sélection de modèle vous per
 
 ## Comment utiliser :
 - Paramètres d'autocomplétion :
-    - Cochez l'option ✅ **Activer CodeGPT Copilot**
+    - Cochez l'option ✅ **Enable CodeGPT Copilot**
     - **Max Tokens :** Le nombre maximum de jetons à générer. Le modèle s'arrêtera une fois que ce nombre de jetons aura été généré, de sorte que cette valeur échange entre la latence et la cohérence.
-    - **Fournisseur :**
+    - **Provider :**
         - OpenAI - gpt-3.5-turbo-instruct
         - Anthropic - claude-2
         - Anthropic - claude-instant-1
         - Ollama - codellama
         - Google - text-bison-001 (en anglais uniquement)
-    - **Délai de suggestion :** Le délai en millisecondes entre la frappe du dernier caractère et la demande de suggestions.
+    - **Suggestion Delay :** Le délai en millisecondes entre la frappe du dernier caractère et la demande de suggestions.
 
 :::note Paramètres d'autocomplétion de code
 <p align="center">

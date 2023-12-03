@@ -7,7 +7,7 @@ sidebar_position: 1
 CodeGPT доступен как для [VSCode](https://code.visualstudio.com/), так и для [Cursor](https://cursor.sh/). В этом руководстве мы проведем вас через процесс установки вне зависимости от вашего предпочтительного текстового редактора. Давайте начнем!
 
 ## Visual Studio Code
-Сначала загрузите и установите Visual Studio Code: [Скачать](https://code.visualstudio.com/download)
+Сначала загрузите и установите Visual Studio Code: [Download](https://code.visualstudio.com/download)
 
 ### Установите расширение Code GPT
 Вы можете установить расширение из Visual Studio Marketplace, Open VSX или непосредственно из вкладки "Расширения" в Visual Studio Code.
@@ -20,14 +20,14 @@ CodeGPT доступен как для [VSCode](https://code.visualstudio.com/),
 
 ### Магазин VSCode
 Вы можете перейти по этой ссылке, чтобы перейти непосредственно на страницу CodeGPT в магазине Visual Studio:
-- [Скачать с Магазина](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
+- [Download from Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 
 ### Open VSX
 Или вы можете скачать расширение через Open VSX:
-- [Скачать с Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
+- [Download from Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
 
 ## Cursor
-Если вы предпочитаете использовать Cursor, вы можете скачать его по этой ссылке: [Скачать](https://cursor.sh/)
+Если вы предпочитаете использовать Cursor, вы можете скачать его по этой ссылке: [Download](https://cursor.sh/)
 
 :::note Поиск Code GPT во вкладке "Расширения"
 <p align="center">
@@ -35,4 +35,4 @@ CodeGPT доступен как для [VSCode](https://code.visualstudio.com/),
 </p>
 :::
 
-Теперь, когда у вас установлено расширение, вам нужно продолжить с соответствующей [настройкой](/docs/tutorial-basics/configuration).
+Теперь, когда у вас установлено расширение, вам нужно продолжить с соответствующей [configuration](/docs/tutorial-basics/configuration).

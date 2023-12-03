@@ -23,5 +23,5 @@ Cohere - это компания в области искусственного 
 - command-medium-nightly
 - command-light-nightly
 
-## Ошибки API
+## API errors
 Если у вас возникают ошибки API, проверьте следующую ссылку: [Ошибки API Cohere](https://docs.cohere.ai/reference/errors)

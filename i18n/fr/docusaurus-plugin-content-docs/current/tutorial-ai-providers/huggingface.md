@@ -9,7 +9,7 @@ Hugging Face est une plateforme conçue pour partager des modèles d'intelligenc
 
 ## Connectez votre compte Huggingface
 - Créez un compte sur [Huggingface](https://huggingface.co/)
-- Allez dans [Profil - Paramètres - Jetons d'accès](https://huggingface.co/settings/tokens)
+- Allez dans [Profile - Settings - Access Tokens](https://huggingface.co/settings/tokens)
 - Générez et copiez API Key
 - Dans VSCode, appuyez sur ```cmd + shift + p``` et recherchez **`Set API Key`**
 - Collez votre API Key

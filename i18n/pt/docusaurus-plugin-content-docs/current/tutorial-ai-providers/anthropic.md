@@ -15,9 +15,9 @@ Para acessar Claude, você deve entrar em https://www.anthropic.com/product e de
 ## Conecte sua conta Anthropic
 - Crie uma conta em [Anthropic](https://console.anthropic.com/)
 - Acesse suas [API Key](https://console.anthropic.com/account/keys)
-- Gere e copie a Chave da API
+- Gere e copie a API Key
 - No VSCode, pressione ```cmd + shift + p``` e procure por **`Set API Key`**
-- Cole sua Chave da API
+- Cole sua API Key
 
 :::caution Remover API Key
 Se desejar remover sua API Key do CodeGPT, abra a Paleta de Comandos e procure por `CodeGPT: Remove API KEY`.

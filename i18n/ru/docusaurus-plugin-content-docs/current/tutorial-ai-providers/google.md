@@ -29,5 +29,5 @@ PaLM 2 - это следующее поколение больших языко�
 - chat-bison-001
 - text-bison-001
 
-## Ошибки API
+## API errors
 Если у вас возникают ошибки API, проверьте следующую ссылку: [Документация Google Makersuite](https://developers.generativeai.google/api/rest/generativelanguage)

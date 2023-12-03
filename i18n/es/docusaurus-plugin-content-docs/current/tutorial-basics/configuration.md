@@ -40,12 +40,12 @@ Los tokens pueden ser considerados como piezas de palabras. Antes de que la API 
 
 Cada modelo tiene un número máximo de tokens. Seleccione el número de tokens en función de la longitud de la respuesta que desea obtener y del modelo seleccionado.
 
-Más información: [Tokens por OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
+Más información: [Tokens by OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
 
 ### Model
 El servicio proporciona acceso a muchos modelos diferentes, agrupados por familia y habilidad. Una familia de modelos generalmente asocia modelos por su tarea prevista.
 
-Más información: [Models por OpenAI](https://beta.openai.com/docs/models/overview)
+Más información: [Models by OpenAI](https://beta.openai.com/docs/models/overview)
 
 ### Organization ID (OpenAI)
 La información de ID de organización solo se aplica a OpenAI y te permite seleccionar la organización con la que usarás tu clave de API.
@@ -58,7 +58,7 @@ Este es un parámetro que se puede ajustar. Determina el nivel de aleatoriedad o
 
 Es un valor entre 0 y 1. 0 siendo el más determinista y 1 siendo el más aleatorio y creativo. La temperatura predeterminada es 0.3.
 
-Más información: [Temperature por Cohere](https://docs.cohere.ai/docs/temperature)
+Más información: [Temperature by Cohere](https://docs.cohere.ai/docs/temperature)
 
 ### Window Memory
 
