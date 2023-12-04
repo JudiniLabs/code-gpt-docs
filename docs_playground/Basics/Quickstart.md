@@ -1,4 +1,3 @@
-```markdown
 --- 
 sidebar_position: 1 
 --- 
@@ -32,4 +31,3 @@ There are two ways to log in to CodeGPT Plus:
 :::caution
 Remember, if you choose any of these two options, you must always log in using the same method.
 :::    
-```
