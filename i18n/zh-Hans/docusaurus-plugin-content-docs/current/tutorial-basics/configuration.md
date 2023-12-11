@@ -1,4 +1,3 @@
-```markdown
 ---
 sidebar_position: 2
 ---
@@ -69,4 +68,3 @@ sidebar_position: 2
 - 默认值：4
 - 最小值：1
 - 最大值：50
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 sidebar_position: 2
 ---
@@ -63,4 +62,3 @@ OpenAI是一个人工智能研究组织，旨在以有益于全人类的方式�
 - [错误代码429 - 您已超出当前的使用配额，请检查您的计划和计费详细信息](https://help.openai.com/en/articles/6891831-error-code-429-you-exceeded-your-current-quota-please-check-your-plan-and-billing-details)
 - [错误代码429 - 引擎当前过载。请稍后再试](https://help.openai.com/en/articles/6891834-error-code-429-the-engine-is-currently-overloaded-please-try-again-later)
 - [错误代码401 - 无效的身份验证](https://help.openai.com/en/articles/6891767-error-code-401-invalid-authentication)
-```
