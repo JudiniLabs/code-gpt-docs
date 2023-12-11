@@ -31,7 +31,8 @@ Select your AI provider from the dropdown menu, then enter the API Key for the s
 - [AI21](/docs/tutorial-ai-providers/ai21)
 - [Huggingface](/docs/tutorial-ai-providers/huggingface)
 - [GPT4All](/docs/tutorial-ai-providers/gpt4all)
-- [Ollama](/docs/tutorial-ai-providers/judini)
+- [Ollama](/docs/tutorial-ai-providers/ollama)
+- [Fireworks](/docs/tutorial-ai-providers/fireworks)
   
 :::
 
