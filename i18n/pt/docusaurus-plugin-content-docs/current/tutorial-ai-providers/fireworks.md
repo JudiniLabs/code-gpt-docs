@@ -3,26 +3,25 @@ sidebar_position: 11
 ---
 
 # Fireworks
-Official website https://app.fireworks.ai/
+Site oficial https://app.fireworks.ai/
 
-Experience the world's fastest Generative AI inference platform. Use a state-of-the-art, open-source model or fine-tune and deploy your own at no additional cost.
+Experimente a plataforma de inferência de IA generativa mais rápida do mundo. Use um modelo de código aberto de última geração ou ajuste e implante o seu próprio sem custo adicional.
 
-## Connect your Fireworks account
-- Create an account in [Fireworks](https://app.fireworks.ai/login)
-- Go to your [Profile / API Keys](https://app.fireworks.ai/users?tab=apps)
-- Copy the API Key
-- In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
-- Paste your API Key
+## Conecte sua conta do Fireworks
+- Crie uma conta em [Fireworks](https://app.fireworks.ai/login)
+- Vá para o seu [Profile/API Keys](https://app.fireworks.ai/users?tab=apps)
+- Copie a Chave de API
+- No VSCode, pressione ```cmd + shift + p``` e pesquise **`Set API Key`**
+- Cole sua Chave de API
 
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
+:::caution Remover Chave
+Se desejar remover sua Chave de API do CodeGPT, abra a Paleta de Comandos e pesquise `CodeGPT: Remove API KEY`.
 :::
 
-## Fireworks available in Code GPT
+## Fireworks disponíveis no Code GPT
 - llama-v2-7b-chat
 - mixtral-8x7b-fw-chat
 - zephyr-7b-beta
 
-## API Errors
-If you are getting API errors check the following link: [Fireworks Documentation](https://readme.fireworks.ai/docs)
-
+## Erros da API
+Se estiver recebendo erros da API, verifique o seguinte link: [Documentação do Fireworks](https://readme.fireworks.ai/docs)
