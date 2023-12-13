@@ -22,10 +22,12 @@ If you want to remove your API Key from CodeGPT, open the Command Palette and se
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1u8rIO7UEjs?si=t4OTbGmyeOEVE-PB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
 
-## Google Gemini Models available in CodeGPT
+## Google Models available in CodeGPT
+
+### Gemini
 - gemini-pro
 
-## Google PaLM 2 Models available in CodeGPT
+### Google PaLM 2
 - chat-bison-001
 - text-bison-001
 
