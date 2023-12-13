@@ -32,4 +32,4 @@ If you want to remove your API Key from CodeGPT, open the Command Palette and se
 - text-bison-001
 
 ## API Errors
-If you are getting API errors check the following link: [Google Makersuite Documentation](https://ai.google.dev/api/rest?hl=es-419)
+If you are getting API errors check the following link: [Google AI Studio Documentation](https://ai.google.dev/api/rest?hl=es-419)
