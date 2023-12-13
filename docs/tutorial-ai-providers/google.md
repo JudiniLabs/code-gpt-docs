@@ -6,7 +6,7 @@ sidebar_position: 3
 Official website https://makersuite.google.com/
 
 ## Connect your Google AI Studio Account
-- Request access to PaLM 2 and Gemini in this link [Google MakerSuite](https://makersuite.google.com/)
+- Request access to PaLM 2 and Gemini in this link [Google AI Studio](https://makersuite.google.com/)
 - Go to the [Get API key](https://makersuite.google.com/app/apikey) menu
 - Create a new API key
 - Copy this API Key to your clipboard
