@@ -1,11 +1,11 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 ---
 
-# Google AI Studio
-Official website https://makersuite.google.com/
+# Google Vertex AI
+Official website https://cloud.google.com/
 
-## Connect your Google AI Studio Account
+## Connect your Google Cloud Account
 - Request access to PaLM 2 and Gemini in this link [Google AI Studio](https://makersuite.google.com/)
 - Go to the [Get API key](https://makersuite.google.com/app/apikey) menu
 - Create a new API key
@@ -18,16 +18,16 @@ If you want to remove your API Key from CodeGPT, open the Command Palette and se
 :::
 
 ## Connect Google AI Studio tutorial
-:::note Connect Google AI Studio
+:::note Connect Google Vertex AI
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1u8rIO7UEjs?si=t4OTbGmyeOEVE-PB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
 
 ## Google Models available in CodeGPT
 
 ### Gemini
-- gemini-nano (soon)
+- gemini-nano
 - gemini-pro
-- gemini-ultra (soon)
+- gemini-ultra
 
 ### Google PaLM 2
 - chat-bison-001
