@@ -22,7 +22,7 @@ sidebar_position: 2
 
 :::info Получите ключ API
 
-- [CodeGPT Plus](/docs/tutorial-ai-providers/judini)
+- [CodeGPT Plus](/docs/tutorial-ai-providers/codegpt_plus)
 - [OpenAI](/docs/tutorial-ai-providers/openai)
 - [Google Makersuite](/docs/tutorial-ai-providers/google)
 - [Microsoft Azure](/docs/tutorial-ai-providers/microsoft-azure)
@@ -31,7 +31,7 @@ sidebar_position: 2
 - [AI21](/docs/tutorial-ai-providers/ai21)
 - [Huggingface](/docs/tutorial-ai-providers/huggingface)
 - [GPT4All](/docs/tutorial-ai-providers/gpt4all)
-- [Ollama](/docs/tutorial-ai-providers/judini)
+- [Ollama](/docs/tutorial-ai-providers/ollama)
   
 :::
 

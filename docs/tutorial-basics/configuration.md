@@ -22,7 +22,7 @@ Select your AI provider from the dropdown menu, then enter the API Key for the s
 
 :::info Get your API Key
 
-- [CodeGPT Plus](/docs/tutorial-ai-providers/judini)
+- [CodeGPT Plus](/docs/tutorial-ai-providers/codegpt_plus)
 - [OpenAI](/docs/tutorial-ai-providers/openai)
 - [Google Makersuite](/docs/tutorial-ai-providers/google)
 - [Microsoft Azure](/docs/tutorial-ai-providers/microsoft-azure)
