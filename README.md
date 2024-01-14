@@ -1,10 +1,16 @@
 # CodeGPT News 🗞
 ## ✨ Support CodeGPT 🥳
 
-Our extension is free and we want to keep it that way forever.
+Our extension is FREE and we want to keep it that way FOREVER.
 
 If you want to help us, give us a good score ⭐️⭐️⭐️⭐️⭐️ in the Visual Studio Code marketplace at this link:
 [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt&ssr=false#review-details)
+
+## ✨ Now you coul use Vision with CodeGPT Plus
+![gif3](https://github.com/davila7/code-gpt-docs/assets/6216945/c8b92f8b-98ef-496c-9f5a-835a8c09ffdd)
+
+New chat available!
+![gif2](https://github.com/davila7/code-gpt-docs/assets/6216945/23b0d065-970b-45cb-97f5-a985dd88c8d6)
 
 ## ✨ Llama 2 🦙 from Meta lands on CodeGPT
 
