@@ -14,7 +14,7 @@ You can install the extension from the Visual Studio Marketplace, Open VSX, or d
 
 :::note Search for Code GPT in the Extensions tab
 <p align="center">
-      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/ec68d8d7-fa99-454c-876d-1e52815667c7" />
+      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/1797df8c-e170-482e-95b3-37b901add402" />
 </p>
 :::
 
