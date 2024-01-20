@@ -13,7 +13,7 @@ const config = {
   tagline: 'Artificial intelligence inside your IDE with this open source extension',
   url: 'https://docs.codegpt.co/',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
