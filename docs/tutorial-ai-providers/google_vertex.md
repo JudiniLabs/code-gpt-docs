@@ -6,20 +6,21 @@ sidebar_position: 4
 Official website https://cloud.google.com/
 
 ## Connect your Google Cloud Account
-- Request access to PaLM 2 and Gemini in this link [Google AI Studio](https://makersuite.google.com/)
+- Request access to PaLM 2 or Gemini in this link [Google AI Studio](https://makersuite.google.com/)
 - Go to the [Get API key](https://makersuite.google.com/app/apikey) menu
 - Create a new API key
-- Copy this API Key to your clipboard
-- In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
+- Copy this API Key to your clipboard and the link of the model
+- Copy the API Key and link model here:
+  
+<p align="center">
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/1d483a4f-05a8-4fe8-b239-04fe07b48076" />
+</p>
+ 
+- Or, in VSCode press ```cmd + shift + p``` and search **`Set API Key`**
 - Paste your API Key
 
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
-:::
-
-## Connect Google AI Studio tutorial
-:::note Connect Google Vertex AI
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1u8rIO7UEjs?si=t4OTbGmyeOEVE-PB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
 
 ## Google Models available in CodeGPT
