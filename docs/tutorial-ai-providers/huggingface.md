@@ -12,7 +12,13 @@ The Hugging Face is a platform designed to share pre-trained AI models and colla
 - Create an account in [Huggingface](https://huggingface.co/)
 - Go to your [Profile - Settings - Access Tokens](https://huggingface.co/settings/tokens)
 - Generate and copy the API Key
-- In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
+- Copy the API Key here:
+  
+<p align="center">
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/dd106264-9524-48ad-9fb7-593b917b677a" />
+</p>
+ 
+- Or, in VSCode press `cmd + shift + p` and search **`Set API Key`**
 - Paste your API Key
 
 :::caution Remove Key
@@ -20,10 +26,10 @@ If you want to remove your API Key from CodeGPT, open the Command Palette and se
 :::
 
 ### Huggingface Models available in Code GPT
-- HuggingFaceH4/starchat-beta
-- tiiuae/falcon-7b-instruct
-- codellama/CodeLlama-34b-Instruct-hf
+- OperAssistant/oasst
+-  mistralai/Mixtral-8x7
 - mistralai/Mistral-7B-v0.1
 
 ## API Errors
 If you are getting API errors check the following link: [Huggingface Documentation](https://huggingface.co/docs/inference-endpoints/index)
+
