@@ -2,11 +2,11 @@
 sidebar_position: 8
 ---
 
-# Run Code Interpreter (Beta)
+# Run Code Interpreter (Python)
 
 ## Description
 
-The ***Code Interpreter with Python*** (Beta) feature allows you to seamlessly request and receive code suggestions within comments. This powerful tool enhances your coding experience by providing quick and relevant code snippets.
+The ***Code Interpreter with Python*** feature allows you to seamlessly request and receive code suggestions within comments. This powerful tool enhances your coding experience by providing quick and relevant code snippets.
 
 With the integration of Jupyter Notebook, you can now execute code snippets directly in your environment.
 
