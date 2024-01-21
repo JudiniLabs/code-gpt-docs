@@ -22,7 +22,7 @@ The Code Autocompletion with Model Selection feature empowers you to choose from
 
 :::note Code Autocomplete settings
 <p align="center">
-      <img width="600" height="450" src="https://github.com/davila7/code-gpt-docs/assets/37567214/14693326-ee6c-4696-875b-b360188b969d" />
+      <img width="500" height="450" src="https://github.com/davila7/code-gpt-docs/assets/37567214/14693326-ee6c-4696-875b-b360188b969d" />
 </p>
 :::
 
@@ -31,7 +31,7 @@ The Code Autocompletion with Model Selection feature empowers you to choose from
 
 :::note Code Autocomplete
 <p align="center">
-      <img width="600" height="450" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a3f1d2b5-fc0b-4338-926d-287fcb02465c" />
+      <img width="500" height="450" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a3f1d2b5-fc0b-4338-926d-287fcb02465c" />
 </p>
 
 :::
