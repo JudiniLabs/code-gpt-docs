@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Code Documentation
+# Document CodeGPT
 
 ## Description
 The CodeGPT Code Documentation feature enables you to effortlessly generate comprehensive documentation for your codebase. By selecting specific code segments, you can prompt CodeGPT to create detailed and informative documentation.
