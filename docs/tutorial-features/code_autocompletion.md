@@ -2,10 +2,10 @@
 sidebar_position: 2
 ---
 
-# Code Autocompletion
+# Autocompletion GPT
 
 ## Description
-The Code Autocompletion with Model Selection feature empowers you to choose from a curated selection of models including those from OpenAI, Anthropic, Ollama, and Google Makersuite. This advanced tool enhances your coding experience by providing accurate and contextually relevant code suggestions.
+The Autocompletion GPT with Model Selection feature empowers you to choose from a curated selection of models including those from OpenAI, Anthropic, Ollama, and Google Makersuite. This advanced tool enhances your coding experience by providing accurate and contextually relevant code suggestions.
 
 ## How to Use:
 - Autocomplete Settings:
@@ -20,7 +20,7 @@ The Code Autocompletion with Model Selection feature empowers you to choose from
         - Ollama - codegpt/deepseek-coder-1.3b-typescript
     - **Suggestion Delay:** The delay in **milliseconds** between the last character typed and the request for suggestions. By default is 3000.
 
-:::note Code Autocomplete settings
+:::note Autocompletion GPT settings
 <p align="center">
       <img width="500" height="450" src="https://github.com/davila7/code-gpt-docs/assets/37567214/14693326-ee6c-4696-875b-b360188b969d" />
 </p>
@@ -29,7 +29,7 @@ The Code Autocompletion with Model Selection feature empowers you to choose from
 - Effortless Integration:
     - Seamlessly incorporate the suggested code snippets into your project, improving code quality and efficiency. Press `Tab` to accept the suggestion
 
-:::note Code Autocomplete
+:::note Autocompletion GPT
 <p align="center">
       <img width="500" height="450" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a3f1d2b5-fc0b-4338-926d-287fcb02465c" />
 </p>
