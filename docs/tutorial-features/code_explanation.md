@@ -20,7 +20,7 @@ Select the code, right click then select `CodeGPT: Explain CodeGPT`
 
 :::note CodeGPT: Explain CodeGPT
 <p align="center">
-  <img width="600" height="450" src="https://github.com/davila7/code-gpt-docs/assets/37567214/028b1e5e-3631-460c-9b89-2307d4aa4568" />
+  <img width="650" height="450" src="https://github.com/davila7/code-gpt-docs/assets/37567214/028b1e5e-3631-460c-9b89-2307d4aa4568" />
 </p>
 :::
 
