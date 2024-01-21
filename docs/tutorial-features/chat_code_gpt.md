@@ -38,7 +38,7 @@ To share code snippets, simply select the desired code in your editor.
 Pose questions or request assistance by typing your inquiry in the chat. CodeGPT will respond with helpful suggestions and explanations. Also can use the FAQ buttons below the chat, write and press the buttons.
 
 <p align="center">
-    <img width="400" height="350"  src="https://github.com/davila7/code-gpt-docs/assets/37567214/1fcb06ec-6439-4e9f-bcd9-8af0f635ccc2" />
+    <img width="300" height="250"  src="https://github.com/davila7/code-gpt-docs/assets/37567214/1fcb06ec-6439-4e9f-bcd9-8af0f635ccc2" />
 </p>
 
 
