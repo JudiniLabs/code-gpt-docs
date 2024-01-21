@@ -14,6 +14,7 @@ OpenAI is an artificial intelligence research organization that aims to develop 
 - Click the button labeled **`Create a new secret key`**
 - A new dialog window will appear, containing a text box with your API key. 
 - Copy this API Key to your clipboard.
+- In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
 - Paste your API Key
 
 :::caution Remove Key
