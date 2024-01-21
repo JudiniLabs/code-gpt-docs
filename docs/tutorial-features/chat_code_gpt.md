@@ -8,11 +8,11 @@ The CodeGPT Chat feature enhances your development experience by allowing you to
 
 ## How to Use:
 ### Open the Chat Tab:
-Navigate to the tools tab and click on the 💬 option.
+Navigate to the tools tab and click on the 💬 option. You can used syncronizing your the CodeGPT Plus account or, other `Provider`.
 
 :::note CodeGPT Chat
 <p align="center">
-      <img width="350" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/fad033c3-16b9-4f27-a4ff-1033e3bb67eb" />
+      <img width="350" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7f0d756a-4698-44a4-bff7-77d68f69f585" />
 </p>
 :::
 
@@ -22,7 +22,7 @@ Once the chat tab is open, you can start a conversation by typing a message and 
 
 :::note CodeGPT Chat conversation
 <p align="center">
-      <img width="400" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/52480e2c-f1ac-4e28-b71b-7af781d08dd2" />
+      <img width="400" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/286fd1a9-beda-42a5-8219-760da8f8eb25"/>
 </p>
 :::
 
@@ -31,11 +31,13 @@ To share code snippets, simply select the desired code in your editor.
 
 :::note Code Selection
 <p align="center">
-      <img src="https://user-images.githubusercontent.com/6216945/227110771-71c53663-72da-4a48-9b68-19a7e8783ff8.gif" />
+      <img width="400" height="150"  src="https://github.com/davila7/code-gpt-docs/assets/37567214/021b2fbb-c5ce-459c-bceb-dc0e8d42f404" />
 </p>
 :::
 
-Pose questions or request assistance by typing your inquiry in the chat. CodeGPT will respond with helpful suggestions and explanations.
+Pose questions or request assistance by typing your inquiry in the chat. CodeGPT will respond with helpful suggestions and explanations. Also can use the FAQ buttons below the chat, write and press the buttons.
+
+![image](https://github.com/davila7/code-gpt-docs/assets/37567214/1fcb06ec-6439-4e9f-bcd9-8af0f635ccc2)
 
 ### Theme Adaptability:
 
@@ -45,7 +47,7 @@ Change according to the theme you have installed
 
 :::note CodeGPT Chat Themes
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/6216945/227375441-212d8467-4469-44dd-9160-67fe2941eed4.gif" />
+    <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/412c744e-ff7e-4a83-9080-474f056ec644" />
 </p>
 :::
 
