@@ -5,7 +5,7 @@ sidebar_position: 5
 # Document CodeGPT
 
 ## Description
-The CodeGPT Code Documentation feature enables you to effortlessly generate comprehensive documentation for your codebase. By selecting specific code segments, you can prompt CodeGPT to create detailed and informative documentation.
+The CodeGPT Document CodeGPT feature enables you to effortlessly generate comprehensive documentation for your codebase. By selecting specific code segments, you can prompt CodeGPT to create detailed and informative documentation.
 
 ## How to Use:
 - Select CodeGPT as `Provider`  and `Model`
