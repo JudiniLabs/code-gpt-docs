@@ -17,23 +17,22 @@ To access Claude, you must enter https://www.anthropic.com/product and then sele
 - Create an account in [Anthropic](https://console.anthropic.com/)
 - Go to your [API Keys](https://console.anthropic.com/account/keys)
 - Generate and copy the API Key
-- In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
+- Copy the API Key here:
+  
+<p align="center">
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/d83dda72-9095-43c7-9be1-77dc29e685e3" />
+</p>
+ 
+- Or, in VSCode press `cmd + shift + p` and search **`Set API Key`**
 - Paste your API Key
 
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
 :::
 
-## Connect Google Makersuite tutorial
-:::note Connect Anthropic Claude
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1Xs1QVKhmZ8?si=IZHm0mZlO_8hGStT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-:::
-
 ### Claude Models available in Code GPT
-- claude-2
 - claude-2.1
-- claude-v1.3-100k
-- claude-instant-v1.3-100k
+- claude-instant-1.2
 
 ## API Errors
 If you are getting API errors check the following link: [Anthropic API Errors](https://docs.anthropic.com/claude/reference/errors-and-rate-limits)
