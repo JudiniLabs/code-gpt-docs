@@ -13,24 +13,25 @@ The Code Autocompletion with Model Selection feature empowers you to choose from
     - **Max Tokens:** The maximum number of tokens to generate. The model will stop once this many tokens have been generated, so this value trades off between latency and coherence.
     - **Provider:**
         - OpenAI - gpt-3.5-turbo-instruct
+        - CodeGPT Plus - Plus
         - Anthropic - claude-2
         - Anthropic - claude-instant-1
-        - Ollama - codellama
-        - Ollama - mistral:instruct
-        - Google - text-bison-001 (English only)
-    - **Suggestion Delay:** The delay in milliseconds between the last character typed and the request for suggestions.
+        - Ollama - deepseek-coder:base
+        - Ollama - codegpt/deepseek-coder-1.3b-typescript
+    - **Suggestion Delay:** The delay in **milliseconds** between the last character typed and the request for suggestions. By default is 3000.
 
 :::note Code Autocomplete settings
 <p align="center">
-      <img width="600" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/b4b09276-bc7e-4a8d-847b-371a8bd34488" />
+      <img width="600" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/14693326-ee6c-4696-875b-b360188b969d" />
 </p>
 :::
 
 - Effortless Integration:
-    - Seamlessly incorporate the suggested code snippets into your project, improving code quality and efficiency.
+    - Seamlessly incorporate the suggested code snippets into your project, improving code quality and efficiency. Press `Tab` to accept the suggestion
 
 :::note Code Autocomplete
 <p align="center">
-      <img width="600" height="150" src="https://github.com/davila7/code-gpt-docs/assets/6216945/cc3bb10a-5528-4671-8cc7-522e957e2bdd" />
+      <img width="600" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a3f1d2b5-fc0b-4338-926d-287fcb02465c" />
 </p>
+
 :::
