@@ -21,8 +21,9 @@ Select the code, right click then select `CodeGPT: Find Problems CodeGPT`
 
 :::note CodeGPT: Find Problems CodeGPT
 <p align="center">
-  <img width="550" height="250" src="https://www.canva.com/design/DAF6dhJa8aU/3tDcAEBphZMTTwxRG-vq2w/watch?utm_content=DAF6dhJa8aU&utm_campaign=designshare&utm_medium=link&utm_source=editor" />
+  <img width="550" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7a7b9fc1-e194-4f44-a4a9-d7d059418d2a" />
 </p>
 :::
+
 
 
