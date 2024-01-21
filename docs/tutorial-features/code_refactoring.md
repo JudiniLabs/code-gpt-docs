@@ -22,7 +22,7 @@ Select the code, right click then select `CodeGPT: Refactor CodeGPT`
 
 :::note CodeGPT: Code Refactoring
 <p align="center">
-  <img width="650" height="450" src="https://github.com/davila7/code-gpt-docs/assets/37567214/af70248f-b257-44c6-b5e3-8a1c2ba9325c" />
+  <img width="650" height="400" src="https://github.com/davila7/code-gpt-docs/assets/37567214/af70248f-b257-44c6-b5e3-8a1c2ba9325c" />
 </p>
 :::
 
