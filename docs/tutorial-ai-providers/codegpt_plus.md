@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# CodeGPT Plus
+# CodeGPT Plus (Legacy)
 
 Official website https://codegpt.co
 
