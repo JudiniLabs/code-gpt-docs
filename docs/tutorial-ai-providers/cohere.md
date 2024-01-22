@@ -12,7 +12,7 @@ Cohere is an artificial intelligence company that specializes in developing lang
 - Copy the API Key here:
   
 <p align="center">
-      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/2a15c150-bbac-4376-9e0f-d96068220db2" />
+      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/2a15c150-bbac-4376-9e0f-d96068220db2" />
 </p>
 
  
