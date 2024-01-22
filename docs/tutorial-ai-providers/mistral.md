@@ -13,7 +13,7 @@ We’re a small creative team with high scientific standards. We make efficient,
 - Go to your [Platform / API Keys](https://console.mistral.ai/users/api-keys/)
 - Create and copy the API Key here
 <p align="center">
-      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/bd736fe1-f302-4a2d-a308-3b1ef9dec728" />
+      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/bd736fe1-f302-4a2d-a308-3b1ef9dec728" />
 </p>
  
 - Or, in VSCode press ```cmd + shift + p``` and search **`Set API Key`**
