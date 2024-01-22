@@ -16,7 +16,7 @@ OpenAI is an artificial intelligence research organization that aims to develop 
 - Copy the API Key and Organization ID here:
   
 <p align="center">
-      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/c79e8c36-2d0c-4cfe-992b-5816748472aa"/>
+      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/c79e8c36-2d0c-4cfe-992b-5816748472aa"/>
 </p>
  
 - Or, in VSCode press `cmd + shift + p` and search **`Set API Key`**
@@ -26,9 +26,6 @@ OpenAI is an artificial intelligence research organization that aims to develop 
 If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
 :::
 
-:::note Connect OpenAI
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/vl6-5BigHzk?si=SgdXt0HAMah9-aal" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-:::
 
 ## GPT models available in Code GPT
 - gpt-4
