@@ -13,7 +13,7 @@ Opensource project to run, create, and share large language models (LLMs).
 - If you want to use mistral or other models, you will need to replace codellama with the desired model. For example: ```ollama pull mistral```
 
 # How to use Ollama
-- Open CodeGPT Setting in VSCode and Select Ollama like a Provider
+- In VSCode and Select Ollama like a `Provider`
  
 <p align="center">
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a5e3eda0-1609-44b4-bffb-a275ba2562b0" />
