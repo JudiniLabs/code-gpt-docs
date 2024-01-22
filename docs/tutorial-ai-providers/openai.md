@@ -18,6 +18,7 @@ OpenAI is an artificial intelligence research organization that aims to develop 
 <p align="center">
       <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/c79e8c36-2d0c-4cfe-992b-5816748472aa"/>
 </p>
+
  
 - Or, in VSCode press `cmd + shift + p` and search **`Set API Key`**
 - Paste your API Key
