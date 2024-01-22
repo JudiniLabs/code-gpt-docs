@@ -16,7 +16,7 @@ Official website https://cloud.google.com/
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/1d483a4f-05a8-4fe8-b239-04fe07b48076" />
 </p>
  
-- Or, in VSCode press ```cmd + shift + p``` and search **`Set API Key`**
+- Or, in VSCode press `cmd + shift + p` and search **`Set API Key`**
 - Paste your API Key
 
 :::caution Remove Key
