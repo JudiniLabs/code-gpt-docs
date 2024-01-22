@@ -14,38 +14,20 @@ Opensource project to run, create, and share large language models (LLMs).
 
 # How to use Ollama
 - Open CodeGPT Setting in VSCode and Select Ollama like a Provider
-
-:::note Ollama
+ 
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/ddec585e-84c6-49c4-86ac-be624fbfd9ee" />
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a5e3eda0-1609-44b4-bffb-a275ba2562b0" />
 </p>
-:::
-
-- Select one of the Ollama Models
-
-:::note Ollama Models
-<p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/1bf08939-60fe-4ad1-b588-898c20f2a8e8" />
-</p>
-:::
+ 
+- Please be aware that Ollama is running locally on your computer.
 
 ## Ollama Models available in Code GPT
 - llama2
-- llama2:13b
-- llama2:70b
 - codellama
-- codellama:34b
-- codellama:7b-python
-- codellama:34b-python
-- phind-codellama
-- phind-codellama:34b
-- wizardcoder
-- wizardcoder:python
-- wizardcoder:34b-python
+- phi
 - mistral
-- zephyr
+- mixtral
 - deepseek-coder
-- deepseek-coder:33b
 
 ## API Errors
 If you are getting API errors check the following link: [Ollama Documentation](https://ollama.ai/)
