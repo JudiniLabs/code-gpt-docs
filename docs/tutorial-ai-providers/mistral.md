@@ -11,6 +11,8 @@ We’re a small creative team with high scientific standards. We make efficient,
 ## Connect your Mistral account
 - Create an account in [Mistral](https://auth.mistral.ai/ui/login)
 - Go to your [Platform / API Keys](https://console.mistral.ai/users/api-keys/)
+- Choose `Mistral` as `Provider`
+- `Set connection` and link with your account on `⋮` button.
 - Create and copy the API Key here
 <p align="center">
       <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/bd736fe1-f302-4a2d-a308-3b1ef9dec728" />
