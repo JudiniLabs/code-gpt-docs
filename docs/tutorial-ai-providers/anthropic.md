@@ -17,6 +17,8 @@ To access Claude, you must enter https://www.anthropic.com/product and then sele
 - Create an account in [Anthropic](https://console.anthropic.com/)
 - Go to your [API Keys](https://app.nightfall.ai/developer-platform/api-keys)
 - Generate and copy the API Key
+- Choose `Anthropic` as `Provider`
+- `Set connection` and link with your account on `⋮` button.
 - Copy the API Key here:
   
 <p align="center">
