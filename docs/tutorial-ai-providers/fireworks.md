@@ -10,6 +10,8 @@ Experience the world's fastest Generative AI inference platform. Use a state-of-
 ## Connect your Fireworks account
 - Create an account in [Fireworks](https://app.fireworks.ai/login).
 - Go to your [Profile / API Keys](https://app.fireworks.ai/users?tab=apps).
+- Choose `Fireworks` as `Provider`
+- `Set connection` and link with your account on `⋮` button.
 - Copy the API Key here:
   
 <p align="center">
