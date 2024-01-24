@@ -23,7 +23,7 @@ Official website https://azure.microsoft.com/en-us/products/ai-services/openai-s
 - Paste the Endpoint and Secret Key
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
+If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`. Or you can select `⋮` button, and click on `Remove Connection`
 :::
 
 ## Azure OpenAI Models available in Code GPT
