@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Bedrock
 
-Official website [https://cohere.ai](https://aws.amazon.com/bedrock/)
+Official website [https://aws.amazon.com/bedrock/](https://aws.amazon.com/bedrock/)
 
 Amazon Bedrock, a fully-managed service, offers top foundation models (FMs) from leading AI firms, including AI21 Labs, Anthropic, Cohere, Meta, Stability AI, and Amazon via a single API. It provides a wide range of capabilities, including security, privacy, and responsible AI for developing generative AI applications. It enables you to test and evaluate top FMs, fine-tune them with your data, and build agents to perform tasks using enterprise systems and data sources. Being serverless, Amazon Bedrock eliminates infrastructure management and integrates generative AI features into your apps using familiar AWS services.
 
