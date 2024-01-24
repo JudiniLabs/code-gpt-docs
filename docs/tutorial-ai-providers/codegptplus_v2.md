@@ -29,12 +29,11 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`. Or you can select `⋮` button, and click on `Remove Connection`
+:::
 
 <p align="center">
       <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7a786f2e-f65d-4862-a1f7-61b705ff1cd5" />
 </p>
-
-:::
 
 ## Select an Agent 🤖
 Open the chat and select your agent after `Set connection`
