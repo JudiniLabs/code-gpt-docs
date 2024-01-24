@@ -13,24 +13,27 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 ## Connect CodeGPT Plus account
 
 ### Connect by Login
+-Choose `CodeGPT Plus legacy` as `Provider`
+- `Set connection` and link with your [CodeGPT Plus legacy](https://account.codegpt.co/) account.
 :::note CodeGPT Plus
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/a52e225b-ee54-442d-9fed-1df917d6be6f" />
+    <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/6798ab1f-5d19-407a-bc28-b4a5b9ea9b3f" />
 </p>
 :::
 
 ### Connect by API Key
-  - Request your API Key from the [CodeGPT Plus](https://account.codegpt.co/auth/register)
+  - Request your API Key from the [CodeGPT Plus](https://plus.codegpt.co/settings/apikey)
   - Go to the Settings / Access tokens and copy your **`API Key`**
   - In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
   - Paste your API Key
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
-:::
+If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`. Or you can select and click on `Remove Connection`
 
-:::note CodeGPT Plus
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/UX9LncRh0h8?si=WhWQFld30fGUoYOF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p align="center">
+      <img width="700" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7a786f2e-f65d-4862-a1f7-61b705ff1cd5" />
+</p>
+
 :::
 
 ## Select your provider and model
