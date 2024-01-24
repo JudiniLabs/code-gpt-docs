@@ -25,11 +25,9 @@ OpenAI is an artificial intelligence research organization that aims to develop 
 - Or, in VSCode press `cmd + shift + p` and search **`Set API Key`**
 - Paste your API Key
 
-
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
+If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`. Or you can select `⋮` button, and click on `Remove Connection`
 :::
-
 
 ## GPT models available in Code GPT
 - gpt-4
