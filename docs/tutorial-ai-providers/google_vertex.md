@@ -22,7 +22,7 @@ Official website https://cloud.google.com/
 - Paste your API Key
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
+If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`. Or you can select `⋮` button, and click on `Remove Connection`
 :::
 
 ## Google Models available in CodeGPT
