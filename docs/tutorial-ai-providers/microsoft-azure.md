@@ -11,6 +11,8 @@ Official website https://azure.microsoft.com/en-us/products/ai-services/openai-s
 - Get access to [Azure OpenAI Services](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
 - Go to [Azure OpenAI Studio](https://oai.azure.com/)
 - Get your Endpoint and Secret Key
+- Choose `Azure` as `Provider`
+- `Set connection` and link with your account on `⋮` button.
 - Copy the API Key here:
   
 <p align="center">
