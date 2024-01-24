@@ -10,6 +10,8 @@ Official website https://cloud.google.com/
 - Go to the [Get API key](https://makersuite.google.com/app/apikey) menu
 - Create a new API key
 - Copy this API Key to your clipboard and the link of the model
+- Choose `Vertex` as `Provider`
+- `Set connection` and link with your account on `⋮` button.
 - Copy the API Key and link model here:
   
 <p align="center">
