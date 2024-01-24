@@ -23,7 +23,7 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 - Now is able to use the chat, you can change to the agents or use our Model
 
 <p align="center">
-      <img width="700" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/6ee66517-f87f-4180-8fa4-d2384bbede25
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/6ee66517-f87f-4180-8fa4-d2384bbede25
 " />
 </p>
 
