@@ -24,7 +24,7 @@ The Hugging Face is a platform designed to share pre-trained AI models and colla
 - Paste your API Key
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`.
+If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`. Or you can select `⋮` button, and click on `Remove Connection`
 :::
 
 ### Huggingface Models available in Code GPT
