@@ -27,6 +27,13 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 " />
 </p>
 
+## Select an Agent 🤖
+Open the chat and select your agent after `Set connection`
+
+<p align="center">
+      <img width="700" height="550" src="https://github.com/davila7/code-gpt-docs/assets/37567214/774ca6a0-4e00-4e3f-b001-51c834dc5ecf" />
+</p>
+
 
 
 
