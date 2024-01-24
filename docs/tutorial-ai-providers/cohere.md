@@ -9,6 +9,8 @@ Cohere is an artificial intelligence company that specializes in developing lang
 ## Connect your Cohere account
 - Create an account in [cohere.ai](https://cohere.ai/)
 - Go to your [dashboard](https://dashboard.cohere.com/api-keys)
+- Choose `Cohere` as `Provider`
+- `Set connection` and link with your account on `⋮` button.
 - Copy the API Key here:
   
 <p align="center">
