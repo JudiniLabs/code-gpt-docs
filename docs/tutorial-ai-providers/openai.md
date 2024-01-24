@@ -12,7 +12,9 @@ OpenAI is an artificial intelligence research organization that aims to develop 
 - Go to the [API Keys page on OpenAI](https://platform.openai.com/account/api-keys).
 - Log in with your OpenAI account (or [create a new account](https://platform.openai.com/signup)
 - Click the button labeled **`Create a new secret key`**
-- A new dialog window will appear, containing a text box with your API key. 
+- A new dialog window will appear, containing a text box with your API key.
+- Choose `OpenAI` as `Provider`
+- `Set connection` and link with your account on `⋮` button.
 - Copy the API Key and Organization ID here:
   
 <p align="center">
