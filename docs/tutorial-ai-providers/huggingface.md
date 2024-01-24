@@ -12,6 +12,8 @@ The Hugging Face is a platform designed to share pre-trained AI models and colla
 - Create an account in [Huggingface](https://huggingface.co/)
 - Go to your [Profile - Settings - Access Tokens](https://huggingface.co/settings/tokens)
 - Generate and copy the API Key
+- Choose `HuggingFace` as `Provider`
+- `Set connection` and link with your account on `⋮` button.
 - Copy the API Key here:
   
 <p align="center">
