@@ -46,19 +46,12 @@ Make sure you have **CodeGPT Plus** selected as the provider and **CodeGPT Plus*
 
 ## Select an Agent 🤖
 Open the chat and select your agent
-
-:::note Open the chat
+## Select an Agent 🤖
+Open the chat and select your agent after `Set connection`
 
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/0c64590b-503d-4cfe-9b68-0dad0f52cfa8" />
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/774ca6a0-4e00-4e3f-b001-51c834dc5ecf" />
 </p>
-:::
-
-:::note Select an Agents
-<p align="center">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274446169-16c2182e-ce76-41c5-8ca4-59e1069dee60.png" />
-</p>
-:::
 
 Interact with agents that come with information loaded from CodeGPT Plus
 
