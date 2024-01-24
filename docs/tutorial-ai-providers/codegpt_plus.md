@@ -17,7 +17,7 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 - `Set connection` and link with your [CodeGPT Plus legacy](https://account.codegpt.co/) account.
 :::note CodeGPT Plus
 <p align="center">
-    <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/6798ab1f-5d19-407a-bc28-b4a5b9ea9b3f" />
+    <img width="350" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/6798ab1f-5d19-407a-bc28-b4a5b9ea9b3f" />
 </p>
 :::
 
