@@ -33,5 +33,10 @@ Opensource project to run, create, and share large language models (LLMs).
 If you are getting API errors check the following link: [Ollama Documentation](https://ollama.ai/)
 
 If the Ollama model does not respond in the chat, consider restarting it locally by turning it off and then on again. This action should resolve the issue.
-![image](https://github.com/davila7/code-gpt-docs/assets/37567214/4bd4e2c8-dbfb-46f3-b4d3-c3484cc7692c)
+
+<p align="center">
+      <img width="250" height="00" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4bd4e2c8-dbfb-46f3-b4d3-c3484cc7692c" />
+</p>
+ 
+
 
