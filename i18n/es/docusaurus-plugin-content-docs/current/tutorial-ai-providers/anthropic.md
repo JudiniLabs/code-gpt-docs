@@ -3,34 +3,39 @@ sidebar_position: 7
 ---
 
 # Anthropic
-Sitio web oficial https://www.anthropic.com. 
+Sitio web oficial: https://www.anthropic.com
 
-Anthropic es una startup de seguridad de inteligencia artificial con sedeán enfocados en desarrollar técnicas para asegurar que los sistemas de inteligencia artificial estén alineados con los valores humanos y se comporten éticamente. Algunas de sus áreas clave de investigación incluyen:
+Anthropic es una startup de seguridad en inteligencia artificial con sede en San Francisco. Están enfocados en desarrollar técnicas para asegurar que los sistemas de inteligencia artificial estén alineados con los valores humanos y se comporten éticamente.
+Algunas de sus áreas clave de investigación incluyen:
 
 # Claude
-Claude puede ser un representante de la empresa encantador, un asistente de investigación, un compañero creativo, un automatizador de tareas y más. La personalidad, el tono y el comportamiento se pueden personalizar según sus necesidades. Para acceder a Claude, debe ingresar a https://www.anthropic.com/product y luego seleccionar "Solicitar acceso".
+Claude puede ser un encantador representante de la empresa, un asistente de investigación, un compañero creativo, un automatizador de tareas y más. La personalidad, el tono y el comportamiento pueden personalizarse según sus necesidades.
 
-## Conecte su cuenta de Anthropic
-- Cree una cuenta en  [Anthropic](https://console.anthropic.com/)
-- Vaya a sus [API Keys](https://console.anthropic.com/account/keys)
-- Genere y copie la clave API
-- En VSCode, presione ```cmd + shift + p``` y busque **`Set API Key`**
-- Pegue su clave API
+Para acceder a Claude, debe ingresar a https://www.anthropic.com/product y luego seleccionar "Solicitar Acceso".
 
-:::caution Eliminar la API Key 
-Si desea eliminar su clave API de CodeGPT, abra la Paleta de comandos y busque `CodeGPT: Remove API KEY`.
+## Conecta tu cuenta de Anthropic
+- Crea una cuenta en [Anthropic](https://console.anthropic.com/)
+- Ve a tus [Claves API](https://app.nightfall.ai/developer-platform/api-keys)
+- Genera y copia la Clave API
+- Elige `Anthropic` como `Proveedor`
+- Haz clic en `Establecer conexión` y vincula tu cuenta en el botón `⋮`.
+- Copia la Clave API aquí:
 
-## Tutorial de conexión de Anthropic
-:::note Conectar Anthropic Claude ::: 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1Xs1QVKhmZ8?si=IZHm0mZlO_8hGStT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p align="center">
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/d83dda72-9095-43c7-9be1-77dc29e685e3" />
+</p>
 
-### Modelos de Claude disponibles en Code GPT
+- O, en VSCode, presiona `cmd + shift + p` y busca **`Establecer Clave API`**
+- Pega tu Clave API
+
+:::caution Eliminar Clave
+Si deseas eliminar tu Clave API de CodeGPT, abre la Paleta de Comandos y busca `CodeGPT: Eliminar Clave API`. O puedes seleccionar el botón `⋮` y hacer clic en `Eliminar Conexión`
+:::
+
+### Modelos Claude disponibles en Code GPT
 - claude-2.1
-- claude-2
-- claude-v1.3-100k
-- claude-instant-v1.3-100k
+- claude-instant-1.2
 
 ## Errores de API
-
-Si está obteniendo errores de API, consulte el siguiente enlace: [Errores y límites de velocidad de Anthropic API](https://docs.anthropic.com/claude/reference/errors-and-rate-limits)
+Si estás obteniendo errores de API, verifica el siguiente enlace: [Errores de API de Anthropic](https://docs.anthropic.com/claude/reference/errors-and-rate-limits)
 
