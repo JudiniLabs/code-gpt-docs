@@ -32,3 +32,5 @@ O recurso de Autocompletar GPT com Seleção de Modelo permite que você escolha
 :::note Autocompletar GPT
 <p align="center">
       <img width="500" height="450" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a3f1d2b5-fc0b-4338-926d-287fcb02465c" />
+</p>
+:::
