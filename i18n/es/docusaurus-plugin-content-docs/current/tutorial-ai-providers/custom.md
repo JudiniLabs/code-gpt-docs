@@ -1,30 +1,23 @@
 ---
-sidebar_position: 4
+sidebar_position: 11
 ---
 
-# AI21
-Sitio web oficial de AI21 https://www.ai21.com
+# Proveedor Personalizado
 
-AI21 es una empresa especializada en procesamiento de lenguaje natural (NLP) y tecnologías de inteligencia artificial (AI). Su producto estrella, AI21 Studio, es una potente plataforma de NLP que permite a los desarrolladores y científicos de datos construir e implementar modelos de lenguaje personalizados para diversas aplicaciones.
+En esta opción, puedes elegir un proveedor de tu preferencia. Todo lo que necesitas para conectarte es la clave API y el Enlace Personalizado del proveedor, que normalmente es el enlace de registro.
 
-## Conecte su cuenta de AI21
-- Cree una cuenta en [AI21](https://www.ai21.com/) 
-- Vaya a su [cuenta](https://studio.ai21.com/account/account)
-- Copie la clave API
-- En VSCode, ingrese el comando ```cmd + shift + p``` y busque **`Set API Key`**
-- Pegue su clave API
+## Conectar tu cuenta del proveedor
+- Elige `Personalizado` como `Proveedor`
+- `Establecer conexión` y vincular con tu cuenta en el botón `⋮`.
+- Copia la clave API y el Enlace Personalizado aquí:
+  
+<p align="center">
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/38e34a46-58db-4530-8cfd-8ca8f948894d" />
+</p>
 
-:::caution Eliminar la API Key 
-Si desea eliminar su clave API de CodeGPT, abra la Paleta de comandos y busque `CodeGPT: Remove API KEY`.
-::: 
+- O, en VSCode, presiona `cmd + shift + p` y busca **`Set API Key`**
+- Pega tu clave API
 
-## Modelos Jurassic-2 
-Jurassic-2 (o J2, como nos gusta llamarlo) es la próxima generación de nuestros modelos fundamentales con mejoras significativas en calidad y nuevas capacidades, incluyendo seguimiento de instrucciones sin disparador, latencia reducida y soporte multilingüe. Jurassic-2 disponible en Code GPT - j2-light - j2-mid - j2-ultra Errores de API Si está obteniendo errores de API, consulte el siguiente enlace: Documentación de AI21
-
-## Modelos Jurassic-2 disponibles en Code GPT
-- j2-light
-- j2-mid
-- j2-ultra
-
-## API Errors
-Si está obteniendo errores de API, consulte el siguiente enlace: [AI21 Documentation](https://docs.ai21.com/reference/j2-complete-api-ref)
+:::caution Eliminar clave
+Si deseas eliminar tu clave API de CodeGPT, abre la Paleta de Comandos y busca `CodeGPT: Remove API KEY`. O puedes seleccionar el botón `⋮` y hacer clic en `Remove Connection`
+:::
