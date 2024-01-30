@@ -31,9 +31,7 @@ Neste tutorial, vamos guiá-lo através do download e configuração do CodeGPT,
 :::
 
 :::caution
-
 Embora a extensão CodeGPT seja gratuita, ela requer o uso de uma API de um provedor externo (consulte [Provedores](/docs/category/ai-providers)). **Esses provedores externos são serviços pagos**, embora possam oferecer uso limitado gratuitamente.
-
 :::
 
 --- 
