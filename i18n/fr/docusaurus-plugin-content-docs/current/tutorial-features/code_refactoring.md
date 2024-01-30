@@ -2,22 +2,27 @@
 sidebar_position: 4
 ---
 
-# Code Refactoring
+# Refactoriser avec CodeGPT
 
 ## Description
-La fonction de refonte de code de CodeGPT vous permet d'optimiser votre base de code en toute simplicité. En sélectionnant des segments de code spécifiques, vous pouvez demander à CodeGPT d'effectuer des opérations de refonte intelligentes, améliorant ainsi la lisibilité et l'efficacité du code.
+La fonctionnalité Refactoriser avec CodeGPT vous permet d'optimiser votre base de code sans effort. En sélectionnant des segments de code spécifiques, vous pouvez demander à CodeGPT d'effectuer des opérations de refactoring intelligentes, améliorant la lisibilité et l'efficacité du code.
 
 ## Comment Utiliser :
-- Sélectionnez le Code : Mettez en surbrillance le snippet de code que vous souhaitez refondre.
-- Cliquez avec le bouton droit sur le code sélectionné, puis sélectionnez **CodeGPT: Code Refactoring**
+- Sélectionnez CodeGPT comme `Fournisseur` et `Modèle`
+:::note CodeGPT: Refactoriser avec CodeGPT
+Si vous n'avez pas accès à la clé API d'un fournisseur autre que CodeGPT, vous pouvez créer un compte et le synchroniser avec l'extension. Pour savoir comment faire, veuillez consulter le lien suivant [ici](https://intercom.help/codegpt/fr/articles/8699317-se-connecter-avec-codegpt-nouvelle-extension). Gardez à l'esprit qu'avoir un compte CodeGPT vous donne non seulement accès à certains modèles OpenAI, mais offre également l'accès à CodeGPT Plus, un modèle d'IA générative avancé.
+:::
+- Sélectionnez le Code : Surlignez le snippet de code
+- Cliquez droit sur le code sélectionné puis sélectionnez **CodeGPT: Refactoriser avec CodeGPT**
 
-Découvrez la puissance des capacités de refonte intelligentes de CodeGPT. Élevez la qualité de votre code en toute simplicité et avec précision.
+Expérimentez la puissance des capacités de refactoring intelligent de CodeGPT. Élevez la qualité de votre code avec facilité et précision.
 
 ## Exemple
-Sélectionnez le code, cliquez avec le bouton droit, puis sélectionnez `CodeGPT: Code Refactoring`
+Sélectionnez le code, faites un clic droit puis sélectionnez `CodeGPT: Refactoriser avec CodeGPT`
 
-:::note CodeGPT: Code Refactoring
+:::note CodeGPT: Refactoring de Code
 <p align="center">
-  <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/adf6b3ff-0ed2-4a28-8711-449df5f1e230" />
+  <img width="750" height="500" src="https://github.com/davila7/code-gpt-docs/assets/37567214/af70248f-b257-44c6-b5e3-8a1c2ba9325c" />
 </p>
 :::
+
