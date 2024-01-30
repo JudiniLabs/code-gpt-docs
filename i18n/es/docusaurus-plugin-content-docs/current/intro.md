@@ -35,7 +35,5 @@ En este tutorial, te guiaremos a través de la descarga e instalación de CodeGP
 Aunque la extensión CodeGPT es gratuita, requiere el uso de una API de un proveedor externo (ver [Proveedores](/docs/category/ai-providers)). **Estos proveedores externos son servicios de pago**, aunque pueden ofrecer un uso limitado de forma gratuita.
 
 :::
-
 ---
-
 En el próximo módulo aprenderás cómo instalar y configurar la extensión. Haz clic en [Conceptos Básicos](/docs/category/basics) para continuar.
