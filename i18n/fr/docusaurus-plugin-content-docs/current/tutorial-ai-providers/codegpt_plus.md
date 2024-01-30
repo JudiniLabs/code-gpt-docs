@@ -52,4 +52,3 @@ Ouvrez le chat et sélectionnez votre agent après `Établir la connexion`
 </p>
 
 
-
