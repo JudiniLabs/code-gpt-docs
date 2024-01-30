@@ -1,30 +1,23 @@
 ---
-sidebar_position: 4
+sidebar_position: 11
 ---
 
-# AI21
-Sitio web oficial de AI21 https://www.ai21.com
+# Personnaliser le fournisseur
 
-AI21 es una empresa especializada en procesamiento de lenguaje natural (NLP) y tecnologías de inteligencia artificial (AI). Su producto estrella, AI21 Studio, es una potente plataforma de NLP que permite a los desarrolladores y científicos de datos construir e implementar modelos de lenguaje personalizados para diversas aplicaciones.
+Dans cette option, vous pouvez choisir un fournisseur de votre choix. Tout ce dont vous avez besoin pour vous connecter est la clé API et le lien personnalisé du fournisseur, qui est généralement le lien d'inscription.
 
-## Conecte su cuenta de AI21
-- Cree una cuenta en [AI21](https://www.ai21.com/) 
-- Vaya a su [cuenta](https://studio.ai21.com/account/account)
-- Copie la clave API
-- En VSCode, ingrese el comando ```cmd + shift + p``` y busque **`Set API Key`**
-- Pegue su clave API
+## Connectez-vous à votre compte fournisseur
+- Choisissez `Personnalisé` comme `Fournisseur`
+- `Établir la connexion` et lier avec votre compte sur le bouton `⋮`.
+- Copiez la clé API et le lien personnalisé ici :
+  
+<p align="center">
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/38e34a46-58db-4530-8cfd-8ca8f948894d" />
+</p>
 
-:::caution Eliminar la API Key 
-Si desea eliminar su clave API de CodeGPT, abra la Paleta de comandos y busque `CodeGPT: Remove API KEY`.
-::: 
+- Ou, dans VSCode, appuyez sur `cmd + shift + p` et recherchez **`Set API Key`**
+- Collez votre clé API
 
-## Modelos Jurassic-2 
-Jurassic-2 (o J2, como nos gusta llamarlo) es la próxima generación de nuestros modelos fundamentales con mejoras significativas en calidad y nuevas capacidades, incluyendo seguimiento de instrucciones sin disparador, latencia reducida y soporte multilingüe. Jurassic-2 disponible en Code GPT - j2-light - j2-mid - j2-ultra Errores de API Si está obteniendo errores de API, consulte el siguiente enlace: Documentación de AI21
-
-## Modelos Jurassic-2 disponibles en Code GPT
-- j2-light
-- j2-mid
-- j2-ultra
-
-## API Errors
-Si está obteniendo errores de API, consulte el siguiente enlace: [AI21 Documentation](https://docs.ai21.com/reference/j2-complete-api-ref)
+:::caution Supprimer la clé
+Si vous souhaitez supprimer votre clé API de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Remove API KEY`. Ou vous pouvez sélectionner le bouton `⋮` et cliquer sur `Remove Connection`
+:::
