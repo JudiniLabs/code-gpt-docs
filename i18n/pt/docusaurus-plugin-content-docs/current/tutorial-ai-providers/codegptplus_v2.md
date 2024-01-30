@@ -41,3 +41,4 @@ Abra o chat e selecione seu agente após `Estabelecer conexão`
 <p align="center">
       <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/774ca6a0-4e00-4e3f-b001-51c834dc5ecf" />
 </p>
+
