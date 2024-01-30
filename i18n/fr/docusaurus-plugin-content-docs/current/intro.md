@@ -2,28 +2,27 @@
 sidebar_position: 1
 ---
 
-# À Propos de CodeGPT
+# À propos de CodeGPT
 
-### Bienvenue dans notre tutoriel sur l'utilisation de CodeGPT dans Visual Studio Code ! 
- 
- CodeGPT est une extension puissante qui exploite les capacités des grands modèles de langage (LLM) pour améliorer vos tâches de programmation à l'aide de l'IA. 
- 
+### Bienvenue dans notre tutoriel sur l'utilisation de CodeGPT dans Visual Studio Code!
+
+CodeGPT est une puissante extension exploitant les capacités des Modèles de Langage Général (LLMs) pour dynamiser vos tâches de programmation grâce à l'intelligence artificielle.
+
 :::info
 
- Cet outil vous permet non seulement d'interagir avec votre environnement de travail de manière dynamique, mais il peut également créer des agents IA qui enrichissent les LLM de contexte et vous connectent à des référentiels, des rapports et d'autres domaines essentiels de votre entreprise. 
- 
+Cet outil vous permet non seulement d'interagir dynamiquement avec votre environnement de travail, mais peut également créer des Agents IA qui enrichissent les LLMs avec du contexte et vous connectent avec des dépôts, des rapports et d'autres domaines critiques de votre entreprise.
+
 :::
 
 :::note Extension CodeGPT pour VSCode
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/4c478f3e-b222-42d0-a079-5a1d8167159c" />
+    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/8cbbef10-5767-437f-abbc-3000237f8d90" />
 </p>
 :::
 
 ### Démarrer avec CodeGPT : Votre Guide pour une Expérience de Codage Améliorée par l'IA
- 
- Dans ce tutoriel, nous vous guiderons à travers le téléchargement et la configuration de CodeGPT, et nous vous montrerons quelques cas d'utilisation typiques, afin que vous puissiez l'intégrer sans problème dans votre flux de travail de codage. 
- 
+
+Dans ce tutoriel, nous vous guiderons à travers le téléchargement et la configuration de CodeGPT, et nous vous montrerons quelques cas d'utilisation typiques, afin que vous puissiez l'intégrer de manière transparente dans votre flux de travail de codage.
 
 :::note Commençons et plongeons directement dans l'expérience de codage améliorée par l'IA !
 <p align="center">
@@ -37,6 +36,6 @@ Bien que l'extension CodeGPT soit gratuite, elle nécessite l'utilisation d'une 
 
 :::
 
---- 
+---
 
-Dans le prochain module, vous apprendrez comment installer et configurer l'extension. Cliquez sur [Basics](/docs/category/basics) pour continuer.
+Dans le prochain module, vous apprendrez comment installer et configurer l'extension. Cliquez sur [Basiques](/docs/category/basics) pour continuer.
