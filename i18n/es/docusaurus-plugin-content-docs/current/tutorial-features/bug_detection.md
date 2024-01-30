@@ -2,24 +2,24 @@
 sidebar_position: 6
 ---
 
-# Trouver des Problèmes avec CodeGPT
+# Buscar Problemas CodeGPT
 
-## Description
-La fonctionnalité ***Trouver des Problèmes avec CodeGPT*** vous permet d'identifier et de résoudre proactivement des problèmes dans votre base de code. En sélectionnant des segments de code spécifiques, vous pouvez demander à CodeGPT d'effectuer une analyse approfondie à la recherche de bugs ou de problèmes potentiels.
+## Descripción
+La característica de ***Buscar Problemas CodeGPT*** te permite identificar y resolver proactivamente problemas en tu base de código. Al seleccionar segmentos de código específicos, puedes solicitar a CodeGPT que realice un análisis exhaustivo en busca de errores o problemas potenciales.
 
-## Comment Utiliser :
-- Sélectionnez CodeGPT comme `Fournisseur` et `Modèle`
+## Cómo Usar:
+- Selecciona CodeGPT como `Proveedor` y `Modelo`
   
-:::note CodeGPT: Trouver des Problèmes avec CodeGPT
-Si vous n'avez pas accès à la clé API d'un fournisseur autre que CodeGPT, vous pouvez créer un compte et le synchroniser avec l'extension. Pour savoir comment faire cela, veuillez vous référer au lien suivant [ici](https://intercom.help/codegpt/fr/articles/8699317-se-connecter-avec-codegpt-nouvelle-extension). Gardez à l'esprit que posséder un compte CodeGPT vous donne non seulement accès à certains modèles OpenAI, mais offre également l'accès à CodeGPT Plus, un modèle d'IA générative avancé.
+:::nota CodeGPT: Buscar Problemas CodeGPT
+Si no tienes acceso a la clave de API de un proveedor que no sea CodeGPT, puedes crear una cuenta y sincronizarla con la extensión. Para aprender cómo hacer esto, consulta el siguiente [enlace](https://intercom.help/codegpt/es/articles/8699317-conectar-con-codegpt-nueva-extension). Ten en cuenta que tener una cuenta de CodeGPT no solo te otorga acceso a ciertos modelos de OpenAI, sino que también proporciona acceso a CodeGPT Plus, un modelo avanzado de inteligencia artificial generativa.
 :::
-- Sélectionnez le Code : Surlignez le snippet de code
-- Cliquez droit sur le code sélectionné puis sélectionnez **CodeGPT: Trouver des Problèmes avec CodeGPT**
+- Selecciona el Código: Resalta el fragmento de código
+- Haz clic derecho en el código seleccionado y selecciona **CodeGPT: Buscar Problemas CodeGPT**
 
-## Exemple
-Sélectionnez le code, faites un clic droit puis sélectionnez `CodeGPT: Trouver des Problèmes avec CodeGPT`
+## Ejemplo
+Selecciona el código, haz clic derecho y selecciona `CodeGPT: Buscar Problemas CodeGPT`
 
-:::note CodeGPT: Trouver des Problèmes avec CodeGPT
+:::note CodeGPT: Buscar Problemas CodeGPT
 <p align="center">
   <img width="650" height="350" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7a7b9fc1-e194-4f44-a4a9-d7d059418d2a" />
 </p>
