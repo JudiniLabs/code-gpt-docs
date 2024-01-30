@@ -1,48 +1,38 @@
 ---
-sidebar_position: 10
+sidebar_position: 5
 ---
 
 # Ollama
-
 官方网站 https://ollama.ai
 
-这是一个运行、创建和共享大型语言模型（LLMs）的开源项目。
-## 连接Ollama模型
-- 从以下链接下载Ollama: [ollama.ai](https://ollama.ai/)
-- 安装Ollama并使用命令 ```ollama pull codellama``` 使用模型codellama
-- 如果要使用mistral或其他模型，您需要将codellama替换为所需的模型。例如：```ollama pull mistral```
+运行、创建和分享大型语言模型（LLMs）的开源项目。
+## 连接 Ollama 模型
+- 从以下链接下载 Ollama: [ollama.ai](https://ollama.ai/)
+- 安装 Ollama 并使用 ```ollama pull codellama``` 命令运行 codellama 模型。
+- 如果要使用 mistral 或其他模型，则需要将 codellama 替换为所需的模型。例如：```ollama pull mistral```
 
-# 如何使用Ollama
-- 在VSCode中打开CodeGPT设置并选择Ollama作为提供者
-
-:::note Ollama
+# 如何使用 Ollama
+- 在 VSCode 中选择 Ollama 作为 `提供者`
+ 
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/ddec585e-84c6-49c4-86ac-be624fbfd9ee" />
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a5e3eda0-1609-44b4-bffb-a275ba2562b0" />
 </p>
-:::
+ 
+- 请注意，Ollama正在本地计算机上运行。
 
-- 选择Ollama模型之一
-
-:::note Ollama模型
-<p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/1bf08939-60fe-4ad1-b588-898c20f2a8e8" />
-</p>
-:::
-
-## Code GPT中可用的Ollama模型
+## Code GPT 中可用的 Ollama 模型
 - llama2
-- llama2:13b
-- llama2:70b
 - codellama
-- codellama:34b
-- codellama:7b-python
-- codellama:34b-python
-- phind-codellama
-- phind-codellama:34b
-- wizardcoder
-- wizardcoder:python
-- wizardcoder:34b-python
+- phi
 - mistral
+- mixtral
+- deepseek-coder
 
-## API错误
-如果您遇到API错误，请查看以下链接：[Ollama文档](https://ollama.ai/)
+## API 错误
+如果您收到 API 错误，请查看以下链接：[Ollama 文档](https://ollama.ai/)
+
+如果 Ollama 模型在聊天中没有响应，请考虑在本地关闭然后再次启动以解决此问题。
+
+<p align="center">
+      <img width="250" height="00" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4bd4e2c8-dbfb-46f3-b4d3-c3484cc7692c" />
+</p>
