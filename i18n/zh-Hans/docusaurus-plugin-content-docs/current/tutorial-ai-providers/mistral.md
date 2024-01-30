@@ -1,39 +1,35 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
-# Ollama
-官方网站 https://ollama.ai
+# Mistral
+官方网站 https://mistral.ai/
 
-运行、创建和分享大型语言模型（LLMs）的开源项目。
-## 连接 Ollama 模型
-- 从以下链接下载 Ollama: [ollama.ai](https://ollama.ai/)
-- 安装 Ollama 并使用 ```ollama pull codellama``` 命令运行 codellama 模型。
-- 如果要使用 mistral 或其他模型，则需要将 codellama 替换为所需的模型。例如：```ollama pull mistral```
+## 手中的前沿人工智能
+我们是一个小而富有创造力的团队，拥有高科学标准。通过开创性的创新，我们创建了高效、有帮助且值得信赖的人工智能模型。
 
-# 如何使用 Ollama
-- 在 VSCode 中选择 Ollama 作为 `提供者`
- 
+## 连接您的 Mistral 帐户
+- 在 [Mistral](https://auth.mistral.ai/ui/login) 创建一个帐户。
+- 转到您的 [平台 / API 密钥](https://console.mistral.ai/users/api-keys/)。
+- 选择 `Mistral` 作为 `提供者`。
+- `建立连接` 并通过 `⋮` 按钮将其链接到您的帐户。
+- 在此处创建并复制 API 密钥：
 <p align="center">
-      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a5e3eda0-1609-44b4-bffb-a275ba2562b0" />
+      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/bd736fe1-f302-4a2d-a308-3b1ef9dec728" />
 </p>
  
-- 请注意，Ollama正在本地计算机上运行。
+- 或者，在 VSCode 中，按 ```cmd + shift + p``` 并搜索 **`设置 API 密钥`**
+- 粘贴您的 API 密钥
 
-## Code GPT 中可用的 Ollama 模型
-- llama2
-- codellama
-- phi
-- mistral
-- mixtral
-- deepseek-coder
+:::caution 删除密钥
+如果要从 CodeGPT 中删除 API 密钥，请打开命令面板并搜索 `CodeGPT: 删除 API 密钥`。或者您可以选择 `⋮` 按钮，然后单击 `删除连接`
+:::
+
+## Code GPT 中可用的 Mistral 模型
+- mistral-tiny
+- mistral-small
+- mistral-medium
 
 ## API 错误
-如果您收到 API 错误，请查看以下链接：[Ollama 文档](https://ollama.ai/)
-
-如果 Ollama 模型在聊天中没有响应，请考虑在本地关闭然后再次启动以解决此问题。
-
-<p align="center">
-      <img width="250" height="00" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4bd4e2c8-dbfb-46f3-b4d3-c3484cc7692c" />
-</p>
+如果您收到 API 错误，请查看以下链接：[Mistral 文档](https://docs.mistral.ai/)
 
