@@ -14,7 +14,7 @@ Dans ce tutoriel, vous verrez comment connecter votre compte CodeGPT Plus avec l
 
 ### Se connecter par connexion
 
-- Après avoir créé un compte, ouvrez VSCode et choisissez CodeGPT comme `Fournisseur`
+- Après avoir créé un compte, ouvrez VSCode et choisissez CodeGPT comme `Provider`
 
 <p align="center">
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/ad889330-514c-4261-9aef-7a5e453e7169" />
@@ -36,7 +36,7 @@ Si vous souhaitez supprimer votre clé API de CodeGPT, ouvrez la palette de comm
 </p>
 
 ## Sélectionner un Agent 🤖
-Ouvrez le chat et sélectionnez votre agent après `Établir connexion`
+Ouvrez le chat et sélectionnez votre agent après `Set connection`
 
 <p align="center">
       <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/774ca6a0-4e00-4e3f-b001-51c834dc5ecf" />
