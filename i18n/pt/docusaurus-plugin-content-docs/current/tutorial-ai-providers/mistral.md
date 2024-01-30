@@ -1,35 +1,40 @@
 ---
-sidebar_position: 6
+sidebar_position: 5
 ---
 
-# Mistral
-Site oficial https://mistral.ai/
+# Ollama
 
-## AI de ponta nas suas mãos
-Somos uma pequena equipe criativa com altos padrões científicos. Criamos modelos de IA eficientes, úteis e confiáveis através de inovações revolucionárias.
+Site oficial https://ollama.ai
 
-## Conecte sua conta Mistral
-- Crie uma conta no [Mistral](https://auth.mistral.ai/ui/login)
-- Acesse sua [Plataforma / Chaves API](https://console.mistral.ai/users/api-keys/)
-- Escolha `Mistral` como `Provedor`
-- `Estabeleça a conexão` e vincule com sua conta no botão `⋮`.
-- Crie e copie a Chave API aqui :
+Projeto de código aberto para executar, criar e compartilhar grandes modelos de linguagem (LLMs).
+## Conectar modelos Ollama
+- Baixe o Ollama no seguinte link: [ollama.ai](https://ollama.ai/)
+- Instale o Ollama e use o modelo codellama executando o comando ```ollama pull codellama```
+- Se você quiser usar mistral ou outros modelos, será necessário substituir codellama pelo modelo desejado. Por exemplo: ```ollama pull mistral```
+
+# Como usar o Ollama
+- No VSCode, selecione o Ollama como `Fornecedor`
+ 
 <p align="center">
-      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/bd736fe1-f302-4a2d-a308-3b1ef9dec728" />
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a5e3eda0-1609-44b4-bffb-a275ba2562b0" />
 </p>
  
-- Ou, no VSCode, pressione ```cmd + shift + p``` e procure por **`Definir Chave API`**
-- Cole sua Chave API
+- Esteja ciente de que o Ollama está sendo executado localmente em seu computador.
 
-:::caution Remover Chave
-Se desejar remover sua Chave API do CodeGPT, abra a Paleta de Comandos e procure por `CodeGPT: Remover API KEY`. Ou você pode selecionar o botão `⋮` e clicar em `Remover Conexão`
-:::
-
-## Mistral disponível no Code GPT
-- mistral-tiny
-- mistral-small
-- mistral-medium
+## Modelos Ollama disponíveis no Code GPT
+- llama2
+- codellama
+- phi
+- mistral
+- mixtral
+- deepseek-coder
 
 ## Erros de API
-Se estiver recebendo erros de API, consulte o seguinte link: [Documentação do Mistral](https://docs.mistral.ai/)
+Se estiver recebendo erros de API, consulte o seguinte link: [Documentação do Ollama](https://ollama.ai/)
+
+Se o modelo do Ollama não responder no chat, considere reiniciá-lo localmente desligando-o e, em seguida, ligando-o novamente. Essa ação deve resolver o problema.
+
+<p align="center">
+      <img width="250" height="00" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4bd4e2c8-dbfb-46f3-b4d3-c3484cc7692c" />
+</p>
 
