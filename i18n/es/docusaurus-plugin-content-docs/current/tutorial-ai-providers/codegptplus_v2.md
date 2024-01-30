@@ -1,24 +1,43 @@
 ---
-sidebar_position: 9
+sidebar_position: 1
 ---
 
-# GPT4All
+# CodeGPT Plus V2
 
-Sitio web oficial: https://gpt4all.io
+Sitio web oficial [https://codegpt.co](https://codegpt.co)
 
-GPT4All es un ecosistema de código abierto diseñado para entrenar e implementar modelos de lenguaje grandes y personalizados que se ejecutan localmente en CPUs de grado de consumo. 
+En este tutorial, verás cómo conectar tu cuenta de CodeGPT Plus con la extensión en VSCode.
 
-El ecosistema cuenta con un cliente de chat de escritorio fácil de usar y enlaces oficiales para Python, TypeScript y GoLang, y da la bienvenida a contribuciones y colaboración de la comunidad de código abierto.[Github GPT4All](https://github.com/nomic-ai/gpt4all)
+✨ Haz clic [aquí](https://app.codegpt.co/en) para crear una cuenta gratuita de CodeGTP Plus V2.
 
-## Conectar los modelos GPT4All
-  - Descargue GPT4All en el siguiente enlace: [gpt4all.io](https://gpt4all.io/)
-  - Diríjase al menú **`Descargas`** y descargue todos los modelos que desee utilizar
-  - Diríjase al menú **`Configuración`** y habilite la opción **`Habilitar el servidor web`**
+## Conectar cuenta de CodeGPT Plus
 
-## MOdelos de GPT4All disponibles en Code GPT
-- gpt4all-j-v1.3-groovy
-- vicuna-13b-1.1-q4_2
-- replit-code-v1-3b
+### Conectar por inicio de sesión
 
-## Errores de API
-Si está recibiendo errores de API, verifique el siguiente enlace:[GPT4All Documentation](https://docs.gpt4all.io/index.html)
+- Después de crear una cuenta, abre VSCode y elige CodeGPT como `Proveedor`
+
+<p align="center">
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/ad889330-514c-4261-9aef-7a5e453e7169" />
+</p>
+- Inicia sesión en el navegador
+- Ahora puedes usar el chat, cambiar a los agentes o usar nuestro modelo
+
+<p align="center">
+      <img width="650" height="550" src="https://github.com/davila7/code-gpt-docs/assets/37567214/6ee66517-f87f-4180-8fa4-d2384bbede25
+" />
+</p>
+
+:::caution Eliminar clave
+Si deseas eliminar tu clave API de CodeGPT, abre la Paleta de Comandos y busca `CodeGPT: Remove API KEY`. O puedes seleccionar el botón `⋮` y hacer clic en `Remove Connection`
+:::
+
+<p align="center">
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7a786f2e-f65d-4862-a1f7-61b705ff1cd5" />
+</p>
+
+## Seleccionar un Agente 🤖
+Abre el chat y selecciona tu agente después de `Establecer conexión`
+
+<p align="center">
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/774ca6a0-4e00-4e3f-b001-51c834dc5ecf" />
+</p>
