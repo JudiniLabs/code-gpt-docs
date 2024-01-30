@@ -23,3 +23,22 @@ sidebar_position: 1
 - 现在可以使用聊天，您可以切换到代理或使用我们的模型
 
 <p align="center">
+      <img width="650" height="550" src="https://github.com/davila7/code-gpt-docs/assets/37567214/6ee66517-f87f-4180-8fa4-d2384bbede25
+" />
+</p>
+
+:::caution 删除密钥
+如果要从CodeGPT中删除API密钥，请打开命令面板并搜索 `CodeGPT: Remove API KEY`。或者，您可以选择 `⋮` 按钮，然后单击 `Remove Connection`
+:::
+
+<p align="center">
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7a786f2e-f65d-4862-a1f7-61b705ff1cd5" />
+</p>
+
+## 选择一个代理 🤖
+在 `建立连接` 后打开聊天，然后选择您的代理
+
+<p align="center">
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/774ca6a0-4e00-4e3f-b001-51c834dc5ecf" />
+</p>
+
