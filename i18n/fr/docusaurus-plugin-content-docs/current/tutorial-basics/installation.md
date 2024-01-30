@@ -1,39 +1,31 @@
----
 sidebar_position: 1
----
 
 # Installation
 
 CodeGPT est accessible à la fois sur [VSCode](https://code.visualstudio.com/) et sur [Cursor](https://cursor.sh/). Dans ce tutoriel, nous vous guiderons à travers le processus d'installation, quel que soit votre éditeur de texte préféré. Commençons !
 
 ## Visual Studio Code
-Commencez par télécharger et installer Visual Studio Code : [Download](https://code.visualstudio.com/download)
+Téléchargez et installez d'abord Visual Studio Code : [Télécharger](https://code.visualstudio.com/download)
 
-### Installez l'extension Code GPT
-Vous pouvez installer l'extension depuis le Marketplace de Visual Studio, Open VSX, ou directement depuis l'onglet Extensions dans Visual Studio Code.
+### Installer l'extension Code GPT
+Vous pouvez installer l'extension depuis le Marketplace de Visual Studio, Open VSX, ou directement depuis l'onglet Extensions de Visual Studio Code.
 
 :::note Recherchez Code GPT dans l'onglet Extensions
-<p align="center">
-      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/ec68d8d7-fa99-454c-876d-1e52815667c7" />
-</p>
+![extensions](https://github.com/davila7/code-gpt-docs/assets/6216945/1797df8c-e170-482e-95b3-37b901add402)
 :::
 
 ### Marketplace de VSCode
-Vous pouvez soit cliquer sur ce lien pour accéder directement à la page du Marketplace de CodeGPT pour Visual Studio :
-- [Download from Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
+Vous pouvez également cliquer sur ce lien pour accéder directement à la page de CodeGPT sur le Marketplace de Visual Studio :
+- [Télécharger depuis le Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 
 ### Open VSX
 Ou vous pouvez télécharger l'extension via Open VSX :
-- [Download by Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
+- [Télécharger depuis Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
+
 
 ## Cursor
-Si vous préférez utiliser Cursor, vous pouvez le télécharger à ce lien : [Download](https://cursor.sh/)
+Si vous préférez utiliser Cursor, vous pouvez le télécharger à ce lien : [Télécharger](https://cursor.sh/)
 
 :::note Recherchez Code GPT dans l'onglet Extensions
-<p align="center">
-      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/58262780-461f-4e88-8a53-08a313e0297b" />
-</p>
+![extensions](https://github.com/davila7/code-gpt-docs/assets/6216945/58262780-461f-4e88-8a53-08a313e0297b)
 :::
-
-Maintenant que vous avez installé l'extension, vous devez procéder à la [configuration appropriée](/docs/tutorial-basics/configuration).
-
