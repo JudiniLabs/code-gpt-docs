@@ -1,24 +1,43 @@
 ---
-sidebar_position: 9
+sidebar_position: 1
 ---
 
-# GPT4All
+# CodeGPT Plus V2
 
-Sitio web oficial: https://gpt4all.io
+공식 웹 사이트 [https://codegpt.co](https://codegpt.co)
 
-GPT4All es un ecosistema de código abierto diseñado para entrenar e implementar modelos de lenguaje grandes y personalizados que se ejecutan localmente en CPUs de grado de consumo. 
+이 튜토리얼에서는 CodeGPT Plus 계정을 VSCode의 확장 프로그램과 연결하는 방법을 알아볼 것입니다.
 
-El ecosistema cuenta con un cliente de chat de escritorio fácil de usar y enlaces oficiales para Python, TypeScript y GoLang, y da la bienvenida a contribuciones y colaboración de la comunidad de código abierto.[Github GPT4All](https://github.com/nomic-ai/gpt4all)
+✨ 무료 CodeGTP Plus V2 계정을 만들려면 [여기](https://app.codegpt.co/en)를 클릭하세요.
 
-## Conectar los modelos GPT4All
-  - Descargue GPT4All en el siguiente enlace: [gpt4all.io](https://gpt4all.io/)
-  - Diríjase al menú **`Descargas`** y descargue todos los modelos que desee utilizar
-  - Diríjase al menú **`Configuración`** y habilite la opción **`Habilitar el servidor web`**
+## CodeGPT Plus 계정 연결
 
-## MOdelos de GPT4All disponibles en Code GPT
-- gpt4all-j-v1.3-groovy
-- vicuna-13b-1.1-q4_2
-- replit-code-v1-3b
+### 로그인으로 연결
 
-## Errores de API
-Si está recibiendo errores de API, verifique el siguiente enlace:[GPT4All Documentation](https://docs.gpt4all.io/index.html)
+- 계정을 생성한 후에는 VSCode를 열고 `공급자`로 CodeGPT를 선택합니다.
+
+<p align="center">
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/ad889330-514c-4261-9aef-7a5e453e7169" />
+</p>
+- 브라우저에서 로그인합니다.
+- 이제 채팅을 사용할 수 있으며, 에이전트를 변경하거나 모델을 사용할 수 있습니다.
+
+<p align="center">
+      <img width="650" height="550" src="https://github.com/davila7/code-gpt-docs/assets/37567214/6ee66517-f87f-4180-8fa4-d2384bbede25
+" />
+</p>
+
+:::caution 키 제거
+CodeGPT에서 API 키를 제거하려면 명령 팔레트를 열고 `CodeGPT: Remove API KEY`를 검색하십시오. 또는 `⋮` 단추를 선택하고 `Remove Connection`을 클릭할 수 있습니다.
+:::
+
+<p align="center">
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7a786f2e-f65d-4862-a1f7-61b705ff1cd5" />
+</p>
+
+## 에이전트 선택 🤖
+채팅을 열고 `연결 설정` 이후에 에이전트를 선택합니다.
+
+<p align="center">
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/774ca6a0-4e00-4e3f-b001-51c834dc5ecf" />
+</p>
