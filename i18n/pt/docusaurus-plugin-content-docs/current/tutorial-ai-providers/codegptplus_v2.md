@@ -19,6 +19,7 @@ Neste tutorial, você verá como conectar sua conta CodeGPT Plus com a extensão
 <p align="center">
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/ad889330-514c-4261-9aef-7a5e453e7169" />
 </p>
+
 - Faça login no navegador
 - Agora você pode usar o chat, mudar para os agentes ou usar nosso Modelo
 
