@@ -1,36 +1,39 @@
 ---
-sidebar_position: 6
+sidebar_position: 5
 ---
 
-# Mistral
-Site officiel https://mistral.ai/
+# Ollama
 
-## L'IA de pointe entre vos mains
-Nous sommes une petite équipe créative avec des normes scientifiques élevées. Nous créons des modèles d'IA efficaces, utiles et fiables grâce à des innovations révolutionnaires.
+Site officiel https://ollama.ai
 
-## Connectez votre compte Mistral
-- Créez un compte sur [Mistral](https://auth.mistral.ai/ui/login)
-- Accédez à votre [Plateforme / Clés API](https://console.mistral.ai/users/api-keys/)
-- Choisissez `Mistral` comme `Fournisseur`
-- `Établissez la connexion` et liez-la à votre compte sur le bouton `⋮`.
-- Créez et copiez la Clé API ici :
+Projet open source pour exécuter, créer et partager de grands modèles de langage (LLMs).
+## Connecter les modèles Ollama
+- Téléchargez Ollama depuis le lien suivant : [ollama.ai](https://ollama.ai/)
+- Installez Ollama et utilisez le modèle codellama en exécutant la commande ```ollama pull codellama```
+- Si vous souhaitez utiliser mistral ou d'autres modèles, vous devrez remplacer codellama par le modèle souhaité. Par exemple : ```ollama pull mistral```
+
+# Comment utiliser Ollama
+- Dans VSCode, sélectionnez Ollama comme `Fournisseur`
+ 
 <p align="center">
-      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/bd736fe1-f302-4a2d-a308-3b1ef9dec728" />
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a5e3eda0-1609-44b4-bffb-a275ba2562b0" />
 </p>
  
-- Ou, dans VSCode, appuyez sur ```cmd + shift + p``` et recherchez **`Définir Clé API`**
-- Collez votre Clé API
+- Veuillez noter que Ollama s'exécute localement sur votre ordinateur.
 
-:::caution Supprimer la clé
-Si vous souhaitez supprimer votre Clé API de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Supprimer la clé API`. Ou vous pouvez sélectionner le bouton `⋮` et cliquer sur `Supprimer la connexion`
-:::
-
-## Mistral disponible dans Code GPT
-- mistral-tiny
-- mistral-small
-- mistral-medium
+## Modèles Ollama disponibles dans Code GPT
+- llama2
+- codellama
+- phi
+- mistral
+- mixtral
+- deepseek-coder
 
 ## Erreurs API
-Si vous rencontrez des erreurs API, consultez le lien suivant : [Documentation de Mistral](https://docs.mistral.ai/)
+Si vous rencontrez des erreurs API, consultez le lien suivant : [Documentation de Ollama](https://ollama.ai/)
 
+Si le modèle Ollama ne répond pas dans le chat, envisagez de le redémarrer localement en l'éteignant puis en le rallumant. Cette action devrait résoudre le problème.
 
+<p align="center">
+      <img width="250" height="00" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4bd4e2c8-dbfb-46f3-b4d3-c3484cc7692c" />
+</p>
