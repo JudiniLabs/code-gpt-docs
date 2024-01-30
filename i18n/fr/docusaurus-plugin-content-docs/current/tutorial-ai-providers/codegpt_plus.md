@@ -1,42 +1,42 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# CodeGPT Plus
-Site officiel CodeGPT Plus https://codegpt.co
+# CodeGPT Plus (Legacy)
 
-Dans ce tutoriel, vous verrez comment connecter votre compte CodeGPT Plus à l'extension dans VSCode.
+Site officiel : https://codegpt.co
+
+Dans ce tutoriel, vous verrez comment connecter votre compte CodeGPT Plus avec l'extension dans VSCode.
 
 [✨ Cliquez ici pour créer un compte gratuit CodeGPT Plus](https://account.codegpt.co/auth/register)
 
-## Connectez votre compte CodeGPT Plus
+## Connecter le compte CodeGPT Plus
 
-### Connexion par Connexion
-
+### Connexion par identifiant
+- Choisissez `CodeGPT Plus legacy` comme `Fournisseur`
+- `Établissez la connexion` et liez-le à votre compte [CodeGPT Plus legacy](https://account.codegpt.co/).
 :::note CodeGPT Plus
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/a52e225b-ee54-442d-9fed-1df917d6be6f" />
+    <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/6798ab1f-5d19-407a-bc28-b4a5b9ea9b3f" />
 </p>
 :::
 
-### Connexion par API Key
+### Connexion par clé API
+  - Demandez votre clé API depuis [CodeGPT Plus](https://plus.codegpt.co/settings/apikey)
+  - Allez dans Paramètres / Jetons d'accès et copiez votre **`Clé API`**
+  - Dans VSCode, appuyez sur ```cmd + shift + p``` et recherchez **`Définir la clé API`**
+  - Collez votre clé API
 
-- Demandez votre API Key depuis [CodeGPT Plus](https://account.codegpt.co/auth/register)
-- Allez dans Paramètres / Jetons d'accès et copiez votre **`API Key`**
-- Dans VSCode, appuyez sur ```cmd + shift + p``` et recherchez **`Set API Key`**
-- Collez votre API Key
-
-:::caution Supprimer API Key
-Si vous souhaitez supprimer votre API Key de CodeGPT, ouvrez la Palette de commandes et recherchez `CodeGPT: Supprimer API Key`.
+:::caution Supprimer la clé
+Si vous souhaitez supprimer votre clé API de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Supprimer la clé API`. Ou vous pouvez sélectionner le bouton `⋮` et cliquer sur `Supprimer la connexion`
 :::
 
-:::note CodeGPT Plus
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/UX9LncRh0h8?si=WhWQFld30fGUoYOF" title="Lecteur vidéo YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-:::
+<p align="center">
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7a786f2e-f65d-4862-a1f7-61b705ff1cd5" />
+</p>
 
 ## Sélectionnez votre fournisseur et modèle
-
-Assurez-vous d'avoir **CodeGPT Plus** sélectionné comme fournisseur et **CodeGPT Plus** comme modèle dans les paramètres.
+Assurez-vous d'avoir **CodeGPT Plus** sélectionné comme le fournisseur et **CodeGPT Plus** comme le modèle dans les paramètres.
 
 :::note Paramètres
 <p align="center">
@@ -44,21 +44,12 @@ Assurez-vous d'avoir **CodeGPT Plus** sélectionné comme fournisseur et **CodeG
 </p>
 :::
 
-## Sélectionnez un agent 🤖
+## Sélectionnez un Agent 🤖
+Ouvrez le chat et sélectionnez votre agent après `Établir la connexion`
 
-Ouvrez le chat et sélectionnez votre agent.
-
-:::note Ouvrir le chat
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/0c64590b-503d-4cfe-9b68-0dad0f52cfa8" />
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/774ca6a0-4e00-4e3f-b001-51c834dc5ecf" />
 </p>
-:::
 
-:::note Sélectionner un agent
-<p align="center">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274446169-16c2182e-ce76-41c5-8ca4-59e1069dee60.png" />
-</p>
-:::
 
-Interagissez avec les agents qui sont chargés d'informations depuis CodeGPT Plus.
 
