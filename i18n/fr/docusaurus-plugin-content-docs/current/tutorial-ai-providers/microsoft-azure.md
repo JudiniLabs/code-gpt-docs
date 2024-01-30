@@ -1,27 +1,30 @@
 ---
-sidebar_position: 6
+sidebar_position: 3
 ---
 
 # Microsoft Azure
 
-Site officiel https://azure.microsoft.com/en-us/products/ai-services/openai-service
+Site officiel https://azure.microsoft.com/fr-fr/products/ai-services/openai-service
 
-## Connectez votre compte Microsoft Azure
-- Créez un compte sur [Microsoft Azure](https://azure.microsoft.com/en-us/free)
-- Accédez à [Azure OpenAI Services](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
-- Allez dans [Azure OpenAI Studio](https://oai.azure.com/)
-- Obtenez votre Point de Terminaison et Key Secrète
-- Dans la configuration de CodeGPT, changez le fournisseur en ```Azure``` et le modèle en ```Azure```
-- Dans VSCode, entrez la commande ```cmd + shift + p``` et recherchez **`Set API Key`**
-- Collez votre API Key
+## Microsoft Azure
+- Créez un compte sur [Microsoft Azure](https://azure.microsoft.com/fr-fr/free)
+- Accédez aux [Services OpenAI Azure](https://azure.microsoft.com/fr-fr/products/ai-services/openai-service)
+- Allez sur [Azure OpenAI Studio](https://oai.azure.com/)
+- Obtenez votre Endpoint et votre Clé secrète
+- Choisissez `Azure` comme `Fournisseur`
+- `Établissez la connexion` et liez-la à votre compte sur le bouton `⋮`.
+- Copiez la Clé API ici :
 
-:::caution Remove API Key
-Si vous souhaitez supprimer votre API Key de CodeGPT, ouvrez la Palette de commandes et recherchez `CodeGPT: Remove API Key`.
-:::
+<p align="center">
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/c89c3c49-1c1a-4fa3-93b3-5ddede97d5e7" />
+</p>
+ 
+- Ou, dans VSCode, appuyez sur `cmd + shift + p` et recherchez `Définir Clé API`
+  
+- Collez l'Endpoint et la Clé secrète
 
-## Connexion à Microsoft Azure
-:::note Microsoft Azure
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/bIChZZjgE_k?si=YIED37k2djgG6-ch" title="Lecteur vidéo YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::caution Supprimer la clé
+Si vous souhaitez supprimer votre Clé API de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Supprimer la clé API`. Ou vous pouvez sélectionner le bouton `⋮` et cliquer sur `Supprimer la connexion`
 :::
 
 ## Modèles Azure OpenAI disponibles dans Code GPT
@@ -31,4 +34,4 @@ Si vous souhaitez supprimer votre API Key de CodeGPT, ouvrez la Palette de comma
 - gpt-35-turbo-16k
 
 ## Erreurs API
-Si vous rencontrez des erreurs API, consultez le lien suivant: [Documentation Microsoft Azure](https://azure.microsoft.com/en-us/products/ai-services/openai-service/)
+Si vous rencontrez des erreurs API, consultez le lien suivant : [Documentation Microsoft Azure](https://azure.microsoft.com/fr-fr/products/ai-services/openai-service/)
