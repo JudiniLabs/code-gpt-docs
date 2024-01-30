@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+
 # Chat de CodeGPT
 
 ## Descripción
@@ -8,7 +9,7 @@ La función de Chat de CodeGPT mejora tu experiencia de desarrollo al permitirte
 
 ## Cómo usarlo:
 ### Abrir la pestaña de Chat:
-Navega hasta la pestaña de herramientas y haz clic en la opción 💬. Puedes sincronizar tu cuenta de CodeGPT Plus o utilizar otro `Proveedor`.
+Navega hasta la pestaña de herramientas y haz clic en la opción 💬. Puedes sincronizar tu cuenta de CodeGPT Plus o utilizar otro `Provider`.
 
 :::note Chat de CodeGPT
 <p align="center">
