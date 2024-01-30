@@ -54,5 +54,12 @@ No menu, selecione Gerenciar Conta e, em seguida, na seção Uso, você poderá 
 
 Nesta imagem, você pode ver que $13 USD foram usados de um total de $18.
 
-:::note Uso
-![Créditos](https://user-images.githubusercontent.com/6216945/213941720-1ae816dd-fedb-4026-ae8c-b8b374d1d0dd.png)
+## Erros da API
+Se você estiver recebendo erros da API, verifique o seguinte link: [Erros da API OpenAI](https://help.openai.com/en/collections/3675931-openai-api#api-error-codes-explained)
+
+### Erros típicos da OpenAI
+- [Código de erro 404: O modelo gpt-4 não existe](https://community.openai.com/t/when-i-try-the-gpt-4-model-chat-completion-in-api-request-i-get-an-error-that-model-does-not-exist/98850)
+- [Código de erro 429 - Limite de taxa atingido para solicitações](https://help.openai.com/en/articles/6891829-error-code-429-rate-limit-reached-for-requests)
+- [Código de erro 429 - Você excedeu sua cota atual, verifique seu plano e detalhes de faturamento.](https://help.openai.com/en/articles/6891831-error-code-429-you-exceeded-your-current-quota-please-check-your-plan-and-billing-details)
+- [Código de erro 429 - O mecanismo está atualmente sobrecarregado. Tente novamente mais tarde.](https://help.openai.com/en/articles/6891834-error-code-429-the-engine-is-currently-overloaded-please-try-again-later)
+- [Código de erro 401 - Autenticação inválida](https://help.openai.com/en/articles/6891767-error-code-401-invalid-authentication)
