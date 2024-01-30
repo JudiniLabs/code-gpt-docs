@@ -1,27 +1,33 @@
 ---
-sidebar_position: 6
+sidebar_position: 9
 ---
 # Cohere
-Website oficial: https://cohere.ai
+Site oficial [https://cohere.ai](https://cohere.ai)
 
-A Cohere é uma empresa de inteligência artificial especializada no desenvolvimento de modelos de linguagem. Eles utilizam técnicas avançadas de processamento de linguagem natural e aprendizado de máquina para melhorar a compreensão da linguagem humana e a capacidade de gerar texto automaticamente. Seus modelos são usados em aplicações como análise de sentimentos, resumos e tradução automática.
+A Cohere é uma empresa de inteligência artificial especializada no desenvolvimento de modelos de linguagem. Eles utilizam técnicas avançadas de processamento de linguagem natural e aprendizado de máquina para melhorar a compreensão da linguagem humana e a capacidade de gerar texto automaticamente. Seus modelos são utilizados em aplicações como análise de sentimento, sumarização e tradução automática.
 
-## Conecte sua conta Cohere
+## Conectar sua conta Cohere
 - Crie uma conta em [cohere.ai](https://cohere.ai/)
-- Acesse seu [painel](https://dashboard.cohere.ai/)
-- Copie a Chave da API
-- No VSCode, pressione ```cmd + shift + p``` e procure por **`Set API Key`**
-- Cole sua Chave da API
+- Acesse seu [painel](https://dashboard.cohere.com/api-keys)
+- Escolha `Cohere` como `Provedor`
+- `Defina a conexão` e vincule com sua conta no botão `⋮`.
+- Copie a Chave API aqui:
 
-:::caution Remover API Key
-Se desejar remover sua API Key do CodeGPT, abra a Paleta de Comandos e pesquise por `CodeGPT: Remove API KEY`.
+<p align="center">
+      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/2a15c150-bbac-4376-9e0f-d96068220db2" />
+</p>
+
+ 
+- Ou, no VSCode, pressione `cmd + shift + p` e pesquise **`Definir Chave API`**
+- Cole sua Chave API
+
+:::caution Remover Chave
+Se desejar remover sua Chave API do CodeGPT, abra a Paleta de Comandos e pesquise por `CodeGPT: Remover API KEY`. Ou você pode selecionar o botão `⋮` e clicar em `Remover Conexão`
 :::
-
-## Modelos Noturnos Command disponíveis no Code GPT
-- coral (Modelo de chat, visite: https://cohere.com/chat)
-- command-xlarge-noturno
-- command-medium-noturno
-- command-light-noturno
-
+## Modelos noturnos de Command disponíveis no Code GPT
+- command
+- command-light
+  
 ## Erros de API
-Se estiver recebendo erros de API, confira o seguinte link: [Erros da API Cohere](https://docs.cohere.ai/reference/errors)
+Se estiver recebendo erros de API, verifique o seguinte link: [Erros de API da Cohere](https://docs.cohere.ai/reference/errors)
+
