@@ -2,23 +2,27 @@
 sidebar_position: 5
 ---
 
-# Code Documentation
+# Documento CodeGPT
 
 ## Descrição
-A funcionalidade de Documentação de Código do CodeGPT permite que você gere facilmente documentação abrangente para sua base de código. Selecionando segmentos de código específicos, você pode solicitar ao CodeGPT que crie documentação detalhada e informativa.
+O recurso Documento CodeGPT permite que você gere de forma eficiente uma documentação completa para sua base de código. Ao selecionar segmentos específicos de código, você pode solicitar ao CodeGPT que crie uma documentação detalhada e informativa.
 
 ## Como Usar:
-- Selecione o Código: Destaque o trecho de código
-- Clique com o botão direito no código selecionado e escolha **CodeGPT: Code Documentation**
+- Selecione o CodeGPT como `Fornecedor` e `Modelo`
 
-Potencialize sua base de código com documentação bem estruturada. Aprimore a colaboração e a compreensão tanto para esforços de desenvolvimento atuais quanto futuros.
+:::note CodeGPT: Documento CodeGPT
+Se você não possui acesso à Chave API de um fornecedor diferente do CodeGPT, você pode criar uma conta e sincronizá-la com a extensão. Para aprender como fazer isso, por favor consulte o seguinte [link](https://intercom.help/codegpt/pt/articles/8699317-connect-with-codegpt-new-extension). Lembre-se que ter uma conta CodeGPT não só lhe concede acesso a certos modelos da OpenAI mas também fornece acesso ao CodeGPT Plus, um modelo avançado de IA gerativo.
+:::
+- Selecione o Código: Destaque o trecho do código
+- Clique com o botão direito no código selecionado e então selecione **CodeGPT: Documento CodeGPT**
+
+Potencie sua base de código com uma documentação bem estruturada. Melhore a colaboração e compreensão tanto para os esforços de desenvolvimento atuais como futuros.
 
 ## Exemplo
-Selecione o código, clique com o botão direito e escolha `CodeGPT: Code Documentation`
+Selecione o código, clique com o botão direito e então selecione `CodeGPT: Documento CodeGPT`
 
-:::note CodeGPT: Code Documentation
+:::note CodeGPT: Documento CodeGPT
 <p align="center">
-  <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/33987e8d-e921-402e-a32e-8f33a437f9de" />
+  <img width="700" height="450" src="https://github.com/davila7/code-gpt-docs/assets/37567214/47b6a0df-e9e5-4a76-8039-a3ae8af01a26" />
 </p>
 :::
-
