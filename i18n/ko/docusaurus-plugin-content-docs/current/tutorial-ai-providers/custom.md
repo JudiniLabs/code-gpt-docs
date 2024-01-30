@@ -1,30 +1,23 @@
 ---
-sidebar_position: 4
+sidebar_position: 11
 ---
 
-# AI21
-Sitio web oficial de AI21 https://www.ai21.com
+# 고객 맞춤형 제공 업체
 
-AI21 es una empresa especializada en procesamiento de lenguaje natural (NLP) y tecnologías de inteligencia artificial (AI). Su producto estrella, AI21 Studio, es una potente plataforma de NLP que permite a los desarrolladores y científicos de datos construir e implementar modelos de lenguaje personalizados para diversas aplicaciones.
+이 옵션에서는 원하는 제공 업체를 선택할 수 있습니다. 연결에 필요한 모든 것은 제공 업체의 API 키 및 사용자 정의 링크입니다. 이 링크는 보통 등록 링크입니다.
 
-## Conecte su cuenta de AI21
-- Cree una cuenta en [AI21](https://www.ai21.com/) 
-- Vaya a su [cuenta](https://studio.ai21.com/account/account)
-- Copie la clave API
-- En VSCode, ingrese el comando ```cmd + shift + p``` y busque **`Set API Key`**
-- Pegue su clave API
+## 제공 업체 계정 연결
+- `제공자`로 `사용자 정의`를 선택합니다.
+- 계정을 `⋮` 단추에서 선택하여 연결합니다.
+- API 키 및 사용자 정의 링크를 여기에 복사합니다:
+  
+<p align="center">
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/38e34a46-58db-4530-8cfd-8ca8f948894d" />
+</p>
 
-:::caution Eliminar la API Key 
-Si desea eliminar su clave API de CodeGPT, abra la Paleta de comandos y busque `CodeGPT: Remove API KEY`.
-::: 
+- 또는 VSCode에서 `cmd + shift + p`를 누르고 **`Set API Key`**를 검색합니다.
+- API 키를 붙여 넣습니다.
 
-## Modelos Jurassic-2 
-Jurassic-2 (o J2, como nos gusta llamarlo) es la próxima generación de nuestros modelos fundamentales con mejoras significativas en calidad y nuevas capacidades, incluyendo seguimiento de instrucciones sin disparador, latencia reducida y soporte multilingüe. Jurassic-2 disponible en Code GPT - j2-light - j2-mid - j2-ultra Errores de API Si está obteniendo errores de API, consulte el siguiente enlace: Documentación de AI21
-
-## Modelos Jurassic-2 disponibles en Code GPT
-- j2-light
-- j2-mid
-- j2-ultra
-
-## API Errors
-Si está obteniendo errores de API, consulte el siguiente enlace: [AI21 Documentation](https://docs.ai21.com/reference/j2-complete-api-ref)
+:::caution 키 제거
+CodeGPT에서 API 키를 제거하려면 명령 팔레트를 열고 `CodeGPT: Remove API KEY`를 검색하십시오. 또는 `⋮` 단추를 선택하고 `Remove Connection`을 클릭할 수 있습니다.
+:::
