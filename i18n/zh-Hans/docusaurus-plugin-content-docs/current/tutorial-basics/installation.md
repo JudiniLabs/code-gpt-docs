@@ -1,5 +1,6 @@
+---
 sidebar_position: 1
-
+---
 # 安装
 
 CodeGPT可以在[VSCode](https://code.visualstudio.com/)和[Cursor](https://cursor.sh/)上使用。在本教程中，无论您喜欢使用的文本编辑器是哪个，我们都将指导您完成安装过程。开始吧！
