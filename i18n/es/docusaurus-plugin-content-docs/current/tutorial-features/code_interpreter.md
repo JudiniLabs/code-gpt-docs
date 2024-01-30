@@ -6,7 +6,7 @@ sidebar_position: 8
 
 ## Descripción
 
-La función de ***Intérprete de Código con Python*** te permite solicitar y recibir sugerencias de código de manera fluida dentro de los comentarios. Esta potente herramienta mejora tu experiencia de codificación al proporcionar fragmentos de código rápidos y relevantes.
+La función de **Intérprete de Código con Python** te permite solicitar y recibir sugerencias de código de manera fluida dentro de los comentarios. Esta potente herramienta mejora tu experiencia de codificación al proporcionar fragmentos de código rápidos y relevantes.
 
 Con la integración de Jupyter Notebook, ahora puedes ejecutar fragmentos de código directamente en tu entorno.
 
@@ -37,3 +37,5 @@ En este ejemplo, solicitamos abrir un archivo CSV, recuperar las columnas y lueg
       <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/314b2a0b-c89a-4458-ae58-1dc2c58a384d" />
 </p>
 :::
+
+```
