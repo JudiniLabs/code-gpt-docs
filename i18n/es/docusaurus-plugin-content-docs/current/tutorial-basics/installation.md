@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+
 # Instalación
 
 CodeGPT es accesible tanto en [VSCode](https://code.visualstudio.com/) como en [Cursor](https://cursor.sh/). En este tutorial, te guiaré a través del proceso de instalación sin importar cuál sea tu editor de texto preferido. ¡Comencemos!
