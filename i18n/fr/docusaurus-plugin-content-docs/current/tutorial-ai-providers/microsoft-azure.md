@@ -35,3 +35,4 @@ Si vous souhaitez supprimer votre Clé API de CodeGPT, ouvrez la palette de comm
 
 ## Erreurs API
 Si vous rencontrez des erreurs API, consultez le lien suivant : [Documentation Microsoft Azure](https://azure.microsoft.com/fr-fr/products/ai-services/openai-service/)
+
