@@ -1,24 +1,25 @@
 ---
-sidebar_position: 9
+sidebar_position: 1
 ---
 
-# GPT4All
+# CodeGPT Plus V2
 
-Sitio web oficial: https://gpt4all.io
+官方网站 [https://codegpt.co](https://codegpt.co)
 
-GPT4All es un ecosistema de código abierto diseñado para entrenar e implementar modelos de lenguaje grandes y personalizados que se ejecutan localmente en CPUs de grado de consumo. 
+在本教程中，您将了解如何将CodeGPT Plus帐户与VSCode中的扩展连接起来。
 
-El ecosistema cuenta con un cliente de chat de escritorio fácil de usar y enlaces oficiales para Python, TypeScript y GoLang, y da la bienvenida a contribuciones y colaboración de la comunidad de código abierto.[Github GPT4All](https://github.com/nomic-ai/gpt4all)
+✨ 单击 [此处](https://app.codegpt.co/en) 创建免费的CodeGTP Plus V2帐户。
 
-## Conectar los modelos GPT4All
-  - Descargue GPT4All en el siguiente enlace: [gpt4all.io](https://gpt4all.io/)
-  - Diríjase al menú **`Descargas`** y descargue todos los modelos que desee utilizar
-  - Diríjase al menú **`Configuración`** y habilite la opción **`Habilitar el servidor web`**
+## 连接CodeGPT Plus帐户
 
-## MOdelos de GPT4All disponibles en Code GPT
-- gpt4all-j-v1.3-groovy
-- vicuna-13b-1.1-q4_2
-- replit-code-v1-3b
+### 通过登录连接
 
-## Errores de API
-Si está recibiendo errores de API, verifique el siguiente enlace:[GPT4All Documentation](https://docs.gpt4all.io/index.html)
+- 创建帐户后，打开VSCode，选择CodeGPT作为 `提供商`
+
+<p align="center">
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/ad889330-514c-4261-9aef-7a5e453e7169" />
+</p>
+- 通过浏览器登录
+- 现在可以使用聊天，您可以切换到代理或使用我们的模型
+
+<p align="center">
