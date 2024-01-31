@@ -9,9 +9,7 @@ sidebar_position: 1
 CodeGPT es una potente extensión que aprovecha las capacidades de los Modelos de Lenguaje Grandes (LLMs) para potenciar tus tareas de programación utilizando la inteligencia artificial.
 
 :::info
-
 Esta herramienta no solo te permite interactuar dinámicamente con tu entorno de trabajo, sino que también puede crear Agentes de IA que enriquecen los LLMs con contexto y te conectan con repositorios, informes y otras áreas críticas de tu negocio.
-
 :::
 
 :::note Extensión CodeGPT para VSCode
@@ -32,8 +30,8 @@ En este tutorial, te guiaremos a través de la descarga e instalación de CodeGP
 
 :::caution
 
-Aunque la extensión CodeGPT es gratuita, requiere el uso de una API de un proveedor externo (ver [Proveedores](/docs/category/ai-providers)). **Estos proveedores externos son servicios de pago**, aunque pueden ofrecer un uso limitado de forma gratuita.
+Aunque la extensión CodeGPT es gratuita, requiere el uso de una API de un proveedor externo (ver [Proveedores](https://docs.codegpt.co/es/docs/category/ai-providers). **Estos proveedores externos son servicios de pago**, aunque pueden ofrecer un uso limitado de forma gratuita.
 
 :::
 ---
-En el próximo módulo aprenderás cómo instalar y configurar la extensión. Haz clic en [Conceptos Básicos](/docs/category/basics) para continuar.
+En el próximo módulo aprenderás cómo instalar y configurar la extensión. Haz clic en [Conceptos Básicos](https://docs.codegpt.co/docs/category/basics) para continuar.
