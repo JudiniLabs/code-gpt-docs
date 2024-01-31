@@ -14,7 +14,7 @@ Esta herramienta no solo te permite interactuar dinámicamente con tu entorno de
 
 :::note Extensión CodeGPT para VSCode
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/8cbbef10-5767-437f-abbc-3000237f8d90" />
+    <img src="https://raw.githubusercontent.com/davila7/code-gpt-docs/main/assets/6216945/8cbbef10-5767-437f-abbc-3000237f8d90" />
 </p>
 :::
 
@@ -24,7 +24,7 @@ En este tutorial, te guiaremos a través de la descarga e instalación de CodeGP
 
 :::note ¡Comencemos y sumérgete directamente en la experiencia de codificación potenciada por IA!
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/a7f7acc0-4e85-4e88-9370-a2d2f1163a1d" />
+    <img src="https://raw.githubusercontent.com/davila7/code-gpt-docs/main/assets/6216945/a7f7acc0-4e85-4e88-9370-a2d2f1163a1d" />
 </p>
 :::
 
