@@ -12,12 +12,12 @@ La función de Autocompletado GPT con Selección de Modelo le permite elegir ent
     - Marque la opción ✅ **Habilitar CodeGPT Copilot**
     - **Tokens máximos:** El número máximo de tokens a generar. El modelo se detendrá una vez que se hayan generado tantos tokens, por lo que este valor equilibra la latencia y la coherencia.
     - **Proveedor:**
-        - OpenAI - gpt-3.5-turbo-instruct
-        - CodeGPT Plus - Plus
-        - Anthropic - claude-2
-        - Anthropic - claude-instant-1
-        - Ollama - deepseek-coder:base
-        - Ollama - codegpt/deepseek-coder-1.3b-typescript
+        - OpenAI-gpt-3.5-turbo-instruct
+        - CodeGPT Plus-Plus
+        - Anthropic-claude-2
+        - Anthropic-claude-instant-1
+        - Ollama-deepseek-coder:base
+        - Ollama-codegpt/deepseek-coder-1.3b-typescript
     - **Retraso de sugerencias:** El retraso en **milisegundos** entre el último carácter escrito y la solicitud de sugerencias. Por defecto es 3000.
 
 :::note Configuración de autocompletado GPT
