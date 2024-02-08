@@ -16,11 +16,10 @@ Opensource project to run, create, and share large language models (LLMs).
 - In VSCode and Select Ollama like a `Provider`
  
 <p align="center">
-  <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a5e3eda0-1609-44b4-bffb-a275ba2562b0">
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a5e3eda0-1609-44b4-bffb-a275ba2562b0" />
 </p>
-
+ 
 - Please be aware that Ollama is running locally on your computer.
-
 ## Ollama Models available in Code GPT
 - llama2
 - codellama
