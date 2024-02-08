@@ -15,21 +15,22 @@ The Hugging Face is a platform designed to share pre-trained AI models and colla
 - Choose `HuggingFace` as `Provider`
 - `Set connection` and link with your account on `⋮` button.
 - Copy the API Key here:
-  
+
 <p align="center">
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/dd106264-9524-48ad-9fb7-593b917b677a" />
 </p>
- 
+
+
 - Or, in VSCode press `cmd + shift + p` and search **`Set API Key`**
 - Paste your API Key
-
+  
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`. Or you can select `⋮` button, and click on `Remove Connection`
 :::
 
 ### Huggingface Models available in Code GPT
 - OperAssistant/oasst
--  mistralai/Mixtral-8x7
+- mistralai/Mixtral-8x7
 - mistralai/Mistral-7B-v0.1
 
 ## API Errors
