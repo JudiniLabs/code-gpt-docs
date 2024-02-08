@@ -11,16 +11,15 @@ Official website https://azure.microsoft.com/en-us/products/ai-services/openai-s
 - Get access to [Azure OpenAI Services](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
 - Go to [Azure OpenAI Studio](https://oai.azure.com/)
 - Get your Endpoint and Secret Key
-- Choose `Azure` as `Provider`
+- Choose `Azure` as `Provider`.
 - `Set connection` and link with your account on `⋮` button.
 - Copy the API Key here:
-  
+ 
 <p align="center">
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/c89c3c49-1c1a-4fa3-93b3-5ddede97d5e7" />
 </p>
  
-- Or, in VSCode press `cmd + shift + p` and search `Set API Key`
-  
+- Or, in VSCode press `cmd + shift + p` and search `Set API Key`.
 - Paste the Endpoint and Secret Key
 
 :::caution Remove Key
