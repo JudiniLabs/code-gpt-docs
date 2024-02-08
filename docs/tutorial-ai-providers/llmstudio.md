@@ -1,28 +1,36 @@
 ---
-sidebar_position: 3
+sidebar_position: 14
 ---
 
-# Cohere
-Sitio web oficial https://cohere.ai
+# LLM Studio
+Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 
-Cohere es una empresa de inteligencia artificial especializada en el desarrollo de modelos de lenguaje. Utilizan técnicas avanzadas de procesamiento de lenguaje natural y aprendizaje automático para mejorar la comprensión del lenguaje humano y la capacidad de generar texto automáticamente. Sus modelos se utilizan en aplicaciones como análisis de sentimientos, resumen y traducción automática.
+## Connect LLM Studio
+- Download LLM Studio here [lmstudio.ai](https://lmstudio.ai/)
+- Open LM Studio and click on `Select a model to load`, choose `Openhermes 2.5 mistral`.
+<p align="center">
+    <img width="250" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/efe5ff7f-2147-4ffa-a3d2-72d7fd204d21" />
+</p>
+- Please wait until the loading reaches 100% completion.
+- Click on `Start Server`.
+- Launch CodeGPT extension on VSCode.
+- Choose LM Studio as `Provider`, click on `Save`
 
-## Conectar su cuenta de Cohere
-- Cree una cuenta en [cohere.ai](https://cohere.ai/)
-- Vaya a su [dashboard](https://dashboard.cohere.ai/) 
-- Copie la API Key
-- En VSCode, ingrese el comando ```cmd + shift + p``` y busque **`Set API Key`**
-- Pegue su clave API
+<p align="center">
+    <img width="250" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/2bf79e7e-a41f-4943-9498-67fd9d47f6c3" />
+</p>
 
-:::caution Eliminar la API Key 
-Si desea eliminar su clave API de CodeGPT, abra la Paleta de comandos y busque `CodeGPT: Remove API KEY`.
-:::
+:::caution Remove Key
+If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`. Or you can select `⋮` button, and click on `Remove Connection`
+::
 
 ## Modelos Nightly disponibles en Code GPT
-- coral (Para el modelo de Chat, visite: https://cohere.com/chat)
-- command-xlarge-nightly
-- command-medium-nightly
-- command-light-nightly
+- OpenHermes-2.5-Mistral-7B model
+  
+## API Errors
+If you're experiencing API errors, please check the following link:
 
-## Errores de API
-Si está recibiendo errores de API, verifique el siguiente enlace: [Cohere API Errors](https://docs.cohere.ai/reference/errors) https://cohere.ai. 
+
+
+
+
