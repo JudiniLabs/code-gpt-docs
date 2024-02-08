@@ -2,11 +2,11 @@
 sidebar_position: 14
 ---
 
-# LLM Studio
+# LM Studio
 Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 
-## Connect LLM Studio
-- Download LLM Studio here [lmstudio.ai](https://lmstudio.ai/)
+## Connect LM Studio
+- Download LM Studio here [lmstudio.ai](https://lmstudio.ai/)
 - Open LM Studio and click on `Select a model to load`, choose `Openhermes 2.5 mistral`.
 <p align="center">
     <img width="250" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/efe5ff7f-2147-4ffa-a3d2-72d7fd204d21" />
