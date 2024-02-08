@@ -13,7 +13,13 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 - Click on Start Server.
 - Launch CodeGPT extension on VSCode.
 - Choose LM Studio as `Provider`, click on Save
+  
+<p align="center">
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/3d854360-9ad1-41b8-a7bd-813a5a2e8420" />
+</p>
 
+- Or, in VSCode press `cmd + shift + p` and search **`Set API Key`**
+- Paste your API Key
 
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`. Or you can select `⋮` button, and click on `Remove Connection`
