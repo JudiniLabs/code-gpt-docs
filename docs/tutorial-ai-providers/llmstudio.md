@@ -11,7 +11,7 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 - Open LM Studio and click on `Select a model to load`, choose `Openhermes 2.5 mistral`.
 
 <p align="center">
-      <img width="450" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/475d35e3-4489-4dc2-bf52-0d49bbdd1469" />
+      <img width="450" height="125" src="https://github.com/davila7/code-gpt-docs/assets/37567214/475d35e3-4489-4dc2-bf52-0d49bbdd1469" />
 </p>
  
 - Please wait until the loading reaches 100% completion.
