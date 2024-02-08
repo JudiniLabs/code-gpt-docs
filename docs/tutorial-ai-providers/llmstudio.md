@@ -20,7 +20,7 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 - Choose LM Studio as `Provider`, click on Save
   
 <p align="center">
-      <img width="400" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/3d854360-9ad1-41b8-a7bd-813a5a2e8420" />
+      <img width="450" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/3d854360-9ad1-41b8-a7bd-813a5a2e8420" />
 </p>
 
 - Or, in VSCode press `cmd + shift + p` and search **`Set API Key`**
