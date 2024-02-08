@@ -20,6 +20,8 @@ Opensource project to run, create, and share large language models (LLMs).
 </p>
  
 - Please be aware that Ollama is running locally on your computer.
+
+  
 ## Ollama Models available in Code GPT
 - llama2
 - codellama
