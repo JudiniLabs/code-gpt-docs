@@ -12,7 +12,7 @@ Accédez à l'onglet des outils et cliquez sur la option 💬. Vous pouvez synch
 
 :::note Chat de CodeGPT
 <p align="center">
-      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7f0d756a-4698-44a4-bff7-77d68f69f585" />
+      <img width="350" height="200" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7f0d756a-4698-44a4-bff7-77d68f69f585" />
 </p>
 :::
 
@@ -22,5 +22,6 @@ Une fois l'onglet de chat ouvert, vous pouvez commencer une conversation en tapa
 
 :::note Conversation dans le Chat de CodeGPT
 <p align="center">
-      <img width="600" height="450" src="https://github.com/davila7/code-gpt-docs/assets/37567214/286fd1a9-beda-42a5-8219
+      <img width="600" height="450" src="https://github.com/davila7/code-gpt-docs/assets/37567214/286fd1a9-beda-42a5-8219" />
+</p>
 :::
