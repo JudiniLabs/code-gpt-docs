@@ -31,7 +31,7 @@ The Autocompletion GPT with Model Selection feature empowers you to choose from 
 
 :::note Autocompletion GPT
 <p align="center">
-      <img width="500" height="450" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a3f1d2b5-fc0b-4338-926d-287fcb02465c" />
+      <img width="800" height="750" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a3f1d2b5-fc0b-4338-926d-287fcb02465c" />
 </p>
 
 :::
