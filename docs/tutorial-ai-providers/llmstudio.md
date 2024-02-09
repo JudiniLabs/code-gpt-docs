@@ -17,7 +17,7 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 - Please wait until the loading reaches 100% completion.
 - Click on Start Server.
 - Launch CodeGPT extension on VSCode.
-- Choose LM Studio as `Provider`, click on Save
+- Choose LM Studio as `Provider`, click on Save.
   
 <p align="center">
       <img width="450" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/3d854360-9ad1-41b8-a7bd-813a5a2e8420" />
