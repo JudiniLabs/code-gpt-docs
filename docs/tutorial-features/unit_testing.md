@@ -20,6 +20,6 @@ Select the code, right click then select `Unit Test CodeGPT`
 
 :::note CodeGPT: Unit Test CodeGPT
 <p align="center">
-  <img width="650" height="400" src="https://github.com/davila7/code-gpt-docs/assets/37567214/033952ac-dfa4-48c3-aca6-737ca02b29e3" />
+  <img width="850" height="600" src="https://github.com/davila7/code-gpt-docs/assets/37567214/033952ac-dfa4-48c3-aca6-737ca02b29e3" />
 </p>
 :::
