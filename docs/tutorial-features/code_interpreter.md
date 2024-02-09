@@ -34,7 +34,7 @@ In this example, we request to open a CSV file, retrieve the columns, and then p
 
 :::note CodeGPT: Code Interpreter
 <p align="center">
-      <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/314b2a0b-c89a-4458-ae58-1dc2c58a384d" />
+      <img width="750" height="500" src="https://github.com/davila7/code-gpt-docs/assets/6216945/314b2a0b-c89a-4458-ae58-1dc2c58a384d" />
 </p>
 :::
 
