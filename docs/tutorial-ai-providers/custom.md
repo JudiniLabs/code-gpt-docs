@@ -15,9 +15,8 @@ In this option, you can choose a provider of your preference, all you need to co
       <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/38e34a46-58db-4530-8cfd-8ca8f948894d" />
 </p>
 
-- Or, in VSCode press `cmd + shift + p` and search **`Set API Key`**
 - Paste your API Key
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`. Or you can select `⋮` button, and click on `Remove Connection`
+If you want to remove your API Key from CodeGPT, select `⋮` button, and click on `Remove Connection`
 :::
