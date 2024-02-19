@@ -17,6 +17,7 @@ Amazon Bedrock, a fully-managed service, offers top foundation models (FMs) from
       <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/f777df34-a667-4f52-87df-0a3d70dae4d2" />
 </p>
 
+
 - Paste your API Key
 
 :::caution Remove Key
