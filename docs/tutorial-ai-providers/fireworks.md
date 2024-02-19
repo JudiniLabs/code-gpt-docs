@@ -19,10 +19,11 @@ Experience the world's fastest Generative AI inference platform. Use a state-of-
 </p>  
 
 
+
 - Paste your API Key
   
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `⋮` button, and click on `Remove Connection`
+If you want to remove your API Key from CodeGPT, select `⋮` button, and click on `Remove Connection`.
 :::
 
 ## Fireworks available in Code GPT
