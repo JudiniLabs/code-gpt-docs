@@ -13,8 +13,7 @@ Official website https://azure.microsoft.com/en-us/products/ai-services/openai-s
 - Get your Endpoint and Secret Key
 - Choose `Azure` as `Provider`.
 - `Set connection` and link with your account on `⋮` button.
-- Copy the API Key here:
-- Or, in VSCode press ```cmd + shift + p``` and search ```Set API Key```.
+- Copy the API Key 
 - Paste the Endpoint and Secret Key
  
 <p align="center">
@@ -24,7 +23,7 @@ Official website https://azure.microsoft.com/en-us/products/ai-services/openai-s
 
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`. Or you can select `⋮` button, and click on `Remove Connection`
+If you want to remove your API Key from CodeGPT, select `⋮` button, and click on `Remove Connection`
 :::
 
 ## Azure OpenAI Models available in Code GPT
