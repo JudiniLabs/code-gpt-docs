@@ -22,9 +22,8 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 :::
 
 ### Connect by API Key
-  - Request your API Key from the [CodeGPT Plus](https://plus.codegpt.co/settings/apikey)
+  - Request your API Key from the [CodeGPT Plus](https://app.codegpt.co/en/apikeys)
   - Go to the Settings / Access tokens and copy your **`API Key`**
-  - In VSCode press ```cmd + shift + p``` and search **`Set API Key`**
   - Paste your API Key
 
 :::caution Remove Key
