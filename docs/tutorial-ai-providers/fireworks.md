@@ -16,13 +16,11 @@ Experience the world's fastest Generative AI inference platform. Use a state-of-
 
 <p align="center">
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e2b9485f-d2d8-4c35-99f4-fecce81ffeb0" />
-</p>
-  
-- Or, in VSCode press `cmd + shift + p` and search **`Set API Key`**.
+</p>  
 - Paste your API Key
   
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`. Or you can select `⋮` button, and click on `Remove Connection`
+If you want to remove your API Key from CodeGPT, select `⋮` button, and click on `Remove Connection`
 :::
 
 ## Fireworks available in Code GPT
