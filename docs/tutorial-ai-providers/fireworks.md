@@ -17,6 +17,8 @@ Experience the world's fastest Generative AI inference platform. Use a state-of-
 <p align="center">
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e2b9485f-d2d8-4c35-99f4-fecce81ffeb0" />
 </p>  
+
+
 - Paste your API Key
   
 :::caution Remove Key
