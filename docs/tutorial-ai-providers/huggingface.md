@@ -20,12 +20,10 @@ The Hugging Face is a platform designed to share pre-trained AI models and colla
       <img width="400" height="350" src="https://github.com/davila7/code-gpt-docs/assets/37567214/dd106264-9524-48ad-9fb7-593b917b677a" />
 </p>
 
-
-- Or, in VSCode press `cmd + shift + p` and search **`Set API Key`**
 - Paste your API Key
   
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`. Or you can select `⋮` button, and click on `Remove Connection`
+If you want to remove your API Key from CodeGPT, select `⋮` button, and click on `Remove Connection`
 :::
 
 ### Huggingface Models available in Code GPT
