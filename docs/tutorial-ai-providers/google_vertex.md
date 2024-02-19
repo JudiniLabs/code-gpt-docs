@@ -12,8 +12,7 @@ Official website https://cloud.google.com/
 - Copy this API Key to your clipboard and the link of the model
 - Choose `Vertex` as `Provider`.
 - `Set connection` and link with your account on `⋮` button.
-- Copy the API Key and link model here:
-- Or, in VSCode press `cmd + shift + p` and search **`Set API Key`**.
+- Copy the API Key and link model.
 - Paste your API Key.
 
 <p align="center">
@@ -23,7 +22,7 @@ Official website https://cloud.google.com/
 
   
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, open the Command Palette and search for `CodeGPT: Remove API KEY`. Or you can select `⋮` button, and click on `Remove Connection`.
+If you want to remove your API Key from CodeGPT, select `⋮` button, and click on `Remove Connection`.
 :::
 
 ## Google Models available in CodeGPT
