@@ -42,6 +42,19 @@ Open the chat and select your agent after `Set connection`
       <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/774ca6a0-4e00-4e3f-b001-51c834dc5ecf" />
 </p>
 
+## Models available in CodeGPT
+- CodeGPT Plus
+- GPT-4
+
+On Playground you can set the agents with these other models:
+- GPT-4
+- GPT-4 turbo
+- Claude-2.1
+- Gemini-10-Pro
+- GPT-3.5-Turbo
+- GPT-3.5-Turbo-16k
+- Claude-Instant-1.2
+
 
 
 
