@@ -25,7 +25,6 @@ Para acceder a Claude, debe ingresar a https://www.anthropic.com/product y luego
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/d83dda72-9095-43c7-9be1-77dc29e685e3" />
 </p>
 
-- O, en VSCode, presiona `cmd + shift + p` y busca **`Set API Key`**
 - Pega tu Clave API
 
 :::caution Eliminar Clave
