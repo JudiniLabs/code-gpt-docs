@@ -17,7 +17,6 @@ Amazon Bedrock, un servicio completamente gestionado, ofrece los mejores modelos
       <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/f777df34-a667-4f52-87df-0a3d70dae4d2" />
 </p>
 
-- O, en VSCode presione `cmd + shift + p` y busque **`Set API Key`**
 - Pegue su clave API
 
 :::caution Eliminar clave
