@@ -17,8 +17,9 @@ Découvrez la plateforme d'inférence IA générative la plus rapide au monde. U
 <p align="center">
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e2b9485f-d2d8-4c35-99f4-fecce81ffeb0" />
 </p>
- 
+  
 - Collez votre clé API
+
 
 :::caution Supprimer la clé
 Si vous souhaitez supprimer votre clé API de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Supprimer la clé API`. Ou vous pouvez sélectionner le bouton `⋮` et cliquer sur `Supprimer la connexion`
