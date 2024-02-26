@@ -18,7 +18,6 @@ Site officiel https://cloud.google.com/
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/1d483a4f-05a8-4fe8-b239-04fe07b48076" />
 </p>
  
-- Ou, dans VSCode, appuyez sur `cmd + shift + p` et recherchez **`Définir Clé API`**.
 - Collez votre clé API
 
 :::caution Supprimer la clé
