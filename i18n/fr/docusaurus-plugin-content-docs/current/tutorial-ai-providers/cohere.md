@@ -18,7 +18,6 @@ Cohere est une entreprise d'intelligence artificielle spécialisée dans le dév
 </p>
 
  
-- Ou, dans VSCode, appuyez sur `cmd + shift + p` et recherchez **`Définir la clé API`**
 - Collez votre clé API
 
 :::caution Supprimer la clé
