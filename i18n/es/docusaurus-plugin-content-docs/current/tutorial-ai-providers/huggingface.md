@@ -19,8 +19,12 @@ Hugging Face es una plataforma diseñada para compartir modelos de IA preentrena
 <p align="center">
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/dd106264-9524-48ad-9fb7-593b917b677a" />
 </p>
- 
+  
 - Pega tu clave API
+
+
+ 
+
 
 :::caution Eliminar Clave
 Si deseas eliminar tu clave API de CodeGPT, abre la Paleta de Comandos y busca `CodeGPT: Eliminar API KEY`. O puedes seleccionar el botón `⋮` y hacer clic en `Eliminar Conexión`
