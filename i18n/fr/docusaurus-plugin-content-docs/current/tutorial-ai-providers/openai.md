@@ -16,13 +16,13 @@ OpenAI est une organisation de recherche en intelligence artificielle qui vise �
 - Choisissez `OpenAI` comme `Fournisseur`
 - `Établir la connexion` et liez avec votre compte sur le bouton `⋮`.
 - Copiez la clé API et l'ID de l'organisation ici :
-  
+
 <p align="center">
       <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/c79e8c36-2d0c-4cfe-992b-5816748472aa"/>
 </p>
-
- 
+  
 - Collez votre clé API
+  
 
 :::caution Supprimer la clé
 Si vous souhaitez supprimer votre clé API de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Supprimer la clé API`. Ou vous pouvez sélectionner le bouton `⋮` et cliquer sur `Supprimer la connexion`.
