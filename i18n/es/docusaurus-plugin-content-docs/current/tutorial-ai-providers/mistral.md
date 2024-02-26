@@ -18,7 +18,6 @@ Somos un pequeño equipo creativo con altos estándares científicos. Creamos mo
       <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/bd736fe1-f302-4a2d-a308-3b1ef9dec728" />
 </p>
  
-- O, en VSCode, presiona ```cmd + shift + p``` y busca **`Establecer Clave API`**
 - Pega tu Clave API
 
 :::caution Eliminar Clave
