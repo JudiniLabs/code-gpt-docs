@@ -18,7 +18,6 @@ Découvrez la plateforme d'inférence IA générative la plus rapide au monde. U
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e2b9485f-d2d8-4c35-99f4-fecce81ffeb0" />
 </p>
  
-- Ou, dans VSCode, appuyez sur `cmd + shift + p` et recherchez **`Définir la clé API`**.
 - Collez votre clé API
 
 :::caution Supprimer la clé
