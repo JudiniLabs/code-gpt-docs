@@ -18,7 +18,6 @@ Sitio web oficial https://cloud.google.com/
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/1d483a4f-05a8-4fe8-b239-04fe07b48076" />
 </p>
  
-- O, en VSCode, presiona `cmd + shift + p` y busca **`Establecer Clave API`**.
 - Pega tu clave API
 
 :::caution Eliminar Clave
