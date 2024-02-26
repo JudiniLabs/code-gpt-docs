@@ -19,7 +19,6 @@ Sitio web oficial https://azure.microsoft.com/es-es/products/ai-services/openai-
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/c89c3c49-1c1a-4fa3-93b3-5ddede97d5e7" />
 </p>
  
-- O, en VSCode, presiona `cmd + shift + p` y busca `Establecer Clave API`
   
 - Pega el Endpoint y la Clave Secreta
 
