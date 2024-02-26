@@ -20,13 +20,13 @@ Sitio web oficial [https://lmstudio.ai/](https://lmstudio.ai/)
 - Haz clic en Iniciar Servidor.
 - Inicia la extensión CodeGPT en VSCode.
 - Elige el Estudio LM como `Proveedor`, haz clic en Guardar.
-  
+
 <p align="center">
       <img width="450" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/3d854360-9ad1-41b8-a7bd-813a5a2e8420" />
 </p>
-
+  
 - Pega tu Clave API
-
+  
 :::caution Eliminar Clave
 Si quieres eliminar tu Clave API de CodeGPT, abre la Paleta de Comandos y busca `CodeGPT: Remove API Key`. O puedes seleccionar el botón `⋮`, y hacer clic en `Eliminar Conexión`
 :::
