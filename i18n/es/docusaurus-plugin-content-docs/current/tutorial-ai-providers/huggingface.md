@@ -20,7 +20,6 @@ Hugging Face es una plataforma diseñada para compartir modelos de IA preentrena
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/dd106264-9524-48ad-9fb7-593b917b677a" />
 </p>
  
-- O, en VSCode, presiona `cmd + shift + p` y busca **`Establecer Clave API`**
 - Pega tu clave API
 
 :::caution Eliminar Clave
