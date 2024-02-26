@@ -25,7 +25,6 @@ Site Web officiel [https://lmstudio.ai/](https://lmstudio.ai/)
       <img width="450" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/3d854360-9ad1-41b8-a7bd-813a5a2e8420" />
 </p>
 
-- Ou, dans VSCode pressez `cmd + shift + p` et recherchez **`Définir clé API`**
 - Collez votre Clé API
 
 :::caution Supprimer la Clé
