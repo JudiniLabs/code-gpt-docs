@@ -22,7 +22,6 @@ OpenAI es una organización de investigación en inteligencia artificial que tie
 </p>
 
  
-- O, en VSCode, presiona `cmd + shift + p` y busca **`Establecer Clave API`**
 - Pega tu Clave API
 
 :::caution Eliminar Clave
