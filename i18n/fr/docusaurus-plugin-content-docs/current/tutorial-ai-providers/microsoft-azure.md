@@ -19,8 +19,7 @@ Site officiel https://azure.microsoft.com/fr-fr/products/ai-services/openai-serv
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/c89c3c49-1c1a-4fa3-93b3-5ddede97d5e7" />
 </p>
  
-- Ou, dans VSCode, appuyez sur `cmd + shift + p` et recherchez `Définir Clé API`
-  
+ 
 - Collez l'Endpoint et la Clé secrète
 
 :::caution Supprimer la clé
