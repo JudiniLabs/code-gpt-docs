@@ -18,7 +18,6 @@ Experimenta la plataforma de inferencia de IA generativa más rápida del mundo.
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e2b9485f-d2d8-4c35-99f4-fecce81ffeb0" />
 </p>
  
-- O, en VSCode presiona `cmd + shift + p` y busca **`Establecer Clave API`**.
 - Pega tu Clave API
 
 :::caution Eliminar Clave
