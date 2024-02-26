@@ -18,7 +18,6 @@ Nous sommes une petite équipe créative avec des normes scientifiques élevées
       <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/bd736fe1-f302-4a2d-a308-3b1ef9dec728" />
 </p>
  
-- Ou, dans VSCode, appuyez sur ```cmd + shift + p``` et recherchez **`Définir Clé API`**
 - Collez votre Clé API
 
 :::caution Supprimer la clé
