@@ -16,8 +16,7 @@ Cohere est une entreprise d'intelligence artificielle spécialisée dans le dév
 <p align="center">
       <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/2a15c150-bbac-4376-9e0f-d96068220db2" />
 </p>
-
- 
+  
 - Collez votre clé API
 
 :::caution Supprimer la clé
