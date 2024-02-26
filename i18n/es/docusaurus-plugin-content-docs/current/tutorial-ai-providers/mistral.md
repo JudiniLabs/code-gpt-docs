@@ -14,13 +14,14 @@ Somos un pequeño equipo creativo con altos estándares científicos. Creamos mo
 - Elige `Mistral` como `Proveedor`
 - `Establece la conexión` y vincúlala con tu cuenta en el botón `⋮`.
 - Crea y copia la Clave API aquí:
+
 <p align="center">
       <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/bd736fe1-f302-4a2d-a308-3b1ef9dec728" />
 </p>
- 
+  
 - Pega tu Clave API
 
-:::caution Eliminar Clave
+ :::caution Eliminar Clave
 Si deseas eliminar tu Clave API de CodeGPT, abre la Paleta de Comandos y busca `CodeGPT: Eliminar API KEY`. O puedes seleccionar el botón `⋮` y hacer clic en `Eliminar Conexión`
 :::
 
