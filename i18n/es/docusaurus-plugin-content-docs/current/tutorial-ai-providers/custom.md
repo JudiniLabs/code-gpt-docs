@@ -15,7 +15,6 @@ En esta opción, puedes elegir un proveedor de tu preferencia. Todo lo que neces
       <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/38e34a46-58db-4530-8cfd-8ca8f948894d" />
 </p>
 
-- O, en VSCode, presiona `cmd + shift + p` y busca **`Set API Key`**
 - Pega tu clave API
 
 :::caution Eliminar clave
