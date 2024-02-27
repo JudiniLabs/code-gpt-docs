@@ -9,14 +9,13 @@ Dans cette option, vous pouvez choisir un fournisseur de votre choix. Tout ce do
 ## Connectez-vous à votre compte fournisseur
 - Choisissez `Personnalisé` comme `Fournisseur`
 - `Établir la connexion` et lier avec votre compte sur le bouton `⋮`.
-- Copiez la clé API et le lien personnalisé ici :
-
+- Copiez e Collez la clé API et le lien personnalisé ici :
 
 <p align="center">
       <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/38e34a46-58db-4530-8cfd-8ca8f948894d" />
 </p>
   
-- Collez votre clé API
+
   
 :::caution Supprimer la clé
 Si vous souhaitez supprimer votre clé API de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Remove API KEY`. Ou vous pouvez sélectionner le bouton `⋮` et cliquer sur `Remove Connection`
