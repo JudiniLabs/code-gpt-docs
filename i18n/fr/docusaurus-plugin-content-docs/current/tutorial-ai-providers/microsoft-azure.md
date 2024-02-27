@@ -21,7 +21,6 @@ Site officiel https://azure.microsoft.com/fr-fr/products/ai-services/openai-serv
   
 - Collez l'Endpoint et la Clé secrète
 
-
 :::caution Supprimer la clé
 Si vous souhaitez supprimer votre Clé API de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Supprimer la clé API`. Ou vous pouvez sélectionner le bouton `⋮` et cliquer sur `Supprimer la connexion`
 :::
