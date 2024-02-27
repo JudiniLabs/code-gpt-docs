@@ -24,10 +24,8 @@ Pour accéder à Claude, vous devez entrer dans https://www.anthropic.com/produc
 <p align="center">
       <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/d83dda72-9095-43c7-9be1-77dc29e685e3" />
 </p>
-  
+
 - Collez votre clé API
-
-
 
 :::caution Supprimer la clé
 Si vous souhaitez supprimer votre clé API de CodeGPT, ouvrez la palette de commandes et recherchez `CodeGPT: Supprimer la clé API`. Ou vous pouvez sélectionner le bouton `⋮` et cliquer sur `Supprimer la connexion`
