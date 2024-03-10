@@ -10,9 +10,7 @@ sidebar_position: 2
 3. Then `Configuration`. This will open the Settings window.  
 4. On this windows you can fit the `Max Tokens`, `Window Memory` and `Temperature`
 
-## Available Settings
-
-### Provider
+## Select provider
 
 Select your AI provider from the dropdown menu, then enter the API Key for the selected provider.
 
@@ -33,6 +31,10 @@ Select your AI provider from the dropdown menu, then enter the API Key for the s
 - [CodeGPT Plus(legacy)](/docs/tutorial-ai-providers/codegpt_plus)
   
 :::
+
+## Chat Settings ⚙
+
+In this option, you can set the features of the provider, change the number of tokens, temperature and window memory.
 
 ### Max Token
 Tokens can be thought of as pieces of words. Before the API processes the prompts, the input is broken down into tokens.
@@ -56,11 +58,33 @@ It stores a list of past conversations, but only the last K (a specific number) 
 - minimum: 1
 - maximum: 50
 
-Also, you can set the configuration directly from ⚙
-
 :::note CodeGPT Settings
 
-![image](https://github.com/davila7/code-gpt-docs/assets/37567214/06f13b00-fbd2-40ab-8373-b20e241ce56e)
+## Autocomplete
+
+Autocomplete suggests completions for code elements based on what the developer has typed so far. This includes variables, functions, methods, classes, and keywords relevant to the programming language and context. For more details check this [link](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion)
+
+## Theme
+Use the dark or light theme and change the appereance
+
 :::
 
+:::note CodeGPT Tools
+## Chat
+In this tab you can go back to the chat window.
 
+## Marketplace
+Check the agents available on Marketplace and add it to you CodeGPT Plus account.
+⚠️ Do not forget select CodeGPT Plus as provider and set the connection.
+
+## React Sandbox
+[React Sandbox](http://localhost:54112/vision), is a experimental tool allows you to build React components. You can either type a command or upload an image to interact.
+:::
+
+:::note Help
+## Documentation
+Access to the documentation, open the panel automatically.
+
+## Issues
+If you found an issue you can report it in the [Github repository](https://github.com/davila7/code-gpt-docs/issues/240).
+:::
