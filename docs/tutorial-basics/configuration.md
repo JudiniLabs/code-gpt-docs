@@ -58,33 +58,33 @@ It stores a list of past conversations, but only the last K (a specific number) 
 - minimum: 1
 - maximum: 50
 
-:::note CodeGPT Settings
+## CodeGPT Settings
 
-## Autocomplete
+### Autocomplete
 
 Autocomplete suggests completions for code elements based on what the developer has typed so far. This includes variables, functions, methods, classes, and keywords relevant to the programming language and context. For more details check this [link](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion)
 
-## Theme
+### Theme
 Use the dark or light theme and change the appereance
 
-:::
 
-:::note CodeGPT Tools
-## Chat
+
+## CodeGPT Tools
+### Chat
 In this tab you can go back to the chat window.
 
-## Marketplace
+### Marketplace
 Check the agents available on Marketplace and add it to you CodeGPT Plus account.
 ⚠️ Do not forget select CodeGPT Plus as provider and set the connection.
 
-## React Sandbox
+### React Sandbox
 [React Sandbox](http://localhost:54112/vision), is a experimental tool allows you to build React components. You can either type a command or upload an image to interact.
-:::
 
-:::note Help
-## Documentation
+
+## Help
+### Documentation
 Access to the documentation, open the panel automatically.
 
-## Issues
+### Issues
 If you found an issue you can report it in the [Github repository](https://github.com/davila7/code-gpt-docs/issues/240).
-:::
+
