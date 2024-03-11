@@ -32,6 +32,8 @@ Select your AI provider from the dropdown menu, then enter the API Key for the s
   
 :::
 
+Also, you can visualize it on the browser <i class="fa-sharp fa-light fa-arrow-up-from-bracket"></i>.
+
 ## Chat Settings ⚙
 
 In this option, you can set the features of the provider, change the number of tokens, temperature and window memory.
