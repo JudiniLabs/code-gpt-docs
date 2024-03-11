@@ -32,7 +32,7 @@ Select your AI provider from the dropdown menu, then enter the API Key for the s
   
 :::
 
-Also, you can visualize it on the browser <i class="fa-sharp fa-light fa-arrow-up-from-bracket"></i>.
+Also, you can visualize it on the browser <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />.
 
 ## Chat Settings ⚙
 
