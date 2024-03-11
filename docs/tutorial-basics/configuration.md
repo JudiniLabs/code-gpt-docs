@@ -32,7 +32,15 @@ Select your AI provider from the dropdown menu, then enter the API Key for the s
   
 :::
 
-Also, you can visualize it on the browser <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />.
+Also, you can visualize it on the browser <style>
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+</style>.
 
 ## Chat Settings ⚙
 
