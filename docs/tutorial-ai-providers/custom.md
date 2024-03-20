@@ -21,5 +21,5 @@ In this option, you can choose a provider of your preference, all you need to co
 
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from CodeGPT`
+If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from Custom Model`
 :::
