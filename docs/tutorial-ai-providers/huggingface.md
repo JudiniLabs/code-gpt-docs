@@ -13,7 +13,7 @@ The Hugging Face is a platform designed to share pre-trained AI models and colla
 - Go to your [Profile - Settings - Access Tokens](https://huggingface.co/settings/tokens)
 - Generate and copy the API Key
 - Choose `HuggingFace` as `Provider`
-- `Set connection` and link with your account on `⋮` button.
+- `Set connection` and link with your account on `🔑` button.
 - Copy the API Key here:
 
 <p align="center">
@@ -24,7 +24,7 @@ The Hugging Face is a platform designed to share pre-trained AI models and colla
 - Paste your API Key
   
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `⋮` button, and click on `Remove Connection`
+If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from Huggingface`
 :::
 
 ### Huggingface Models available in Code GPT
