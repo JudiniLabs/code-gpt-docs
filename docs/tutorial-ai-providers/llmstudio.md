@@ -26,7 +26,7 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 - Paste your API Key
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `⋮` button, and click on `Remove Connection`
+If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from LMStudio`
 ::
 
 ## Models
