@@ -11,7 +11,7 @@ Experience the world's fastest Generative AI inference platform. Use a state-of-
 - Create an account in [Fireworks](https://app.fireworks.ai/login).
 - Go to your [Profile / API Keys](https://app.fireworks.ai/users?tab=apps).
 - Choose `Fireworks` as `Provider`
-- `Set connection` and link with your account on `⋮` button.
+- `Set connection` and link with your account on `🔑` button.
 - Copy the API Key here:
 
 <p align="center">
@@ -23,7 +23,7 @@ Experience the world's fastest Generative AI inference platform. Use a state-of-
 - Paste your API Key
   
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `⋮` button, and click on `Remove Connection`.
+If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from CodeGPT`
 :::
 
 ## Fireworks available in Code GPT
