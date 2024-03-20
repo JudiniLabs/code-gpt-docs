@@ -13,6 +13,7 @@ Opensource project to run, create, and share large language models (LLMs).
 - If you want to use mistral or other models, you will need to replace codellama with the desired model. For example: ```ollama pull mistral```
 
 # How to use Ollama
+- `Set connection` and link with your account on `🔑` button.
 - In VSCode and Select Ollama like a `Provider`
  
 <p align="center">
