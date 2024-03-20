@@ -31,6 +31,10 @@ Opensource project to run, create, and share large language models (LLMs).
 - mixtral
 - deepseek-coder
 
+:::caution Remove Key
+If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from Ollama`
+:::
+
 ## API Errors
 If you are getting API errors check the following link: [Ollama Documentation](https://ollama.ai/)
 
