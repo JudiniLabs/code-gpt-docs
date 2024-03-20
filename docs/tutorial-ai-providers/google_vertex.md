@@ -22,7 +22,7 @@ Official website https://cloud.google.com/
 
   
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from CodeGPT`
+If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from Google Vertex`
 :::
 
 ## Google Models available in CodeGPT
