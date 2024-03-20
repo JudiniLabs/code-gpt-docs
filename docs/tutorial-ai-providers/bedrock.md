@@ -10,7 +10,7 @@ Amazon Bedrock, a fully-managed service, offers top foundation models (FMs) from
 
 ## Connect your Provider account
 - Choose `Bedrock` as `Provider`
-- `Set connection` and link with your account on `⋮` button.
+- `Set connection` and link with your account on `🔑` button.
 - Copy the API Key and Custom Link here:
   
 <p align="center">
