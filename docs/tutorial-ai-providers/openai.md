@@ -14,7 +14,7 @@ OpenAI is an artificial intelligence research organization that aims to develop 
 - Click the button labeled **`Create a new secret key`**
 - A new dialog window will appear, containing a text box with your API key.
 - Choose `OpenAI` as `Provider`
-- `Set connection` and link with your account on `⋮` button.
+- `Set connection` and link with your account on `🔑` button.
 - Copy the API Key and Organization ID here:
   
 <p align="center">
@@ -24,7 +24,7 @@ OpenAI is an artificial intelligence research organization that aims to develop 
 - Paste your API Key
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `⋮` button, and click on `Remove Connection`
+If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from CodeGPT`
 :::
 
 ## GPT models available in Code GPT
