@@ -28,7 +28,7 @@ To access Claude, you must enter https://www.anthropic.com/product and then sele
 - Paste your API Key
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `⋮` button, and click on `Remove Connection`
+If you want to remove your API Key from CodeGPT, select ᯤ button, and click on `Disconnect from CodeGPT`
 :::
 
 ### Claude Models available in Code GPT
