@@ -8,7 +8,7 @@ In this option, you can choose a provider of your preference, all you need to co
 
 ## Connect your Provider account
 - Choose `Custom` as `Provider`
-- `Set connection` and link with your account on `⋮` button.
+- `Set connection` and link with your account on `🔑` button.
 - Copy the API Key and Custom Link here:
 
 <p align="center">
@@ -21,5 +21,5 @@ In this option, you can choose a provider of your preference, all you need to co
 
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `⋮` button, and click on `Remove Connection`
+If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from CodeGPT`
 :::
