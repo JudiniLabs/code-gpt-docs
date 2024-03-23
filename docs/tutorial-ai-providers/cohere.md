@@ -23,8 +23,9 @@ Cohere is an artificial intelligence company that specializes in developing lang
 If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from Cohere`
 :::
 ## Command Nightly models available in Code GPT
+- command-r
 - command
-- command-light
+- commnad-light
   
 ## API Errors
 If you are getting API errors check the following link: [Cohere API Errors](https://docs.cohere.ai/reference/errors)
