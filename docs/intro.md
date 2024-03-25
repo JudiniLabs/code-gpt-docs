@@ -28,7 +28,8 @@ sidebar_position: 1
 
 :::note Let's get started and dive right into the AI-enhanced coding experience!
 <p align="center">
-    <img src="" />
+    <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/3dc4ab9a-b276-4f26-b965-fba1ec855332" />
+
 
 </p>
 :::
