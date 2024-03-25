@@ -16,7 +16,7 @@ sidebar_position: 1
 
 :::note CodeGPT VSCode Extension
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/8c042129-b062-4a1a-9382-4af374dd557d"/>
+    <img src="https://www.canva.com/design/DAGAj_DXXQc/fScENOu8lsvMoFZP8XngiQ/watch"/>
 
 </p>
 :::
