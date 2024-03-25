@@ -16,7 +16,7 @@ sidebar_position: 1
 
 :::note CodeGPT VSCode Extension
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/cab98383-2f64-4e55-820f-1ad835b6cfeb"/>
+    <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/90c605d1-eabe-4a68-a237-9a78815b02d7" />
 
 </p>
 :::
@@ -28,11 +28,10 @@ sidebar_position: 1
 
 :::note Let's get started and dive right into the AI-enhanced coding experience!
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/3dc4ab9a-b276-4f26-b965-fba1ec855332" />
-
-
+    <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/e40da67a-0da3-49b8-aae5-0f9a87da1977"/>
 </p>
 :::
+
 
 :::caution
 
