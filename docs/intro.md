@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ### Welcome to our tutorial on utilizing CodeGPT in Visual Studio Code! 
  
- CodeGPT is a powerful extension harnessing the capabilities of Large Language Models (LLMs) to boost your programming tasks using AI. 
+ CodeGPT is a powerful agnostic extension harnessing the capabilities of Large Language Models (LLMs) to boost your programming tasks using AI. 
  
 :::info
 
@@ -16,7 +16,7 @@ sidebar_position: 1
 
 :::note CodeGPT VSCode Extension
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/8cbbef10-5767-437f-abbc-3000237f8d90" />
+    <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/95de79a8-f415-4690-b6ac-0f5e52a285f1" />
 </p>
 :::
 
@@ -27,7 +27,8 @@ sidebar_position: 1
 
 :::note Let's get started and dive right into the AI-enhanced coding experience!
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/a7f7acc0-4e85-4e88-9370-a2d2f1163a1d" />
+    <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/427900f9-489e-4950-8d6d-676f758612f6" />
+
 </p>
 :::
 
