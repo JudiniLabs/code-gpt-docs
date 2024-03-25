@@ -31,11 +31,7 @@ sidebar_position: 1
 
 :::note Let's get started and dive right into the AI-enhanced coding experience!
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/96df3ef9-84f5-478a-970e-1308bd2fac1f" />
-
-
-
-
+    <img src="https://www.canva.com/design/DAGAj_DXXQc/EOArUwYDLDcY71eNk_m-bg/watch?utm_content=DAGAj_DXXQc&utm_campaign=designshare&utm_medium=link&utm_source=editor" />
 
 </p>
 :::
