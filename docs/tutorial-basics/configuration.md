@@ -60,7 +60,7 @@ Look here when you need help.
    <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/f7f9bbdf-4370-4413-9c90-2c09fd11cd4d" />
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/f7f9bbdf-4370-4413-9c90-2c09fd11cd4d" />
     </td>
     <td align="center">
       <img width="275" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/1bd230b7-f9a3-4822-8f67-4bb98d3940c3" />
