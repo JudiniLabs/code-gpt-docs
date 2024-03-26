@@ -24,7 +24,7 @@ Once the chat tab is open, you can start a conversation by typing a message and 
 
 :::note CodeGPT Chat conversation
 <p align="center">
-      <img width="650" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/acc01012-7309-4669-a3e6-87ed1ec78923"/>
+      <img width="750" height="750" src="https://github.com/davila7/code-gpt-docs/assets/37567214/acc01012-7309-4669-a3e6-87ed1ec78923"/>
 </p>
 :::
 
@@ -33,7 +33,7 @@ To share code snippets, simply select the desired code in your editor.
 
 :::note Code Selection
 <p align="center">
-      <img width="650" height="650"  src="https://github.com/davila7/code-gpt-docs/assets/37567214/d213a82a-5b2b-40bc-8d60-dc520b955213" />
+      <img width="750" height="750"  src="https://github.com/davila7/code-gpt-docs/assets/37567214/d213a82a-5b2b-40bc-8d60-dc520b955213" />
 </p>
 :::
 
