@@ -4,19 +4,31 @@ sidebar_position: 2
 
 # Configuration
 
-## Accessing Code GPT's Settings
-1. To set up the response, first pick the model.
-2. In Visual Studio Code, click on `⋮` button.
-3. Then `Configuration`. This will open the Settings window.
-4. On this windows you can fit the `Max Tokens`, `Window Memory` and `Temperature`
+## CodeGPT Menu
 
-## Select provider
+### CodeGPT Tools
 
-Select your AI provider from the dropdown menu, then enter the API Key for the selected provider.
+1. `Chat` with the models of your favorite `provider` or with the agents on CodeGPT Plus.
+2. On `AI Agents Marketplace` check the agents available on Marketplace and interact with them. ⚠️ Do not forget select `CodeGPT Plus` as provider and set the connection. Also you can try it directly from the `⌂` button.
+3. On `React Sandbox`  interact sending imagens. [React Sandbox](http://localhost:54112/vision), is a experimental tool allows you to build React components. You can either type a command or upload an image to interact.
+
+### Settings
+1. `Autocomplete` suggests completions for code elements based on what the developer has typed so far. This includes variables, functions, methods, classes, and keywords relevant to the programming language and context. For more details check this [link](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion).
+   ⚠️Do not forget to set a provider before use this feature. If you chose CodeGPT Enterprise as provider, check this [link](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion).
+2. On `Theme`, change the appereance to the dark or light theme.
+
+### Help
+- Request `Help` if need orientation on how to use the tools, or check our `Docs` and `API Docs`.
+- If you found an `issue` you can report it in the [Github repository](https://github.com/davila7/code-gpt-docs/issues/240).
+
+## Select model provider
+
+1. Select your AI provider from the dropdown menu, then enter the API Key for the selected provider or follow the instructions for specific steps.
 
 :::info Get your API Key
 
 - [CodeGPT Plus](/docs/tutorial-ai-providers/codegpt_plus)
+- [CodeGPT Enterprise](/docs/tutorial-ai-providers/codegpt_enterprise)
 - [OpenAI](/docs/tutorial-ai-providers/openai)
 - [Microsoft Azure](/docs/tutorial-ai-providers/microsoft-azure)
 - [Anthropic](/docs/tutorial-ai-providers/anthropic)
@@ -27,14 +39,20 @@ Select your AI provider from the dropdown menu, then enter the API Key for the s
 - [Fireworks](/docs/tutorial-ai-providers/fireworks)
 - [Mistral](/docs/tutorial-ai-providers/mistral)
 - [Huggingface](/docs/tutorial-ai-providers/huggingface)
-- [GPT4All](/docs/tutorial-ai-providers/gpt4all)
-- [CodeGPT Plus(legacy)](/docs/tutorial-ai-providers/codegpt_plus)
-  
+- [Bedrock](/docs/tutorial-ai-providers/bedrock)
+- [Perplexity](/docs/tutorial-ai-providers/perplexity)
+- [LM Studio](/docs/tutorial-ai-providers/lmstudio)
+- [Groq](/docs/tutorial-ai-providers/Groq)
+- [Custom](/docs/tutorial-ai-providers/custom)
+
 :::
 
-Also, you can visualize it on the browser.
+2. Set the connection `🔑`, status must change on the window. For more details, please check the page or every provider above.
 
-## Chat Settings ⚙
+   ![image](https://github.com/davila7/code-gpt-docs/assets/37567214/1bd230b7-f9a3-4822-8f67-4bb98d3940c3)
+
+
+## Chat Settings 
 
 In this option, you can set the features of the provider, change the number of tokens, temperature and window memory.
 
@@ -60,33 +78,5 @@ It stores a list of past conversations, but only the last K (a specific number) 
 - minimum: 1
 - maximum: 50
 
-## CodeGPT Settings
-
-### Autocomplete
-
-Autocomplete suggests completions for code elements based on what the developer has typed so far. This includes variables, functions, methods, classes, and keywords relevant to the programming language and context. For more details check this [link](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion)
-
-### Theme
-Use the dark or light theme and change the appereance
-
-
-
-## CodeGPT Tools
-### Chat
-In this tab you can go back to the chat window.
-
-### Marketplace
-Check the agents available on Marketplace and add it to you CodeGPT Plus account.
-⚠️ Do not forget select CodeGPT Plus as provider and set the connection.
-
-### React Sandbox
-[React Sandbox](http://localhost:54112/vision), is a experimental tool allows you to build React components. You can either type a command or upload an image to interact.
-
-
-## Help
-### Documentation
-Access to the documentation, open the panel automatically.
-
-### Issues
-If you found an issue you can report it in the [Github repository](https://github.com/davila7/code-gpt-docs/issues/240).
+Finally, you can visualize it on the browser clicking on <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M2 12h2v5h16v-5h2v5c0 1.11-.89 2-2 2H4a2 2 0 0 1-2-2zm10 3l5.55-5.46l-1.42-1.41L13 11.25V2h-2v9.25L7.88 8.13L6.46 9.55z"/></svg>  button.
 
