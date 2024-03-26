@@ -70,15 +70,13 @@ Look here when you need help.
 
 ## Chat Settings 
 
-Explore this menu to adjust provider attributes, set token limits, refine temperature control, and manage window memory.
+- Explore this menu to adjust provider attributes, set token limits, refine temperature control, and manage window memory.
 
 ### Max Token
 
-Consider tokens as fragments of words. The API first disintegrate the input into tokens before executing any operation.
-
-Each model follows a token limit that you can modify according to the anticipated response length and the model you operate on.
-
-To understand more about tokens, refer to [Tokens by OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them).
+- Consider tokens as fragments of words. The API first disintegrate the input into tokens before executing any operation.
+- Each model follows a token limit that you can modify according to the anticipated response length and the model you operate on.
+- To understand more about tokens, refer to [Tokens by OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them).
 
 ### Temperature
 
