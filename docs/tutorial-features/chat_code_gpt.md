@@ -8,21 +8,22 @@ The CodeGPT Chat feature enhances your development experience by allowing you to
 
 ## How to Use:
 ### Open the Chat Tab:
-Navigate to the tools tab and click on the 💬 option. You can used syncronizing your the CodeGPT Plus account or, other `Provider`.
+Navigate to the tools tab and click on the `Chat`. You can used syncronizing your the CodeGPT Plus account or, other `Provider`.
 
 :::note CodeGPT Chat
 <p align="center">
-      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7f0d756a-4698-44a4-bff7-77d68f69f585" />
+      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/33585d50-1c9f-4ac0-964b-1fd0499b23d1" />
 </p>
 :::
 
 ### Engage in Conversation:
 
-Once the chat tab is open, you can start a conversation by typing a message and hitting 'Enter'.
+Once the chat tab is open, you can start a conversation by typing a message and hitting `Enter`.
 
 :::note CodeGPT Chat conversation
 <p align="center">
-      <img width="800" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/286fd1a9-beda-42a5-8219-760da8f8eb25"/>
+      <img width="800" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/5f243152-41bb-4d69-8513-1a6b1104e993"/>
+
 </p>
 :::
 
@@ -31,14 +32,14 @@ To share code snippets, simply select the desired code in your editor.
 
 :::note Code Selection
 <p align="center">
-      <img width="800" height="650"  src="https://github.com/davila7/code-gpt-docs/assets/37567214/021b2fbb-c5ce-459c-bceb-dc0e8d42f404" />
+      <img width="800" height="650"  src="https://github.com/davila7/code-gpt-docs/assets/37567214/d213a82a-5b2b-40bc-8d60-dc520b955213" />
 </p>
 :::
 
 Pose questions or request assistance by typing your inquiry in the chat. CodeGPT will respond with helpful suggestions and explanations. Also can use the FAQ buttons below the chat, write and press the buttons.
 
 <p align="center">
-    <img width="300" height="250"  src="https://github.com/davila7/code-gpt-docs/assets/37567214/1fcb06ec-6439-4e9f-bcd9-8af0f635ccc2" />
+    <img width="300" height="250"  src="https://github.com/davila7/code-gpt-docs/assets/37567214/d57636fe-cde8-4122-a124-1aa89abc7196" />
 </p>
 
 
