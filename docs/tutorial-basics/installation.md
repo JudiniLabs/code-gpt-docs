@@ -30,4 +30,11 @@ Or you can download the extension via Open VSX:
 ## Cursor
 If you prefer to use Cursor, you can download it at this link: [Download](https://cursor.sh/)
 
+:::note Search for Code GPT in Cursor extension bar
+<p align="center">
+      <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/e0ab03e2-06f8-4e3c-bc25-1cd630583410"/>
+</p>
+
+:::
+
 Now that you have the extension installed, you need to proceed with the appropriate [configuration](/docs/tutorial-basics/configuration).
