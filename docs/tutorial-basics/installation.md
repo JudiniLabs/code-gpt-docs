@@ -14,7 +14,7 @@ You can install the extension from the Visual Studio Marketplace, Open VSX, or d
 
 :::note Search for Code GPT in the Extensions tab
 <p align="center">
-      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/1797df8c-e170-482e-95b3-37b901add402" />
+      <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/7c3ad6a3-0f91-4d14-82df-b21fdf6521d0"/>
 </p>
 :::
 
@@ -29,12 +29,5 @@ Or you can download the extension via Open VSX:
 
 ## Cursor
 If you prefer to use Cursor, you can download it at this link: [Download](https://cursor.sh/)
-
-:::note Search for Code GPT in the Extensions tab
-<p align="center">
-      <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/58262780-461f-4e88-8a53-08a313e0297b" />
-</p>
-:::
-
 
 Now that you have the extension installed, you need to proceed with the appropriate [configuration](/docs/tutorial-basics/configuration).
