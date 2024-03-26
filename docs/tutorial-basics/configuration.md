@@ -23,7 +23,7 @@ These optional configurations enhance your user experience.
 1. `Autocomplete`: This feature provides code completion suggestions based on the developer's input. It covers multiple aspects, including variables, functions, methods, classes, and context-specific keywords. [Check out this guide](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion) for further explanation. Remember to choose a provider first. If your choice is CodeGPT Enterprise, refer to [this link](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion).
 2. `Theme`: Alter the visual interface of the application by switching between the dark and light themes.
 
-### Assistance
+### Help
 Look here when you need help.
 
 - `Help`: If you require additional assistance, this section offers guidance on the various tools. Alternatively, consult the `Docs` and `API Docs`.
