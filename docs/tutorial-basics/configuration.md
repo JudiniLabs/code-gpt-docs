@@ -4,26 +4,34 @@ sidebar_position: 2
 
 # Configuration
 
-## CodeGPT Menu
+The subsequent sections describe the various utilities and configurations of the CodeGPT application.
 
-### CodeGPT Tools
+## CodeGPT Stack
 
-1. `Chat` with the models of your favorite `provider` or with the agents on CodeGPT Plus.
-2. On `AI Agents Marketplace` check the agents available on Marketplace and interact with them. ⚠️ Do not forget select `CodeGPT Plus` as provider and set the connection. Also you can try it directly from the `⌂` button.
-3. On `React Sandbox`  interact sending imagens. [React Sandbox](http://localhost:54112/vision), is a experimental tool allows you to build React components. You can either type a command or upload an image to interact.
+Explore the significant facets of the CodeGPT software stack.
+
+### CodeGPT Toolbox
+
+1. `Chat`: Engage in AI conversations using the models of your chosen provider or with agents on CodeGPT Plus.
+2. `AI Agents Marketplace`: Peruse viable agents in the Marketplace and interact with them. Ensure you choose `CodeGPT Plus` as your provider and establish the mandatory connection. You also have the option to explore directly from the Home `⌂` button.
+3. `React Sandbox`: Experiment with React components through interaction or image upload. Visit [React Sandbox](http://localhost:54112/vision) for a hands-on experience.
 
 ### Settings
-1. `Autocomplete` suggests completions for code elements based on what the developer has typed so far. This includes variables, functions, methods, classes, and keywords relevant to the programming language and context. For more details check this [link](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion).
-   ⚠️Do not forget to set a provider before use this feature. If you chose CodeGPT Enterprise as provider, check this [link](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion).
-2. On `Theme`, change the appereance to the dark or light theme.
 
-### Help
-- Request `Help` if need orientation on how to use the tools, or check our `Docs` and `API Docs`.
-- If you found an `issue` you can report it in the [Github repository](https://github.com/davila7/code-gpt-docs/issues/240).
+These optional configurations enhance your user experience.
+
+1. `Autocomplete`: This feature provides code completion suggestions based on the developer's input. It covers multiple aspects, including variables, functions, methods, classes, and context-specific keywords. [Check out this guide](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion) for further explanation. Remember to choose a provider first. If your choice is CodeGPT Enterprise, refer to [this link](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion).
+2. `Theme`: Alter the visual interface of the application by switching between the dark and light themes.
+
+### Assistance
+Look here when you need help.
+
+- `Help`: If you require additional assistance, this section offers guidance on the various tools. Alternatively, consult the `Docs` and `API Docs`.
+- `Issue Reporting`: Any issues you encounter can be reported in the [Github repository](https://github.com/davila7/code-gpt-docs/issues/240).
 
 ## Select model provider
 
-1. Select your AI provider from the dropdown menu, then enter the API Key for the selected provider or follow the instructions for specific steps.
+1. Select your AI provider from the dropdown menu, then enter the `API Key` for the selected provider or follow the instructions for specific steps.
 
 :::info Get your API Key
 
@@ -60,32 +68,30 @@ sidebar_position: 2
   </tr>
 </table>
 
-
 ## Chat Settings 
 
-In this option, you can set the features of the provider, change the number of tokens, temperature and window memory.
+Explore this menu to adjust provider attributes, set token limits, refine temperature control, and manage window memory.
 
 ### Max Token
-Tokens can be thought of as pieces of words. Before the API processes the prompts, the input is broken down into tokens.
 
-Each model has a maximum number of tokens. Select the number of tokens depending on the length of the response you want to get and the selected model.
+Consider tokens as fragments of words. The API first disintegrate the input into tokens before executing any operation.
 
-Learn more: [Tokens by OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
+Each model follows a token limit that you can modify according to the anticipated response length and the model you operate on.
+
+To understand more about tokens, refer to [Tokens by OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them).
 
 ### Temperature
-This is a parameter that can be adjusted. It determines the level of randomness or "creativity" in the generated text. A higher temperature will result in more varied and creative output, while a lower temperature will produce output that is more similar to the training data and less likely to contain unexpected or surprising content.
 
-It is a value between 0 and 1. 0 being the most deterministic and 1 being the most random and creative. The default temperature is 0.3
+Representative of the randomness or "creativity" in the text generation, it ranges between 0 and 1. A higher value generates more diverse output, while a lower value sticks closely to the training data. The default value is set at 0.3, with 0 being the most deterministic and 1 being the most random.
 
-Learn more: [Temperature by Cohere](https://docs.cohere.ai/docs/temperature)
+For more information about temperature settings, visit [Temperature by Cohere](https://docs.cohere.ai/docs/temperature).
 
 ### Window Memory
 
-It stores a list of past conversations, but only the last K (a specific number) conversations are used from the saved list. This is done to prevent the buffer from becoming too large and exceeding the token limit.
+This tool stores the historical log of your past conversations. However, it only accounts for the last 'K' conversations, ensuring the buffer doesn't exceed the token limit.
 
-- default: 4
-- minimum: 1
-- maximum: 50
+- Default: 4
+- Minimum: 1
+- Maximum: 50
 
-Finally, you can visualize it on the browser clicking on `tray-arrow-down` button.
-
+To visualize any changes made to these settings, click the `tray-arrow-down` button in your browser.
