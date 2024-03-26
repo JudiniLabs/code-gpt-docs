@@ -49,8 +49,9 @@ sidebar_position: 2
 
 2. Set the connection `🔑`, status must change on the window. For more details, please check the page or every provider above.
 
-   ![image](https://github.com/davila7/code-gpt-docs/assets/37567214/1bd230b7-f9a3-4822-8f67-4bb98d3940c3)
-
+<p align="center">
+    <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/1bd230b7-f9a3-4822-8f67-4bb98d3940c3" />
+</p>
 
 ## Chat Settings 
 
