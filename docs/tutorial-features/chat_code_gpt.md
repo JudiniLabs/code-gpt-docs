@@ -44,18 +44,6 @@ Pose questions or request assistance by typing your inquiry in the chat. CodeGPT
 </p>
 :::
 
-### Theme Adaptability:
-
-CodeGPT Chat seamlessly integrates with your chosen theme. It adapts to match your existing VSCode configuration, ensuring a consistent and visually pleasing experience.
-
-Change according to the theme you have installed
-
-:::note CodeGPT Chat Themes
-<p align="center">
-    <img width="800" height="650"  src="https://github.com/davila7/code-gpt-docs/assets/37567214/412c744e-ff7e-4a83-9080-474f056ec644" />
-</p>
-:::
-
 The **CodeGPT Chat** feature revolutionizes collaboration and problem-solving. Its integration directly within your text editor streamlines the development process. 
 
 By enabling code selection, you can easily share snippets and receive tailored assistance. This adaptable tool harmonizes with your chosen theme, enhancing visual coherence. 
