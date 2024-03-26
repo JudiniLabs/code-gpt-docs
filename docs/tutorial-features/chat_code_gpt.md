@@ -16,10 +16,11 @@ The CodeGPT Chat feature enhances your development experience by allowing you to
 <p align="center">
 
 <video width="320" height="240" controls>
-    <source src="https://github.com/davila7/code-gpt-docs/assets/37567214/347363af-a755-4f00-807c-ef8fe67f6c65" type="video/mp4">
+    <source src="https://github.com/davila7/code-gpt-docs/assets/37567214/d590bd2a-9b49-487c-83c0-17c40750d8ef" type="video/mp4">
 </video>
 
 </p>
+
 :::
 
 ### Engage in Conversation:
