@@ -14,13 +14,8 @@ The CodeGPT Chat feature enhances your development experience by allowing you to
 
 :::note CodeGPT Chat
 <p align="center">
-
-<video width="320" height="240" controls>
-    <source src="https://github.com/davila7/code-gpt-docs/assets/37567214/d590bd2a-9b49-487c-83c0-17c40750d8ef" type="video/mp4">
-</video>
-
+      <img width="250" height="350" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e0083805-c6d8-4c27-9a24-226a5b861398"/>
 </p>
-
 :::
 
 ### Engage in Conversation:
