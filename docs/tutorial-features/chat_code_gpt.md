@@ -14,7 +14,7 @@ The CodeGPT Chat feature enhances your development experience by allowing you to
 
 :::note CodeGPT Chat
 <p align="center">
-      <img width="250" height="350" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e0083805-c6d8-4c27-9a24-226a5b861398"/>
+      <img width="250" height="350" src="https://github.com/davila7/code-gpt-docs/assets/37567214/c622b97a-982b-422e-b92c-cb600d819da9"/>
 </p>
 :::
 
@@ -24,8 +24,7 @@ Once the chat tab is open, you can start a conversation by typing a message and 
 
 :::note CodeGPT Chat conversation
 <p align="center">
-      <img width="700" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/5f243152-41bb-4d69-8513-1a6b1104e993"/>
-
+      <img width="700" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/acc01012-7309-4669-a3e6-87ed1ec78923"/>
 </p>
 :::
 
