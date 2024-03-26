@@ -12,7 +12,7 @@ Navigate to the tools tab and click on the `Chat`. You can used syncronizing you
 
 :::note CodeGPT Chat
 <p align="center">
-      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/33585d50-1c9f-4ac0-964b-1fd0499b23d1" />
+      <img width="350" height="350" src="https://github.com/davila7/code-gpt-docs/assets/37567214/33585d50-1c9f-4ac0-964b-1fd0499b23d1" />
 </p>
 :::
 
