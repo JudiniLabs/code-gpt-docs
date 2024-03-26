@@ -8,11 +8,17 @@ The CodeGPT Chat feature enhances your development experience by allowing you to
 
 ## How to Use:
 ### Open the Chat Tab:
-Navigate to the tools tab and click on the `Chat`. You can used syncronizing your the CodeGPT Plus account or, other `Provider`.
+- Navigate to the tools tab and click on the `Chat`. You can used syncronizing your the CodeGPT Plus account or, other `Provider`.
+- Now tha chat allow you `Clean` the chat or `Reload` the question
+- If you are requesting code, Copy the code or paste it directly on the file with `Insert code` button.
 
 :::note CodeGPT Chat
 <p align="center">
-      <img width="350" height="350" src="https://github.com/davila7/code-gpt-docs/assets/37567214/33585d50-1c9f-4ac0-964b-1fd0499b23d1" />
+
+<video width="320" height="240" controls>
+    <source src="https://github.com/davila7/code-gpt-docs/assets/37567214/347363af-a755-4f00-807c-ef8fe67f6c65" type="video/mp4">
+</video>
+
 </p>
 :::
 
