@@ -10,7 +10,7 @@ The subsequent sections describe the various utilities and configurations of the
 
 Explore the significant facets of the CodeGPT software stack.
 
-### CodeGPT Toolbox
+### Tools
 
 1. `Chat`: Engage in AI conversations using the models of your chosen provider or with agents on CodeGPT Plus.
 2. `AI Agents Marketplace`: Peruse viable agents in the Marketplace and interact with them. Ensure you choose `CodeGPT Plus` as your provider and establish the mandatory connection. You also have the option to explore directly from the Home `⌂` button.
