@@ -5,9 +5,9 @@ sidebar_position: 2
 # Configuration
 
 ## Accessing Code GPT's Settings
-1.To set up the response, first pick the model.
+1. To set up the response, first pick the model.
 2. In Visual Studio Code, click on `⋮` button.
-3. Then `Configuration`. This will open the Settings window.  
+3. Then `Configuration`. This will open the Settings window.
 4. On this windows you can fit the `Max Tokens`, `Window Memory` and `Temperature`
 
 ## Select provider
