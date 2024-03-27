@@ -30,7 +30,7 @@ Experience the world's fastest Generative AI inference platform. Use a state-of-
 If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
 
 <p align="center">
-      <img width="200" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4276e801-517a-4282-a0d4-684c1af56147" />
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4276e801-517a-4282-a0d4-684c1af56147" />
 </p>
 
 :::
