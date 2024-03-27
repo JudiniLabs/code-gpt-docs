@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# About CodeGPT
+# CodeGPT Enterprise
 
 ### Welcome to our tutorial on utilizing CodeGPT in Visual Studio Code! 
  
