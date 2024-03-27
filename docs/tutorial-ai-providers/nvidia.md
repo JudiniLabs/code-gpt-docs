@@ -5,8 +5,8 @@ sidebar_position: 10
 # Nvidia
 Official website https://www.nvidia.com/en-us/ai/
 
-## Frontier AI in your hands
-We’re a small creative team with high scientific standards. We make efficient, helpful and trustworthy AI models through ground-breaking innovations.
+## Top Open Foundation Models
+The leading open models built by the community, optimized and accelerated by NVIDIA's enterprise-ready inference runtime
 
 ## Connect your Nvidia account
 - Create an account in [Nvidia](https://build.nvidia.com/)
@@ -16,6 +16,7 @@ We’re a small creative team with high scientific standards. We make efficient,
       <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/23065164-e04e-4f8f-a3f0-36e1ff65bcab" />
 </p>
 
+- Open VSCode and then open the CodeGPT tab
 - Choose `Nvidia` as `Provider`
 - Click on `Set connection`
 - Paste your Nvidia API Key here
