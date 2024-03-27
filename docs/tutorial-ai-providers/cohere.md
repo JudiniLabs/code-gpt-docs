@@ -29,7 +29,7 @@ Cohere is an artificial intelligence company that specializes in developing lang
 If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
 
 <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/da43d1aa-d7ff-43f2-86ba-40bb161d479b" />
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/73a9f416-5c45-44f1-b2b1-2891dedd5683" />
 </td>
 
 :::
