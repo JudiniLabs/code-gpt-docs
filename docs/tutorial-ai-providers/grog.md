@@ -1,42 +1,40 @@
 ---
-sidebar_position: 1
+sidebar_position: 9
 ---
+# Grog
+Official website [https://cohere.ai](https://cohere.ai)
 
-# About CodeGPT
+Cohere is an artificial intelligence company that specializes in developing language models. They use advanced natural language processing and machine learning techniques to improve the understanding of human language and the ability to generate text automatically. Their models are used in applications such as sentiment analysis, summarization, and machine translation.
 
-### Welcome to our tutorial on utilizing CodeGPT in Visual Studio Code! 
- 
- CodeGPT is a powerful extension harnessing the capabilities of Large Language Models (LLMs) to boost your programming tasks using AI. 
- 
-:::info
+## Connect your Cohere account
+- Create an account in [cohere.ai](https://cohere.ai/)
+- Go to your [dashboard](https://dashboard.cohere.com/api-keys)
+- Go to VSCode and choose `Cohere` as `Provider`
+- `Set connection` on `🔑` button.
+- Paste API Key here, and click on `Connect`:
+  
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/175150d1-5d35-47b6-a60e-d74118d7088e" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/58d8c281-2a4c-4a6c-8da7-0e9f60fed1af" />
+    </td>
+  </tr>
+</table>
 
- This tool not only allows you to interact with your work environment dynamically but can also create AI Agents that enrich LLMs with context and connect you with repositories, reports, and other critical areas of your business. 
- 
-:::
 
-:::note CodeGPT VSCode Extension
+:::caution Remove Key
+If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/4c478f3e-b222-42d0-a079-5a1d8167159c" />
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/73a9f416-5c45-44f1-b2b1-2891dedd5683" />
 </p>
-:::
-
-### Getting Started with CodeGPT: Your Guide to an AI-Enhanced Coding Experience
- 
- In this tutorial, we'll guide you through downloading and setting up CodeGPT, and show you some typical use cases, so you can seamlessly integrate it into your coding workflow. 
- 
-
-:::note Let's get started and dive right into the AI-enhanced coding experience!
-<p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/a7f7acc0-4e85-4e88-9370-a2d2f1163a1d" />
-</p>
-:::
-
-:::caution
-
-While the CodeGPT extension is free, it requires you to use an API from an external provider (see [Providers](/docs/category/ai-providers)). **These external providers are paid services**, although they may offer limited usage for free.
 
 :::
 
---- 
-
-In the next module you will learn how to install and configure the extension. Click on [Basics](/docs/category/basics) to continue.
+## Command Nightly models available in CodeGPT
+- command-r
+- command
+- commnad-light
