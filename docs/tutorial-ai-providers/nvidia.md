@@ -13,7 +13,7 @@ We’re a small creative team with high scientific standards. We make efficient,
 - Select any model and then click on **Get API Key**
 
 <p align="center">
-      <img width="450" height="300" src="" />
+      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/23065164-e04e-4f8f-a3f0-36e1ff65bcab" />
 </p>
 
 - Choose `Nvidia` as `Provider`
@@ -21,7 +21,7 @@ We’re a small creative team with high scientific standards. We make efficient,
 - Paste your Nvidia API Key here
   
 <p align="center">
-      <img width="450" height="300" src="" />
+      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/bd956dbe-aaed-474d-a97d-7c133b8a117b" />
 </p>
 
 :::caution Remove Key
