@@ -23,7 +23,7 @@ Select the code, right click then select `CodeGPT: Document CodeGPT`
 
 :::note CodeGPT: Document CodeGPT
 <p align="center">
-  <img width="900" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/47b6a0df-e9e5-4a76-8039-a3ae8af01a26" />
+  <img width="900" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e057afd8-1d52-45e6-8224-1c4adba6d359" />
 </p>
 :::
 
