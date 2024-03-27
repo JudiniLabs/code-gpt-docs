@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# CodeGPT Plus V2
+# CodeGPT Plus
 
 Official website [https://codegpt.co](https://codegpt.co)
 
 In this tutorial you will see how to connect your CodeGPT Plus account with the extension in VSCode.
 
-✨ Click [here](https://app.codegpt.co/en) to create a free CodeGTP Plus V2 account.
+✨ Click [here](https://app.codegpt.co/en) to create a free CodeGTP Plus account.
 
 ## Connect CodeGPT Plus account
 
