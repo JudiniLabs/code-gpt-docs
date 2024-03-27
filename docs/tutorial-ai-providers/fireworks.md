@@ -10,20 +10,29 @@ Experience the world's fastest Generative AI inference platform. Use a state-of-
 ## Connect your Fireworks account
 - Create an account in [Fireworks](https://app.fireworks.ai/login).
 - Go to your [Profile / API Keys](https://app.fireworks.ai/users?tab=apps).
-- Choose `Fireworks` as `Provider`
-- `Set connection` and link with your account on `🔑` button.
-- Copy the API Key here:
+- Go to VSCode and choose `Fireworks` as `Provider`
+- `Set connection` on `🔑` button.
+- Paste API Key here, and click on `Connect`:
+  
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/19eeac2b-b5c3-4f23-ac76-66b98d9751ae" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/f2d13e66-51f8-4503-adda-685e4a4444dc" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e2b9485f-d2d8-4c35-99f4-fecce81ffeb0" />
-</p>  
-
-
-
-- Paste your API Key
   
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from Fireworks`
+If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+
+<p align="center">
+      <img width="200" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4276e801-517a-4282-a0d4-684c1af56147" />
+</p>
+
 :::
 
 ## Fireworks available in Code GPT
