@@ -51,6 +51,7 @@ Look here when you need help.
 - [Perplexity](/docs/tutorial-ai-providers/perplexity)
 - [LM Studio](/docs/tutorial-ai-providers/lmstudio)
 - [Groq](/docs/tutorial-ai-providers/Groq)
+- [NVidia](/docs/tutorial-ai-providers/Nvidia)
 - [Custom](/docs/tutorial-ai-providers/custom)
 
 :::
