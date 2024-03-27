@@ -9,20 +9,32 @@ Cohere is an artificial intelligence company that specializes in developing lang
 ## Connect your Cohere account
 - Create an account in [cohere.ai](https://cohere.ai/)
 - Go to your [dashboard](https://dashboard.cohere.com/api-keys)
-- Choose `Cohere` as `Provider`
--  `Set connection` and link with your account on `🔑` button.
-- Copy the API Key here:
+- Go to VSCode and choose `Cohere` as `Provider`
+- `Set connection` on `🔑` button.
+- Paste API Key here, and click on `Connect`:
   
-<p align="center">
-      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/2a15c150-bbac-4376-9e0f-d96068220db2" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/175150d1-5d35-47b6-a60e-d74118d7088e" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/58d8c281-2a4c-4a6c-8da7-0e9f60fed1af" />
+    </td>
+  </tr>
+</table>
 
-- Paste your API Key
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from Cohere`
+If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+
+<td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/da43d1aa-d7ff-43f2-86ba-40bb161d479b" />
+</td>
+
 :::
-## Command Nightly models available in Code GPT
+
+## Command Nightly models available in CodeGPT
 - command-r
 - command
 - commnad-light
