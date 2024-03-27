@@ -11,27 +11,46 @@ Some of their key research areas include:
 # Claude
 Claude can be a delightful company representative, a research assistant, a creative partner, a task automator, and more. Personality, tone, and behavior can all be customized to your needs.
 
-To access Claude, you must enter https://www.anthropic.com/product and then select "Request Access".
+To access Claude, you must enter https://www.anthropic.com/product and then select "Request Access". 
+
+:::caution Check your credits
+Be mindful of the credits; not having credits can result in a 500 error.
+:::
 
 ## Connect your Anthropic account
 - Create an account in [Anthropic](https://console.anthropic.com/)
-- Go to your [API Keys](https://app.nightfall.ai/developer-platform/api-keys)
+- Go to your [API Keys](https://console.anthropic.com/settings/keys)
 - Generate and copy the API Key
-- Choose `Anthropic` as `Provider`
-- `Set connection` and link with your account on `🔑` button.
-- Copy the API Key here:
+- Go to VSCode and choose `Anthropic` as `Provider`
+- `Set connection` on `🔑` button.
+- Paste API Key here, and click on `Connect`:
   
-<p align="center">
-      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/d83dda72-9095-43c7-9be1-77dc29e685e3" />
-</p>
- 
-- Paste your API Key
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/840e3c5e-1796-433a-8b59-5ff17baefd20" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/39609bcc-3edb-4c48-bb1e-8dce8be891d6" />
+    </td>
+  </tr>
+</table>
+
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select ᯤ button, and click on `Disconnect from Anthropic`
+If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+
+<td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/da43d1aa-d7ff-43f2-86ba-40bb161d479b" />
+</td>
+
 :::
 
 ### Claude Models available in Code GPT
+- claude-3-opus
+- claude-3-sonnet
+- claude-3-haiku
+- claude-2.10
 - claude-2.1
 - claude-instant-1.2
 
