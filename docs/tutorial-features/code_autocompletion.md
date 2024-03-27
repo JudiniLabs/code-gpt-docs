@@ -27,7 +27,7 @@ The Autocomplete feature empowers you to choose from a curated selection of mode
 :::
 
 - Effortless Integration:
-    - Seamlessly incorporate the suggested code snippets into your project, improving code quality and efficiency. Press `Tab` to accept the suggestion
+  Seamlessly incorporate the suggested code snippets into your project, improving code quality and efficiency. Press `Tab` to accept the suggestion
 
 :::note Autocompletion GPT
 <p align="center">
