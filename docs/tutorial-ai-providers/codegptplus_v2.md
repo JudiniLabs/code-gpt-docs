@@ -14,12 +14,17 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 
 ### Connect by Login
 
-- After create an account on open VSCode and choose CodeGPT as `Provider`
+- Open VSCode and choose `CodeGPT Plus` as `Provider`
 
 <p align="center">
-      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/ad889330-514c-4261-9aef-7a5e453e7169" />
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/782ad491-1f84-4823-a630-cbd403d8abcf" />
 </p>
-- Login in by browser
+- The browser will open and show you the message of Connection success, close the tab and go back to VSCode.
+<p align="center">
+      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/eade09c8-ea37-47a6-8d9d-9e550b8058e4" />
+</p>
+
+
 - Now is able to use the chat, you can change to the agents or use our Model
 
 <p align="center">
