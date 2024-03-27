@@ -8,28 +8,24 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 
 ## Connect LM Studio
 - Download LM Studio here [lmstudio.ai](https://lmstudio.ai/)
-- Open LM Studio and click on `Select a model to load`, choose `Openhermes 2.5 mistral`.
+- Open LM Studio and navigate to the `My Models` tab. Please ensure that you download a model.
+- Next, go to `Local Server` tab.
+- Click on `Select a model to load`, choose a model.
 
 <p align="center">
-      <img width="425" height="100" src="https://github.com/davila7/code-gpt-docs/assets/37567214/475d35e3-4489-4dc2-bf52-0d49bbdd1469" />
+      <img width="425" height="100" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4ef13a7b-0ba9-42cc-8644-4d7a93b5734a" />
 </p>
  
 - Please wait until the loading reaches 100% completion.
-- Click on Start Server.
+- Click on `Start Server`, keep LMStudio running.
 - Launch CodeGPT extension on VSCode.
-- Choose LM Studio as `Provider`, click on Save.
+- Choose LM Studio as `Provider`.
   
-<p align="center">
-      <img width="450" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/3d854360-9ad1-41b8-a7bd-813a5a2e8420" />
-</p>
-
-- Paste your API Key
-
+    <p align="center">
+      <img width="300" height="150" src="![image](https://github.com/davila7/code-gpt-docs/assets/37567214/8bfeb19f-e4ce-4a79-b56d-37a7e8b9f5ac)" />
+    </p>
+   
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from LMStudio`
-::
+No need to disconnect; simply change the provider.
 
-## Models
-- OpenHermes-2.5-Mistral-7B model
-  
 
