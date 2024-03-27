@@ -2,24 +2,24 @@
 sidebar_position: 9
 ---
 # Grog
-Official website [https://cohere.ai](https://cohere.ai)
+Official website [https://groq.com/](https://groq.com/)
 
-Cohere is an artificial intelligence company that specializes in developing language models. They use advanced natural language processing and machine learning techniques to improve the understanding of human language and the ability to generate text automatically. Their models are used in applications such as sentiment analysis, summarization, and machine translation.
+Groq provides us with a simple way to leverage models running on LPU (Language Processing Unit). This enables us to achieve incredibly fast inference response times.
 
-## Connect your Cohere account
-- Create an account in [cohere.ai](https://cohere.ai/)
-- Go to your [dashboard](https://dashboard.cohere.com/api-keys)
-- Go to VSCode and choose `Cohere` as `Provider`
+## Connect your Grog account
+- Create an account in [https://groq.com/](https://console.groq.com/playground)
+- Go to your [dashboard](https://console.groq.com/keys)
+- Go to VSCode and choose `Grog` as `Provider`
 - `Set connection` on `🔑` button.
 - Paste API Key here, and click on `Connect`:
   
 <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/175150d1-5d35-47b6-a60e-d74118d7088e" />
-    </td>
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/3bbb8916-be79-49da-9c2c-ac0a7dcd9803" />
+      </td>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/58d8c281-2a4c-4a6c-8da7-0e9f60fed1af" />
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7b78c111-33dd-4547-8548-4fa019e68f18" />
     </td>
   </tr>
 </table>
@@ -29,12 +29,12 @@ Cohere is an artificial intelligence company that specializes in developing lang
 If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
 
 <p align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/73a9f416-5c45-44f1-b2b1-2891dedd5683" />
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/32f41aad-f091-4915-8ef3-6d9d3cdfa7cd" />
 </p>
 
 :::
 
-## Command Nightly models available in CodeGPT
-- command-r
-- command
-- commnad-light
+## Grog models available in CodeGPT
+- mixtral-8x7b-32768
+- gemma-7b-it
+- llama2-70b-4096
