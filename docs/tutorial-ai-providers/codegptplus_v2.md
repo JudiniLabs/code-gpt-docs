@@ -23,7 +23,7 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
   <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/42bbe2b4-2b4c-4fc5-9911-0d6cc46179c7" />
+      <img width="350" height="200" src="https://github.com/davila7/code-gpt-docs/assets/37567214/42bbe2b4-2b4c-4fc5-9911-0d6cc46179c7" />
     </td>
     <td align="center">
       <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/332c1475-10cb-4f9f-b90a-6f1f2aecd203" />
@@ -34,7 +34,7 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 - Now is able to use the chat, you can change to the agents or use our Model
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`.
 
 <p align="center">
       <img width="300" height="200" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7a786f2e-f65d-4862-a1f7-61b705ff1cd5" />
@@ -52,9 +52,8 @@ Now is possible interact with `models`, `Marketplace` agents and the agents that
 ### Models
 - gpt-3.5-turbo
 - GPT-4
-- 
 ### Agents
-On Playground you can set the agents with these other models:
+On [Playground](https://app.codegpt.co/en) you can set the agents with these other models:
 - GPT-4
 - GPT-4 turbo
 - Claude-2.1
