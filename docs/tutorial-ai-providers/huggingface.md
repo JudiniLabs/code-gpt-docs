@@ -12,19 +12,28 @@ The Hugging Face is a platform designed to share pre-trained AI models and colla
 - Create an account in [Huggingface](https://huggingface.co/)
 - Go to your [Profile - Settings - Access Tokens](https://huggingface.co/settings/tokens)
 - Generate and copy the API Key
-- Choose `HuggingFace` as `Provider`
-- `Set connection` and link with your account on `🔑` button.
-- Copy the API Key here:
+- Go to VSCode and choose `HuggingFace` as `Provider`
+- `Set connection` on `🔑` button.
+- Paste API Key here, and click on `Connect`:
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/c0cc95f9-0223-4b97-9824-2ff85bae3988" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/28357501-8c11-428d-afa6-bfaa521c5a0c" />
+    </td>
+  </tr>
+</table>
+
+
+:::caution Remove Key
+If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
 
 <p align="center">
-      <img width="400" height="350" src="https://github.com/davila7/code-gpt-docs/assets/37567214/dd106264-9524-48ad-9fb7-593b917b677a" />
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/8594df7b-8455-4ce9-b35d-f87cf007fd04" />
 </p>
 
-
-- Paste your API Key
-  
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from Huggingface`
 :::
 
 ### Huggingface Models available in Code GPT
