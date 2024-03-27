@@ -17,7 +17,7 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 - Open VSCode and choose `CodeGPT Plus` as `Provider`
 - The browser will open and show you the message of Connection success, close the tab and go back to VSCode.
 <p align="center">
-      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/eade09c8-ea37-47a6-8d9d-9e550b8058e4" />
+      <img width="300" height="200" src="https://github.com/davila7/code-gpt-docs/assets/37567214/eade09c8-ea37-47a6-8d9d-9e550b8058e4" />
 </p>
 - If you connect successfuly, the connection icon must change.
   <table>
