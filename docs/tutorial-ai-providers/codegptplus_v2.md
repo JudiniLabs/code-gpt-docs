@@ -57,6 +57,8 @@ On [Playground](https://app.codegpt.co/en) you can set the agents with these oth
 - GPT-4
 - GPT-4 turbo
 - Claude-2.1
+- Claude-3-Sonnet
+- Claude-3-Haiku
 - Gemini-10-Pro
 - GPT-3.5-Turbo
 - GPT-3.5-Turbo-16k
