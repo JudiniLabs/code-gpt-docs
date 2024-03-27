@@ -37,7 +37,7 @@ In this tutorial you will see how to connect your CodeGPT Plus account with the 
 If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
 
 <p align="center">
-      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7a786f2e-f65d-4862-a1f7-61b705ff1cd5" />
+      <img width="300" height="200" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7a786f2e-f65d-4862-a1f7-61b705ff1cd5" />
 </p>
 
 :::
