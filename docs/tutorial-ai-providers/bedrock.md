@@ -29,7 +29,7 @@ Amazon Bedrock, a fully-managed service, offers top foundation models (FMs) from
 </table>
 
 
-::: caution Region Unsupported
+:::caution Region Unsupported
 Amazon Bedrock is not available in all regions, check that your account is set up on these regions:
 - Europe (Frankfurt)
 - US West (Oregon)
