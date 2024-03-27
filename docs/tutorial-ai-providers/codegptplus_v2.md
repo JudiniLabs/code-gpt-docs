@@ -46,10 +46,6 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 
 Open the chat and select your agent after `Set connection ðŸ”‘`.
 
-<p align="center">
-      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/774ca6a0-4e00-4e3f-b001-51c834dc5ecf" />
-</p>
-
 ## Models available in CodeGPT
 Now is possible interact with `models`, `Marketplace` agents and the agents that you create in `Playground`:
 
