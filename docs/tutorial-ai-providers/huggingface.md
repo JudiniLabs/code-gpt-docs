@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Huggingface
+# Connect your Provider account
 
 Official website https://huggingface.co/
 
