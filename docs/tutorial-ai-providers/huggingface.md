@@ -11,7 +11,7 @@ The Hugging Face is a platform designed to share pre-trained AI models and colla
 ## How to connect
 - Create an account in [Huggingface](https://huggingface.co/)
 - Go to your [Profile - Settings - Access Tokens](https://huggingface.co/settings/tokens)
-- Generate and copy the API Key
+- Generate and copy the API Key 
 - Go to VSCode and choose `HuggingFace` as `Provider`
 - `Set connection` on `🔑` button.
 - Paste API Key here, and click on `Connect`:
