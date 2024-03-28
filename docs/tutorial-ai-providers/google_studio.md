@@ -14,7 +14,7 @@ Google AI Studio serves as a browser-based IDE tailored for prototyping with gen
 - Generate and copy the [API Key](https://aistudio.google.com/app/apikey)
 - Go to VSCode and choose `Googe Studio` as `Provider`
 - `Set connection` on `🔑` button.
-- Paste API Key here, and click on `Connect`:
+- Paste API Key here, and click on `Connect`: 
 <table>
   <tr>
     <td align="center">
