@@ -1,42 +1,46 @@
 ---
-sidebar_position: 1
+sidebar_position: 20
 ---
 
-# About CodeGPT
+# Google Studio
 
-### Welcome to our tutorial on utilizing CodeGPT in Visual Studio Code! 
- 
- CodeGPT is a powerful extension harnessing the capabilities of Large Language Models (LLMs) to boost your programming tasks using AI. 
- 
-:::info
+Official website [https://aistudio.google.com/](https://aistudio.google.com/)
 
- This tool not only allows you to interact with your work environment dynamically but can also create AI Agents that enrich LLMs with context and connect you with repositories, reports, and other critical areas of your business. 
- 
-:::
+Google AI Studio serves as a browser-based IDE tailored for prototyping with generative models. Within Google AI Studio, users can swiftly experiment with various models and prompts. Once satisfied with their creation, they can seamlessly export it to code in their preferred programming language through the Gemini API
 
-:::note CodeGPT VSCode Extension
+## Connect your Provider account
+- Create an account in [Huggingface](https://aistudio.google.com/app/prompts/new_chat)
+- Create a new project to attach the API Key
+- Generate and copy the [API Key](https://aistudio.google.com/app/apikey)
+- Go to VSCode and choose `Googe Studio` as `Provider`
+- `Set connection` on `🔑` button.
+- Paste API Key here, and click on `Connect`:
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/21c3bf13-d480-4f5c-bcda-f48250f55a21" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/5f0df04d-fd00-4b5a-8cd5-54bfdd734e3b" />
+    </td>
+  </tr>
+</table>
+
+
+:::caution Remove Key
+If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/4c478f3e-b222-42d0-a079-5a1d8167159c" />
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/3cce96d9-17df-420a-bcad-6e7171d6d6dd" />
 </p>
-:::
-
-### Getting Started with CodeGPT: Your Guide to an AI-Enhanced Coding Experience
- 
- In this tutorial, we'll guide you through downloading and setting up CodeGPT, and show you some typical use cases, so you can seamlessly integrate it into your coding workflow. 
- 
-
-:::note Let's get started and dive right into the AI-enhanced coding experience!
-<p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/a7f7acc0-4e85-4e88-9370-a2d2f1163a1d" />
-</p>
-:::
-
-:::caution
-
-While the CodeGPT extension is free, it requires you to use an API from an external provider (see [Providers](/docs/category/ai-providers)). **These external providers are paid services**, although they may offer limited usage for free.
 
 :::
 
---- 
-
-In the next module you will learn how to install and configure the extension. Click on [Basics](/docs/category/basics) to continue.
+### Models available in Code GPT
+- gemini-pro
+- gemini-1.0-pro
+- gemini-1.5-pro-latest
+- gemini-ultra
+- gemini-nano
+- chat-bison-001
+  
