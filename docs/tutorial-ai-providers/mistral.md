@@ -5,7 +5,7 @@ sidebar_position: 19
 # Mistral
 Official website https://mistral.ai/
 
-## Frontier AI in your hands
+## Frontier AI in your hands 
 We’re a small creative team with high scientific standards. We make efficient, helpful and trustworthy AI models through ground-breaking innovations.
 
 ## Connect your Mistral account
