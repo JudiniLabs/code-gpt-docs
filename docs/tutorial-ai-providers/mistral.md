@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 19
 ---
 
 # Mistral
@@ -44,7 +44,7 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 - mistral-large
 - open-mixtral-8x7b
 - open-mixtral-7b
-
+  
 ## API Errors
 If you are getting API errors check the following link: [Mistral Documentation](https://docs.mistral.ai/)
 
