@@ -2,41 +2,48 @@
 sidebar_position: 1
 ---
 
-# About CodeGPT
+# Perplexity
 
-### Welcome to our tutorial on utilizing CodeGPT in Visual Studio Code! 
- 
- CodeGPT is a powerful extension harnessing the capabilities of Large Language Models (LLMs) to boost your programming tasks using AI. 
- 
-:::info
+Official website [https://www.perplexity.ai](https://www.perplexity.ai)
 
- This tool not only allows you to interact with your work environment dynamically but can also create AI Agents that enrich LLMs with context and connect you with repositories, reports, and other critical areas of your business. 
- 
-:::
+## Connect Perplexity
+- Login on Perplexity account [here](https://lmstudio.ai/](https://www.perplexity.ai/settings/account)
+- Get you API Key (https://www.perplexity.ai/settings/api)
+- Next, go to `Local Server` tab.
+- Click on `Select a model to load`, choose a model.
 
-:::note CodeGPT VSCode Extension
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/4c478f3e-b222-42d0-a079-5a1d8167159c" />
+      <img width="425" height="100" src="https://github.com/davila7/code-gpt-docs/assets/37567214/475d35e3-4489-4dc2-bf52-0d49bbdd1469" />
 </p>
-:::
-
-### Getting Started with CodeGPT: Your Guide to an AI-Enhanced Coding Experience
  
- In this tutorial, we'll guide you through downloading and setting up CodeGPT, and show you some typical use cases, so you can seamlessly integrate it into your coding workflow. 
- 
+- Please wait until the loading reaches 100% completion.
+- Click on `Start Server`, keep LMStudio running.
+- Launch CodeGPT extension on VSCode.
+- Choose LM Studio as `Provider`.
+  
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/845c1e0a-9854-4909-bc74-7e43f86c4051" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a00c59af-9ae3-4529-ae48-cae652f67a1f" />
+    </td>
+  </tr>
+</table>
 
-:::note Let's get started and dive right into the AI-enhanced coding experience!
+:::caution Remove Key
+If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+
 <p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/6216945/a7f7acc0-4e85-4e88-9370-a2d2f1163a1d" />
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/1b00662f-aa1a-42b6-98ee-a4030bcfde47" />
 </p>
-:::
-
-:::caution
-
-While the CodeGPT extension is free, it requires you to use an API from an external provider (see [Providers](/docs/category/ai-providers)). **These external providers are paid services**, although they may offer limited usage for free.
 
 :::
 
---- 
+## Models available in CodeGPT
+- command-r
+- command
+- commnad-light
+  
 
-In the next module you will learn how to install and configure the extension. Click on [Basics](/docs/category/basics) to continue.
