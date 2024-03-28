@@ -9,17 +9,8 @@ Official website [https://www.perplexity.ai](https://www.perplexity.ai)
 ## Connect Perplexity
 - Login on Perplexity account [here](https://lmstudio.ai/](https://www.perplexity.ai/settings/account)
 - Get you API Key (https://www.perplexity.ai/settings/api)
-- Next, go to `Local Server` tab.
-- Click on `Select a model to load`, choose a model.
-
-<p align="center">
-      <img width="425" height="100" src="https://github.com/davila7/code-gpt-docs/assets/37567214/475d35e3-4489-4dc2-bf52-0d49bbdd1469" />
-</p>
- 
-- Please wait until the loading reaches 100% completion.
-- Click on `Start Server`, keep LMStudio running.
 - Launch CodeGPT extension on VSCode.
-- Choose LM Studio as `Provider`.
+- Choose Perplexity as `Provider`.
   
 <table>
   <tr>
