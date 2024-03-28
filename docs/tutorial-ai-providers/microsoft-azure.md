@@ -10,21 +10,28 @@ Official website https://azure.microsoft.com/en-us/products/ai-services/openai-s
 - Create an account in [Microsoft Azure](https://azure.microsoft.com/en-us/free)
 - Get access to [Azure OpenAI Services](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
 - Go to [Azure OpenAI Studio](https://oai.azure.com/)
-- Get your Endpoint and Secret Key
-- Choose `Azure` as `Provider`.
-- `Set connection` and link with your account on `🔑` button.
-- Copy the API Key 
-
+- Get your `Secret Key` and the `Custom Link`.
+- Go to VSCode and choose `Azure` as `Provider`.
+- `Set connection` on `🔑` button.
+- Paste API Key here, and click on `Connect`:
  
-<p align="center">
-      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/c89c3c49-1c1a-4fa3-93b3-5ddede97d5e7" />
-</p>
- 
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e10dc9fb-78d8-41bc-a8d1-901a596db974" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/2abd9605-9f98-49e8-bcad-19ee425d0dcc"
+  </tr>
+</table>
 
-- Paste the Endpoint and Secret Key
-- 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from Microsoft Azure
+If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+
+<p align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/b07e86e4-cbdd-46be-b8f5-7c19344610d1" />
+</p>
+
 :::
 
 ## Azure OpenAI Models available in Code GPT
