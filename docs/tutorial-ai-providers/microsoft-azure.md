@@ -21,8 +21,7 @@ Official website https://azure.microsoft.com/en-us/products/ai-services/openai-s
       <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e10dc9fb-78d8-41bc-a8d1-901a596db974" />
     </td>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/2abd9605-9f98-49e8-bcad-19ee425d0dcc"
-  </tr>
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/2abd9605-9f98-49e8-bcad-19ee425d0dcc"/>  </tr>
 </table>
 
 :::caution Remove Key
