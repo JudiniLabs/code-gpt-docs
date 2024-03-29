@@ -35,8 +35,8 @@ Obtaining your credentials on Google Cloud can be tricky. As of March 28, 2024, 
     </td>
   </tr>
 </table>
- 
-::: caution Remove Key
+
+:::caution Remove Key
 If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ”‘`, and click on `Disconnect`
 
 <p align="center">
@@ -44,6 +44,7 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 </p>
 
 :::
+ 
 
 ## Google Models available in CodeGPT
 
