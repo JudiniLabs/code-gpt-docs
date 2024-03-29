@@ -56,4 +56,4 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 - gemini-ultra
 
 ## API Errors
-If you are getting API errors check the following link: [Google AI Studio Documentation](https://ai.google.dev/api/rest?hl=es-419)
+If you are getting API errors check the following link: [Vertex AI Studio Documentation](https://ai.google.dev/api/rest?hl=es-419)
