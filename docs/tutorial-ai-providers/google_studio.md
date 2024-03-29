@@ -9,7 +9,7 @@ Official website [https://aistudio.google.com/](https://aistudio.google.com/)
 Google AI Studio serves as a browser-based IDE tailored for prototyping with generative models. Within Google AI Studio, users can swiftly experiment with various models and prompts. Once satisfied with their creation, they can seamlessly export it to code in their preferred programming language through the Gemini API
 
 ## Connect your Provider account
-- Create an account in [Huggingface](https://aistudio.google.com/app/prompts/new_chat)
+- Create an account in [Google Studio](https://aistudio.google.com/app/prompts/new_chat)
 - Create a new project to attach the API Key
 - Generate and copy the [API Key](https://aistudio.google.com/app/apikey)
 - Go to VSCode and choose `Googe Studio` as `Provider`
