@@ -13,19 +13,31 @@ OpenAI is an artificial intelligence research organization that aims to develop 
 - Log in with your OpenAI account (or [create a new account](https://platform.openai.com/signup)
 - Click the button labeled **`Create a new secret key`**
 - A new dialog window will appear, containing a text box with your API key.
-- Choose `OpenAI` as `Provider`
-- `Set connection` and link with your account on `🔑` button.
-- Copy the API Key and Organization ID here:
-  
-<p align="center">
-      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/c79e8c36-2d0c-4cfe-992b-5816748472aa"/>
-</p>
+- Go to VSCode and choose `OpenAI` as `Provider`
+- `Set connection` on `🔑` button.
+- Paste API Key here, and click on `Connect` and Organization ID here:
 
-- Paste your API Key
+  <table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/3aad398b-fbb6-4a60-ad2d-d61913ada7a6" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/661e47e2-77dc-4cce-9a21-58733ae8cc7a" />
+    </td>
+  </tr>
+</table>
+  
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from OpenAI`
+If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+
+<p align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/8664e3aa-8c19-45c4-b46c-d82a5e6e7c1a" />
+</p>
+
 :::
+
 
 ## GPT models available in Code GPT
 - gpt-4
