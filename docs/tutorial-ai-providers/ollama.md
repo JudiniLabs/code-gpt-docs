@@ -13,27 +13,40 @@ Opensource project to run, create, and share large language models (LLMs).
 - If you want to use mistral or other models, you will need to replace codellama with the desired model. For example: ```ollama pull mistral```
 
 # How to use Ollama
-- `Set connection` and link with your account on `🔑` button.
-- In VSCode and Select Ollama like a `Provider`
- 
-<p align="center">
-      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a5e3eda0-1609-44b4-bffb-a275ba2562b0" />
-</p>
- 
-- Please be aware that Ollama is running locally on your computer.
 
+- In VSCode and Select Ollama like a `Provider`
+- Please be aware that Ollama is running locally on your computer.
+- Paste API Key here, and click on `Connect`:
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/65f81b2c-cf92-4e94-9041-bc4bcfe80477" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e60fac92-22ef-4871-bd57-80f66617ec73" />
+    </td>
+  </tr>
+</table>
+
+
+:::caution Remove Key No need to disconnect; simply change the provider.
+
+:::
   
 ## Ollama Models available in Code GPT
+- gemma.7b
+- gemma:2b
 - llama2
 - codellama
 - phi
 - mistral
 - mixtral
 - deepseek-coder
-
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `ᯤ` button, and click on `Disconnect from Ollama`
-:::
+- starcoder2
+- dolphinecoder
+- dolphin-mixtral
+- starling-lm
+- llama2-uncensored
 
 ## API Errors
 If you are getting API errors check the following link: [Ollama Documentation](https://ollama.ai/)
