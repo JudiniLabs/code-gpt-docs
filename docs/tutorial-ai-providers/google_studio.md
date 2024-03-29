@@ -2,7 +2,7 @@
 sidebar_position: 20
 ---
 
-# Google Studio
+# Google AI Studio
 
 Official website [https://aistudio.google.com/](https://aistudio.google.com/)
 
