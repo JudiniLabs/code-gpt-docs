@@ -1,8 +1,8 @@
 ---
-sidebar_position: 11
+sidebar_position: 9
 ---
 
-# Bedrock
+# AWS Bedrock
 
 Official website [https://aws.amazon.com/bedrock/](https://aws.amazon.com/bedrock/)
 

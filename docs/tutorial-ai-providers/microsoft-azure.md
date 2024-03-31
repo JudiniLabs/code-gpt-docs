@@ -1,8 +1,8 @@
 ---
-sidebar_position: 14
+sidebar_position: 7
 ---
 
-# Microsoft Azure
+# Microsoft Azure AI
 
 Official website https://azure.microsoft.com/en-us/products/ai-services/openai-service
 
