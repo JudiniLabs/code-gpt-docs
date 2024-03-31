@@ -47,9 +47,9 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 :::
 
 ### Claude Models available in Code GPT
-- claude-3-opus
-- claude-3-sonnet
-- claude-3-haiku
+- claude-3-opus-20240229
+- claude-3-sonnet-20240229
+- claude-3-haiku-20240307
 - claude-2.10
 - claude-2.1
 - claude-instant-1.2

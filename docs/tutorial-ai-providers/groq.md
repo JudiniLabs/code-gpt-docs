@@ -1,15 +1,15 @@
 ---
 sidebar_position: 9
 ---
-# Grog
+# Groq
 Official website [https://groq.com/](https://groq.com/)
 
 Groq provides us with a simple way to leverage models running on LPU (Language Processing Unit). This enables us to achieve incredibly fast inference response times.
 
-## Connect your Grog account
+## Connect your Groq account
 - Create an account in [https://groq.com/](https://console.groq.com/playground)
 - Go to your [dashboard](https://console.groq.com/keys)
-- Go to VSCode and choose `Grog` as `Provider`
+- Go to VSCode and choose `Groq` as `Provider`
 - `Set connection` on `ðŸ”‘` button.
 - Paste API Key here, and click on `Connect`:
   
@@ -34,7 +34,7 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 
 :::
 
-## Grog models available in CodeGPT
+## Groq models available in CodeGPT
 - mixtral-8x7b-32768
 - gemma-7b-it
 - llama2-70b-4096

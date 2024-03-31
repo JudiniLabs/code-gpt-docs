@@ -35,19 +35,9 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 :::
 
 ## Models available in CodeGPT
-- 'llama-2-70b-chat'
-- 'codellama-34b-instruct'
-- 'codellama-70b-instruct'
-- 'mistral-7b-instruct'
-- 'mixtral-8x7b-instruct'
-- 'pplx-7b-chat'
-- 'pplx-70b-chat'
-- 'pplx-7b-online'
-- 'pplx-70b-online'
-- 'sonar-small-chat'
-- 'sonar-small-online'
-- 'sonar-medium-chat'
-- 'sonar-medium-online'
+- 'command-r'
+- 'command'
+- 'command-light'
   
 ## API Errors
 If you are getting API errors check the following link: [Cohere API Errors](https://docs.cohere.ai/reference/errors)

@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 # Google Vertex AI
-Official website [https://aistudio.google.com/](https://aistudio.google.com/)
+Official website [https://cloud.google.com/](https://cloud.google.com/)
 
 ## Connect your Vertex credentials
 Obtaining your credentials on Google Cloud can be tricky. As of March 28, 2024, here's the process to obtain them:
@@ -56,4 +56,4 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 - gemini-ultra
 
 ## API Errors
-If you are getting API errors check the following link: [Vertex AI Studio Documentation](https://cloud.google.com/vertex-ai/docs)
+If you are getting API errors check the following link: [Vertex AI Documentation](https://cloud.google.com/vertex-ai/docs)

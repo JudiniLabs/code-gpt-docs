@@ -32,6 +32,7 @@ Opensource project to run, create, and share large language models (LLMs).
 - gemma:2b
 - llama2
 - codellama
+- command-r
 - phi
 - mistral
 - mixtral

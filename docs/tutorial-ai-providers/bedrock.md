@@ -48,5 +48,3 @@ Please note that the models you configure on your Amazon Bedrock account will be
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
 :::
-
-

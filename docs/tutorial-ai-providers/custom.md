@@ -11,7 +11,7 @@ In this option, you can choose a provider of your preference, all you need to co
 - `Set connection` on `🔑` button.
 - Paste API Key here, and click on `Connect`.
 
-  <table>
+<table>
   <tr>
     <td align="center">
       <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/523b7194-7e7c-44f9-bae9-3445b5a64920" />
