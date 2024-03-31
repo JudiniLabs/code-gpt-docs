@@ -63,5 +63,5 @@ On [Playground](https://app.codegpt.co/en) you can set the agents with these mod
 ### Marketplace Agents
 You can install the agents from your account, click [here](https://app.codegpt.co/en/marketplace)
 
-<img width="350" height="200" alt="" src="https://github.com/davila7/code-gpt-docs/assets/6216945/6dd16f48-c8da-4e23-94b6-6f63e23eb5e1">
+<img width="650" height="400" alt="" src="https://github.com/davila7/code-gpt-docs/assets/6216945/6dd16f48-c8da-4e23-94b6-6f63e23eb5e1">
 
