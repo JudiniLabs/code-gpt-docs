@@ -8,7 +8,7 @@ sidebar_position: 1
 
 이 튜토리얼에서는 CodeGPT Plus 계정을 VSCode의 확장 프로그램과 연결하는 방법을 알아볼 것입니다.
 
-✨ 무료 CodeGTP Plus V2 계정을 만들려면 [여기](https://app.codegpt.co/en)를 클릭하세요.
+✨ 무료 CodeGPT Plus V2 계정을 만들려면 [여기](https://app.codegpt.co/en)를 클릭하세요.
 
 ## CodeGPT Plus 계정 연결
 

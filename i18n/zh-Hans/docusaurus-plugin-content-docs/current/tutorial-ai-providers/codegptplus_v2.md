@@ -8,7 +8,7 @@ sidebar_position: 1
 
 在本教程中，您将了解如何将CodeGPT Plus帐户与VSCode中的扩展连接起来。
 
-✨ 单击 [此处](https://app.codegpt.co/en) 创建免费的CodeGTP Plus V2帐户。
+✨ 单击 [此处](https://app.codegpt.co/en) 创建免费的CodeGPT Plus V2帐户。
 
 ## 连接CodeGPT Plus帐户
 

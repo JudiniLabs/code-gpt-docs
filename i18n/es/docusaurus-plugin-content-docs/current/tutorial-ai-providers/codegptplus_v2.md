@@ -8,7 +8,7 @@ Sitio web oficial [https://codegpt.co](https://codegpt.co)
 
 En este tutorial, verás cómo conectar tu cuenta de CodeGPT Plus con la extensión en VSCode.
 
-✨ Haz clic [aquí](https://app.codegpt.co/en) para crear una cuenta gratuita de CodeGTP Plus V2.
+✨ Haz clic [aquí](https://app.codegpt.co/en) para crear una cuenta gratuita de CodeGPT Plus V2.
 
 ## Conectar cuenta de CodeGPT Plus
 
