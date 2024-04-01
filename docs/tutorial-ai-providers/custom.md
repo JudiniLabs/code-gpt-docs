@@ -2,7 +2,7 @@
 sidebar_position: 17
 ---
 
-# Custom the provider
+# Custom
 
 In this option, you can choose a provider of your preference, all you need to connect is the API key and the Custom Link of the provider, which is normally the registration link.
 
