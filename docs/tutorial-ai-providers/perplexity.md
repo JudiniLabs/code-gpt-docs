@@ -8,7 +8,7 @@ Official website [https://www.perplexity.ai](https://www.perplexity.ai)
 
 ## Connect Perplexity
 - Login on Perplexity account [here](https://www.perplexity.ai/settings/account)
-- Get you [API Key](https://www.perplexity.ai/settings/api)
+- Get your [API Key](https://www.perplexity.ai/settings/api)
 - Launch CodeGPT extension on VSCode.
 - Choose Perplexity as `Provider`.
   
