@@ -36,5 +36,11 @@ If you prefer to use Cursor, you can download it at this link: [Download](https:
 </p>
 
 :::
+:::caution
+For Linux users, please ensure that port 54112 or 54113 is available.
+:::
+
+
+
 
 Now that you have the extension installed, you need to proceed with the appropriate [configuration](/docs/tutorial-basics/configuration).
