@@ -26,5 +26,5 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 </p>
    
 :::caution Remove Key
-  No need to disconnect; simply change the provider.
+  No need to disconnect, simply change the provider.
 :::
