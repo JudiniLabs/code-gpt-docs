@@ -23,8 +23,8 @@ Opensource project to run, create, and share large language models (LLMs).
     </p>
   
 
-:::caution Remove Key No need to disconnect; simply change the provider.
-
+:::caution Remove Key 
+No need to disconnect; simply change the provider.
 :::
   
 ## Ollama Models available in Code GPT
