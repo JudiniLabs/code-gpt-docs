@@ -25,10 +25,9 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
   <img width="250" height="70" src="https://github.com/davila7/code-gpt-docs/assets/37567214/8bfeb19f-e4ce-4a79-b56d-37a7e8b9f5ac" />
 </p>
 
-  :::caution Remove Key
-  No need to disconnect, simply change the provider.
-  :::
-  
+:::caution Remove Key 
+No need to disconnect; simply change the provider.
+:::
 
    
 
