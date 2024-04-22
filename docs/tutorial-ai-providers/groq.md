@@ -35,6 +35,8 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 :::
 
 ## Groq models available in CodeGPT
+- llama3-70b-8192
+- llama3-8b-8192
 - mixtral-8x7b-32768
 - gemma-7b-it
 - llama2-70b-4096

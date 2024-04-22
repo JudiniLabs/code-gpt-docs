@@ -36,9 +36,13 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 :::
 
 ## Fireworks available in Code GPT
+- llama-v3-70b-instruct (soon)
 - llama-v2-7b-chat
 - llama-v2-70b-chat
+- mixtral-8x22b-instruct
 - mixtral-8x7b
+- gemma-7b-it
+- dbrx-instruct
 - zephyr-7b-beta
 
 ## API Errors

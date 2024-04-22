@@ -30,7 +30,15 @@ If you want to remove your API Key from CodeGPT, and click on `Disconnect from N
 :::
 
 ## Nvidia models available in CodeGPT
+- meta/llama3-70b (soon)
+- meta/llama3-8b (soon)
+- mistralai/mixtral-8x22b-v0.1
+- mistralai/mistral-large
+- mistralai/mistral-7b-instruct-V0.2
 - google/gemma-7b
+- google/gemma-2b
+- google/codegemma-7b
+- google/recurrentgemma-2b
 - meta/codellama-70b 
 - meta/llama2-70b
 

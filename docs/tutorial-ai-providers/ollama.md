@@ -28,20 +28,27 @@ Opensource project to run, create, and share large language models (LLMs).
 :::
   
 ## Ollama Models available in Code GPT
-- gemma.7b
-- gemma:2b
-- llama2
-- codellama
+- llama3:70b
+- llama3:8b
+- command-r-plus
 - command-r
-- phi
+- codegemma
+- gemma:7b
+- gemma:2b
+- dbrx
 - mistral
 - mixtral
+- llama2
+- codellama
+- phi
 - deepseek-coder
 - starcoder2
-- dolphinecoder
+- dolphincoder
 - dolphin-mixtral
 - starling-lm
 - llama2-uncensored
+
+
 
 ## API Errors
 If you are getting API errors check the following link: [Ollama Documentation](https://ollama.ai/)
