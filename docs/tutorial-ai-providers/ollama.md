@@ -23,8 +23,8 @@ Opensource project to run, create, and share large language models (LLMs).
     </p>
   
 
-:::caution Remove Key No need to disconnect; simply change the provider.
-
+:::caution Remove Key 
+No need to disconnect, just change the provider.
 :::
   
 ## Ollama Models available in Code GPT
@@ -53,11 +53,17 @@ Opensource project to run, create, and share large language models (LLMs).
 ## API Errors
 If you are getting API errors check the following link: [Ollama Documentation](https://ollama.ai/)
 
-If the Ollama model does not respond in the chat, consider restarting it locally by turning it off and then on again. This action should resolve the issue.
+## Ollama Errors
+- If the Ollama model does not respond in the chat, consider restarting it locally by turning it off and then on again. This action should resolve the issue.
 
-<p align="center">
-      <img width="250" height="00" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4bd4e2c8-dbfb-46f3-b4d3-c3484cc7692c" />
-</p>
+    <p align="center">
+      <img width="250" height="00" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4bd4e2c8-dbfb-46f3-b4d3-c3484cc7692c"/>
+    </p>
+  
+- If the Ollama is running but not responding, please manually remove 'Ollama_Host' from the environment variables and let it revert to the default setting.
+    
+
+
  
 
 
