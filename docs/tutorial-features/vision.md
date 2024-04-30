@@ -17,9 +17,10 @@ You can identify and locate objects within the image, the model can then provide
 
 :::note Ask about the text within the images
 <p align="center">
-  <img width="800" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/62fe854a-9cd4-4805-acba-0b5b9da88684" />
+  <img width="800" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4e25714b-14cc-46b8-ae4c-d7d44dfb2bf2" />
 </p>
 :::
+
 
 :::note Ask about the images
 <p align="center">
