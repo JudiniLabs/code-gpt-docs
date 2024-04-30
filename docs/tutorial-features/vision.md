@@ -19,6 +19,7 @@ You can identify and locate objects within the image, the model can then provide
 <p align="center">
   <img width="800" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/62fe854a-9cd4-4805-acba-0b5b9da88684" />
 </p>
+:::
 
 :::note Ask about the images
 <p align="center">
