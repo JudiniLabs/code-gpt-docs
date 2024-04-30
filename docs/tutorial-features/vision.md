@@ -23,8 +23,9 @@ You can identify and locate objects within the image, the model can then provide
 
 :::note Ask about the images
 <p align="center">
-  <img width="800" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/7d216aea-a023-4ff9-9ee1-64e19e108314" />
+  <img width="800" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/47564917-8330-475c-8762-8820d13e9dfe" />
 </p>
 :::
+
 
 
