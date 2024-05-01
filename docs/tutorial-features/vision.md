@@ -28,5 +28,10 @@ You can identify and locate objects within the image, the model can then provide
 </p>
 :::
 
+:::note Ask about webpages pictures and make code
+<p align="center">
+  <img width="800" height="650" src="https://github.com/davila7/code-gpt-docs/assets/37567214/147d3cbc-5fda-4262-a9f1-e437f43129f8" />
+</p>
+:::
 
 
