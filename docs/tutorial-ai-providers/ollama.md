@@ -16,7 +16,7 @@ Opensource project to run, create, and share large language models (LLMs).
 
 - In VSCode and Select Ollama like a `Provider`
 - Please be aware that Ollama is running locally on your computer.
-- Paste API Key here, and click on `Connect`:
+- Chose a model
 
     <p align="center">
       <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/65f81b2c-cf92-4e94-9041-bc4bcfe80477" />
