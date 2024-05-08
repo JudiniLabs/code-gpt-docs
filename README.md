@@ -1,7 +1,7 @@
 # CodeGPT Plus News 🗞
 ## ✨ Support CodeGPT 🥳
 
-Our extension is FREE and we want to keep it that way FOREVER.
+Our extension is FREE and we want to keep it that way FOREVER
 
 If you want to help us, give us a good score ⭐️⭐️⭐️⭐️⭐️ in the Visual Studio Code marketplace at this link:
 [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt&ssr=false#review-details)
