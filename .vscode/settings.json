@@ -1,3 +1,4 @@
 {
-    "CodeGPT.apiKey": "Nvidia"
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "CodeGPT.Autocomplete.enabled": false
 }
