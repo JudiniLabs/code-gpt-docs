@@ -20,22 +20,22 @@ To run the CodeGPT extension, your setup must meet the following requirements:
 ### Common Issues and Solutions
 
 - Issue:
-The CodeGPT extension requires the use of port 54113 for localhost. If this port is not available, the extension will fail to run.
+The CodeGPT extension requires the use of port 54112 for localhost. If this port is not available, the extension will fail to run.
 
 - Solution:
-Ensure that port 54113 is free and not being used by any other application. You can check and free up this port by using the following commands:
+Ensure that port 54112 is free and not being used by any other application. You can check and free up this port by using the following commands:
 
 For Windows:
 
 ```
-netstat -aon | findstr :54113
+netstat -aon | findstr :54112
 taskkill /F /PID <PID>
 ```
 
 For macOS and Linux:
 
 ```
-lsof -i :54113
+lsof -i :54112
 kill -9 <PID>
 ```
 Replace `<PID>` with the actual Process ID using the port.
@@ -44,16 +44,16 @@ Replace `<PID>` with the actual Process ID using the port.
 ### 2. Using devcontainer
 
 - Issue:
-When using a devcontainer, port 54113 must be opened in the docker-compose configuration.
+When using a devcontainer, port 54112 must be opened in the docker-compose configuration.
 
 - Solution:
-Ensure that your docker-compose.yml includes the following configuration to open port 54113:
+Ensure that your docker-compose.yml includes the following configuration to open port 54112:
 
 ```
 services:
   your-service-name:
     ports:
-      - "54113:54113"
+      - "54112:54112"
 ```
 
 ### 3. VSCode Tunnel Incompatibility
