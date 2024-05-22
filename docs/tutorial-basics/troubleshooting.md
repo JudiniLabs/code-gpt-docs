@@ -4,12 +4,6 @@ sidebar_position: 3
 
 # Troubleshooting
 
-<<<<<<< Updated upstream
-## Setup the custom provider
-
-
-Web page under construction
-=======
 ## CodeGPT VSCode Extension Troubleshooting Guide
 
 ### Introduction
@@ -69,4 +63,3 @@ The CodeGPT extension is not compatible with VSCode Tunnel as it cannot run loca
 
 - Solution:
 Unfortunately, there is no workaround for using the CodeGPT extension with VSCode Tunnel at this time. Ensure you are running VSCode in a local environment where localhost can be utilized.
->>>>>>> Stashed changes
