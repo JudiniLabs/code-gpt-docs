@@ -44,7 +44,7 @@ For macOS and Linux:
 lsof -i :54113
 kill -9 <PID>
 ```
-Replace <PID> with the actual Process ID using the port.
+Replace `<PID>` with the actual Process ID using the port.
 
 
 ### 2. Using devcontainer
