@@ -11,6 +11,17 @@ Official website https://azure.microsoft.com/en-us/products/ai-services/openai-s
 - Get access to [Azure OpenAI Services](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
 - Go to [Azure OpenAI Studio](https://oai.azure.com/)
 - Get your `Secret Key` and the `Custom Link`.
+
+To obtain the endpoint and the secret, you must deploy the model and then open it in Azure OpenAI Studio:
+Then select "View Code"
+
+  <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e10dc9fb-78d8-41bc-a8d1-901a596db974" />
+
+In this section, you can obtain the API key and the custom link. To display the full custom link, you must select CURL in the code selection and copy the endpoint.
+
+  <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e10dc9fb-78d8-41bc-a8d1-901a596db974" />
+
+
 - Go to VSCode and choose `Azure` as `Provider`.
 - `Set connection` on `ðŸ”‘` button.
 - Paste API Key here, and click on `Connect`:
@@ -36,6 +47,7 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 :::
 
 ## Azure OpenAI Models available in Code GPT
+- gpt-4o
 - gpt-4
 - gpt-4-32k
 - gpt-35-turbo
