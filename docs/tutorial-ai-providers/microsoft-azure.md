@@ -19,7 +19,8 @@ Then select "View Code"
 
 In this section, you can obtain the API key and the custom link. To display the full custom link, you must select CURL in the code selection and copy the endpoint.
 
-  <img width="400" height="350" src="https://github.com/davila7/code-gpt-docs/assets/6216945/fd18b7d8-24e9-4d00-8e33-52710fab4a56" />
+  <img width="450" height="400" src="https://github.com/davila7/code-gpt-docs/assets/6216945/cbc54b0a-4afb-4ce5-9d4e-ba20cbe675dd" />
+
 
 - Go to VSCode and choose `Azure` as `Provider`.
 - `Set connection` on `🔑` button.
