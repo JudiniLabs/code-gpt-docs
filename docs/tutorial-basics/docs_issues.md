@@ -1,8 +1,8 @@
 # How to Document Issues on GitHub for CodeGPT
 
-To ensure that issues are effectively communicated and resolved, please follow these guidelines when creating a new issue on the CodeGPT repository.
+Please follow these guidelines when creating a new issue on the CodeGPT repository to ensure that issues are effectively communicated and resolved.
 
- **Warning:** Issues that do not follow these guidelines may not be taken into account.
+ **Warning:** Issues that do not follow these guidelines may not be considered.
 
 
 ## Steps to Document an Issue
@@ -64,7 +64,7 @@ When I try to open a large file (over 20MB) in CodeGPT, the application crashes 
 CodeGPT should open the large file without crashing.
 
 **Actual Behavior:**
-CodeGPT crashes with an error message saying "Application has stopped working."
+CodeGPT crashes with an error message saying, "Application has stopped working."
 
 **Screenshots:**
 ![Error Screenshot](link_to_screenshot)
@@ -86,6 +86,6 @@ Related issue: #123
 ## Tips for Effective Issue Reporting
 - Be Specific: Provide as much detail as possible to help us understand and reproduce the issue.
 - Stay on Topic: Focus on a single issue per report. If you have multiple issues, create separate reports for each.
-- Follow Up: If more information becomes available, update the issue with new details.
+- Follow-up: If more information becomes available, update the issue with new details.
 
 By following these guidelines, you help us improve CodeGPT for everyone. Thank you for your contribution!
