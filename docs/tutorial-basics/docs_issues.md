@@ -1,6 +1,6 @@
 # How to Document Issues on GitHub for CodeGPT
 
-Please follow these guidelines when creating a new issue on the CodeGPT repository to ensure that issues are effectively communicated and resolved.
+Please follow these guidelines when creating a new issue on the CodeGPT repository to make sure that issues are effectively communicated and resolved.
 
  **Warning:** Issues that do not follow these guidelines may not be considered.
 
@@ -67,7 +67,7 @@ CodeGPT should open the large file without crashing.
 CodeGPT crashes with an error message saying, "Application has stopped working."
 
 **Screenshots:**
-![Error Screenshot](link_to_screenshot)
+[Error Screenshot](link_to_screenshot)
 
 **Environment:**
 - OS: Windows 10
