@@ -5,9 +5,7 @@ sidebar_position: 4
 
 Official website https://www.deepseek.com/
 
-Established in 2023, DeepSeek (深度求索) is a Chinese firm committed to turning Artificial General Intelligence (AGI) into reality. 
-
-They aim to decode the enigma of AGI with a sense of curiosity. They approach the fundamental queries with a long-term perspective.
+Established in 2023, DeepSeek (深度求索) is a Chinese firm committed to turning Artificial General Intelligence (AGI) into reality. They approach the fundamental queries with a long-term perspective.
 
 ## Connect your Provider account
 
@@ -42,8 +40,7 @@ They aim to decode the enigma of AGI with a sense of curiosity. They approach th
 If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
 
 <p align="center">
-      <img width="300" height="150" src=![image](https://github.com/davila7/code-gpt-docs/assets/37567214/2f6006f0-1f63-47e7-b3ec-3865213e2b4a)
-" />
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/2f6006f0-1f63-47e7-b3ec-3865213e2b4a" />
 </p>
 
 :::
