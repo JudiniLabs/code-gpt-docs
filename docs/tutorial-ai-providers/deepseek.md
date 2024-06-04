@@ -13,17 +13,7 @@ Established in 2023, DeepSeek (深度求索) is a Chinese firm committed to turn
 - Go to VSCode and choose `Deepseek` as `Provider`
 - Click on `Set connection` button
 - Paste API Key here, and click on `Connect`:
-  
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src=" Go to VSCode and choose `Cohere` as `Provider`
-- Click on `Set connection` button
-- Paste API Key here, and click on `Connect`:
-  
+   
 <table>
   <tr>
     <td align="center">
@@ -32,9 +22,8 @@ Established in 2023, DeepSeek (深度求索) is a Chinese firm committed to turn
     <td align="center">
       <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/567b15ac-56b7-4c4e-974f-f115b2ffacf5" />
     </td>
-  </tr>" />
-    </td>
   </tr>
+  </table>
 
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
