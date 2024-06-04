@@ -44,6 +44,11 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 </p>
 
 
-
+<p align="center"> 
+    <video width="300" height="150" controls>
+        <source src="[movie.mp4](https://github.com/davila7/code-gpt-docs/assets/37567214/761a5db8-5db3-41d7-815e-f87e94c9a277)" type="video/mp4">
+   
+    </video>
+</p>
 
 
