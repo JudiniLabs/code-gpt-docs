@@ -47,6 +47,7 @@ Look here when you need help.
 - [Fireworks](/docs/tutorial-ai-providers/fireworks)
 - [Mistral](/docs/tutorial-ai-providers/mistral)
 - [Huggingface](/docs/tutorial-ai-providers/huggingface)
+- [DeepSeek](/docs/tutorial-ai-providers/deepseek)
 - [Bedrock](/docs/tutorial-ai-providers/bedrock)
 - [Perplexity](/docs/tutorial-ai-providers/perplexity)
 - [LM Studio](/docs/tutorial-ai-providers/lmstudio)
