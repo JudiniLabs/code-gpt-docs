@@ -38,3 +38,12 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 - Deepseek-chat
 - Deepseek-coder
 
+## How to use it
+<p align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/761a5db8-5db3-41d7-815e-f87e94c9a277" />
+</p>
+
+
+
+
+
