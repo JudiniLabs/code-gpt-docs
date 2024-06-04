@@ -40,15 +40,8 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 
 ## How to use it
 <p align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/761a5db8-5db3-41d7-815e-f87e94c9a277" />
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/6fb41a1e-71cf-4518-a073-47317168d8dd" />
 </p>
 
-
-<p align="center"> 
-    <video width="300" height="150" controls>
-        <source src="[movie.mp4](https://github.com/davila7/code-gpt-docs/assets/37567214/761a5db8-5db3-41d7-815e-f87e94c9a277)" type="video/mp4">
-   
-    </video>
-</p>
 
 
