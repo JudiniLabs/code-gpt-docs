@@ -5,7 +5,7 @@ sidebar_position: 3
 # Explain CodeGPT
 
 ## Description
-The Explain CodeGPT feature empowers you to gain deeper insights into your codebase. By selecting specific code segments, you can request CodeGPT to provide detailed explanations and clarifications.
+The Explain CodeGPT feature empowers you to gain deeper insights into your codebase. You can request CodeGPT to provide detailed explanations and clarifications by selecting specific code segments.
 
 ## How to Use:
 - Select CodeGPT as `Provider`  and `Model`
