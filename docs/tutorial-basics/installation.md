@@ -33,9 +33,6 @@ If you prefer to use Cursor, you can download it at this link: [Download](https:
 <p align="center"><img src="https://github.com/davila7/code-gpt-docs/assets/37567214/e0ab03e2-06f8-4e3c-bc25-1cd630583410"/></p>
 
 
-## Jetbrains
-If you prefer to use Jetbrains, you can download it at this link: [Download](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents/)
-
 :::
 :::caution
 For Linux users, please ensure that port 54112 or 54113 is available.
