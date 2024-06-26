@@ -2,39 +2,39 @@
 sidebar_position: 8
 ---
 
-# Interpréteur de Code (Python)
+# Code Interpreter (Python)
 
 ## Description
 
-La fonction ***Interpréteur de Code avec Python*** vous permet de demander et de recevoir des suggestions de code de manière transparente dans les commentaires. Cet outil puissant améliore votre expérience de codage en fournissant des extraits de code rapides et pertinents.
+The ***Code Interpreter with Python*** function allows you to seamlessly request and receive code suggestions within comments. This powerful tool enhances your coding experience by providing quick and relevant code snippets.
 
-Avec l'intégration de Jupyter Notebook, vous pouvez maintenant exécuter des extraits de code directement dans votre environnement.
+With the integration of Jupyter Notebook, you can now execute code snippets directly in your environment.
 
-## Exigences
+## Requirements
 - [Jupyter Notebook](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
-## Comment Utiliser :
-- Demander du Code dans un Commentaire :
-    - Écrivez un commentaire avec votre demande spécifique de code (Assurez-vous que votre curseur est à la fin de la ligne de commentaire).
+## How to Use:
+- Request Code in a Comment:
+    - Write a comment with your specific code request (Make sure your cursor is at the end of the comment line).
 
-- Démarrer les Suggestions de Code :
-    - Appuyez sur ```cmd + shift + i``` pour déclencher le mode de suggestion de code.
+- Start Code Suggestions:
+    - Press ```cmd + shift + i``` to trigger code suggestion mode.
 
-- Utiliser le Code :
-    - Implémentez le code suggéré pour améliorer votre projet.
+- Use the Code:
+    - To implement the suggested code to enhance your project.
 
-## Exemple
-Dans cet exemple, nous demandons d'ouvrir un fichier CSV, de récupérer les colonnes, puis de tracer les données.
+## Example
+In this example, we request that a CSV file be opened, the columns be retrieved, and the data plotted.
 
-### Invite :
+### Prompt:
 
 ```python noInline
-# Votre tâche est d'ouvrir le fichier situé à '../datasets/data_test.csv', de lire les données, d'identifier les colonnes, puis de créer un graphique significatif pour le visualiser
+# Your task is to open the file located at '../datasets/data_test.csv', read the data, identify the columns, and then create a meaningful chart to visualize it
 
-:::note CodeGPT: Interpréteur de Code
+:::note CodeGPT: Code Interpreter
 <p align="center">
       <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/314b2a0b-c89a-4458-ae58-1dc2c58a384d" />
 </p>
 :::
 
-```
+
