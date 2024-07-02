@@ -38,12 +38,14 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 
 
 ## Mistral available in Code GPT
+- codestral-latest
 - mistral-tiny
-- mistral-small
-- mistral-medium
-- mistral-large
-- open-mixtral-8x7b
+- mistral-small-latest
+- mistral-medium-latest
+- mistral-large-latest
 - open-mixtral-7b
+- open-mixtral-8x7b
+- open-mixtral-22x7b
   
 ## API Errors
 If you are getting API errors check the following link: [Mistral Documentation](https://docs.mistral.ai/)
