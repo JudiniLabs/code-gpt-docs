@@ -5,7 +5,7 @@ sidebar_position: 2
 # Autocomplete
 
 ## Description
-The Autocomplete feature empowers you to choose from a curated selection of models including those from OpenAI, Anthropic, Ollama, and Google Makersuite. This advanced tool enhances your coding experience by providing accurate and contextually relevant code suggestions.
+The Autocomplete feature empowers you to choose from a curated selection of models, including those from Mistral and Ollama. This advanced tool enhances your coding experience by providing accurate and contextually relevant code suggestions.
 
 ## How to Use:
 - Go to Autocomplete on CodeGPT Settings:
