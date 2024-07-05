@@ -35,14 +35,13 @@ Look here when you need help.
 
 :::info Get your API Key
 
-- [CodeGPT Plus](/docs/tutorial-ai-providers/codegpt_plus)
-- [CodeGPT Enterprise](/docs/tutorial-ai-providers/codegpt_enterprise)
+- [CodeGPT Plus](/docs/tutorial-ai-providers/codegptplus_v2)
 - [OpenAI](/docs/tutorial-ai-providers/openai)
 - [Microsoft Azure](/docs/tutorial-ai-providers/microsoft-azure)
 - [Anthropic](/docs/tutorial-ai-providers/anthropic)
 - [Cohere](/docs/tutorial-ai-providers/cohere)
 - [Vertex](/docs/tutorial-ai-providers/google_vertex)
-- [Google AI Studio](/docs/tutorial-ai-providers/google)
+- [Google AI Studio](/docs/tutorial-ai-providers/google_studio)
 - [Ollama](/docs/tutorial-ai-providers/ollama)
 - [Fireworks](/docs/tutorial-ai-providers/fireworks)
 - [Mistral](/docs/tutorial-ai-providers/mistral)
@@ -57,7 +56,7 @@ Look here when you need help.
 
 :::
 
-2. Set the connection `🔑`, status must change on the window. For more details, please check the page or every provider above.
+1. Set the connection `🔑`, status must change on the window. For more details, please check the page or every provider above.
 
    <table>
   <tr>
