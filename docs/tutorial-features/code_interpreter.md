@@ -2,34 +2,40 @@
 sidebar_position: 8
 ---
 
-# Code Interpreter (Python)
+# Code Interpreter
 
 ## Description
 
-The ***Code Interpreter with Python*** function allows you to seamlessly request and receive code suggestions within comments. This powerful tool enhances your coding experience by providing quick and relevant code snippets.
-
-With the integration of Jupyter Notebook, you can now execute code snippets directly in your environment.
-
-## Requirements
-- [Jupyter Notebook](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+The ***Code Interpreter with Python*** allows you to execute Python code within the code blocks provided by agents in the CodeGPT chat.
 
 ## How to Use:
-- Request Code in a Comment:
-    - Write a comment with your specific code request (Make sure your cursor is at the end of the comment line).
-
-- Start Code Suggestions:
-    - Press ```cmd + shift + i``` to trigger code suggestion mode.
-
-- Use the Code:
-    - To implement the suggested code to enhance your project.
+- Select an Agent that has the "Code Interpreter" option
+- Request Python code within the CodeGPT Chat
+- Within a codeblock, click on the "Run Code" option
+- Wait for the code to be executed and then you will see the result
 
 ## Example
-In this example, we request that a CSV file be opened, the columns be retrieved, and the data plotted.
+In this example, we will select code from the editor and then ask the Python 3.10 Agent to create a Violin plot.
 
 ### Prompt:
 
-```python noInline
-# Your task is to open the file located at '../datasets/data_test.csv', read the data, identify the columns, and then create a meaningful chart to visualize it
+```python 
+Chat CodeGPT: create a Violin plot
+
+Context:
+
+import numpy as np
+
+# Sample data for three categories
+category1 = np.random.normal(loc=0, scale=1, size=100)  # Normal distribution centered at 0
+category2 = np.random.normal(loc=5, scale=1.5, size=100)  # Normal distribution centered at 5
+category3 = np.random.normal(loc=10, scale=2, size=100)  # Normal distribution centered at 10
+
+data = [category1, category2, category3]
+
+
+
+```
 
 :::note CodeGPT: Code Interpreter
 <p align="center">
