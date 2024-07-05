@@ -15,11 +15,11 @@ Official website https://azure.microsoft.com/en-us/products/ai-services/openai-s
 To obtain the endpoint and the secret, you must deploy the model and then open it in Azure OpenAI Studio:
 Then select "View Code"
 
-  <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e10dc9fb-78d8-41bc-a8d1-901a596db974" />
+<img width="400" height="250" src="https://github.com/davila7/code-gpt-docs/assets/6216945/863be7d6-da26-460e-a365-c40b282d81e1" />
 
 In this section, you can obtain the API key and the custom link. To display the full custom link, you must select CURL in the code selection and copy the endpoint.
 
-  <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e10dc9fb-78d8-41bc-a8d1-901a596db974" />
+  <img width="450" height="400" src="https://github.com/davila7/code-gpt-docs/assets/6216945/cbc54b0a-4afb-4ce5-9d4e-ba20cbe675dd" />
 
 
 - Go to VSCode and choose `Azure` as `Provider`.
