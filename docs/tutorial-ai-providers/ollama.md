@@ -9,8 +9,19 @@ Official website https://ollama.ai
 Opensource project to run, create, and share large language models (LLMs).
 ## Connect Ollama Models
 - Download Ollama from the following link: [ollama.ai](https://ollama.ai/)
+
+### Download models via the console
 - Install Ollama and use the model codellama by running the command ```ollama pull codellama```
 - If you want to use mistral or other models, you will need to replace codellama with the desired model. For example: ```ollama pull mistral```
+
+### Download models via the console
+- Select Ollama as the `Provider`
+- Select the model
+- Click the `Download` button
+
+<p align="center">
+      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/65f81b2c-cf92-4e94-9041-bc4bcfe80477" />
+</p>
 
 # How to use Ollama
 
