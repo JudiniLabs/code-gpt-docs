@@ -20,7 +20,7 @@ Opensource project to run, create, and share large language models (LLMs).
 - Click the `Download` button
 
 <p align="center">
-      <img width="300" height="150" src="https://github.com/JudiniLabs/code-gpt-docs/assets/6216945/40a47458-7d7a-46c5-8500-b7c00ce99b72" />
+      <img width="300" height="250" src="https://github.com/JudiniLabs/code-gpt-docs/assets/6216945/40a47458-7d7a-46c5-8500-b7c00ce99b72" />
 </p>
 
 # How to use Ollama
