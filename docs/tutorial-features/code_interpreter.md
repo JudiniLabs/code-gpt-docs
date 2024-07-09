@@ -39,7 +39,7 @@ data = [category1, category2, category3]
 
 :::note CodeGPT: Code Interpreter
 <p align="center">
-      <img width="550" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/314b2a0b-c89a-4458-ae58-1dc2c58a384d" />
+      <img width="550" height="300" src="https://github.com/JudiniLabs/code-gpt-docs/assets/6216945/dfb51437-3706-438e-ba32-abf1f7d61213" />
 </p>
 :::
 
