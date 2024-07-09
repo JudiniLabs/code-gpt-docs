@@ -14,7 +14,7 @@ Opensource project to run, create, and share large language models (LLMs).
 - Install Ollama and use the model codellama by running the command ```ollama pull codellama```
 - If you want to use mistral or other models, you will need to replace codellama with the desired model. For example: ```ollama pull mistral```
 
-### Download models via the console
+### Download models via CodeGPT UI
 - Select Ollama as the `Provider`
 - Select the model
 - Click the `Download` button
