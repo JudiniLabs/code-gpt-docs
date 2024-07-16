@@ -10,12 +10,16 @@ Amazon Bedrock, a fully-managed service, offers top foundation models (FMs) from
 
 
 ## Connect your Provider account
-- Create an account in [Bedrock](https://eu-central-1.console.aws.amazon.com/bedrock/home?region=eu-central-1#/)
-- Go to your [API Keys](https://eu-central-1.console.aws.amazon.com/kms/home?region=eu-central-1#/kms/home)
-- Generate and copy the API Key
+- Create an account in [AWS Bedrock](https://aws.amazon.com/es/console/)
+- Create an AWS user with **AmazonBedrockFullAccess** Permissions policies
+
+<img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/0dd2c017-0203-4261-b60b-a8cf2a983c33" />
+
+- Go to **Security Credentials** and create a new **Access keys**
+- Generate and copy the Access Key and Secret Key
 - Choose `Bedrock` as `Provider`
-- `Set connection `🔑` to link with your account.
-- Paste the Key ID, take care about the `region` and the `Secret Access Key` :
+- Click on `Set connection ` to link with your account.
+- Paste the `region`, `Access Key` and `Secret Access Key`
 
   <table>
   <tr>
@@ -28,16 +32,6 @@ Amazon Bedrock, a fully-managed service, offers top foundation models (FMs) from
   </tr>
 </table>
 
-
-:::caution Region Unsupported
-Amazon Bedrock is not available in all regions, check that your account is set up on these regions:
-- Europe (Frankfurt)
-- US West (Oregon)
-- Asia Pacific (Tokyo)
-- Asia Pacific (Singapore)
-- US East (N. Virginia)
-:::
-
 ## Models available in CodeGPT
 Please note that the models you configure on your Amazon Bedrock account will be synchronized with the models on the extension
 
@@ -46,5 +40,5 @@ Please note that the models you configure on your Amazon Bedrock account will be
 </p>
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+If you want to remove your connection data from CodeGPT, just select `Desconnect`
 :::

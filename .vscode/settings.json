@@ -1,4 +1,4 @@
 {
-    "CodeGPT.apiKey": "Ollama",
+    "CodeGPT.apiKey": "Bedrock",
     "CodeGPT.Autocomplete.enabled": false
 }
