@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🖥️ Introuction
+# 🖥️ Introduction
 
 ## Welcome to CodeGPT Documentation
 
@@ -10,7 +10,7 @@ sidebar_position: 1
 
 ---
 
-CodeGPT is a cutting-edge tool that harnesses the power of AI to revolutionize your coding experience. Whether you're a seasoned developer or just starting out, CodeGPT is designed to enhance your productivity, streamline your workflow, and provide valuable insights. 
+CodeGPT is a cutting-edge tool that harnesses the power of AI to revolutionize your coding experience. Whether you're a seasoned developer or just starting out, CodeGPT is designed to enhance your productivity, streamline your workflow, and provide valuable insights.
 
 Available as an extension for both [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt&ssr=false#overview) and [JetBrains IDEs](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents), CodeGPT seamlessly integrates into your development environment, offering a range of features to empower your coding journey.
 
