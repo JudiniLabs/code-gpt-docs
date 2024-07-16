@@ -2,43 +2,28 @@
 sidebar_position: 1
 ---
 
-# About CodeGPT
+# 🖥️ Introuction
 
-### Welcome to our tutorial on utilizing CodeGPT in Visual Studio Code! 
- 
- CodeGPT is a powerful agnostic extension harnessing the capabilities of Large Language Models (LLMs) to boost your programming tasks using AI. 
- 
+## Welcome to CodeGPT Documentation
+
+CodeGPT is a cutting-edge tool that harnesses the power of AI to revolutionize your coding experience. Whether you're a seasoned developer or just starting out, CodeGPT is designed to enhance your productivity, streamline your workflow, and provide valuable insights. 
+
+Available as an extension for both [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt&ssr=false#overview) and [JetBrains IDEs](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents), CodeGPT seamlessly integrates into your development environment, offering a range of features to empower your coding journey.
+
+## 📝 What You'll Learn
+
+- **Understanding CodeGPT:** We'll delve into the core functionalities and benefits of CodeGPT, exploring how it can revolutionize your coding workflow.
+- **Installation and Setup:** A step-by-step guide to seamlessly integrate CodeGPT into your Visual Studio Code environment.
+- **VSCode Extension:** Learn how to install and utilize the CodeGPT VSCode extension, enabling you to leverage AI capabilities directly within your IDE.
+- **JetBrains IDEs:** Discover how to install and utilize CodeGPT in JetBrains IDEs, such as IntelliJ IDEA, PyCharm, and more.
+- **Select your AI Provider:** Choose from top AI providers or use CodeGPT Plus to access premium features.
+- **Create Your First Agent:** Learn how to create your first Agent by adding your own data, such as API documentation, PDFs, YouTube videos, or an entire codebase from a repository.
+- **Essential Features:** Discover the key features of CodeGPT, including code generation, completion, debugging assistance, and more.
+- **Practical Examples:** Learn through real-world scenarios and practical examples, showcasing how CodeGPT can solve common coding challenges.
+- **Advanced Techniques:** Explore advanced usage tips and tricks to maximize your productivity and efficiency with CodeGPT.
+
 :::info
 
- This tool not only allows you to interact with your work environment dynamically but can also create AI Agents that enrich LLMs with context and connect you with repositories, reports, and other critical areas of your business. 
+This tool not only allows you to interact with your work environment dynamically but can also create AI Agents that enrich LLMs with context and connect you with repositories, reports, and other critical areas of your business. 
  
 :::
-
-:::note CodeGPT VSCode Extension
-<p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/90c605d1-eabe-4a68-a237-9a78815b02d7" />
-
-</p>
-:::
-
-### Getting Started with CodeGPT: Your Guide to an AI-Enhanced Coding Experience
- 
- In this tutorial, we'll guide you through downloading and setting up CodeGPT, and show you some typical use cases, so you can seamlessly integrate it into your coding workflow. 
- 
-
-:::note Let's get started and dive right into the AI-enhanced coding experience!
-<p align="center">
-    <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/e40da67a-0da3-49b8-aae5-0f9a87da1977"/>
-</p>
-:::
-
-
-:::caution
-
-While the CodeGPT extension is free, it requires you to use an API from an external provider (see [Providers](/docs/category/ai-providers)). **These external providers are paid services**, although they may offer limited usage for free.
-
-:::
-
---- 
-
-In the next module you will learn how to install and configure the extension. Click on [Basics](/docs/category/basics) to continue.

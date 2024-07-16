@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# CodeGPT API
+# 🌎 CodeGPT Plus API
 Unleash the power of our AI Agents in your own applications with the CodeGPT Plus API. This API provides a gateway to harness the intelligence of CodeGPT Plus AI Agents, enabling you to integrate their capabilities into any application, regardless of the programming language you use.
 
 Whether you're building a chatbot, a virtual assistant, or any application that requires understanding and generating human-like text, the CodeGPT Plus API is your key to unlocking a new level of interactivity.
