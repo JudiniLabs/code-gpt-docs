@@ -38,7 +38,3 @@ Please note that the models you configure on your Amazon Bedrock account will be
 <p align="center">
       <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/81d9fb16-159f-424c-b2d0-c513271cc300"/>
 </p>
-
-:::caution Remove Key
-If you want to remove your connection data from CodeGPT, just select `Desconnect`
-:::
