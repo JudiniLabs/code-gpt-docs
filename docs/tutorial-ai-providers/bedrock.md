@@ -13,7 +13,7 @@ Amazon Bedrock, a fully-managed service, offers top foundation models (FMs) from
 - Create an account in [AWS Bedrock](https://aws.amazon.com/es/console/)
 - Create an AWS user with **AmazonBedrockFullAccess** Permissions policies
 
-<img width="611" alt="Screenshot 2024-07-15 at 20 51 29" src="https://github.com/user-attachments/assets/5a5d46d4-6b5c-4a0c-8a08-84b3838a68f7">
+<img width="300" height="150" src="https://github.com/user-attachments/assets/5a5d46d4-6b5c-4a0c-8a08-84b3838a68f7" />
 
 - Go to **Security Credentials** and create a new **Access keys**
 - Generate and copy the Access Key and Secret Key

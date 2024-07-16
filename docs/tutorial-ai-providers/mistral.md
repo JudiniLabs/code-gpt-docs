@@ -35,8 +35,6 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 
 :::
 
-
-
 ## Mistral available in Code GPT
 - codestral-latest
 - mistral-tiny
