@@ -1,5 +1,5 @@
 {
-    "CodeGPT.apiKey": "Bedrock",
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
     "CodeGPT.Autocomplete.enabled": true,
-    "CodeGPT.Autocomplete.provider": "Mistral - codestral-latest"
+    "CodeGPT.Autocomplete.provider": "CodeGPT Plus - Plus"
 }

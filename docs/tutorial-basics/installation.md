@@ -4,21 +4,22 @@ sidebar_position: 1
 
 # Installation
 
-CodeGPT is accessible on both [VSCode](https://code.visualstudio.com/), [Cursor](https://cursor.sh/) and [Jetbrains](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents/). In this tutorial, we'll guide you through the installation process regardless of your preferred text editor. Let's get started!
+CodeGPT is accessible on both [VSCode](https://code.visualstudio.com/), [Cursor](https://cursor.sh/) and [Jetbrains](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents/). In this tutorial, we'll guide you through the installation process regardless of your preferred text editor.
 
 ## Visual Studio Code
 First download and install Visual Studio Code: [Download](https://code.visualstudio.com/download)
 
-### Install the Code GPT Extension
+### Install the CodeGPT Extension
 You can install the extension from the Visual Studio Marketplace, Open VSX, or directly from the Extensions tab in Visual Studio Code.
 
-:::note Search for Code GPT in the Extensions tab
+### VSCode Markteplace tab
+:::note Search for CodeGPT in the Extensions tab
 <p align="center">
       <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/7c3ad6a3-0f91-4d14-82df-b21fdf6521d0"/>
 </p>
 :::
 
-### VSCode Marketplace
+### VSCode Marketplace direcly
 You can either click on this link to go directly to the CodeGPT's Visual Studio Marketplace page:
 - [Download from Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 
@@ -29,13 +30,25 @@ You can download the extension via Open VSX:
 ## Cursor
 If you prefer to use Cursor, you can download it at this link: [Download](https://cursor.sh/)
 
-:::note Search for Code GPT in Cursor extension bar
+### Cursor Markteplace tab
+:::note Search for CodeGPT in Cursor extension bar
 <p align="center"><img src="https://github.com/davila7/code-gpt-docs/assets/37567214/e0ab03e2-06f8-4e3c-bc25-1cd630583410"/></p>
-
-
 :::
+
+## Jetbrains
+
+If you prefer to use Jetbrains, you can download it at this link: [Download](https://www.jetbrains.com/ides/)
+
+<img src="https://github.com/davila7/code-gpt-docs/assets/37567214/4642b429-034b-45c3-9f2e-9d9849550093"/>
+
+
+:::note Search for CodeGPT in Jetbrains plugin marketplace
+<p align="center"><img src="https://github.com/davila7/code-gpt-docs/assets/37567214/4642b429-034b-45c3-9f2e-9d9849550093"/></p>
+:::
+
+___
 :::caution
-For Linux users, please ensure that port 54112 or 54113 is available.
+Please ensure that port 54112 or 54113 is available.
 :::
 
 Now that you have the extension installed, you need to proceed with the appropriate [configuration](/docs/tutorial-basics/configuration).
