@@ -14,6 +14,6 @@ In your IDE, add the changes to staging and then start writing the commit messag
 
 :::note Commit Autocomplete
 <p align="center">
-      <img width="750" height="750" src="https://github.com/davila7/code-gpt-docs/assets/37567214/96e8535b-7fb6-4ad5-8685-4005fb1267e7" />
+      <img width="750" height="750" src="https://github.com/user-attachments/assets/db13d0c9-bc15-468e-9dea-8c4b1c9f32ed" />
 </p>
 :::
