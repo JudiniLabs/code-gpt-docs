@@ -24,7 +24,7 @@ The Autocomplete feature empowers you to choose from a curated selection of mode
     - **Max Tokens:** The maximum number of tokens to generate. The model will stop once this many tokens have been generated, so this value trades off between latency and coherence.
     -  **Suggestion Delay:** The delay in **milliseconds** between the last character typed and the request for suggestions. By default is 3000.
 
-:::note Autocompletion GPT settings
+:::note Autocomplete settings
 <p align="center">
       <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/b19144c0-5875-4bf7-a07a-372b8ba1ce48" />
 </p>
@@ -32,7 +32,7 @@ The Autocomplete feature empowers you to choose from a curated selection of mode
 
 - Effortless Integration: Seamlessly incorporate the suggested code snippets into your project, improving code quality and efficiency. Press `Tab` to accept the suggestion
 
-:::note Autocompletion GPT
+:::note Autocomplete
 <p align="center">
       <img width="750" height="750" src="https://github.com/davila7/code-gpt-docs/assets/37567214/96e8535b-7fb6-4ad5-8685-4005fb1267e7" />
 
