@@ -39,11 +39,10 @@ If you prefer to use Cursor, you can download it at this link: [Download](https:
 
 If you prefer to use Jetbrains, you can download it at this link: [Download](https://www.jetbrains.com/ides/)
 
-<img src="https://github.com/davila7/code-gpt-docs/assets/37567214/4642b429-034b-45c3-9f2e-9d9849550093"/>
-
+<img src="https://github.com/user-attachments/assets/15dc0a2d-45e6-4f48-8871-28bc45be90e0"/>
 
 :::note Search for CodeGPT in Jetbrains plugin marketplace
-<p align="center"><img src="https://github.com/davila7/code-gpt-docs/assets/37567214/4642b429-034b-45c3-9f2e-9d9849550093"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/347e2216-73f5-4627-ba56-b1aa212f5bb2"/></p>
 :::
 
 ___
