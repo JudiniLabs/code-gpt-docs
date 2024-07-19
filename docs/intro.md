@@ -19,6 +19,7 @@ Available as an extension for both [Visual Studio Code](https://marketplace.visu
 - **Understanding CodeGPT:** We'll delve into the core functionalities and benefits of CodeGPT, exploring how it can revolutionize your coding workflow.
 - **Installation and Setup:** A step-by-step guide to seamlessly integrate CodeGPT into your Visual Studio Code environment.
 - **VSCode Extension:** Learn how to install and utilize the CodeGPT VSCode extension, enabling you to leverage AI capabilities directly within your IDE.
+- **Cursor:** Step by step guide to install and utilize the CodeGPT extension for Cursor, allowing you to interact with AI models.
 - **JetBrains IDEs:** Discover how to install and utilize CodeGPT in JetBrains IDEs, such as IntelliJ IDEA, PyCharm, and more.
 - **Select your AI Provider:** Choose from top AI providers or use CodeGPT Plus to access premium features.
 - **Create Your First Agent:** Learn how to create your first Agent by adding your own data, such as API documentation, PDFs, YouTube videos, or an entire codebase from a repository.
