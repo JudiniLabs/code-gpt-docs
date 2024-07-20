@@ -28,14 +28,14 @@ The Autocomplete feature empowers you to choose from a curated selection of mode
 <p align="center">
       <img width="400" height="550" src="https://github.com/user-attachments/assets/c67f13b0-09b8-413a-8a55-94264e54bb51" />
 </p>
+
 :::
 
 - Effortless Integration: Seamlessly incorporate the suggested code snippets into your project, improving code quality and efficiency. Press `Tab` to accept the suggestion
 
 :::note Autocomplete
 <p align="center">
-      <img width="750" height="750" src="https://github.com/davila7/code-gpt-docs/assets/37567214/96e8535b-7fb6-4ad5-8685-4005fb1267e7" />
-
+      <img width="750" height="550" src="https://github.com/user-attachments/assets/f91bce5a-9495-4e0d-a366-5998e804d3cb" />
 </p>
 
 :::
