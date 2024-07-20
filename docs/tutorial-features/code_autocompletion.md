@@ -26,7 +26,7 @@ The Autocomplete feature empowers you to choose from a curated selection of mode
 
 :::note Autocomplete settings
 <p align="center">
-      <img width="350" height="550" src="https://github.com/user-attachments/assets/c67f13b0-09b8-413a-8a55-94264e54bb51" />
+      <img width="400" height="550" src="https://github.com/user-attachments/assets/c67f13b0-09b8-413a-8a55-94264e54bb51" />
 </p>
 :::
 
