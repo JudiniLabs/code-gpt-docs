@@ -29,11 +29,11 @@ Once the chat tab is open, you can start a conversation by typing a message and 
 :::
 
 ### Using Code Selection:
-To share code snippets, simply select the desired code in your editor.
+To share code snippets, simply select the desired code in your editor then select `Import selection` from the chat tab. The selected code will be automatically inserted into the chat interface, allowing CodeGPT  to provide more accurate and context-specific responses.
 
 :::note Code Selection
 <p align="center">
-      <img width="750" height="750"  src="https://github.com/davila7/code-gpt-docs/assets/37567214/d213a82a-5b2b-40bc-8d60-dc520b955213" />
+    <img width="750" height="550"  src="https://github.com/user-attachments/assets/f1c77cfb-8225-4064-809b-62d0e7761d01" />
 </p>
 :::
 
@@ -45,12 +45,10 @@ You can use the shortcuts to make the most of the CodeGPT Chat feature. Here are
 - `/Refactor`: Refactor the code selected
 - `/Document`: Generate documentation for the code selected
 - `/Unit Test`: Test the code selected
-- `/StackOverflow`: Search for the code selected on StackOverflow
+<!-- - `/StackOverflow`: Search for the code selected on StackOverflow -->
 
 :::note Shortcuts
-<p align="center">
-    <img width="750" height="550"  src="https://github.com/user-attachments/assets/f1c77cfb-8225-4064-809b-62d0e7761d01" />
-</p>
+
 :::
 
 Make the most of CodeGPT Chat and experience a new level of productivity in your coding endeavors.
