@@ -49,7 +49,7 @@ You can use the shortcuts to make the most of the CodeGPT Chat feature. Here are
 
 :::note Shortcuts
 <p align="center">
-    <img width="300" height="250"  src="" />
+    <img width="300" height="250"  src="https://github.com/user-attachments/assets/f1c77cfb-8225-4064-809b-62d0e7761d01" />
 </p>
 :::
 
