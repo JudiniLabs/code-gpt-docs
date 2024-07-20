@@ -37,16 +37,20 @@ To share code snippets, simply select the desired code in your editor.
 </p>
 :::
 
-Pose questions or request assistance by typing your inquiry in the chat. CodeGPT will respond with helpful suggestions and explanations. Also can use the FAQ buttons below the chat, write and press the buttons.
+### Shortcuts
+You can use the shortcuts to make the most of the CodeGPT Chat feature. Here are some of the most useful shortcuts:
 
-:::note FAQ buttons
+- `/Fix`: Fix the code selected
+- `/Explain`: Explain the code selected
+- `/Refactor`: Refactor the code selected
+- `/Document`: Generate documentation for the code selected
+- `/Unit Test`: Test the code selected
+- `/StackOverflow`: Search for the code selected on StackOverflow
+
+:::note Shortcuts
 <p align="center">
-    <img width="300" height="250"  src="https://github.com/davila7/code-gpt-docs/assets/37567214/d57636fe-cde8-4122-a124-1aa89abc7196" />
+    <img width="300" height="250"  src="" />
 </p>
 :::
-
-The **CodeGPT Chat** feature revolutionizes collaboration and problem-solving. Its integration directly within your text editor streamlines the development process. 
-
-By enabling code selection, you can easily share snippets and receive tailored assistance. This adaptable tool harmonizes with your chosen theme, enhancing visual coherence. 
 
 Make the most of CodeGPT Chat and experience a new level of productivity in your coding endeavors.
