@@ -48,8 +48,9 @@ You can use the shortcuts to make the most of the CodeGPT Chat feature. Here are
 <!-- - `/StackOverflow`: Search for the code selected on StackOverflow -->
 
 :::note Shortcuts
+
 <p align="center">
-      <img width="750" height="550" src="https://github.com/user-attachments/assets/eaf74c24-ab64-4d41-9211-6682f54f0a4b">
+    <img width="750" height="550"  src="https://github.com/user-attachments/assets/eaf74c24-ab64-4d41-9211-6682f54f0a4b" />
 </p>
 :::
 
