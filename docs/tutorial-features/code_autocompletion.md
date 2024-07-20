@@ -26,7 +26,7 @@ The Autocomplete feature empowers you to choose from a curated selection of mode
 
 :::note Autocomplete settings
 <p align="center">
-      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/b19144c0-5875-4bf7-a07a-372b8ba1ce48" />
+      <img width="150" height="350" src="https://github.com/user-attachments/assets/c67f13b0-09b8-413a-8a55-94264e54bb51" />
 </p>
 :::
 
