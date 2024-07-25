@@ -81,7 +81,7 @@ The CodeGPT extension requires cache clearance after reinstallation or an update
 - Issue:
 Based on your subscription plan, there is a limit to the number of agents you can install from the Marketplace. Therefore, you may encounter an error message stating, "You have reached the limit of agents."
 
--Solution:
+- Solution:
 Please remove all excess agents, retaining only the quantity permitted under your current subscription plan.
 
 
