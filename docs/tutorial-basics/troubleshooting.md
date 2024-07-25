@@ -41,7 +41,7 @@ kill -9 <PID>
 Replace `<PID>` with the actual Process ID using the port.
 
 
-### 2. Using devcontainer
+### Using devcontainer
 
 - Issue:
 When using a devcontainer, port 54112 must be opened in the docker-compose configuration.
@@ -56,7 +56,7 @@ services:
       - "54112:54112"
 ```
 
-### 3. VSCode Tunnel Incompatibility
+### VSCode Tunnel Incompatibility
 
 - Issue:
 The CodeGPT extension is incompatible with VSCode Tunnel as it cannot run localhost under this setup.
