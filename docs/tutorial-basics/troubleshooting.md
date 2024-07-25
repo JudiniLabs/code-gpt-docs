@@ -64,7 +64,7 @@ The CodeGPT extension is incompatible with VSCode Tunnel as it cannot run localh
 - Solution:
 Unfortunately, there is no workaround for using the CodeGPT extension with VSCode Tunnel at this time. Ensure you are running VSCode in a local environment where localhost can be utilized.
 
-## Black screen after re-installing or updating CodeGPT Extension
+## Experiencing a black screen after reinstalling or updating the CodeGPT Extension
 - Issue:
 The CodeGPT extension requires cache clearance after reinstallation or an update.
 
