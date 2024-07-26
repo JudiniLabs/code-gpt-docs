@@ -56,26 +56,31 @@ Look here when you need help.
 
 :::
 
-1. Set the connection `🔑`, status must change on the window. For more details, please check the page or every provider above.
+1. 🔑 Set the connection `Connect`. Status must change on the window. For more details, please check the page or every provider above.
 
    <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/f7f9bbdf-4370-4413-9c90-2c09fd11cd4d" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/0f562594-1023-44ce-beed-f2d5d9321fff" />
     </td>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/1bd230b7-f9a3-4822-8f67-4bb98d3940c3" />
+      <img width="300" height="150" src="" />
     </td>
   </tr>
 </table>
 
 ## Chat Settings 
 
-- Explore this menu to adjust provider attributes, set token limits, refine temperature control, and manage window memory.
+- Explore this menu to adjust provider attributes, refine temperature control or conversation Style, and manage window memory.
+
+:::note Explore chat settings
+<p align="center"><img src="https://github.com/user-attachments/assets/403d9e50-9f8b-4836-9705-a083cc736646"/></p>
+
+:::
 
 ### Max Token
 
-- Consider tokens as fragments of words. The API first disintegrate the input into tokens before executing any operation.
+- Consider tokens as fragments of words. The API first disintegrates the input into tokens before executing any operation.
 - Each model follows a token limit that you can modify according to the anticipated response length and the model you operate on.
 - To understand more about tokens, refer to [Tokens by OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them).
 
