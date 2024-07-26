@@ -20,7 +20,7 @@ Explore the significant facets of the CodeGPT software stack.
 
 These optional configurations enhance your user experience.
 
-1. `Autocomplete`: This feature provides code completion suggestions based on the developer's input. It covers multiple aspects, including variables, functions, methods, classes, and context-specific keywords. [Check out this guide](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion) for further explanation. Remember to choose a provider first. If your choice is CodeGPT Enterprise, refer to [this link](https://docs.codegpt.co/docs/tutorial-ai-providers/code_enterprise).
+1. `Autocomplete`: This feature provides code completion suggestions based on the developer's input. It covers multiple aspects, including variables, functions, methods, classes, and context-specific keywords. [Check out this guide](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion) for further explanation. Remember to choose a provider first. If you choose CodeGPT Enterprise, refer to [this link](https://docs.codegpt.co/docs/tutorial-ai-providers/code_enterprise).
 2. `Theme`: Alter the visual interface of the application by switching between the dark and light themes.
 
 ### Help
@@ -74,7 +74,7 @@ Look here when you need help.
 - Explore this menu to adjust provider attributes, refine temperature control or conversation Style, and manage window memory.
 
 :::note Explore chat settings
-<p align="center"><img width="550" height="450" src="(https://github.com/user-attachments/assets/d5971d49-a13a-472b-a0a2-601359154bf3"/></p>
+<p align="center"><img width="550" height="450" src="https://github.com/user-attachments/assets/d5971d49-a13a-472b-a0a2-601359154bf3"/></p>
 
 :::
 
@@ -99,4 +99,4 @@ This tool stores the historical log of your past conversations. However, it only
 - Minimum: 1
 - Maximum: 50
 
-To visualize any changes made to these settings, click the `tray-arrow-down` button in your browser.
+To visualize any changes to these settings, click your browser's `tray-arrow-down` button.
