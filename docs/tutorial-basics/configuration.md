@@ -74,7 +74,7 @@ Look here when you need help.
 - Explore this menu to adjust provider attributes, refine temperature control or conversation Style, and manage window memory.
 
 :::note Explore chat settings
-<p align="center"><img width="550" height="450" src="https://github.com/user-attachments/assets/d5971d49-a13a-472b-a0a2-601359154bf3"/></p>
+<p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/d5971d49-a13a-472b-a0a2-601359154bf3"/></p>
 
 :::
 
