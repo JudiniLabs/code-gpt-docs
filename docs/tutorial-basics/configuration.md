@@ -90,6 +90,6 @@ This tool stores the historical log of your past conversations. However, it only
 
 - Default: 4
 - Minimum: 1
-- Maximum: 50
+- Maximum: 10
 
 To visualize any changes to these settings, click your browser's `tray-arrow-down` button.
