@@ -78,14 +78,7 @@ Look here when you need help.
 
 :::
 
-
-### Max Token
-
-- Consider tokens as fragments of words. The API first disintegrates the input into tokens before executing any operation.
-- Each model follows a token limit that you can modify according to the anticipated response length and the model you operate on.
-- To understand more about tokens, refer to [Tokens by OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them).
-
-### Temperature
+### Conversation style
 
 Representative of the randomness or "creativity" in the text generation, it ranges between 0 and 1. A higher value generates more diverse output, while a lower value sticks closely to the training data. The default value is set at 0.3, with 0 being the most deterministic and 1 being the most random.
 
