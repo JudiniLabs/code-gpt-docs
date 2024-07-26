@@ -61,10 +61,10 @@ Look here when you need help.
    <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/0f562594-1023-44ce-beed-f2d5d9321fff" />
+      <img width="250" height="150" src="https://github.com/user-attachments/assets/0f562594-1023-44ce-beed-f2d5d9321fff" />
     </td>
     <td align="center">
-      <img width="300" height="150" src="" />
+      <img width="250" height="150" src="https://github.com/user-attachments/assets/a4230449-9148-44cb-b784-ed2835b519da" />
     </td>
   </tr>
 </table>
@@ -74,7 +74,7 @@ Look here when you need help.
 - Explore this menu to adjust provider attributes, refine temperature control or conversation Style, and manage window memory.
 
 :::note Explore chat settings
-<p align="center"><img src="https://github.com/user-attachments/assets/403d9e50-9f8b-4836-9705-a083cc736646"/></p>
+<p align="center"><img width="550" height="350" src="https://github.com/user-attachments/assets/403d9e50-9f8b-4836-9705-a083cc736646"/></p>
 
 :::
 
