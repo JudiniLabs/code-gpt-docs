@@ -41,7 +41,7 @@ kill -9 <PID>
 Replace `<PID>` with the actual Process ID using the port.
 
 
-### 2. Using devcontainer
+### Using devcontainer
 
 - Issue:
 When using a devcontainer, port 54112 must be opened in the docker-compose configuration.
@@ -56,10 +56,32 @@ services:
       - "54112:54112"
 ```
 
-### 3. VSCode Tunnel Incompatibility
+### VSCode Tunnel Incompatibility
 
 - Issue:
-The CodeGPT extension is not compatible with VSCode Tunnel as it cannot run localhost under this setup.
+The CodeGPT extension is incompatible with VSCode Tunnel as it cannot run localhost under this setup.
 
 - Solution:
 Unfortunately, there is no workaround for using the CodeGPT extension with VSCode Tunnel at this time. Ensure you are running VSCode in a local environment where localhost can be utilized.
+
+## Experiencing a black screen after reinstalling or updating the CodeGPT Extension
+- Issue:
+The CodeGPT extension requires cache clearance after reinstallation or an update.
+
+-Solution:
+```
+- Delete cache memory
+- Press Ctrl + Shift + P
+- Type command "Clear Editor History"
+- Press Enter
+- Shut VSCode and install CodeGPT again
+```
+
+## Can't use the Marketplace agents
+- Issue:
+Based on your subscription plan, there is a limit to the number of agents you can install from the Marketplace. Therefore, you may encounter an error message stating, "You have reached the limit of agents."
+
+- Solution:
+Please remove all excess agents, retaining only the quantity permitted under your current subscription plan.
+
+

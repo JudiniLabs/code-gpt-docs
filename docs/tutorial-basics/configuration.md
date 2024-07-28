@@ -20,7 +20,7 @@ Explore the significant facets of the CodeGPT software stack.
 
 These optional configurations enhance your user experience.
 
-1. `Autocomplete`: This feature provides code completion suggestions based on the developer's input. It covers multiple aspects, including variables, functions, methods, classes, and context-specific keywords. [Check out this guide](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion) for further explanation. Remember to choose a provider first. If your choice is CodeGPT Enterprise, refer to [this link](https://docs.codegpt.co/docs/tutorial-ai-providers/code_enterprise).
+1. `Autocomplete`: This feature provides code completion suggestions based on the developer's input. It covers multiple aspects, including variables, functions, methods, classes, and context-specific keywords. [Check out this guide](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion) for further explanation. Remember to choose a provider first. If you choose CodeGPT Enterprise, refer to [this link](https://docs.codegpt.co/docs/tutorial-ai-providers/code_enterprise).
 2. `Theme`: Alter the visual interface of the application by switching between the dark and light themes.
 
 ### Help
@@ -56,30 +56,29 @@ Look here when you need help.
 
 :::
 
-1. Set the connection `🔑`, status must change on the window. For more details, please check the page or every provider above.
+1. 🔑 Set the connection `Connect`. Status must change on the window. For more details, please check the page or every provider above.
 
    <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/f7f9bbdf-4370-4413-9c90-2c09fd11cd4d" />
+      <img width="250" height="150" src="https://github.com/user-attachments/assets/0f562594-1023-44ce-beed-f2d5d9321fff" />
     </td>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/1bd230b7-f9a3-4822-8f67-4bb98d3940c3" />
+      <img width="250" height="150" src="https://github.com/user-attachments/assets/a4230449-9148-44cb-b784-ed2835b519da" />
     </td>
   </tr>
 </table>
 
 ## Chat Settings 
 
-- Explore this menu to adjust provider attributes, set token limits, refine temperature control, and manage window memory.
+- Explore this menu to adjust provider attributes, refine temperature control or conversation Style, and manage window memory.
 
-### Max Token
+:::note Explore chat settings
+<p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/d5971d49-a13a-472b-a0a2-601359154bf3"/></p>
 
-- Consider tokens as fragments of words. The API first disintegrate the input into tokens before executing any operation.
-- Each model follows a token limit that you can modify according to the anticipated response length and the model you operate on.
-- To understand more about tokens, refer to [Tokens by OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them).
+:::
 
-### Temperature
+### Conversation style
 
 Representative of the randomness or "creativity" in the text generation, it ranges between 0 and 1. A higher value generates more diverse output, while a lower value sticks closely to the training data. The default value is set at 0.3, with 0 being the most deterministic and 1 being the most random.
 
@@ -91,6 +90,6 @@ This tool stores the historical log of your past conversations. However, it only
 
 - Default: 4
 - Minimum: 1
-- Maximum: 50
+- Maximum: 10
 
-To visualize any changes made to these settings, click the `tray-arrow-down` button in your browser.
+To visualize any changes to these settings, click your browser's `tray-arrow-down` button.
