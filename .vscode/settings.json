@@ -1,5 +1,5 @@
 {
-    "CodeGPT.apiKey": "Bedrock",
+    "CodeGPT.apiKey": "Nvidia",
     "CodeGPT.Autocomplete.enabled": true,
     "CodeGPT.Autocomplete.provider": "CodeGPT Plus - Plus",
     "CodeGPT.Autocomplete.suggestionDelay": 700

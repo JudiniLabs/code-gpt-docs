@@ -6,28 +6,35 @@ sidebar_position: 2
 
 The subsequent sections describe the various utilities and configurations of the CodeGPT application.
 
-## CodeGPT Stack
+## Main Menu
 
-Explore the significant facets of the CodeGPT software stack.
+The main menu is your primary navigation hub within the CodeGPT application. It provides access to essential features and settings.
 
 ### Tools
 
-1. `Chat`: Engage in AI conversations using the models of your chosen provider or with agents on CodeGPT Plus.
-2. `AI Agents Marketplace`: Peruse viable agents in the Marketplace and interact with them. Ensure you choose `CodeGPT Plus` as your provider and establish the mandatory connection. You also have the option to explore directly from the Home `⌂` button.
-3. `React Sandbox`: Experiment with React components through interaction or image upload. Visit [React Sandbox](http://localhost:54112/vision) for a hands-on experience.
+- `Chat`: Engage in AI conversations using the models of your chosen provider or with agents on CodeGPT Plus.
+- `AI Agents Marketplace`: Peruse viable agents in the Marketplace and interact with them. Ensure you choose `CodeGPT Plus` as your provider and establish the mandatory connection. You also have the option to explore directly from the Home `⌂` button.
+
+### Experimental 
+
+This section showcases experimental features 🧪.
+
+- `React Sandbox`: Experiment with React components through interaction or image upload.
+
+
+### Help
+Look here when you need help.
+
+- `Help`: If you require additional assistance, this section offers guidance on the various tools. Alternatively, consult the `Extension Docs` and `API Docs`.
+- `Report an issue`: Any issues you encounter can be reported in the [Github repository](https://github.com/JudiniLabs/code-gpt-docs/issues).
+- `Feedback`: Send 💌 feedback to the team to help us improve the product. 
 
 ### Settings
 
 These optional configurations enhance your user experience.
 
-1. `Autocomplete`: This feature provides code completion suggestions based on the developer's input. It covers multiple aspects, including variables, functions, methods, classes, and context-specific keywords. [Check out this guide](https://docs.codegpt.co/docs/tutorial-features/code_autocompletion) for further explanation. Remember to choose a provider first. If you choose CodeGPT Enterprise, refer to [this link](https://docs.codegpt.co/docs/tutorial-ai-providers/code_enterprise).
-2. `Theme`: Alter the visual interface of the application by switching between the dark and light themes.
-
-### Help
-Look here when you need help.
-
-- `Help`: If you require additional assistance, this section offers guidance on the various tools. Alternatively, consult the `Docs` and `API Docs`.
-- `Issue Reporting`: Any issues you encounter can be reported in the [Github repository](https://github.com/JudiniLabs/code-gpt-docs/issues).
+- `Font Size`: Adjust the font size to your preference.
+- `Color Mode`: Alter the visual interface of the application by switching between the dark and light themes.
 
 ## Select model provider
 
@@ -58,16 +65,16 @@ Look here when you need help.
 
 1. 🔑 Set the connection `Connect`. Status must change on the window. For more details, please check the page or every provider above.
 
-   <table>
-  <tr>
-    <td align="center">
-      <img width="250" height="150" src="https://github.com/user-attachments/assets/0f562594-1023-44ce-beed-f2d5d9321fff" />
-    </td>
-    <td align="center">
-      <img width="250" height="150" src="https://github.com/user-attachments/assets/a4230449-9148-44cb-b784-ed2835b519da" />
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center">
+        <img width="250" height="150" src="https://github.com/user-attachments/assets/0f562594-1023-44ce-beed-f2d5d9321fff" />
+      </td>
+      <td align="center">
+        <img width="250" height="150" src="https://github.com/user-attachments/assets/a4230449-9148-44cb-b784-ed2835b519da" />
+      </td>
+    </tr>
+  </table>
 
 ## Chat Settings 
 
@@ -86,7 +93,7 @@ For more information about temperature settings, visit [Temperature by Cohere](h
 
 ### Window Memory
 
-This tool stores the historical log of your past conversations. However, it only accounts for the last 'K' conversations, ensuring the buffer doesn't exceed the token limit.
+This tool stores the historical log of your past conversations. By default, it is set to 4. You can adjust this value to your preference.
 
 - Default: 4
 - Minimum: 1
