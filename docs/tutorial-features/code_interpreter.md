@@ -4,8 +4,6 @@ sidebar_position: 9
 
 # Code Interpreter
 
-## Description
-
 The ***Code Interpreter with Python*** allows you to execute Python code within the code blocks provided by agents in the CodeGPT  chat
 
 ## How to Use:
