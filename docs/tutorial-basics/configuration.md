@@ -98,5 +98,3 @@ This tool stores the historical log of your past conversations. By default, it i
 - Default: 4
 - Minimum: 1
 - Maximum: 10
-
-To visualize any changes to these settings, click your browser's `tray-arrow-down` button.
