@@ -4,7 +4,6 @@ sidebar_position: 5
 
 
 # Vision
-## Description
 
 The Vision button is a powerful tool that allows you to analyze images and extract meaningful information. 
 

@@ -4,7 +4,6 @@ sidebar_position: 3
 
 # Expliquer CodeGPT
 
-## Description
 La fonctionnalité Expliquer CodeGPT vous permet d'obtenir une compréhension plus profonde de votre base de code. En sélectionnant des segments de code spécifiques, vous pouvez demander à CodeGPT de fournir des explications et des éclaircissements détaillés.
 
 ## Comment Utiliser :

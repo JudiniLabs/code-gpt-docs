@@ -4,8 +4,6 @@ sidebar_position: 8
 
 # Interpréteur de Code (Python)
 
-## Description
-
 La fonction ***Interpréteur de Code avec Python*** vous permet de demander et de recevoir des suggestions de code de manière transparente dans les commentaires. Cet outil puissant améliore votre expérience de codage en fournissant des extraits de code rapides et pertinents.
 
 Avec l'intégration de Jupyter Notebook, vous pouvez maintenant exécuter des extraits de code directement dans votre environnement.

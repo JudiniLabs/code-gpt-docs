@@ -4,7 +4,6 @@ sidebar_position: 7
 
 # Find Problems CodeGPT
 
-## Description
 The ***Find Problems CodeGPT*** feature empowers you to proactively identify and resolve issues in your codebase. By selecting specific code segments, you can prompt CodeGPT to perform a thorough analysis for bugs or potential problems.
 
 ## How to Use:

@@ -4,8 +4,6 @@ sidebar_position: 3
 
 # Commit Autocomplete
 
-## Description
-
 This feature automatically completes the changes you've made in your repository whenever you write a commit message. CodeGPT uses the selected model in the Autocomplete settings and retrieves all the files in staging before pushing.
 
 ## How to Use:

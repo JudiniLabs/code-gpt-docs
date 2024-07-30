@@ -4,7 +4,6 @@ sidebar_position: 5
 
 # Refactor CodeGPT
 
-## Description
 The Refactor CodeGPT feature empowers you to optimize your codebase effortlessly. By selecting specific code segments, you can request CodeGPT to perform intelligent refactoring operations, enhancing code readability and efficiency.
 
 ## How to Use:

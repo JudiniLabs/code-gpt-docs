@@ -27,7 +27,7 @@ These optional configurations enhance your user experience.
 Look here when you need help.
 
 - `Help`: If you require additional assistance, this section offers guidance on the various tools. Alternatively, consult the `Docs` and `API Docs`.
-- `Issue Reporting`: Any issues you encounter can be reported in the [Github repository](https://github.com/davila7/code-gpt-docs/issues/240).
+- `Issue Reporting`: Any issues you encounter can be reported in the [Github repository](https://github.com/JudiniLabs/code-gpt-docs/issues).
 
 ## Select model provider
 
@@ -40,7 +40,7 @@ Look here when you need help.
 - [Microsoft Azure](/docs/tutorial-ai-providers/microsoft-azure)
 - [Anthropic](/docs/tutorial-ai-providers/anthropic)
 - [Cohere](/docs/tutorial-ai-providers/cohere)
-- [Vertex](/docs/tutorial-ai-providers/google_vertex)
+- [Google Vertex AI](/docs/tutorial-ai-providers/google_vertex)
 - [Google AI Studio](/docs/tutorial-ai-providers/google_studio)
 - [Ollama](/docs/tutorial-ai-providers/ollama)
 - [Fireworks](/docs/tutorial-ai-providers/fireworks)
@@ -51,7 +51,7 @@ Look here when you need help.
 - [Perplexity](/docs/tutorial-ai-providers/perplexity)
 - [LM Studio](/docs/tutorial-ai-providers/lmstudio)
 - [Groq](/docs/tutorial-ai-providers/groq)
-- [NVidia](/docs/tutorial-ai-providers/nvidia)
+- [NVIDIA](/docs/tutorial-ai-providers/nvidia)
 - [Custom](/docs/tutorial-ai-providers/custom)
 
 :::

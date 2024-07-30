@@ -4,7 +4,6 @@ sidebar_position: 8
 
 # Unit Test
 
-## Description
 The Unit Test CodeGPT feature empowers you to quickly generate unit tests for your code. By selecting specific code segments, you can prompt CodeGPT to create a corresponding unit test, enhancing code reliability and quality.
 
 ## How to Use:
