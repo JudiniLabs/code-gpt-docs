@@ -13,7 +13,7 @@ First download and install Visual Studio Code: [Download](https://code.visualstu
 You could go to the Extensions tab in VSCode and search for CodeGPT.
 :::note Search for CodeGPT in the Extensions tab
 <p align="center">
-      <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/7c3ad6a3-0f91-4d14-82df-b21fdf6521d0"/>
+      <img src="https://github.com/user-attachments/assets/5b901f8b-4946-402c-9ae4-56cec3068755"/>
 </p>
 :::
 
