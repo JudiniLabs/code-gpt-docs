@@ -40,24 +40,48 @@ No need to disconnect, just change the provider.
   
 ## Ollama Models available in Code GPT
 - llama3:70b
+- llama3.1:405b
+- llama3.1:70b
 - llama3:8b
-- command-r-plus
-- command-r
-- codegemma
+- codestral:latest
+- mathstral:latest
+- mistral:v0.3 
+- command-r-plus:latest
+- command-r:latest
+- codeqwen
+- qwen2:72b
+- qwen2:7b
+- qwen2:1.5b
+- qwen2:0.5b
+- aya:8b
+- aya:35b
+- codegemma:latest
+- gemma2:2b
+- gemma2:9b
+- gemma2:27b
 - gemma:7b
 - gemma:2b
-- dbrx
-- mistral
-- mixtral
+- granite-code:3b
+- granite-code:8b
+- granite-code:20b
+- granite-code:34b
+- dbrx:latest
+- mistral:latest
+- mixtral:latest
 - llama2
-- codellama
-- phi
-- deepseek-coder
-- starcoder2
-- dolphincoder
-- dolphin-mixtral
-- starling-lm
-- llama2-uncensored
+- codellama:latest
+- phi3:mini
+- phi3:medium
+- phi3:latest
+- deepseek-coder-v2
+- deepseek-coder:latest
+- starcoder2:latest
+- dolphincoder:latest
+- dolphin-mixtral:latest
+- starling-lm:latest
+- dolphin-mixtral:latest
+- starling-lm:latest
+- llama2-uncensored:latest
 
 
 
