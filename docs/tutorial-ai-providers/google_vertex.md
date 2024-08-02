@@ -21,39 +21,46 @@ Obtaining your credentials on Google Cloud can be tricky. As of March 28, 2024, 
 - For the Custom Link, customize it as needed, ensuring to change the LOCATION, PROJECT_ID, and MODEL.
 `https://LOCATION-aiplatform.googleapis.com/v1/projects/PROJECT_ID/locations/LOCATION/publishers/google/models/MODEL:streamGenerateContent`
 - Choose `Vertex` as `Provider`.
--  `Set connection` and link with your account on `🔑` button.
+- Click on `Connect` or `Set connection`
 - Paste the link model and Upload the credential.json file.
+- Click on `Connect`
 
 
 <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e3e6cfa8-a49b-4db3-a6e1-7d68adb68134" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/fbfca711-3941-4d84-bde3-969457a36978" />
     </td>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/36802b85-4817-4132-8c54-09db20bdbe57" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/b0e04c27-4332-40d0-94b8-80dbecdcbeab" />
     </td>
   </tr>
 </table>
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
 
 <p align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/de15847c-60d3-4f71-9bfb-d2e2c8cacbaa" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/e29e919c-0e36-436d-a8bd-acb01c266c3a" />
 </p>
 
 :::
  
 
-## Google Models available in CodeGPT
+## Vextex Models available in CodeGPT
 
 ### Gemini
-- gemini-nano
+- Llama3-8b-Hf
+- llama3-8b-chat-hf
+- llama3-70b-hf
+- llama3-70b-chat-hf
 - gemini-pro
 - gemini-1.0-pro
 - gemini-1.5-pro-latest
+- gemini-1.5-pro-preview-0514
+- gemini-1.5-flash-preview-0514
 - gemini-ultra
+- gemini-nano
 
 ## API Errors
 If you are getting API errors check the following link: [Vertex AI Documentation](https://cloud.google.com/vertex-ai/docs)
