@@ -18,19 +18,28 @@ Amazon Bedrock, a fully-managed service, offers top foundation models (FMs) from
 - Go to **Security Credentials** and create a new **Access keys**
 - Generate and copy the Access Key and Secret Key
 - Choose `Bedrock` as `Provider`
-- Click on `Set connection` to link with your account.
-- Paste the `region`, `Access Key` and `Secret Access Key`
+- Click on `Connect` or `Set connection` to link with your account.
+- Paste the `region`, `Access Key` and `Secret Access Key`, and click on `Connect`.
 
   <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a5ccdf9f-1bbd-4b52-b94d-f042a57bf1a2" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/18c6ad44-0b08-4e82-9b6a-e59ff5079421" />
     </td>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/0dd2c017-0203-4261-b60b-a8cf2a983c33" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/b4c83952-9fa2-4492-9ce6-d4341cea14aa" />
     </td>
   </tr>
 </table>
+
+:::caution Remove Key
+If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
+
+<p align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/5b853a55-653e-4da6-ae6b-c90e6fbde98f" />
+</p>
+
+:::
 
 ## Models available in CodeGPT
 Please note that the models you configure on your Amazon Bedrock account will be synchronized with the models on the extension
