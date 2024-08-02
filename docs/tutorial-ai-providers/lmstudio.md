@@ -22,12 +22,15 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 - Choose LM Studio as `Provider`.
  
    <p align="center">
-  <img width="250" height="70" src="https://github.com/davila7/code-gpt-docs/assets/37567214/8bfeb19f-e4ce-4a79-b56d-37a7e8b9f5ac" />
+  <img width="350" height="170" src="https://github.com/davila7/code-gpt-docs/assets/37567214/8bfeb19f-e4ce-4a79-b56d-37a7e8b9f5ac" />
 </p>
 
 :::caution Remove Key 
 No need to disconnect, just change the provider. If the agent doesn't respond and a "Gain error" appears, please close VSCode. Then, ensure that LM Studio is running with the model before reopening it.
 :::
+
+   
+
 
    
 
