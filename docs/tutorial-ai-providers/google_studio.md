@@ -13,33 +13,40 @@ Google AI Studio serves as a browser-based IDE tailored for prototyping with gen
 - Create a new project to attach the API Key
 - Generate and copy the [API Key](https://aistudio.google.com/app/apikey)
 - Go to VSCode and choose `Googe AI Studio` as `Provider`
-- `Set connection` on `🔑` button.
+- Click on `Connect` or `Set connection`
 - Paste API Key here, and click on `Connect`: 
 <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/21c3bf13-d480-4f5c-bcda-f48250f55a21" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/1a917a98-5c10-4b07-9e06-1daeaee2fc2f" />
     </td>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/5f0df04d-fd00-4b5a-8cd5-54bfdd734e3b" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/d5ca6a20-7bb0-439d-98db-857796ed0869" />
     </td>
   </tr>
 </table>
 
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
 
 <p align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/3cce96d9-17df-420a-bcad-6e7171d6d6dd" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/ddcfc0b4-2564-4e04-90b3-73cad9642011" />
 </p>
 
 :::
 
 ### Models available in Code GPT
-- gemini-pro
-- gemini-1.0-pro
+- Gemma-2-2b-it
+- Gemma-2-9b-it
+- Gemma-2-27b-it
+- gemini-1.5-flash-latest
+- gemini-1.5-flash
+- gemini-1.5-pro-exp-0801
 - gemini-1.5-pro-latest
+- gemini-1.5-pro
+- gemini-1.0-pro
+- gemini-1.0-pro-latest
+- gemini-pro
 - gemini-ultra
 - gemini-nano
-- chat-bison-001
