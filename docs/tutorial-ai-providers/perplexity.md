@@ -29,7 +29,7 @@ Official website [https://www.perplexity.ai](https://www.perplexity.ai)
 If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
 
 <p align="center">
-      <img width="300" height="150" src="hhttps://github.com/user-attachments/assets/14f39809-2536-4f5f-ace0-22e6f908e97e" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/14f39809-2536-4f5f-ace0-22e6f908e97e" />
 </p>
 
 :::
