@@ -23,35 +23,31 @@ In this section, you can obtain the API key and the custom link. To display the 
 
 
 - Go to VSCode and choose `Azure` as `Provider`.
-- `Set connection` on `🔑` button.
+- Click on `Connect` or `Set connection`.
 - Paste API Key here, and click on `Connect`:
  
 <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e10dc9fb-78d8-41bc-a8d1-901a596db974" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/a1062d6a-e588-46f8-853a-d0d76115821b" />
     </td>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/2abd9605-9f98-49e8-bcad-19ee425d0dcc"/>  
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/20e08978-313a-4ba4-99d9-54d3a19ccc28"/>  
        </td>
   </tr>
 </table>
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
 
 <p align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/b07e86e4-cbdd-46be-b8f5-7c19344610d1" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/3f4b05d4-f994-48b9-b43f-fa17bba97fe2" />
 </p>
 
 :::
 
 ## Azure OpenAI Models available in Code GPT
-- gpt-4o
-- gpt-4
-- gpt-4-32k
-- gpt-35-turbo
-- gpt-35-turbo-16k
+- Azure
 
 ## API Errors
 If you are getting API errors check the following link: [Microsoft Azure Documentation](https://azure.microsoft.com/en-us/products/ai-services/openai-service/)

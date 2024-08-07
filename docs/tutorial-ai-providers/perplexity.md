@@ -11,23 +11,25 @@ Official website [https://www.perplexity.ai](https://www.perplexity.ai)
 - Get your [API Key](https://www.perplexity.ai/settings/api)
 - Launch CodeGPT extension on VSCode.
 - Choose Perplexity as `Provider`.
+- Click on `Connect` or `Set connection`
+- Paste API Key here, and click on `Connect`:
   
 <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/845c1e0a-9854-4909-bc74-7e43f86c4051" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/43e59d58-2752-4dbc-8055-663ab7a1b19f" />
     </td>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/a00c59af-9ae3-4529-ae48-cae652f67a1f" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/d61172aa-2176-407c-9b35-89e0ac518b88" />
     </td>
   </tr>
 </table>
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
 
 <p align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/1b00662f-aa1a-42b6-98ee-a4030bcfde47" />
+      <img width="300" height="150" src="hhttps://github.com/user-attachments/assets/14f39809-2536-4f5f-ace0-22e6f908e97e" />
 </p>
 
 :::
