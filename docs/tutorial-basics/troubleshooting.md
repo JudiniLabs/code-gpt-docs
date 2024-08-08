@@ -44,7 +44,7 @@ Replace `<PID>` with the actual Process ID using the port.
 ### Using devcontainer
 
 - Issue:
-When using a devcontainer, port 54112 must be opened in the docker-compose configuration.
+When using a devcontainer, port **54112** must be opened in the docker-compose configuration.
 
 - Solution:
 Ensure that your docker-compose.yml includes the following configuration to open port 54112:
