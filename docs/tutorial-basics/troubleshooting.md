@@ -14,8 +14,8 @@ This guide is designed to help you resolve common issues that may arise during t
 
 To run the CodeGPT extension, your setup must meet the following requirements:
 
-- VSCode Version: Your VSCode must be version 1.82.0 or higher.
-- Node.js Version: Your Node.js must be version 18.0.0 or higher.
+- VSCode Version: Your VSCode must be version **1.82.0** or higher.
+- Node.js Version: Your Node.js must be version **18.0.0** or higher.
 
 ### Common Issues and Solutions
 
