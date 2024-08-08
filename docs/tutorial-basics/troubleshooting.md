@@ -71,7 +71,7 @@ The CodeGPT extension requires cache clearance after reinstallation or an update
 -Solution: Delete cache memory
 ```
 
-- Press Ctrl + Shift + P
+- Press **Ctrl + Shift + P**
 - Type command "Clear Editor History"
 - Press Enter
 - Shut VSCode and install CodeGPT again
