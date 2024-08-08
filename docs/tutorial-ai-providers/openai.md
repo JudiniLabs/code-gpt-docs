@@ -14,16 +14,16 @@ OpenAI is an artificial intelligence research organization that aims to develop 
 - Click the button labeled **`Create a new secret key`**
 - A new dialog window will appear, containing a text box with your API key.
 - Go to VSCode and choose `OpenAI` as `Provider`
-- `Set connection` on `ðŸ”‘` button.
+- `Connect` on button.
 - Paste API Key here, and click on `Connect` and Organization ID here:
 
   <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/3aad398b-fbb6-4a60-ad2d-d61913ada7a6" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/6fe42470-9efe-4335-92e4-086cfcd8b49f" />
     </td>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/661e47e2-77dc-4cce-9a21-58733ae8cc7a" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/b3a12636-a18f-4ed5-94b7-49dd9e631859" />
     </td>
   </tr>
 </table>
@@ -41,10 +41,20 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `ðŸ
 
 ## GPT models available in Code GPT
 - gpt-4
+- gpt-4o
+- gpt-4o-mini
+- gpt-4o-2024-05-13
+- gpt-4-turbo
+- gpt-4-turbo-2024-04-09
 - gpt-4-32k
+- gpt-4-32k-0613
 - gpt-4-1106-preview
+- gpt-4-0125-preview
 - gpt-3.5-turbo
 - gpt-3.5-turbo-16k
+- gpt-3.5-turbo-16k-0613
+- gpt-3.5-turbo-0125
+- gpt-3.5-turbo-1106
 
 ## OpenAI API
 

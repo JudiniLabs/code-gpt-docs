@@ -22,16 +22,17 @@ Please be aware of the credits; not having credits can result in a 500 error.
 - Go to your [API Keys](https://console.anthropic.com/settings/keys)
 - Generate and copy the API Key
 - Go to VSCode and choose `Anthropic` as `Provider`
-- `Set Connection` button.
+- Click on `Connect` or `Set connection` 
 - Paste API Key here, and click on `Connect`:
   
 <table>
   <tr>
     <td align="center">
       <img width="300" height="150" src="https://github.com/user-attachments/assets/7fc7a21a-c4d4-49dc-943f-430d82bd42c2" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/7fc7a21a-c4d4-49dc-943f-430d82bd42c2" />
     </td>
     <td align="center">
-      <img width="300" height="150" src="![image](https://github.com/user-attachments/assets/281e4ea0-acfd-4369-9c14-7b39d23099d2" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/281e4ea0-acfd-4369-9c14-7b39d23099d2" />
     </td>
   </tr>
 </table>
@@ -42,12 +43,13 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 
 <td align="center">
       <img width="300" height="150" src="https://github.com/user-attachments/assets/539023cc-aed9-4cf3-bb07-02c0f083ae70" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/539023cc-aed9-4cf3-bb07-02c0f083ae70" />
 </td>
 
 :::
 
 ### Claude Models available in Code GPT
-- claude-3.5-sonnet-20240620
+- claude-3.5-sonnet-20240620 
 - claude-3-opus-20240229
 - claude-3-sonnet-20240229
 - claude-3-haiku-20240307

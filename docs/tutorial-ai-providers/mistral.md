@@ -12,25 +12,25 @@ We’re a small creative team with high scientific standards. We make efficient,
 - Create an account in [Mistral](https://auth.mistral.ai/ui/login)
 - Go to your [Platform / API Keys](https://console.mistral.ai/users/api-keys/)
 - Go to VSCode and choose `Mistral` as `Provider`
-- `Set connection` on `🔑` button.
+- Click on `Connect` or `Set connection`
 - Paste API Key here, and click on `Connect`:
 <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/610e0a8e-3724-4449-a68a-511347aed319" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/4f142aa5-3f0e-41fb-959c-c60063af674b" />
     </td>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e60fac92-22ef-4871-bd57-80f66617ec73" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/9df74899-d1b9-4d9d-b5b9-ba0239f14b92" />
     </td>
   </tr>
 </table>
 
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`
 
 <p align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/f13a7b57-b675-41a0-adda-08dc75b467f0" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/e98c0eb3-ff7c-4c53-a6d1-ec7a531065ab" />
 </p>
 
 :::
@@ -41,7 +41,9 @@ If you want to remove your API Key from CodeGPT, select `Edit Connection` on `�
 - mistral-small-latest
 - mistral-medium-latest
 - mistral-large-latest
-- open-mixtral-7b
+- mistral-mamba-latest
+- open mistral-nemo-2407
+- open-mistral-7b
 - open-mixtral-8x7b
 - open-mixtral-22x7b
   
