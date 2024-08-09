@@ -30,10 +30,11 @@ OpenAI is an artificial intelligence research organization that aims to develop 
   
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, select `Edit Connection` on `🔑`, and click on `Disconnect`
+If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
+
 
 <p align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/8664e3aa-8c19-45c4-b46c-d82a5e6e7c1a" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/7859fa05-3aff-4035-9c6d-68573c1ede33" />
 </p>
 
 :::

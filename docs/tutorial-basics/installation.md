@@ -36,7 +36,7 @@ You could go to the Extensions tab in Cursor and search for CodeGPT.
 
 ## Jetbrains
 
-If you prefer to use Jetbrains, you can download it at this link: [Download](https://www.jetbrains.com/ides/)
+If you prefer to use JetBrains, you can download it at this link: [Download](https://www.jetbrains.com/ides/)
 CodeGPT is available in all these Jetbrains IDEs:
 
 <img src="https://github.com/user-attachments/assets/15dc0a2d-45e6-4f48-8871-28bc45be90e0"/>
@@ -47,7 +47,7 @@ You could go to the Plugins tab in JetBrains and search for CodeGPT.
 <p align="center"><img src="https://github.com/user-attachments/assets/347e2216-73f5-4627-ba56-b1aa212f5bb2"/></p>
 :::
 
-### JetBrains Marketplace direcly
+### JetBrains Marketplace directly
 You can either click on this link to go directly to the CodeGPT's Jetbrains Marketplace page:
 - [Download from Marketplace](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents)
 
