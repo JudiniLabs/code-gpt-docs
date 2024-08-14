@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # InLine CodeGPT
 
-La feature Inline, 
+The Inline Code Edit feature of CodeGPT is a powerful tool that allows you to edit and refine your code directly within your work environment. To use this feature, you must first select CodeGPT as your Provider and Model.
 
 ## How to Use:
 - Select CodeGPT as `Provider`  and `Model`
