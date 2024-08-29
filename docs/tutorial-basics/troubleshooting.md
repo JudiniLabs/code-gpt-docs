@@ -89,6 +89,14 @@ You can try these alternatives:
 - Verify the availability of port 54112 or 54113.
 ```
 
+## Unable to connect to the extension services from VPN 
+- Issue:
+After installation, the CodeGPT extension cannot connect with you CodeGPT Plus account. Number of daily interaccions appears like -1 to -1.
+
+-Solution:
+CodeGPT accesses from the API service with the domain `codegpt.co`. Some companies have firewall restrictions or contain restricted domain lists, in that sense, it will not be possible to synchronize the services if they are used from `VSCode` or any other IDE. 
+Consult with your IT provider to add our domain as allowed, or use the extension from networks without specific restrictions.
+
 ## Can't use the Marketplace agents
 - Issue:
 The number of agents you can install from the Marketplace is limited based on your subscription plan. Therefore, you may encounter an error message stating, "You have reached the limit of agents."
