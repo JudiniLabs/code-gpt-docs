@@ -68,7 +68,7 @@ Unfortunately, no workaround exists for using the CodeGPT extension with VSCode 
 - Issue:
 The CodeGPT extension requires cache clearance after reinstallation or an update.
 
--Solution: Delete cache memory
+- Solution: Delete cache memory
 ```
 
 - Press Ctrl + Shift + P
@@ -81,7 +81,7 @@ The CodeGPT extension requires cache clearance after reinstallation or an update
 - Issue:
 After installation, the CodeGPT extension requires restarting the environment.
 
--Solution:
+- Solution:
 You can try these alternatives:
 ```
 - Restart your computer
