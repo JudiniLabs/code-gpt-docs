@@ -93,7 +93,7 @@ You can try these alternatives:
 - Issue:
 After installation, the CodeGPT extension cannot connect with you CodeGPT Plus account. Number of daily interaccions appears like -1 to -1.
 
--Solution:
+- Solution:
 CodeGPT accesses from the API service with the domain `codegpt.co`. Some companies have firewall restrictions or contain restricted domain lists, in that sense, it will not be possible to synchronize the services if they are used from `VSCode` or any other IDE. 
 Consult with your IT provider to add our domain as allowed, or use the extension from networks without specific restrictions.
 
