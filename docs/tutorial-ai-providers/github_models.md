@@ -1,0 +1,66 @@
+---
+sidebar_position: 4
+---
+# GitHub Models
+
+Official website https://github.com/marketplace/models
+
+Enhance your workflow with extensions
+Tools from the community and partners to simplify tasks and automate processes
+
+## Connect your Provider account
+
+- Join to the GitHub Models waitlist: https://github.com/marketplace/models/waitlist/join
+- Get your GitHub Token from [Developer Settings](https://github.com/settings/apps)
+- Go to `Personal Access Tokens` and click on [Token (classic)](https://github.com/settings/tokens)
+- Click on `Generate new token`, then `Generate new token (classic)`
+- Fill Note field with "codegpt"
+- Then Copy your access token
+   
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/ded7886e-48eb-4edd-8ab8-2ca79a09270a" />
+    </td>
+  </tr>
+  </table>
+
+:::caution Remove Key
+If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`
+
+<p align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/748aadae-704a-4c34-be8c-570b3facd831" />
+</p>
+
+:::
+
+## Models available in CodeGPT
+- gpt-4o
+- gpt-4o-mini
+- Mistral-large
+- Mistral-large-2407
+- Mistral-Nemo
+- Mistral-Small
+- IA21-Jamba-Instruct
+- Meta-Llama-3-70B-Instruct
+- Meta-Llama-3-8B-Instruct
+- Meta-Llama-3.1-405B-Instruct
+- Meta-Llama-3.1-70B-Instruct
+- Meta-Llama-3.1-8B-Instruct
+- Cohere-command-r
+- Cohere-command-r-plus
+- Phi-3-medium-128k-instruct
+- Phi-3-medium-4k-instruct
+- Phi-3-mini-128k-instruct
+- Phi-3-mini-4k-instruct
+- Phi-3-small-128k-instruct
+- Phi-3-small-8k-instruct
+- Phi-3.5-mini-instruct
+
+## How to use it
+<p align="center">
+      <img width="500" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/6fb41a1e-71cf-4518-a073-47317168d8dd" />
+</p>
+
+
+

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 5
 ---
 # Groq
 Official website [https://groq.com/](https://groq.com/)
