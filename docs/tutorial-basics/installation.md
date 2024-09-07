@@ -9,7 +9,7 @@ CodeGPT is accessible on both [VSCode](https://code.visualstudio.com/), [Cursor]
 ## Visual Studio Code
 First download and install Visual Studio Code: [Download](https://code.visualstudio.com/download)
 
-### VSCode Markteplace tab
+### VSCode Marketplace tab
 You could go to the Extensions tab in VSCode and search for CodeGPT.
 :::note Search for CodeGPT in the Extensions tab
 <p align="center">

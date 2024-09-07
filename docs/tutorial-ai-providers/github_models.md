@@ -20,7 +20,10 @@ Tools from the community and partners to simplify tasks and automate processes
 <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/ded7886e-48eb-4edd-8ab8-2ca79a09270a" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/73d5af91-536e-4288-b674-2ed23b73d71d" />
+    </td>
+     <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/2455c07b-42d8-44b7-b6bf-7c1cabb29af6" />
     </td>
   </tr>
   </table>
@@ -29,7 +32,7 @@ Tools from the community and partners to simplify tasks and automate processes
 If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`
 
 <p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/748aadae-704a-4c34-be8c-570b3facd831" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/85685219-b9fc-4d1f-a388-db7a483b0fcb" />
 </p>
 
 :::
@@ -59,7 +62,7 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 
 ## How to use it
 <p align="center">
-      <img width="500" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/6fb41a1e-71cf-4518-a073-47317168d8dd" />
+      <img width="500" height="250" src="https://github.com/user-attachments/assets/4f49ff43-c408-4593-b912-2ec094f0f395" />
 </p>
 
 
