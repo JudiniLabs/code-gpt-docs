@@ -14,10 +14,11 @@ The main menu is your primary navigation hub within the CodeGPT application. It 
 
 - `Chat`: Engage in AI conversations using the models of your chosen provider or with agents on CodeGPT Plus.
 - `AI Agents Marketplace`: Peruse viable agents in the Marketplace and interact with them. Ensure you choose `CodeGPT Plus` as your provider and establish the mandatory connection. You also have the option to explore directly from the Home `⌂` button.
+- `Autocomplete`: 💻 Enhance your coding experience with intelligent code completion suggestions.
 
 ### Experimental 
 
-This section showcases experimental features 🧪.
+This section showcases experimental features 🧪 that are in the development phase
 
 - `React Sandbox`: Experiment with React components through interaction or image upload.
 
@@ -25,7 +26,8 @@ This section showcases experimental features 🧪.
 ### Help
 Look here when you need help.
 
-- `Help`: If you require additional assistance, this section offers guidance on the various tools. Alternatively, consult the `Extension Docs` and `API Docs`.
+- `Extension Docs`: The document that you are reading righ now.
+- `API Docs`: 📝 Access the API documentation for CodeGPT.
 - `Report an issue`: Any issues you encounter can be reported in the [Github repository](https://github.com/JudiniLabs/code-gpt-docs/issues).
 - `Feedback`: Send 💌 feedback to the team to help us improve the product. 
 
@@ -44,21 +46,22 @@ These optional configurations enhance your user experience.
 
 - [CodeGPT Plus](/docs/tutorial-ai-providers/codegptplus_v2)
 - [OpenAI](/docs/tutorial-ai-providers/openai)
-- [Microsoft Azure](/docs/tutorial-ai-providers/microsoft-azure)
 - [Anthropic](/docs/tutorial-ai-providers/anthropic)
+- [GitHub](/docs/tutorial-ai-providers/github_models)
+- [Mistral](/docs/tutorial-ai-providers/mistral)
 - [Cohere](/docs/tutorial-ai-providers/cohere)
-- [Google Vertex AI](/docs/tutorial-ai-providers/google_vertex)
+- [Groq](/docs/tutorial-ai-providers/groq)
 - [Google AI Studio](/docs/tutorial-ai-providers/google_studio)
+- [Microsoft Azure](/docs/tutorial-ai-providers/microsoft-azure)
+- [Google Vertex AI](/docs/tutorial-ai-providers/google_vertex)
+- [AWS Bedrock](https://docs.codegpt.co/docs/tutorial-ai-providers/bedrock)
+- [DeepSeek](/docs/tutorial-ai-providers/deepseek)
+- [NVIDIA](/docs/tutorial-ai-providers/nvidia)
+- [Huggingface](/docs/tutorial-ai-providers/huggingface)
 - [Ollama](/docs/tutorial-ai-providers/ollama)
 - [Fireworks](/docs/tutorial-ai-providers/fireworks)
-- [Mistral](/docs/tutorial-ai-providers/mistral)
-- [Huggingface](/docs/tutorial-ai-providers/huggingface)
-- [DeepSeek](/docs/tutorial-ai-providers/deepseek)
-- [Bedrock](/docs/tutorial-ai-providers/bedrock)
-- [Perplexity](/docs/tutorial-ai-providers/perplexity)
 - [LM Studio](/docs/tutorial-ai-providers/lmstudio)
-- [Groq](/docs/tutorial-ai-providers/groq)
-- [NVIDIA](/docs/tutorial-ai-providers/nvidia)
+- [Perplexity](/docs/tutorial-ai-providers/perplexity)
 - [Custom](/docs/tutorial-ai-providers/custom)
 
 :::
@@ -88,8 +91,6 @@ These optional configurations enhance your user experience.
 ### Conversation style
 
 Representative of the randomness or "creativity" in the text generation, it ranges between 0 and 1. A higher value generates more diverse output, while a lower value sticks closely to the training data. The default value is set at 0.3, with 0 being the most deterministic and 1 being the most random.
-
-For more information about temperature settings, visit [Temperature by Cohere](https://docs.cohere.ai/docs/temperature).
 
 ### Window Memory
 

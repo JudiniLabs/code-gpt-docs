@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# 🖥️ Introduction
+# 👋 Welcome
 
-## Welcome to CodeGPT Documentation
+## Welcome to CodeGPT: Your Ultimate AI Coding Companion
 
 <img width="850" height="150" src="https://github.com/user-attachments/assets/24b74337-e193-47bb-9e6d-33e7e2b3e072" />
 
