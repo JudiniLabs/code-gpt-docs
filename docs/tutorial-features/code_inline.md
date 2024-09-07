@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-# InLine CodeGPT
+# InLine Edit Code
 
 The Inline Code Edit feature of CodeGPT is a powerful tool that allows you to edit and refine your code directly within your work environment. To use this feature, you must first select CodeGPT as your Provider and Model.
 
@@ -17,12 +17,9 @@ You also have the option to utilize agents from the Marketplace, as long as you 
 :::
 
 - Select the Code: Highlight the code snippet
-- Right-click on the selected code then select **CodeGPT: Inline Code Edit CodeGPT**
+- Press `cmd+shit+k (ctrl+shift+k on Windows)` or Right-click on the selected code then select **CodeGPT: Inline Code Edit CodeGPT**
 - Old and new lines will be highlighted in green and red, respectively.
 - Press Tab to accept the suggestion
-
-## Example
-Select the code, right click then select `CodeGPT: Inline Code Edit CodeGPT`
 
 :::note CodeGPT: Inline Code Edit CodeGPT
 <p align="center">
