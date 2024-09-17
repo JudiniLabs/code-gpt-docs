@@ -62,7 +62,7 @@ These optional configurations enhance your user experience.
 - [Fireworks](/docs/tutorial-ai-providers/fireworks)
 - [LM Studio](/docs/tutorial-ai-providers/lmstudio)
 - [Perplexity](/docs/tutorial-ai-providers/perplexity)
-- [Cerebras]((/docs/tutorial-ai-providers/cerebras)
+- [Cerebras](/docs/tutorial-ai-providers/cerebras)
 - [Custom](/docs/tutorial-ai-providers/custom)
 
 :::
