@@ -38,6 +38,8 @@ These optional configurations enhance your user experience.
 - `Font Size`: Adjust the font size to your preference.
 - `Color Mode`: Alter the visual interface of the application by switching between the dark and light themes.
 
+
+
 ## Select model provider
 
 1. Select your AI provider from the dropdown menu, then enter the `API Key` for the selected provider or follow the instructions for specific steps.
