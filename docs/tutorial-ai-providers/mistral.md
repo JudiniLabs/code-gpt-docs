@@ -36,6 +36,8 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 :::
 
 ## Mistral available in Code GPT
+- pixtral-latest
+- codestral-mamba-latest
 - codestral-latest
 - mistral-tiny
 - mistral-small-latest
