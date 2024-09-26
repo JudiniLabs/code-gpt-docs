@@ -8,7 +8,6 @@ Official website https://docs.github.com/en/copilot
 GitHub Copilot, an AI-driven coding assistant, is designed to simplify your coding tasks and minimize the effort involved, thus allowing you to concentrate more on problem-solving and collaboration.
 
 ## How to connect
-## Connection Process
 To connect, follow these steps in VSCode:
 1. Select `GitHub Copilot` as your `Provider`
 2. Click on `Connect` or `Set connection`
@@ -20,7 +19,7 @@ To connect, follow these steps in VSCode:
 
 
 :::caution Switching Providers
-You don't need to worry about disconnecting GitHub Copilot. You can just select another provider to close it.
+You don't need to worry about disconnecting GitHub Copilot. To close it, you can just select another provider.
 
 <p align="center">
   <img width="600" height="350" src="https://github.com/user-attachments/assets/b3466304-2bac-4336-9688-b3507c1473ec" />
