@@ -7,7 +7,7 @@ sidebar_position: 9
 The ***Code Interpreter*** allows you to execute code within the code blocks provided by agents in the CodeGPT chat.
 
 ## How to Use:
-- Select an Agent (`Python` or `Claude 3.5 Sonnet` that has the "Code Interpreter" option
+- Select an Agent (`Python` or `Claude 3.5 Sonnet`) that has the "Code Interpreter" option
 - On the chat box, write `/` to show the Code-Interpreter option
 - `Send` the request or press `Enter`
 - Wait for the code to be executed, and then you will see the result
