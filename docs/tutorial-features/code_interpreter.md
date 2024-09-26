@@ -45,7 +45,7 @@ data = [category1, category2, category3]
 
 ```
 
-:::note CodeGPT: Code Interpreter with Python
+:::
 <p align="center">
       <img width="550" height="300" src="https://github.com/JudiniLabs/code-gpt-docs/assets/6216945/dfb51437-3706-438e-ba32-abf1f7d61213" />
 </p>
@@ -65,4 +65,5 @@ data = [category1, category2, category3]
 :::
 
 
+![Untitled design (5)](https://github.com/user-attachments/assets/22f849e1-02f8-469f-a207-bd17fc907ec0)
 
