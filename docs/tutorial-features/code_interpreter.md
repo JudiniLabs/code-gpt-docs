@@ -42,7 +42,7 @@ data = [category1, category2, category3]
 ```
 
 - Make a prompt on CodeGPT chat. Example: `create a Violin plot`
-- Wait for the code to be executed and click on `Run` icon <img width="550" height="300" src="https://github.com/user-attachments/assets/26cf6d75-9e52-4bf1-82eb-bef9f4950ca9" />
+- Wait for the code to be executed and click on `Run` icon <img width="10" height="10" src="https://github.com/user-attachments/assets/26cf6d75-9e52-4bf1-82eb-bef9f4950ca9" />
 
 ::: Code interpreter with Python agent
 <p align="center">
