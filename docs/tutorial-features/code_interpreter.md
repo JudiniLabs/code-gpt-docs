@@ -21,7 +21,7 @@ The ***Code Interpreter*** allows you to execute code within the code blocks pro
   </tr>
 </table>
 
-- Back to the main Menu
+- Back to the Main Menu
 - Choose CodeGPT Plus as `Provider`
 - Select the agent with the Code Interpreter functions installed in the previous step
 
@@ -45,25 +45,24 @@ data = [category1, category2, category3]
 
 ```
 
-:::
+
 <p align="center">
       <img width="550" height="300" src="https://github.com/JudiniLabs/code-gpt-docs/assets/6216945/dfb51437-3706-438e-ba32-abf1f7d61213" />
 </p>
-:::
+
 
 ### Case 2: Using the slash icon `/` on the chat box 
 
 - On the chat box, write `/` to show the Code-Interpreter option
 - `Send` the request or press `Enter`
 - Wait for the code to be executed, and then you will see the result
-:::note CodeGPT: Code Interpreter with Claude 3.5 Sonnet
+  
 
 <p align="center">
       <img width="550" height="300" src="https://github.com/user-attachments/assets/28b2f8f2-8875-44e3-93bd-32761b9ec32e" />
 
 </p>
-:::
 
 
-![Untitled design (5)](https://github.com/user-attachments/assets/22f849e1-02f8-469f-a207-bd17fc907ec0)
+
 
