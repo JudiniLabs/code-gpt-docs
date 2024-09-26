@@ -59,7 +59,7 @@ data = [category1, category2, category3]
   
 
 <p align="center">
-      <img width="550" height="300" src="https://github.com/user-attachments/assets/28b2f8f2-8875-44e3-93bd-32761b9ec32e" />
+      <img width="550" height="300" src="https://github.com/user-attachments/assets/8c4de431-0df2-496f-a233-4f2bc91aaac2" />
 
 </p>
 
