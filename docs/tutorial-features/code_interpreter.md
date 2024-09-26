@@ -6,16 +6,28 @@ sidebar_position: 9
 
 The ***Code Interpreter*** allows you to execute code within the code blocks provided by agents in the CodeGPT chat.
 
-## How to Use:
-- Select an Agent (`Python` or `Claude 3.5 Sonnet`) that has the "Code Interpreter" option
-- On the chat box, write `/` to show the Code-Interpreter option
-- `Send` the request or press `Enter`
-- Wait for the code to be executed, and then you will see the result
+## How to configure:
+- Go to Marketplace on VSCode Extension
+- Search and install agents with this icon (`Python`, `Claude 3.5 Sonnet`, `GPT-4o`)
 
-## Example
-In this example, we will select code from the editor and then ask the Python 3.10 Agent to create a Violin plot.
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/31e598e3-42fe-4ca9-8ced-60c526bc2b17" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/acb0f71d-a655-40b5-aeb6-f57dd364ea83" />
+    </td>
+  </tr>
+</table>
 
-### Prompt:
+- Back to the main Menu
+- Choose CodeGPT Plus as `Provider`
+- Select the agent with the Code Interpreter functions installed in the previous step
+
+## How to use
+
+### Case 1: Select code from the editor and then ask the Agent to create code. For example, Violin plot.
 
 ```python 
 Chat CodeGPT: create a Violin plot
@@ -39,12 +51,15 @@ data = [category1, category2, category3]
 </p>
 :::
 
+### Case 2: Using the slash icon `/` on the chat box 
+
+- On the chat box, write `/` to show the Code-Interpreter option
+- `Send` the request or press `Enter`
+- Wait for the code to be executed, and then you will see the result
 :::note CodeGPT: Code Interpreter with Claude 3.5 Sonnet
+
 <p align="center">
-      <img width="550" height="300" src="https://github.com/user-attachments/assets/a07315f1-ca9e-4b2c-a895-f8463025410a" />
-
-
-      
+      <img width="550" height="300" src="https://github.com/user-attachments/assets/28b2f8f2-8875-44e3-93bd-32761b9ec32e" />
 
 </p>
 :::
