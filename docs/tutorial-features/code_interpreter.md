@@ -4,14 +4,13 @@ sidebar_position: 9
 
 # Code Interpreter
 
-## Code Interpreter with Python Agent
-The ***Code Interpreter with Python*** allows you to execute Python code within the code blocks provided by agents in the CodeGPT chat.
+The ***Code Interpreter*** allows you to execute code within the code blocks provided by agents in the CodeGPT chat.
 
 ## How to Use:
 - Select an Agent (`Python` or `Claude 3.5 Sonnet` that has the "Code Interpreter" option
 - On the chat box, write `/` to show the Code-Interpreter option
 - `Send` the request or press `Enter`
-- Wait for the code to be executed and then you will see the result
+- Wait for the code to be executed, and then you will see the result
 
 ## Example
 In this example, we will select code from the editor and then ask the Python 3.10 Agent to create a Violin plot.
@@ -42,7 +41,7 @@ data = [category1, category2, category3]
 
 :::note CodeGPT: Code Interpreter with Claude 3.5 Sonnet
 <p align="center">
-      <img width="550" height="300" src="https://github.com/user-attachments/assets/2522c1c0-4584-4f3b-a222-12dd0dad5779" 
+      <img width="550" height="300" src="https://github.com/user-attachments/assets/2522c1c0-4584-4f3b-a222-12dd0dad5779" />
 
 </p>
 :::
