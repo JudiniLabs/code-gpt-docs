@@ -41,7 +41,10 @@ data = [category1, category2, category3]
 
 :::note CodeGPT: Code Interpreter with Claude 3.5 Sonnet
 <p align="center">
-      <img width="550" height="300" src="https://github.com/user-attachments/assets/2522c1c0-4584-4f3b-a222-12dd0dad5779" />
+      <img width="550" height="300" src="https://github.com/user-attachments/assets/a07315f1-ca9e-4b2c-a895-f8463025410a" />
+
+
+      
 
 </p>
 :::
