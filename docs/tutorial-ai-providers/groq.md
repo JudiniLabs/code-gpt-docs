@@ -43,4 +43,3 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 - mixtral-8x7b-32768
 - gemma-7b-it
 - gemma2-9b-it
-
