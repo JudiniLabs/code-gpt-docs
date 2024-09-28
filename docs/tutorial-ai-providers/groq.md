@@ -35,6 +35,10 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 :::
 
 ## Groq models available in CodeGPT
+- llama-3.2-90b-text-preview
+- llama-3.2-11b-text-preview
+- llama-3.2-3b-preview
+- llama-3.2-1b-preview
 - llama-3.1-405b-reasoning
 - llama-3.1-70b-versatile
 - llama-3.1-8b-instant
