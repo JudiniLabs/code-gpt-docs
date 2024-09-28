@@ -22,14 +22,14 @@ Groq provides us with a simple way to leverage models running on LPU (Language P
       <img width="300" height="150" src="https://github.com/user-attachments/assets/7b589a12-7529-466d-9b05-5da5922ff31a" />
     </td>
   </tr>
-</table>
+<table>
 
 
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
 
 <p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/d6eb8a17-a143-43ea-9f42-1d9fbcf192e8" />
+      <img width="300" height="150" src="http://github.com/user-attachments/assets/d6eb8a17-a143-43ea-9f42-1d9fbcf192e8" />
 </p>
 
 :::
