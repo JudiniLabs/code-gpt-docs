@@ -38,51 +38,66 @@ Opensource project to run, create, and share large language models (LLMs).
 No need to disconnect, just change the provider.
 :::
   
-## Ollama Models available in Code GPT
-- llama3:70b
+## Chat Models available:
+- llama3.2:3b
+- llama3.2:1b
 - llama3.1:405b
 - llama3.1:70b
+- llama3.1:8b
+- llama3:70b
 - llama3:8b
+- codellama:latest
 - codestral:latest
 - mathstral:latest
-- mistral:v0.3 
-- command-r-plus:latest
-- command-r:latest
+- mixtral:latest
+- mistral:v0.3
+- mistral:latest
+- codegeex4:9b
+- reflection:70b
+- yi-coder:1.5b
+- yi-coder:9b
+- qwen2.5-coder:1.5b
+- qwen2.5-coder:7b
 - codeqwen
 - qwen2:72b
 - qwen2:7b
 - qwen2:1.5b
 - qwen2:0.5b
+- command-r-plus:latest
+- command-r:latest
 - aya:8b
 - aya:35b
-- codegemma:latest
-- gemma2:2b
-- gemma2:9b
-- gemma2:27b
-- gemma:7b
-- gemma:2b
+- phi3.5:latest
+- phi3:mini
+- phi3:medium
+- phi3:latest
 - granite-code:3b
 - granite-code:8b
 - granite-code:20b
 - granite-code:34b
+- codegemma:latest
+- gemma2:2b
+- gemma2:9b
+- gemma2:27b
+- gemma:2b
+- gemma:7b
 - dbrx:latest
-- mistral:latest
-- mixtral:latest
-- llama2
-- codellama:latest
-- phi3:mini
-- phi3:medium
-- phi3:latest
-- deepseek-coder-v2
+- deepseek-v2.5:236b
 - deepseek-coder:latest
+- deepseek-coder-v2
 - starcoder2:latest
 - dolphincoder:latest
 - dolphin-mixtral:latest
 - starling-lm:latest
-- dolphin-mixtral:latest
-- starling-lm:latest
 - llama2-uncensored:latest
 
+## Autocomplete models availables:
+- codestral:latest
+- qwen2.5-coder:7b
+- deepseek-coder:base
+- qwen2.5-coder:1.5b
+- codegemma:code
+- codellama:code
 
 
 ## API Errors
