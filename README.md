@@ -12,3 +12,11 @@ We believe in collaboration and feedback, which is why we encourage you to get i
 [Click here to join our Discord.](https://discord.gg/vgTGsVr69s)
 
 [How to Document Issues on GitHub for CodeGPT](https://docs.codegpt.co/docs/tutorial-basics/docs_issues)
+
+1. Short title
+2. Steps to Reproduce: Provide a step-by-step description of how to reproduce the issue.
+3. Expected Behavior: Describe what you expected to happen.
+4. Actual Behavior: Describe what actually happened.
+5. Screenshots: Attach screenshots if applicable.
+6. Environment: OS (e.g., Windows, macOS, Linux), Browser (if applicable), CodeGPT version
+7. Additional Information (logs, references)
