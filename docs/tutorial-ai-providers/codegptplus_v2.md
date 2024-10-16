@@ -6,17 +6,17 @@ sidebar_position: 1
 
 Official website [https://codegpt.co](https://codegpt.co)
 
-In this tutorial, you will learn how to connect your CodeGPT Plus account with the VSCode extension
+This tutorial will teach you how to connect your CodeGPT Plus account with the VSCode extension.
 
 ✨ Click [here](https://app.codegpt.co/) to create a free CodeGPT Plus account.
 
 ## Connect your CodeGPT Plus account
 
-- Open VSCode and select `CodeGPT Plus` as the provider and click on `Connect`.
-- A new message will open, requesting the autorization to connect with your CodeGPT account if you don't have one you can create it clickng on a new on.
+- Open VSCode, select `CodeGPT Plus` as the provider, and click on `Connect`.
+- A new message will open, requesting authorization to connect with your CodeGPT account. If you don't have one, you can create one by clicking on "New."
 - The browser will open and display the message `Connection success`. Close the tab and return to VSCode
-- If you connect successfuly, the connection icon must change.
-- Now you are able to use the chat
+- If you connect successfully, the connection icon must change.
+- Now you can use the chat
 
 <table>
   <tr>
@@ -50,10 +50,10 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 
 ## Select an Agent 🤖
 
-Open the chat and select your agent
+Open the chat and select your agent.
 
 ## Models available in CodeGPT
-Now is possible interact with `models`, `Marketplace` agents and the agents that you create in `Playground`:
+Now is possible to interact with `models`, `Marketplace` agents, and the agents that you create in `Playground`:
 
 ### Models
 - Gpt 4o
@@ -69,7 +69,7 @@ Now is possible interact with `models`, `Marketplace` agents and the agents that
 - Gpt 4o Mini
 
 ### Agents
-On [Playground](https://app.codegpt.co/en) you can set the agents with these models:
+On [Playground](https://app.codegpt.co/en), you can set the agents with these models:
 - GPT-4
 - GPT-4 turbo
 - Claude-2.1
@@ -81,7 +81,7 @@ On [Playground](https://app.codegpt.co/en) you can set the agents with these mod
 - Claude-Instant-1.2
 
 :::note Choose a model
-You can choose the model that you want to use in the chat, click on the model name and select the model that you want to use.
+You can choose the model you want to use in the chat, click on the model name, and select the model you want to use.
 
 <p align="center">
       <img width="1150" height="1000" src="https://github.com/user-attachments/assets/5acb46af-4a8e-48a3-a278-e84fd5cb92ca" />
@@ -91,6 +91,6 @@ You can choose the model that you want to use in the chat, click on the model na
 
 ### Marketplace Agents
 
-You can install the agents from your account, click [here](https://app.codegpt.co/en/marketplace)
+You can install the agents from your account click [here](https://app.codegpt.co/en/marketplace)
 
 <img width="650" height="500" alt="" src="https://github.com/davila7/code-gpt-docs/assets/6216945/6dd16f48-c8da-4e23-94b6-6f63e23eb5e1" />
