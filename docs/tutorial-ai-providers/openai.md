@@ -6,15 +6,15 @@ sidebar_position: 2
 
 Official website https://openai.com
 
-OpenAI is an artificial intelligence research organization that aims to develop and promote friendly AI in a way that benefits all of humanity. They have developed a number of AI models, including GPT-3 and GPT-4, arguably the most advanced natural language processing models in the world.
+OpenAI is an artificial intelligence research organization that aims to develop and promote friendly AI that benefits all of humanity. They have developed several AI models, including GPT-3 and GPT-4, arguably the most advanced natural language processing models in the world.
 
 ## Connect your OpenAI Account
 - Go to the [API Keys page on OpenAI](https://platform.openai.com/account/api-keys).
 - Log in with your OpenAI account (or [create a new account](https://platform.openai.com/signup)
 - Click the button labeled **`Create a new secret key`**
-- A new dialog window will appear, containing a text box with your API key.
+- A new dialog window containing a text box with your API key will appear.
 - Go to VSCode and choose `OpenAI` as `Provider`
-- `Connect` on button.
+- `Connect` on the button.
 - Paste API Key here, and click on `Connect` and Organization ID here:
 
   <table>
@@ -59,28 +59,28 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 
 ## OpenAI API
 
-To use this extension you must have credits loaded into your OpenAI account.
-This extension uses the Official OpenAI API which is a [paid API](https://openai.com/api/pricing/).
+To use this extension, you must have credits loaded into your OpenAI account.
+This extension uses the Official OpenAI API, a [paid API](https://openai.com/api/pricing/).
 
-If you do not have credits the extension will show the following OpenAI API error:
-**You exceeded your current quota, please check your plan and billing details**
+If you do not have credits, the extension will show the following OpenAI API error:
+**You exceeded your current quota; please check your plan and billing details**
 
 To review your account and the credits you have available, you must log in with your account at https://openai.com/api/
 
-In the menu select Manage Account, then in the Usage section, you will be able to see the amount of credits available and used.
+In the menu, select Manage Account. Then, in the Usage section, you will see the amount of credits available and used.
 
 :::note OpenAI Account
 ![Manage Account](https://user-images.githubusercontent.com/6216945/213941730-b48b8b6a-8f0d-4fea-b4b3-42edc838f42e.png)
 :::
 
-In this image you can see that $13 USD has been used out of a total of $18.
+In this image, $13 USD has been used out of a total of $18.
 
 :::note Usage
 ![Credits](https://user-images.githubusercontent.com/6216945/213941720-1ae816dd-fedb-4026-ae8c-b8b374d1d0dd.png)
 :::
 
 ## API Errors
-If you are getting API errors check the following link: [OpenAI API Errors](https://help.openai.com/en/collections/3675931-openai-api#api-error-codes-explained)
+If you are getting API errors, check the following link: [OpenAI API Errors](https://help.openai.com/en/collections/3675931-openai-api#api-error-codes-explained)
 
 ### Typical OpenAI errors
 - [Error Code 404: The model: gpt-4 does not exist](https://community.openai.com/t/when-i-try-the-gpt-4-model-chat-completion-in-api-request-i-get-an-error-that-model-does-not-exist/98850)
