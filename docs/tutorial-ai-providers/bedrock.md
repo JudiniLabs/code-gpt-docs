@@ -6,7 +6,7 @@ sidebar_position: 9
 
 Official website [https://aws.amazon.com/bedrock/](https://aws.amazon.com/bedrock/)
 
-Amazon Bedrock, a fully-managed service, offers top foundation models (FMs) from leading AI firms, including AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon via a single API. It provides a wide range of capabilities, including security, privacy, and responsible AI for developing generative AI applications. It enables you to test and evaluate top FMs, fine-tune them with your data, and build agents to perform tasks using enterprise systems and data sources. Being serverless, Amazon Bedrock eliminates infrastructure management and integrates generative AI features into your apps using familiar AWS services.
+Amazon Bedrock, a fully managed service, offers top foundation models (FMs) from leading AI firms, including AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon via a single API. It provides various capabilities, including security, privacy, and responsible AI for developing generative AI applications. 
 
 
 ## Connect your Provider account
@@ -19,7 +19,7 @@ Amazon Bedrock, a fully-managed service, offers top foundation models (FMs) from
 - Generate and copy the Access Key and Secret Key
 - Choose `Bedrock` as `Provider`
 - - Click on `Connect` or `Set connection` to link with your account.
-- Paste the `region`, `Access Key` and `Secret Access Key`, and click on `Connect`.
+- Paste the `region`, `Access Key` and `Secret Access Key`, and click `Connect`.
 
   <table>
   <tr>
@@ -33,7 +33,7 @@ Amazon Bedrock, a fully-managed service, offers top foundation models (FMs) from
 </table>
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
+To remove your API Key from CodeGPT, click on the provider box and `Disconnect`.
 
 <p align="center">
       <img width="300" height="150" src="https://github.com/user-attachments/assets/5b853a55-653e-4da6-ae6b-c90e6fbde98f" />
@@ -42,7 +42,7 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 :::
 
 ## Models available in CodeGPT
-Please note that the models you configure on your Amazon Bedrock account will be synchronized with the models on the extension
+Please note that the models you configure on your Amazon Bedrock account will be synchronized with the models on the extension.
 
 <p align="center">
       <img src="https://github.com/davila7/code-gpt-docs/assets/37567214/81d9fb16-159f-424c-b2d0-c513271cc300"/>
