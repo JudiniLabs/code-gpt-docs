@@ -5,16 +5,16 @@ sidebar_position: 4
 
 Official website https://github.com/marketplace/models
 
-Enhance your workflow with extensions
+Enhance your workflow with extensions.
 Tools from the community and partners to simplify tasks and automate processes
 
 ## Connect your Provider account
 
-- Join to the GitHub Models waitlist: https://github.com/marketplace/models/waitlist/join
+- Join the GitHub Models waitlist: https://github.com/marketplace/models/waitlist/join
 - Get your GitHub Token from [Developer Settings](https://github.com/settings/apps)
 - Go to `Personal Access Tokens` and click on [Token (classic)](https://github.com/settings/tokens)
 - Click on `Generate new token`, then `Generate new token (classic)`
-- Fill Note field with "codegpt"
+- Fill the Note field with "codegpt"
 - Then Copy your access token
    
 <table>
