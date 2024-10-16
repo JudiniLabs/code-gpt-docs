@@ -52,5 +52,5 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 - zephyr-7b-beta
 
 ## API Errors
-If you are getting API errors check the following link: [Fireworks Documentation](https://readme.fireworks.ai/docs)
+If you are getting API errors, check the following link: [Fireworks Documentation](https://readme.fireworks.ai/docs)
 
