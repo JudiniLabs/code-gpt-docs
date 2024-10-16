@@ -5,7 +5,7 @@ sidebar_position: 11
 # HuggingFace
 Official website https://huggingface.co/
 
-The Hugging Face is a platform designed to share pre-trained AI models and collaborate on the development and sharing of resources related to AI and natural language processing (NLP). It serves as a central repository for a wide range of models, including those for tasks such as text generation, text classification, translation, question answering, and more.
+The Hugging Face is a platform designed to share pre-trained AI models and collaborate on developing and sharing resources related to AI and natural language processing (NLP). It serves as a central repository for many models, including those for tasks such as text generation, classification, translation, question answering, and more.
 
 ## How to connect
 - Create an account in [Huggingface](https://huggingface.co/)
@@ -41,5 +41,5 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 - mistralai/Mistral-7B-v0.1
 
 ## API Errors
-If you are getting API errors check the following link: [Huggingface Documentation](https://huggingface.co/docs/inference-endpoints/index)
+If you are getting API errors, check the following link: [Huggingface Documentation](https://huggingface.co/docs/inference-endpoints/index)
 
