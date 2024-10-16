@@ -17,7 +17,7 @@ Then select "View Code"
 
 <img width="400" height="250" src="https://github.com/davila7/code-gpt-docs/assets/6216945/863be7d6-da26-460e-a365-c40b282d81e1" />
 
-In this section, you can obtain the API key and the custom link. To display the full custom link, you must select CURL in the code selection and copy the endpoint.
+This section provides the API key and the custom link. To display the full custom link, select CURL in the code selection and copy the endpoint.
 
   <img width="450" height="400" src="https://github.com/davila7/code-gpt-docs/assets/6216945/cbc54b0a-4afb-4ce5-9d4e-ba20cbe675dd" />
 
@@ -38,7 +38,7 @@ In this section, you can obtain the API key and the custom link. To display the 
 </table>
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
+To remove your API Key from CodeGPT, click on the provider box and `Disconnect`.
 
 <p align="center">
       <img width="300" height="150" src="https://github.com/user-attachments/assets/3f4b05d4-f994-48b9-b43f-fa17bba97fe2" />
