@@ -8,7 +8,7 @@ This feature automatically completes the changes you've made in your repository 
 
 ## How to Use:
 
-In your IDE, add the changes to staging and then start writing the commit message. CodeGPT's autocomplete will finish writing the message for you. Once the suggestion appears, press "Tab" to accept it.
+Add the changes to staging in your IDE and start writing the commit message. CodeGPT's autocomplete will finish writing the message for you. Once the suggestion appears, press "Tab" to accept it.
 
 :::note Commit Autocomplete
 <p align="center">
