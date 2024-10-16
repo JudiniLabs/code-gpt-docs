@@ -5,7 +5,7 @@ sidebar_position: 16
 # Cerebras
 Official website: https://cerebras.ai/
 
-Cerebras is a cutting-edge computing platform designed for large-scale artificial intelligence model training and inference. It provides a comprehensive guide for all things Cerebras, including detailed information on core concepts, workflows, features, and the Cerebras PyTorch API.
+Cerebras is a cutting-edge computing platform for large-scale artificial intelligence model training and inference. This guide provides a comprehensive overview of Cerebras, including detailed information on core concepts, workflows, features, and the Cerebras PyTorch API.
 
 ## Key Features
 - Cerebras Model Zoo with pre-configured Large Language Models (LLM)
@@ -13,7 +13,7 @@ Cerebras is a cutting-edge computing platform designed for large-scale artificia
 - Compatibility with multimodal models like LLaVA
 - Ability to use custom PyTorch models and datasets
 
-The Cerebras Wafer-Scale Cluster is meticulously engineered to enable the training of neural networks with remarkably efficient linear scaling across millions of cores, all without the complexities of traditional distributed computing.
+The Cerebras Wafer-Scale Cluster is meticulously engineered to enable neural network training with remarkably efficient linear scaling across millions of cores without the complexities of traditional distributed computing.
 
 ## How to Connect
 - Go to https://inference.cerebras.ai/
@@ -37,7 +37,7 @@ The Cerebras Wafer-Scale Cluster is meticulously engineered to enable the traini
 </p>
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, click on the provider box and then click on "Disconnect".
+If you want to remove your API Key from CodeGPT, click on the provider box and "Disconnect".
 
 <p align="center">
       <img width="300" height="150" src="https://github.com/user-attachments/assets/eb8a35bf-ba6d-4113-b3b5-af4f8e6bedb5" />
