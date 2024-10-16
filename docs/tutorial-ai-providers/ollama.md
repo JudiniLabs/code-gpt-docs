@@ -11,8 +11,8 @@ Opensource project to run, create, and share large language models (LLMs).
 - Download Ollama from the following link: [ollama.ai](https://ollama.ai/)
 
 ### Download models via the console
-- Install Ollama and use the model codellama by running the command ```ollama pull codellama```
-- If you want to use mistral or other models, you will need to replace codellama with the desired model. For example: ```ollama pull mistral```
+- Install Ollama and use the model `codellama` by running the command ```ollama pull codellama```
+- If you want to use `Mistral` or other models, you must replace `codellama` with the desired model. For example: ```ollama pull mistral```
 
 ### Download models via CodeGPT UI
 - Select Ollama as the `Provider`
@@ -25,7 +25,7 @@ Opensource project to run, create, and share large language models (LLMs).
 
 # How to use Ollama
 
-- In VSCode and Select Ollama like a `Provider`
+- In VSCode select Ollama as a `Provider`
 - Please be aware that Ollama is running locally on your computer.
 - Choose a model
 
@@ -101,7 +101,7 @@ No need to disconnect, just change the provider.
 
 
 ## API Errors
-If you are getting API errors check the following link: [Ollama Documentation](https://ollama.ai/)
+If you are getting API errors, check the following link: [Ollama Documentation](https://ollama.ai/)
 
 ## Ollama Errors
 - If the Ollama model does not respond in the chat, consider restarting it locally by turning it off and then on again. This action should resolve the issue.
