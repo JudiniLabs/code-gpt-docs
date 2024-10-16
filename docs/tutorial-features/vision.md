@@ -5,14 +5,14 @@ sidebar_position: 5
 
 # Vision
 
-The Vision button is a powerful tool that allows you to analyze images and extract meaningful information. 
+The Vision button is a powerful tool for analyzing images and extracting meaningful information. 
 
 ## How to use
 
-- Please ensure that you have established a connection with CodeGPT Plus or Ollama.
+- Please ensure you have connected with CodeGPT Plus or Ollama.
 - Upload an image to use as a prompt for the model (only .jpg, .png, .webp format).
 
-You can identify and locate objects within the image, the model can then provide details such as the type of object, its position, size, and even its color.
+You can identify and locate objects within the image. The model can then provide details such as the object type, position, size, and color.
 
 :::note Ask about the text within the images
 <p align="center">
