@@ -10,14 +10,14 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 - Download LM Studio here [lmstudio.ai](https://lmstudio.ai/)
 - Open LM Studio and navigate to the `My Models` tab. Please ensure that you download a model.
 - Next, go to `Local Server` tab.
-- Click on `Select a model to load`, choose a model.
+- Click on `Select a model to load` and choose a model.
 
   <p align="center">
        <img width="425" height="100" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4ef13a7b-0ba9-42cc-8644-4d7a93b5734a"/>
  </p>
 
 - Please wait until the loading reaches 100% completion.
-- Click on `Start Server`, keep LMStudio running.
+- Click on `Start Server` and keep LMStudio running.
 - Launch CodeGPT extension on VSCode.
 - Choose LM Studio as `Provider`.
  
@@ -26,7 +26,7 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 </p>
 
 :::caution Remove Key 
-No need to disconnect, just change the provider. If the agent doesn't respond and a "Gain error" appears, please close VSCode. Then, ensure that LM Studio is running with the model before reopening it.
+There is no need to disconnect; just change the provider. If the agent doesn't respond and a "Gain error" appears, please close VSCode. Then, ensure that LM Studio runs with the model before reopening it.
 :::
 
    
