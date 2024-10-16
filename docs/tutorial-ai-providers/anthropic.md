@@ -57,4 +57,4 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 - claude-instant-1.2
 
 ## API Errors
-If you are getting API errors check the following link: [Anthropic API Errors](https://docs.anthropic.com/claude/reference/errors-and-rate-limits)
+If you are getting API errors, check the following link: [Anthropic API Errors](https://docs.anthropic.com/claude/reference/errors-and-rate-limits)
