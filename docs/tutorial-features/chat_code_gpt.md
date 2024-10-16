@@ -7,9 +7,9 @@ The CodeGPT Chat feature enhances your development experience by allowing you to
 
 ## How to Use:
 ### Open the Chat Tab:
-- Navigate to the tools tab and click on the `Chat`. You can used syncronizing your the CodeGPT Plus account or, other `Provider`.
-- Now tha chat allow you `Clean` the chat or `Reload` the question
-- If you are requesting code, Copy the code or paste it directly on the file with `Insert code` button.
+Navigate to the tools tab and click on `Chat.` This can be used to sync your CodeGPT Plus account or another `Provider`.
+- Now the chat allows you `Clean` the chat or `Reload` the question
+- If you request code, copy or paste it directly into the file with the `Insert code` button.
 
 :::note CodeGPT Chat
 <p align="center">
@@ -19,7 +19,7 @@ The CodeGPT Chat feature enhances your development experience by allowing you to
 
 ### Engage in Conversation:
 
-Once the chat tab is open, you can start a conversation by typing a message and hitting `Enter`.
+Once the chat tab opens, you can start a conversation by typing a message and hitting `Enter`.
 
 :::note CodeGPT Chat conversation
 <p align="center">
@@ -28,7 +28,7 @@ Once the chat tab is open, you can start a conversation by typing a message and 
 :::
 
 ### Using Code Selection:
-To share code snippets, simply select the desired code in your editor then select `Import selection` from the chat tab. The selected code will be automatically inserted into the chat interface, allowing CodeGPT  to provide more accurate and context-specific responses.
+To share code snippets, select the desired code in your editor, then select `Import selection` from the chat tab. The selected code will be automatically inserted into the chat interface, allowing CodeGPT  to provide more accurate and context-specific responses.
 
 :::note Code Selection
 <p align="center">
