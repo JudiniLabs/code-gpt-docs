@@ -7,7 +7,7 @@ The CodeGPT Chat feature enhances your development experience by allowing you to
 
 ## How to Use:
 ### Open the Chat Tab:
-Navigate to the tools tab and click on `Chat.` This can be used to sync your CodeGPT Plus account or another `Provider`.
+Navigate to the tools tab and click on `Chat.` This can sync your CodeGPT Plus account or another `Provider`.
 - Now the chat allows you `Clean` the chat or `Reload` the question
 - If you request code, copy or paste it directly into the file with the `Insert code` button.
 
