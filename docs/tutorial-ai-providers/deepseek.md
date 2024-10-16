@@ -5,7 +5,7 @@ sidebar_position: 9
 
 Official website https://www.deepseek.com/
 
-Established in 2023, DeepSeek (深度求索) is a Chinese firm committed to turning Artificial General Intelligence (AGI) into reality. They approach the fundamental queries with a long-term perspective.
+Established in 2023, DeepSeek (深度求索) is a Chinese firm committed to making Artificial General Intelligence (AGI) a reality. They approach fundamental queries with a long-term perspective.
 
 ## Connect your Provider account
 
