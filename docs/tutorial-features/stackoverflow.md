@@ -13,7 +13,7 @@ When you configure CodeGPT as a provider, you can use the `/Stack Overflow` tool
 ## How to Use:
 
 :::caution Available for some agents from Marketplace only
-- Select CodeGPT as `Provider`  and agents from Marketplace with this option `/Stack Overflow` as `Model`.
+- Select CodeGPT as `Provider`  and an agent from Marketplace with this option `/Stack Overflow` as `Model`.
 <p align="center">
   <img width="400" height="150" src="https://github.com/user-attachments/assets/aa031f31-6be3-49a1-9f5e-aa3dc73b96e5" />
 </p>
