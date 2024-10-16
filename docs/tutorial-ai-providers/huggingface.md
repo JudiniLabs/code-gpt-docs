@@ -5,7 +5,7 @@ sidebar_position: 11
 # HuggingFace
 Official website https://huggingface.co/
 
-The Hugging Face is a platform designed to share pre-trained AI models and collaborate on developing and sharing resources related to AI and natural language processing (NLP). It serves as a central repository for many models, including those for tasks such as text generation, classification, translation, question answering, and more.
+The Hugging Face is a platform designed to share pre-trained AI models and collaborate on developing and sharing resources related to AI and natural language processing (NLP). It serves as a central repository for many models, including those for text generation, classification, translation, question answering, and more tasks.
 
 ## How to connect
 - Create an account in [Huggingface](https://huggingface.co/)
