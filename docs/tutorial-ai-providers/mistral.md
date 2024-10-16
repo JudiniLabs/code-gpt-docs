@@ -6,7 +6,7 @@ sidebar_position: 4
 Official website https://mistral.ai/
 
 ## Frontier AI in your hands 
-We’re a small creative team with high scientific standards. We make efficient, helpful and trustworthy AI models through ground-breaking innovations.
+We’re a small creative team with high scientific standards. Through groundbreaking innovations, we create efficient, helpful, and trustworthy AI models.
 
 ## Connect your Mistral account
 - Create an account in [Mistral](https://auth.mistral.ai/ui/login)
@@ -50,5 +50,5 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 - open-mixtral-22x7b
   
 ## API Errors
-If you are getting API errors check the following link: [Mistral Documentation](https://docs.mistral.ai/)
+If you are getting API errors, check the following link: [Mistral Documentation](https://docs.mistral.ai/)
 
