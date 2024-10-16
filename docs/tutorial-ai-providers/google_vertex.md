@@ -13,10 +13,10 @@ Obtaining your credentials on Google Cloud can be tricky. As of March 28, 2024, 
 - Initiate the Console by selecting the option in the top right corner.
 - In the left panel, click on the "Models Garden" tab.
 - In the search box at the top, type "Vertex AI". Choose "Virtual Studio Vertex".
-- Ensure that you have enabled the Vertex AI API, Dataform API, and Compute Engine API.
+- Ensure you have enabled the Vertex AI API, Dataform API, and Compute Engine API.
 - Go to the [Dashboard](https://console.cloud.google.com/home/dashboard).
-- From the right-hand menu, select "API & Services" and then click on "Credentials". Click on the email associated with Service Accounts.
-- You'll be directed to the Service Account page; from there, navigate to the "Keys" tab and select "Add Key". The download should start automatically, saving the file as a .json.
+- From the right-hand menu, select "API & Services" and click "Credentials". Click on the email associated with Service Accounts.
+You'll be directed to the Service Account page; from there, navigate to the "Keys" tab and select "Add Key." The download should start automatically and save the file as a .json.
 - Rename the downloaded file to "credentials".
 - For the Custom Link, customize it as needed, ensuring to change the LOCATION, PROJECT_ID, and MODEL.
 `https://LOCATION-aiplatform.googleapis.com/v1/projects/PROJECT_ID/locations/LOCATION/publishers/google/models/MODEL:streamGenerateContent`
