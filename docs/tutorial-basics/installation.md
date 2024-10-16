@@ -4,21 +4,22 @@ sidebar_position: 1
 
 # Installation
 
-CodeGPT is accessible on both [VSCode](https://code.visualstudio.com/), [Cursor](https://cursor.sh/) and [Jetbrains](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents/). In this tutorial, we'll guide you through the installation process regardless of your preferred text editor.
+CodeGPT is accessible on both [VSCode](https://code.visualstudio.com/), [Cursor](https://cursor.sh/) and [Jetbrains](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents/). This tutorial will guide you through the installation process regardless of your preferred text editor.
 
 ## Visual Studio Code
-First download and install Visual Studio Code: [Download](https://code.visualstudio.com/download)
+First, download and install Visual Studio Code: [Download](https://code.visualstudio.com/download)
 
 ### VSCode Marketplace tab
 You could go to the Extensions tab in VSCode and search for CodeGPT.
+
 :::note Search for CodeGPT in the Extensions tab
 <p align="center">
       <img src="https://github.com/user-attachments/assets/5b901f8b-4946-402c-9ae4-56cec3068755"/>
 </p>
 :::
 
-### VSCode Marketplace direcly
-You can either click on this link to go directly to the CodeGPT's Visual Studio Marketplace page:
+### VSCode Marketplace directly
+You can either click on this link to go directly to CodeGPT's Visual Studio Marketplace page:
 - [Download from Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 
 ### Open VSX
@@ -48,7 +49,7 @@ You could go to the Plugins tab in JetBrains and search for CodeGPT.
 :::
 
 ### JetBrains Marketplace directly
-You can either click on this link to go directly to the CodeGPT's Jetbrains Marketplace page:
+You can either click on this link to go directly to the CodeGPT's JetBrains Marketplace page:
 - [Download from Marketplace](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents)
 
 ___
