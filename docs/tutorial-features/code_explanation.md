@@ -8,8 +8,8 @@ The Explain CodeGPT feature empowers you to gain deeper insights into your codeb
 
 ## How to Use:
 - Select CodeGPT as `Provider`  and `Model`
-:::note CodeGPT: Explain CodeGPT
-To use this feature, log in with your CodeGPT account, and you will have limited daily free interactions. You can subscribe to one of our plans to get many more interactions and access to the selected AI models without needing to worry about creating API keys or accounts with each provider (we make it easy for you!). In case you want to use CodeGPT for free, you must add your own API key from the desired provider (e.g., Anthropic, OpenAI) and you will pay for the consumption directly to them.
+::: note CodeGPT: Explain CodeGPT
+To use this feature, log in with your CodeGPT account, and you will have limited daily free interactions. You can subscribe to one of our plans to get many more interactions and access the selected AI models without worrying about creating API keys or accounts with each provider (we make it easy for you!). In case you want to use CodeGPT for free, you must add your own API key from the desired provider (e.g., Anthropic, OpenAI) and you will pay for the consumption directly to them.
 
 To learn how to do this, please refer to the following [link](https://intercom.help/codegpt/en/articles/8699317-connect-with-codegpt-new-extension)
 
