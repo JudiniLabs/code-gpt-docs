@@ -5,8 +5,8 @@ sidebar_position: 3
 # Anthropic
 Official website https://www.anthropic.com
 
-Anthropic is a San Francisco-based AI safety startup focused on developing techniques to ensure that AI systems align with human values and behave ethically.
-Some of their key research areas include:
+Anthropic is a San Francisco-based AI safety startup that develops techniques to ensure that AI systems align with human values and behave ethically.
+
 
 # Claude
 Claude can be a delightful company representative, a research assistant, a creative partner, a task Automator, and more. Personality, tone, and behavior can all be customized to your needs.
