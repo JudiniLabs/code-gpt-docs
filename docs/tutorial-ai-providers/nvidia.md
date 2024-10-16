@@ -19,7 +19,7 @@ The leading open models built by the community, optimized and accelerated by NVI
 - Open VSCode and then open the CodeGPT tab
 - Choose `Nvidia` as `Provider`
 - Click on `Connect` or `Set connection`
-- Paste your Nvidia API Key here , and click on `Connect`
+- Paste your Nvidia API Key here, and click on `Connect`
   
   <table>
   <tr>
@@ -33,7 +33,7 @@ The leading open models built by the community, optimized and accelerated by NVI
 </table>
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, and click on `Disconnect from Nvidia`
+If you want to remove your API Key from CodeGPT, click on `Disconnect from Nvidia`
 
 
 <p align="center">
@@ -66,5 +66,5 @@ If you want to remove your API Key from CodeGPT, and click on `Disconnect from N
 - meta/llama2-70b
 
 ## API Errors
-If you are getting API errors check the following link: [Nvidia Documentation](https://docs.api.nvidia.com/)
+If you are getting API errors, check the following link: [Nvidia Documentation](https://docs.api.nvidia.com/)
 
