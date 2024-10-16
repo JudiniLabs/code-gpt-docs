@@ -18,7 +18,7 @@ The main menu is your primary navigation hub within the CodeGPT application. It 
 
 ### Experimental 
 
-This section showcases experimental features 🧪 that are in the development phase
+This section showcases experimental features 🧪 that are in the development phase.
 
 - `React Sandbox`: Experiment with React components through interaction or image upload.
 
@@ -26,7 +26,7 @@ This section showcases experimental features 🧪 that are in the development ph
 ### Help
 Look here when you need help.
 
-- `Extension Docs`: The document that you are reading righ now.
+- `Extension Docs`: The document you are reading right now.
 - `API Docs`: 📝 Access the API documentation for CodeGPT.
 - `Report an issue`: Any issues you encounter can be reported in the [Github repository](https://github.com/JudiniLabs/code-gpt-docs/issues).
 - `Feedback`: Send 💌 feedback to the team to help us improve the product. 
@@ -69,7 +69,7 @@ These optional configurations enhance your user experience.
 
 :::
 
-1. 🔑 Set the connection `Connect`. Status must change on the window. For more details, please check the page or every provider above.
+1. 🔑 Set the connection `Connect`. The status must change on the window. For more details, please check the page or every provider above.
 
   <table>
     <tr>
@@ -93,11 +93,11 @@ These optional configurations enhance your user experience.
 
 ### Conversation style
 
-Representative of the randomness or "creativity" in the text generation, it ranges between 0 and 1. A higher value generates more diverse output, while a lower value sticks closely to the training data. The default value is set at 0.3, with 0 being the most deterministic and 1 being the most random.
+The default value is 0.3, representing the randomness or "creativity" in the text generation. A higher value generates more diverse output, while a lower value sticks closely to the training data. 0 is the most deterministic, and 1 is the most random.
 
 ### Window Memory
 
-This tool stores the historical log of your past conversations. By default, it is set to 4. You can adjust this value to your preference.
+This tool stores the historical log of your past conversations. By default, it is set to 4, but you can adjust this value to your preference.
 
 - Default: 4
 - Minimum: 1
