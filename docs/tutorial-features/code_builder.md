@@ -10,13 +10,15 @@ When you configure CodeGPT as a provider, you can use the /CodeBuilder tool to:
 
 ## How to Use:
 :::caution Available for GPT-4o only
-- Select `CodeGPT` as Provider and `GPT-4o` as Model.
+- Select `CodeGPT` as Provider and any marketplace agent with `Codebuilder` icon as Model.
 - Add the data or file you want to use as context for the code generation, refactoring, or debugging task.
 - Write `/` slash and select `/CodeBuilder` tool, then specify your requirements or paste your existing code.
 - Click on `Create` ✨, to generate the desired project structure or code.
 
 :::
+
 ## Example
+
 :::note CodeGPT: CodeBuilder
 
 Update to `v3.5.13 (pre-release)`
