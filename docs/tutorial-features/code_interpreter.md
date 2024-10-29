@@ -8,7 +8,7 @@ The ***Code Interpreter*** allows you to execute code within the code blocks pro
 
 ## How to configure:
 - Go to Marketplace on VSCode Extension
-- Search and install agents with this icon (`Python`, `Claude 3.5 Sonnet`, `GPT-4o`)
+- Search and install agents with this icon (for instance, `Python`, `Claude 3.5 Sonnet`, `GPT-4o`)
 
 <table>
   <tr>
@@ -27,6 +27,9 @@ The ***Code Interpreter*** allows you to execute code within the code blocks pro
 
 ## How to use
 
+:::note CodeGPT: Refactor CodeGPT
+To use this feature, log in with your CodeGPT account, and you will have limited daily free interactions. You can subscribe to one of our plans to get many more interactions and access the selected AI models without worrying about creating API keys or accounts with each provider (we make it easy for you!). In case you want to use CodeGPT for free, you must add your own API key from the desired provider (e.g., Anthropic, OpenAI) and you will pay for the consumption directly to them.
+
 ### Case 1: Select code from the editor and then ask the Agent to create code. For example, Violin plot.
 
 - Select the code from Workspace. Example:
@@ -44,7 +47,7 @@ data = [category1, category2, category3]
 - Make a prompt on CodeGPT chat. Example: `create a Violin plot`
 - Wait for the code to be executed and click on `Run` icon <img width="20" height="20" src="https://github.com/user-attachments/assets/26cf6d75-9e52-4bf1-82eb-bef9f4950ca9" />
 
-::: Code interpreter with Python agent
+:::Code interpreter with Python agent
 <p align="center">
       <img width="550" height="300" src="https://github.com/JudiniLabs/code-gpt-docs/assets/6216945/dfb51437-3706-438e-ba32-abf1f7d61213" />
 </p>
