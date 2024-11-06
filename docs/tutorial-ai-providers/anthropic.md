@@ -29,7 +29,6 @@ Please be aware of the credits; not having credits can result in a 500 error.
   <tr>
     <td align="center">
       <img width="300" height="150" src="https://github.com/user-attachments/assets/7fc7a21a-c4d4-49dc-943f-430d82bd42c2" />
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/7fc7a21a-c4d4-49dc-943f-430d82bd42c2" />
     </td>
     <td align="center">
       <img width="300" height="150" src="https://github.com/user-attachments/assets/281e4ea0-acfd-4369-9c14-7b39d23099d2" />
@@ -54,6 +53,7 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 - claude-3-sonnet-20240229
 - claude-3-haiku-20240307
 - claude-2.1
+- claude-2.0
 - claude-instant-1.2
 
 ## API Errors
