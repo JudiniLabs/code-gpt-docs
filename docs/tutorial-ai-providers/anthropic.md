@@ -42,7 +42,7 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 
 <td align="center">
       <img width="300" height="150" src="https://github.com/user-attachments/assets/539023cc-aed9-4cf3-bb07-02c0f083ae70" />
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/539023cc-aed9-4cf3-bb07-02c0f083ae70" />
+
 </td>
 
 :::
