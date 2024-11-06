@@ -28,7 +28,6 @@ The Cerebras Wafer-Scale Cluster is meticulously engineered to enable neural net
 
 - Once you have the API Key, go to the VSCode extension
 - Select Cerebras as the provider with the desired model
-- Click on "Connect"
 - Paste the API Key
 - Click on "Connect"
 
