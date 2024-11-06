@@ -35,7 +35,7 @@ Opensource project to run, create, and share large language models (LLMs).
   
 
 :::caution Remove Key 
-No need to disconnect, just change the provider.
+There is no need to disconnect; just change the provider.
 :::
   
 ## Chat Models available:
