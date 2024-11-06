@@ -48,7 +48,8 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 - open-mistral-7b
 - open-mixtral-8x7b
 - open-mixtral-22x7b
-  
+- ministral-8b-latest
+ 
 ## API Errors
 If you are getting API errors, check the following link: [Mistral Documentation](https://docs.mistral.ai/)
 
