@@ -12,10 +12,10 @@ This tutorial will teach you how to connect your CodeGPT Plus account with the V
 
 ## Connect your CodeGPT Plus account
 
-- Open VSCode, select `CodeGPT Plus` as the provider, and click on `Connect`.
-- A new message will open, requesting authorization to connect with your CodeGPT account. If you don't have one, you can create one by clicking on "New."
+- Open VSCode, select `CodeGPT Plus` as the provider, and click on `Connect`
+- A new message will open, requesting authorization to connect with your CodeGPT account. If you don't have one, you can create one by clicking on "New"
 - The browser will open and display the message `Connection success`. Close the tab and return to VSCode
-- If you connect successfully, the connection icon must change.
+- If you connect successfully, the connection icon must change
 - Now you can use the chat
 
 <table>
@@ -53,31 +53,29 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 Open the chat and select your agent.
 
 ## Models available in CodeGPT
-Now is possible to interact with `models`, `Marketplace` agents, and the agents that you create in `Playground`:
+Now is possible to interact with `models`, `Marketplace` agents, and the agents that you create in `CodeGPT Studio`:
 
 ### Models
-- Gpt 4o
+On [CodeGPT Studio](https://app.codegpt.co/en), you can set the agents with these models:
+- O1 Mini
+- O1 Preview
 - Mistral Large 2
 - Codestral
-- Llama 3.1 405b
-- Llama 3.1 70b
+- Meta/Llama 3.1 405b
+- Meta/Llama 3.1 70b
+- Groq/Llama 3.1 70b
+- Groq/Llama 3.2 90b
+- Command R Plus
+- Mixtral 8x7b 32768
 - Gemini 1.5 Flash
 - Gemini 1.5 Pro Latest
-- Claude 3.5 Sonnet
-- Claude 3 Sonnet
-- Claqude 3 Haiku
-- Gpt 4o Mini
-
-### Agents
-On [Playground](https://app.codegpt.co/en), you can set the agents with these models:
-- GPT-4
-- GPT-4 turbo
-- Claude-2.1
+- Google/Claude 3.5 Sonnet
+- GPT-4o
+- GPT-4o mini
+- Claude-3.5 Sonnet V2
 - Claude-3-Sonnet
 - Claude-3-Haiku
 - Gemini-10-Pro
-- GPT-3.5-Turbo
-- GPT-3.5-Turbo-16k
 - Claude-Instant-1.2
 
 :::note Choose a model
