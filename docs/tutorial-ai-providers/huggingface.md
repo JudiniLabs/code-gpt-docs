@@ -36,9 +36,13 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 :::
 
 ### Huggingface Models available in Code GPT
-- OperAssistant/oasst
-- mistralai/Mixtral-8x7
-- mistralai/Mistral-7B-v0.1
+- Meta-llama/Llama-3.2-1B-Instruct
+- Meta-llama/Llama-3.2-3B-Instruct
+- Meta-llama/Meta-Llama-3-8B-Instruct
+- Mistralai/Mixtral-8x7B-Instruct-v0.1
+- Microsoft/Phi-3.5-mini-instruct
+- Qwen/Qwen2.5-72B-Instruct
+- Qwen/Qwen2.5-1.5B-Instruct
 
 ## API Errors
 If you are getting API errors, check the following link: [Huggingface Documentation](https://huggingface.co/docs/inference-endpoints/index)
