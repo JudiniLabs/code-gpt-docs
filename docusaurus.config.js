@@ -137,9 +137,9 @@ const config = {
             label: 'Discord',
             position: 'right',
           },
-          // {
-          //   type: 'localeDropdown',
-          // },
+          {
+            type: 'localeDropdown',
+          },
         ],
       },
       footer: {
