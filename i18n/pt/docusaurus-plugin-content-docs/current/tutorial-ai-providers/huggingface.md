@@ -1,37 +1,48 @@
 ---
-sidebar_position: 8
+sidebar_position: 11
 ---
 
-# Huggingface
+# HuggingFace
+Official website https://huggingface.co/
 
-Site oficial https://huggingface.co/
+The Hugging Face is a platform designed to share pre-trained AI models and collaborate on developing and sharing resources related to AI and natural language processing (NLP). It serves as a central repository for many models, including those for text generation, classification, translation, question answering, and more tasks.
 
-A Hugging Face é uma plataforma projetada para compartilhar modelos de IA pré-treinados e colaborar no desenvolvimento e compartilhamento de recursos relacionados à IA e processamento de linguagem natural (NLP). Ela serve como um repositório central para uma ampla variedade de modelos, incluindo aqueles para tarefas como geração de texto, classificação de texto, tradução, resposta a perguntas e muito mais.
+## How to connect
+- Create an account in [Huggingface](https://huggingface.co/)
+- Go to your [Profile - Settings - Access Tokens](https://huggingface.co/settings/tokens)
+- Generate and copy the API Key 
+- Go to VSCode and choose `HuggingFace` as `Provider`
+- Click on `Connect` or `Set connection`
+- Paste API Key here, and click on `Connect`:
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/7211de2e-e155-4a23-a0c9-1ba3907e532d" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/fc9ed7dd-fa9e-400d-a760-4d58b55fda5e" />
+    </td>
+  </tr>
+</table>
 
-## Huggingface
-- Crie uma conta em [Huggingface](https://huggingface.co/)
-- Vá para o [Perfil - Configurações - Tokens de Acesso](https://huggingface.co/settings/tokens)
-- Gere e copie a Chave API
-- Escolha `HuggingFace` como `Fornecedor`
-- `Estabeleça a conexão` e vincule com sua conta no botão `⋮`.
-- Copie a Chave API aqui:
+
+:::caution Remove Key
+If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
 
 <p align="center">
-      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/dd106264-9524-48ad-9fb7-593b917b677a" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/e33666b4-7366-4bfd-b33d-31c7f0b3968f" />
 </p>
- 
-- Ou, no VSCode, pressione `cmd + shift + p` e procure por **`Definir Chave API`**
-- Cole sua Chave API
 
-:::caution Remover Chave
-Se desejar remover sua Chave API do CodeGPT, abra a Paleta de Comandos e procure por `CodeGPT: Remover API KEY`. Ou você pode selecionar o botão `⋮` e clicar em `Remover Conexão`
 :::
 
-### Modelos Huggingface disponíveis no Code GPT
-- OperAssistant/oasst
-- mistralai/Mixtral-8x7
-- mistralai/Mistral-7B-v0.1
+### Huggingface Models available in Code GPT
+- Meta-llama/Llama-3.2-1B-Instruct
+- Meta-llama/Llama-3.2-3B-Instruct
+- Meta-llama/Meta-Llama-3-8B-Instruct
+- Mistralai/Mixtral-8x7B-Instruct-v0.1
+- Microsoft/Phi-3.5-mini-instruct
+- Qwen/Qwen2.5-72B-Instruct
+- Qwen/Qwen2.5-1.5B-Instruct
 
-## Erros de API
-Se estiver recebendo erros de API, consulte o seguinte link: [Documentação Huggingface](https://huggingface.co/docs/inference-endpoints/index)
-
+## API Errors
+If you are getting API errors, check the following link: [Huggingface Documentation](https://huggingface.co/docs/inference-endpoints/index)

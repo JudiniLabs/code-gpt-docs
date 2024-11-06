@@ -1,23 +1,32 @@
 ---
-sidebar_position: 11
+sidebar_position: 17
 ---
 
-# Personalizar o provedor
+# Custom
 
-Nesta opção, você pode escolher um provedor de sua preferência. Tudo que você precisa para se conectar é a chave API e o Link Personalizado do provedor, que normalmente é o link de registro.
+Esta opção permite que você escolha um provedor. Tudo o que você precisa para se conectar é a chave da API e o Link Personalizado do provedor, comumente o link de registro.
 
-## Conectar sua conta do provedor
-- Escolha `Personalizado` como `Provedor`
-- `Definir conexão` e vincular com sua conta no botão `⋮`.
-- Copie a chave API e o Link Personalizado aqui:
-  
+## Conecte sua conta do Provider
+- Vá para o VSCode e escolha `Custom` como `Provider`
+- Clique em `Connect` ou `Set connection`
+- Cole a API Key aqui e clique em `Connect`:
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/1aba82cb-407d-415e-9e4a-e2aa87ce1c05" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/7bd4716d-59e4-46a4-99f7-c4796030e7cf" />
+    </td>
+  </tr>
+</table>
+
+:::caution Remover Chave
+Se você quiser remover sua API Key do CodeGPT, clique na caixa do provedor e clique em `Disconnect`.
+
 <p align="center">
-      <img width="350" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/38e34a46-58db-4530-8cfd-8ca8f948894d" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/780f7909-9688-49a8-95ca-b33a23772f6c" />
 </p>
 
-- Ou, no VSCode, pressione `cmd + shift + p` e pesquise **`Set API Key`**
-- Cole sua chave API
-
-:::caution Remover chave
-Se você quiser remover sua chave API do CodeGPT, abra a Paleta de Comandos e pesquise por `CodeGPT: Remove API KEY`. Ou você pode selecionar o botão `⋮` e clicar em `Remove Connection`
 :::
