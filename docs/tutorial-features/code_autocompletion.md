@@ -30,11 +30,12 @@ The Autocomplete feature empowers you to choose from a curated selection of mode
 </p>
 :::
 
-- Effortless Integration: Seamlessly incorporate the suggested code snippets into your project, improving code quality and efficiency. Press `Tab` to accept the suggestion
+- Effortless Integration: Seamlessly incorporate the suggested code snippets into your project, improving code quality and efficiency. Press `Tab` to accept the suggestion.
+
 
 :::note Autocomplete
 <p align="center">
-      <img width="750" height="550" src="" />
+      <img width="750" height="550" src="https://github.com/user-attachments/assets/569560e6-588f-4e42-8a8c-032363cd2196" />
 </p>
 
 :::
