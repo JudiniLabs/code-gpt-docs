@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Official website [https://aistudio.google.com/](https://aistudio.google.com/)
 
-Google AI Studio is a browser-based IDE tailored for prototyping with generative models. Users can swiftly experiment with various models and prompts within Google AI Studio. Once satisfied with their creation, they can seamlessly export it to code in their preferred programming language through the Gemini API
+Google AI Studio is a browser-based IDE tailored for prototyping with generative models. Users can swiftly experiment with various models and prompts within Google AI Studio.
 
 ## Connect your Provider account
 - Create an account in [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)
