@@ -5,6 +5,7 @@ sidebar_position: 2
 # Configuração
 
 ## Acessando as Configurações do Code GPT
+
 1. No Visual Studio Code, clique em **`File` > `Preferences` > `Settings`**. Isso abrirá a janela de Configurações.
 2. No lado esquerdo da janela de Configurações, clique em **`Extensions`**, e depois clique em **`CodeGPT`**.
 
@@ -32,10 +33,11 @@ Selecione o seu provedor de IA no menu suspenso e, em seguida, insira a API Key 
 - [Huggingface](/docs/tutorial-ai-providers/huggingface)
 - [GPT4All](/docs/tutorial-ai-providers/gpt4all)
 - [Ollama](/docs/tutorial-ai-providers/ollama)
-  
+
 :::
 
 ### Máximo de Tokens
+
 Os tokens podem ser considerados como partes de palavras. Antes que a API processe as solicitações, a entrada é dividida em tokens.
 
 Cada modelo tem um número máximo de tokens. Selecione o número de tokens dependendo do comprimento da resposta desejada e do modelo selecionado.
@@ -43,17 +45,21 @@ Cada modelo tem um número máximo de tokens. Selecione o número de tokens depe
 Saiba mais: [Tokens by OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
 
 ### Modelo
+
 O serviço fornece acesso a muitos modelos diferentes, agrupados por família e habilidade. Uma família de modelos normalmente associa modelos pela tarefa pretendida.
 
 Saiba mais: [Models by OpenAI](https://beta.openai.com/docs/models/overview)
 
 ### ID da Organização (OpenAI)
+
 A informação do ID da organização aplica-se apenas à OpenAI e permite que você selecione a organização com a qual usará sua Chave de API.
 
 ### Idioma da Consulta
+
 Selecione o idioma em que você trabalhará nas interações com a API. Para funcionalidades como Explicar ou Documentar, cada consulta será feita no idioma selecionado.
 
 ### Temperatura
+
 Este é um parâmetro que pode ser ajustado. Ele determina o nível de aleatoriedade ou "criatividade" no texto gerado. Uma temperatura mais alta resultará em uma saída mais variada e criativa, enquanto uma temperatura mais baixa produzirá uma saída mais semelhante aos dados de treinamento e menos propensa a conter conteúdo inesperado ou surpreendente.
 
 É um valor entre 0 e 1. 0 sendo o mais determinístico e 1 sendo o mais aleatório e criativo. A temperatura padrão é 0,3
