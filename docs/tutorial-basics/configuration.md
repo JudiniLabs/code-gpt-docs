@@ -13,7 +13,6 @@ The main menu is your primary navigation hub within the CodeGPT application. It 
 ### Tools
 
 - `Chat`: Engage in AI conversations using the models of your chosen provider or with agents on CodeGPT Plus.
-- `AI Agents Marketplace`: Peruse viable agents in the Marketplace and interact with them. Ensure you choose `CodeGPT Plus` as your provider and establish the mandatory connection. You also have the option to explore directly from the Home `⌂` button.
 - `Autocomplete`: 💻 Enhance your coding experience with intelligent code completion suggestions.
 
 ### Experimental 
