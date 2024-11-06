@@ -7,7 +7,7 @@ const examplesPath = path.resolve(__dirname, "..", "examples", "src");
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-@type {import('@docusaurus/types').Config} 
+//@type {import('@docusaurus/types').Config} 
 const config = {
   title: 'CodeGPT',
   tagline: 'Easily Connect to Top AI Providers Using Their Official APIs in VSCode',
@@ -27,7 +27,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['pt'],//'en', 'es', 'pt', 'fr', 'ko', 'zh-Hans'],
+    locales: ['pt']//'en', 'es', 'pt', 'fr', 'ko', 'zh-Hans'],
   },
   customFields:{
     mendableAnonKey: process.env.MENDABLE_ANON_KEY,
