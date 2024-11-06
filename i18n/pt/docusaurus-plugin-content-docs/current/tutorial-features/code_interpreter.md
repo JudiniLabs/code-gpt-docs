@@ -6,24 +6,29 @@ sidebar_position: 8
 
 ## Descrição
 
-A funcionalidade ***Interpretador de Código com Python*** permite solicitar e receber sugestões de código de maneira contínua dentro de comentários. Essa ferramenta poderosa aprimora sua experiência de codificação fornecendo trechos de código rápidos e relevantes.
+A funcionalidade **_Interpretador de Código com Python_** permite solicitar e receber sugestões de código de maneira contínua dentro de comentários. Essa ferramenta poderosa aprimora sua experiência de codificação fornecendo trechos de código rápidos e relevantes.
 
 Com a integração do Jupyter Notebook, você pode executar trechos de código diretamente em seu ambiente.
 
 ## Requisitos
+
 - [Jupyter Notebook](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
 ## Como Usar:
+
 - Solicitando Código em um Comentário:
-    - Escreva um comentário com sua solicitação específica de código (Certifique-se de que o cursor esteja no final da linha do comentário).
+
+  - Escreva um comentário com sua solicitação específica de código (Certifique-se de que o cursor esteja no final da linha do comentário).
 
 - Iniciando Sugestões de Código:
-    - Pressione ```cmd + shift + i``` para ativar o modo de sugestão de código.
+
+  - Pressione `cmd + shift + i` para ativar o modo de sugestão de código.
 
 - Utilize o Código:
-    - Implemente o código sugerido para aprimorar seu projeto.
+  - Implemente o código sugerido para aprimorar seu projeto.
 
 ## Exemplo
+
 Neste exemplo, solicitamos a abertura de um arquivo CSV, a recuperação das colunas e, em seguida, a plotagem dos dados.
 
 ### Prompt:
