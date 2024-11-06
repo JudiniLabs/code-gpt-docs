@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Official website https://openai.com
 
-OpenAI is an artificial intelligence research organization that aims to develop and promote friendly AI that benefits all of humanity. They have developed several AI models, including GPT-3 and GPT-4, arguably the most advanced natural language processing models in the world.
+OpenAI is an artificial intelligence research organization that aims to develop and promote friendly AI that benefits humanity. It has produced several AI models, including GPT-4, arguably the world's most advanced natural language processing model.
 
 ## Connect your OpenAI Account
 - Go to the [API Keys page on OpenAI](https://platform.openai.com/account/api-keys).
@@ -15,7 +15,7 @@ OpenAI is an artificial intelligence research organization that aims to develop 
 - A new dialog window containing a text box with your API key will appear.
 - Go to VSCode and choose `OpenAI` as `Provider`
 - `Connect` on the button.
-- Paste API Key here, and click on `Connect` and Organization ID here:
+- Paste the API Key here, and click on `Connect` and Organization ID here:
 
   <table>
   <tr>
@@ -59,7 +59,7 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 
 ## OpenAI API
 
-To use this extension, you must have credits loaded into your OpenAI account.
+You must have credits loaded into your OpenAI account to use this extension.
 This extension uses the Official OpenAI API, a [paid API](https://openai.com/api/pricing/).
 
 If you do not have credits, the extension will show the following OpenAI API error:
@@ -73,7 +73,7 @@ In the menu, select Manage Account. Then, in the Usage section, you will see the
 ![Manage Account](https://user-images.githubusercontent.com/6216945/213941730-b48b8b6a-8f0d-4fea-b4b3-42edc838f42e.png)
 :::
 
-In this image, $13 USD has been used out of a total of $18.
+In this image, $13 USD has been used out of $18.
 
 :::note Usage
 ![Credits](https://user-images.githubusercontent.com/6216945/213941720-1ae816dd-fedb-4026-ae8c-b8b374d1d0dd.png)
