@@ -16,17 +16,17 @@ The Autocomplete feature empowers you to choose from a curated selection of mode
         - CodeGPT Plus-turbo
         - Mistral-codestral-latest
         - Ollama-qwen2.5-code:1.5b
-        - Ollamaqwen2.5-code:7b
+        - Ollama qwen2.5-code:7b
         - Ollama deepseeek-coder:base
         - Ollama deepseek-coder-v2
         - Ollama codellama:code
         - Ollama codegemma:code
 
-    - By default, the maximum number of tokens is determined by the AI model. Please refer to the documentation of each provider for specific details. Additionally, there is a delay of 3000 milliseconds in generating the suggestion.
+    - By default, the AI model determines the maximum number of tokens. Please refer to the documentation of each provider for specific details. Additionally, there is a delay of 3000 milliseconds in generating the suggestion.
 
 :::note Autocomplete settings
 <p align="center">
-      <img width="400" height="550" src="https://github.com/user-attachments/assets/c67f13b0-09b8-413a-8a55-94264e54bb51" />
+      <img width="400" height="550" src="!https://github.com/user-attachments/assets/2248e837-c4aa-40ac-8afd-4fb3971f3dae" />
 </p>
 :::
 
