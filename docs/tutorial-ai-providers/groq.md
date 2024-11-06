@@ -4,7 +4,7 @@ sidebar_position: 5
 # Groq
 Official website [https://groq.com/](https://groq.com/)
 
-Groq provides a simple way to leverage models running on LPU (Language Processing Unit), enabling us to achieve incredibly fast inference response times.
+Groq provides a simple way to leverage models running on LPU (Language Processing Unit), enabling us to achieve speedy inference response times.
 
 ## Connect your Groq account
 - Create an account in [https://groq.com/](https://console.groq.com/playground)
