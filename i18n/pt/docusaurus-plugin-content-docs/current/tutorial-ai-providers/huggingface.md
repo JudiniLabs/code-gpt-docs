@@ -3,17 +3,18 @@ sidebar_position: 11
 ---
 
 # HuggingFace
-Official website https://huggingface.co/
+Site oficial https://huggingface.co/
 
-The Hugging Face is a platform designed to share pre-trained AI models and collaborate on developing and sharing resources related to AI and natural language processing (NLP). It serves as a central repository for many models, including those for text generation, classification, translation, question answering, and more tasks.
+O Hugging Face é uma plataforma projetada para compartilhar modelos de IA pré-treinados e colaborar no desenvolvimento e compartilhamento de recursos relacionados à IA e ao processamento de linguagem natural (NLP). Serve como um repositório central para muitos modelos, incluindo aqueles para geração de texto, classificação, tradução, resposta a perguntas e mais tarefas.
 
-## How to connect
-- Create an account in [Huggingface](https://huggingface.co/)
-- Go to your [Profile - Settings - Access Tokens](https://huggingface.co/settings/tokens)
-- Generate and copy the API Key 
-- Go to VSCode and choose `HuggingFace` as `Provider`
-- Click on `Connect` or `Set connection`
-- Paste API Key here, and click on `Connect`:
+## Como conectar
+- Crie uma conta em [Huggingface](https://huggingface.co/)
+- Vá para seu [Perfil - Configurações - Tokens de Acesso](https://huggingface.co/settings/tokens)
+- Gere e copie a Chave API 
+- Vá para o VSCode e escolha `HuggingFace` como `Provider`
+- Clique em `Connect` ou `Set connection`
+- Cole a Chave API aqui e clique em `Connect`:
+
 <table>
   <tr>
     <td align="center">
@@ -25,9 +26,8 @@ The Hugging Face is a platform designed to share pre-trained AI models and colla
   </tr>
 </table>
 
-
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
+:::caution Remover Chave
+Se você quiser remover sua Chave API do CodeGPT, clique na caixa do provedor e clique em `Disconnect`.
 
 <p align="center">
       <img width="300" height="150" src="https://github.com/user-attachments/assets/e33666b4-7366-4bfd-b33d-31c7f0b3968f" />
@@ -35,7 +35,7 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 
 :::
 
-### Huggingface Models available in Code GPT
+### Modelos Huggingface disponíveis no Code GPT
 - Meta-llama/Llama-3.2-1B-Instruct
 - Meta-llama/Llama-3.2-3B-Instruct
 - Meta-llama/Meta-Llama-3-8B-Instruct
@@ -44,5 +44,5 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 - Qwen/Qwen2.5-72B-Instruct
 - Qwen/Qwen2.5-1.5B-Instruct
 
-## API Errors
-If you are getting API errors, check the following link: [Huggingface Documentation](https://huggingface.co/docs/inference-endpoints/index)
+## Erros de API
+Se você estiver recebendo erros de API, verifique o seguinte link: [Huggingface Documentation](https://huggingface.co/docs/inference-endpoints/index)
