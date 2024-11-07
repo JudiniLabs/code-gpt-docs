@@ -4,72 +4,97 @@ sidebar_position: 2
 
 # Configuração
 
-## Acessando as Configurações do Code GPT
+As seções subsequentes descrevem as várias utilidades e configurações do aplicativo CodeGPT.
 
-1. No Visual Studio Code, clique em **`File` > `Preferences` > `Settings`**. Isso abrirá a janela de Configurações.
-2. No lado esquerdo da janela de Configurações, clique em **`Extensions`**, e depois clique em **`CodeGPT`**.
+## Menu Principal
 
-:::note Configurações do CodeGPT
+O menu principal é o seu hub de navegação primário dentro do aplicativo CodeGPT. Ele fornece acesso a recursos e configurações essenciais.
 
-![Captura-de-Pantalla-2023-01-04-a-la-s-2-29-15-p-m-](https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274431737-b31ae5a8-8636-4a75-a32b-79062d0087de.png)
+### Ferramentas
 
-:::
+- `Chat`: Participe de conversas com IA usando os modelos do provedor escolhido ou com agentes no CodeGPT Plus.
+- `Autocomplete`: 💻 Melhore sua experiência de codificação com sugestões inteligentes de conclusão de código.
 
-## Configurações Disponíveis
+### Experimental 
 
-### Chave de API
+Esta seção apresenta recursos experimentais 🧪 que estão na fase de desenvolvimento.
 
-Selecione o seu provedor de IA no menu suspenso e, em seguida, insira a API Key do provedor selecionado.
+- `React Sandbox`: Experimente componentes React por meio de interação ou upload de imagem.
+
+### Ajuda
+Consulte aqui quando precisar de ajuda.
+
+- `Extension Docs`: O documento que você está lendo agora.
+- `API Docs`: 📝 Acesse a documentação da API para o CodeGPT.
+- `Report an issue`: Quaisquer problemas que você encontrar podem ser relatados no [repositório do Github](https://github.com/JudiniLabs/code-gpt-docs/issues).
+- `Feedback`: Envie 💌 feedback para a equipe para nos ajudar a melhorar o produto.
+
+### Configurações
+
+Essas configurações opcionais melhoram sua experiência de usuário.
+
+- `Font Size`: Ajuste o tamanho da fonte de acordo com sua preferência.
+- `Color Mode`: Altere a interface visual do aplicativo alternando entre os temas escuro e claro.
+
+## Selecionar provedor de modelo
+
+1. Selecione seu provedor de IA no menu suspenso e, em seguida, insira a `API Key` para o provedor selecionado ou siga as instruções para etapas específicas.
 
 :::info Obtenha sua API Key
 
-- [CodeGPT Plus](/docs/tutorial-ai-providers/codegpt_plus)
+- [CodeGPT Plus](/docs/tutorial-ai-providers/codegptplus_v2)
 - [OpenAI](/docs/tutorial-ai-providers/openai)
-- [Google Makersuite](/docs/tutorial-ai-providers/google)
-- [Microsoft Azure](/docs/tutorial-ai-providers/microsoft-azure)
 - [Anthropic](/docs/tutorial-ai-providers/anthropic)
+- [GitHub](/docs/tutorial-ai-providers/github_models)
+- [Mistral](/docs/tutorial-ai-providers/mistral)
 - [Cohere](/docs/tutorial-ai-providers/cohere)
-- [AI21](/docs/tutorial-ai-providers/ai21)
+- [Groq](/docs/tutorial-ai-providers/groq)
+- [Google AI Studio](/docs/tutorial-ai-providers/google_studio)
+- [Microsoft Azure](/docs/tutorial-ai-providers/microsoft-azure)
+- [Google Vertex AI](/docs/tutorial-ai-providers/google_vertex)
+- [AWS Bedrock](https://docs.codegpt.co/docs/tutorial-ai-providers/bedrock)
+- [DeepSeek](/docs/tutorial-ai-providers/deepseek)
+- [NVIDIA](/docs/tutorial-ai-providers/nvidia)
 - [Huggingface](/docs/tutorial-ai-providers/huggingface)
-- [GPT4All](/docs/tutorial-ai-providers/gpt4all)
 - [Ollama](/docs/tutorial-ai-providers/ollama)
+- [Fireworks](/docs/tutorial-ai-providers/fireworks)
+- [LM Studio](/docs/tutorial-ai-providers/lmstudio)
+- [Perplexity](/docs/tutorial-ai-providers/perplexity)
+- [Cerebras](/docs/tutorial-ai-providers/cerebras)
+- [Custom](/docs/tutorial-ai-providers/custom)
 
 :::
 
-### Máximo de Tokens
+1. 🔑 Defina a conexão `Connect`. O status deve mudar na janela. Para mais detalhes, consulte a página ou cada provedor acima.
 
-Os tokens podem ser considerados como partes de palavras. Antes que a API processe as solicitações, a entrada é dividida em tokens.
+  <table>
+    <tr>
+      <td align="center">
+        <img width="250" height="150" src="https://github.com/user-attachments/assets/0f562594-1023-44ce-beed-f2d5d9321fff" />
+      </td>
+      <td align="center">
+        <img width="250" height="150" src="https://github.com/user-attachments/assets/a4230449-9148-44cb-b784-ed2835b519da" />
+      </td>
+    </tr>
+  </table>
 
-Cada modelo tem um número máximo de tokens. Selecione o número de tokens dependendo do comprimento da resposta desejada e do modelo selecionado.
+## Configurações de Chat 
 
-Saiba mais: [Tokens by OpenAI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
+- Explore este menu para ajustar os atributos do provedor, refinar o controle de temperatura ou o estilo da conversa, e gerenciar a memória da janela.
 
-### Modelo
+:::note Explore as configurações de chat
+<p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/d5971d49-a13a-472b-a0a2-601359154bf3"/></p>
 
-O serviço fornece acesso a muitos modelos diferentes, agrupados por família e habilidade. Uma família de modelos normalmente associa modelos pela tarefa pretendida.
+:::
 
-Saiba mais: [Models by OpenAI](https://beta.openai.com/docs/models/overview)
+### Estilo de Conversa
 
-### ID da Organização (OpenAI)
-
-A informação do ID da organização aplica-se apenas à OpenAI e permite que você selecione a organização com a qual usará sua Chave de API.
-
-### Idioma da Consulta
-
-Selecione o idioma em que você trabalhará nas interações com a API. Para funcionalidades como Explicar ou Documentar, cada consulta será feita no idioma selecionado.
-
-### Temperatura
-
-Este é um parâmetro que pode ser ajustado. Ele determina o nível de aleatoriedade ou "criatividade" no texto gerado. Uma temperatura mais alta resultará em uma saída mais variada e criativa, enquanto uma temperatura mais baixa produzirá uma saída mais semelhante aos dados de treinamento e menos propensa a conter conteúdo inesperado ou surpreendente.
-
-É um valor entre 0 e 1. 0 sendo o mais determinístico e 1 sendo o mais aleatório e criativo. A temperatura padrão é 0,3
-
-Saiba mais: [Temperature by Cohere](https://docs.cohere.ai/docs/temperature)
+O valor padrão é 0.3, representando a aleatoriedade ou "criatividade" na geração de texto. Um valor mais alto gera saídas mais diversas, enquanto um valor mais baixo se mantém mais próximo dos dados de treinamento. 0 é o mais determinístico, e 1 é o mais aleatório.
 
 ### Memória da Janela
 
-Ela armazena uma lista de conversas passadas, mas apenas as últimas K (um número específico) conversas são usadas da lista salva. Isso é feito para evitar que o buffer fique muito grande e exceda o limite de tokens.
+Esta ferramenta armazena o registro histórico de suas conversas passadas. Por padrão, está definido como 4, mas você pode ajustar esse valor de acordo com sua preferência.
 
-- padrão: 4
-- mínimo: 1
-- máximo: 50
+- Padrão: 4
+- Mínimo: 1
+- Máximo: 10
