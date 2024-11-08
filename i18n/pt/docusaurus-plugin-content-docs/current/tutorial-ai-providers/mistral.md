@@ -1,34 +1,53 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
 
-# Mistral
-Site oficial https://mistral.ai/
+# Microsoft Azure AI
 
-## AI de ponta nas suas mãos
-Somos uma pequena equipe criativa com altos padrões científicos. Criamos modelos de IA eficientes, úteis e confiáveis através de inovações revolucionárias.
+Site oficial https://azure.microsoft.com/en-us/products/ai-services/openai-service
 
-## Conecte sua conta Mistral
-- Crie uma conta no [Mistral](https://auth.mistral.ai/ui/login)
-- Acesse sua [Plataforma / Chaves API](https://console.mistral.ai/users/api-keys/)
-- Escolha `Mistral` como `Provedor`
-- `Estabeleça a conexão` e vincule com sua conta no botão `⋮`.
-- Crie e copie a Chave API aqui :
-<p align="center">
-      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/bd736fe1-f302-4a2d-a308-3b1ef9dec728" />
-</p>
+## Microsoft Azure
+- Crie uma conta em [Microsoft Azure](https://azure.microsoft.com/en-us/free)
+- Obtenha acesso aos [Serviços Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
+- Vá para [Azure OpenAI Studio](https://oai.azure.com/)
+- Obtenha sua `Secret Key` e o `Custom Link`.
+
+Para obter o endpoint e a chave secreta, você deve implantar o modelo e, em seguida, abri-lo no Azure OpenAI Studio:
+Depois, selecione "View Code"
+
+<img width="400" height="250" src="https://github.com/davila7/code-gpt-docs/assets/6216945/863be7d6-da26-460e-a365-c40b282d81e1" />
+
+Esta seção fornece a chave da API e o link personalizado. Para exibir o link personalizado completo, selecione CURL na seleção de código e copie o endpoint.
+
+  <img width="450" height="400" src="https://github.com/davila7/code-gpt-docs/assets/6216945/cbc54b0a-4afb-4ce5-9d4e-ba20cbe675dd" />
+
+
+- Vá para o VSCode e escolha `Azure` como `Provider`.
+- Clique em `Connect` ou `Set connection`.
+- Cole a API Key aqui e clique em `Connect`:
  
-- Ou, no VSCode, pressione ```cmd + shift + p``` e procure por **`Definir Chave API`**
-- Cole sua Chave API
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/a1062d6a-e588-46f8-853a-d0d76115821b" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/20e08978-313a-4ba4-99d9-54d3a19ccc28"/>  
+       </td>
+  </tr>
+</table>
 
-:::caution Remover Chave
-Se desejar remover sua Chave API do CodeGPT, abra a Paleta de Comandos e procure por `CodeGPT: Remover API KEY`. Ou você pode selecionar o botão `⋮` e clicar em `Remover Conexão`
+:::caution Remover Key
+Para remover sua API Key do CodeGPT, clique na caixa do provider e `Disconnect`.
+
+<p align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/3f4b05d4-f994-48b9-b43f-fa17bba97fe2" />
+</p>
+
 :::
 
-## Mistral disponível no Code GPT
-- mistral-tiny
-- mistral-small
-- mistral-medium
+## Modelos Azure OpenAI disponíveis no Code GPT
+- Azure
 
-## Erros de API
-Se estiver recebendo erros de API, consulte o seguinte link: [Documentação do Mistral](https://docs.mistral.ai/)
+## Erros da API
+Se você estiver recebendo erros da API, verifique o seguinte link: [Microsoft Azure Documentation](https://azure.microsoft.com/en-us/products/ai-services/openai-service/)

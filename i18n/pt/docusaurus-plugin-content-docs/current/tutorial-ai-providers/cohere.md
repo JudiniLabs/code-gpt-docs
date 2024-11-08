@@ -1,37 +1,45 @@
 ---
-sidebar_position: 9
+sidebar_position: 5
 ---
-
 # Cohere
-
 Site oficial [https://cohere.ai](https://cohere.ai)
 
-A Cohere é uma empresa de inteligência artificial especializada no desenvolvimento de modelos de linguagem. Eles utilizam técnicas avançadas de processamento de linguagem natural e aprendizado de máquina para melhorar a compreensão da linguagem humana e a capacidade de gerar texto automaticamente. Seus modelos são utilizados em aplicações como análise de sentimento, sumarização e tradução automática.
+Cohere é uma empresa de inteligência artificial que se especializa no desenvolvimento de modelos de linguagem. Ela utiliza técnicas avançadas de processamento de linguagem natural e aprendizado de máquina para melhorar a compreensão da linguagem humana e a capacidade de gerar texto automaticamente. Seus modelos são usados em análise de sentimentos, sumarização e aplicações de tradução automática.
 
-## Conectar sua conta Cohere
-
+## Conecte sua conta Cohere
 - Crie uma conta em [cohere.ai](https://cohere.ai/)
-- Acesse seu [painel](https://dashboard.cohere.com/api-keys)
-- Escolha `Cohere` como `Provedor`
-- `Defina a conexão` e vincule com sua conta no botão `⋮`.
-- Copie a Chave API aqui:
+- Vá para seu [painel](https://dashboard.cohere.com/api-keys)
+- Vá para o VSCode e escolha `Cohere` como `Provider`
+- Clique em `Connect` ou `Set connection`
+- Cole a API Key aqui e clique em `Connect`:
+  
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/bfc0836e-ad54-48b5-95cb-4d55d09a3fcd" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/4c614029-24a3-4c9e-9c38-6f7524efa568" />
+    </td>
+  </tr>
+</table>
+
+
+:::caution Remover Key
+Se você deseja remover sua API Key do CodeGPT, clique na caixa do provider e clique em `Disconnect`.
 
 <p align="center">
-      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/2a15c150-bbac-4376-9e0f-d96068220db2" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/e3170e92-6388-4141-b960-fc1ec41f507c" />
 </p>
 
-- Ou, no VSCode, pressione `cmd + shift + p` e pesquise **`Definir Chave API`**
-- Cole sua Chave API
-
-:::caution Remover Chave
-Se desejar remover sua Chave API do CodeGPT, abra a Paleta de Comandos e pesquise por `CodeGPT: Remover API KEY`. Ou você pode selecionar o botão `⋮` e clicar em `Remover Conexão`
 :::
 
-## Modelos noturnos de Command disponíveis no Code GPT
-
+## Modelos disponíveis no CodeGPT
+- aya
+- command-r-plus
+- command-r
 - command
 - command-light
-
-## Erros de API
-
-Se estiver recebendo erros de API, verifique o seguinte link: [Erros de API da Cohere](https://docs.cohere.ai/reference/errors)
+  
+## Erros da API
+Se você estiver recebendo erros da API, verifique o seguinte link: [Cohere API Errors](https://docs.cohere.ai/reference/errors)
