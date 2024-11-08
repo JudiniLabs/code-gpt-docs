@@ -31,15 +31,15 @@ O Cluster Wafer-Scale da Cerebras é meticulosamente projetado para permitir o t
 
 - Uma vez que você tenha a API Key, vá para a extensão do VSCode
 - Selecione Cerebras como o provedor com o modelo desejado
-- Cole a API Key
-- Clique em "Connect"
+- Cole a `API Key`
+- Clique em `Connect`
 
 <p align="center">
       <img width="500" height="350" src="https://github.com/user-attachments/assets/1593cb8a-7727-459a-8b9b-526af4d0a06c" />
 </p>
 
 :::caution Remover Chave
-Se você quiser remover sua API Key do CodeGPT, clique na caixa do provedor e "Disconnect".
+Se você quiser remover sua API Key do CodeGPT, clique na caixa do provedor e `Disconnect`.
 
 <p align="center">
       <img width="300" height="150" src="https://github.com/user-attachments/assets/eb8a35bf-ba6d-4113-b3b5-af4f8e6bedb5" />
