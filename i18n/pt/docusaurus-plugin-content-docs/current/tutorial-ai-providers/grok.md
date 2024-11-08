@@ -20,10 +20,10 @@ xAI, liderado por Elon Musk, está revolucionando o descobrimento científico at
 <table>
   <tr>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/81e954a9-974e-45e0-84f0-ac1316987ed8" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/e5a1c889-20b8-4141-8f58-89cab2c2b264" />
       </td>
     <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/7b589a12-7529-466d-9b05-5da5922ff31a" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/9bf218f0-d172-46b3-aa28-d3ab8edc4c5e" />
     </td>
   </tr>
 </table>
@@ -32,7 +32,7 @@ xAI, liderado por Elon Musk, está revolucionando o descobrimento científico at
 Se você quiser remover sua API Key do CodeGPT, clique na caixa do provedor e clique em `Disconnect`.
 
 <p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/d6eb8a17-a143-43ea-9f42-1d9fbcf192e8" />
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/ad39bb68-4c50-4705-9d94-65b22ca94d4e" />
 </p>
 
 :::
