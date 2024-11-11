@@ -29,6 +29,6 @@ Disponible como una extensión tanto para [Visual Studio Code](https://marketpla
 
 :::info
 
-Esta herramienta no solo te permite interactuar dinámicamente con tu entorno de trabajo, sino que también puede crear Agentes de IA que enriquecen los LLMs con contexto y te conectan con repositorios, informes y otras áreas críticas de tu negocio.
+Esta herramienta no solo te permite interactuar dinámicamente con tu entorno de trabajo, sino que también puede crear Agentes de IA que enriquecen los LLMs con contexto y te conectan con repositorios, informes y otras áreas críticas de tu negocio. 
 
 :::
