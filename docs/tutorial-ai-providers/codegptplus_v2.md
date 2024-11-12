@@ -57,8 +57,7 @@ Now is possible to interact with `models`, `Marketplace` agents, and the agents 
 
 ### Models
 On [CodeGPT Studio](https://app.codegpt.co/en), you can set the agents with these models:
-- O1 Mini
-- O1 Preview
+
 - Mistral Large 2
 - Codestral
 - Meta/Llama 3.1 405b
