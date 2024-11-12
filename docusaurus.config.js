@@ -29,14 +29,16 @@ const config = {
     defaultLocale: 'en',
     locales: ["en", "pt", "es"],
     localeConfigs: {
+      // add portuguese
       pt: {
         label: 'Português',
         direction: 'ltr',
       },
+      // add spanish
       es: {
         label: 'Español',
         direction: 'ltr',
-      // otras configuraciones de idiomas
+      },
     },
   },
   customFields:{
