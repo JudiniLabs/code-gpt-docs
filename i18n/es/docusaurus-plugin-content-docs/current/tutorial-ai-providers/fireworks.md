@@ -3,11 +3,13 @@ sidebar_position: 13
 ---
 
 # Fireworks
+
 Sitio web oficial https://app.fireworks.ai/
 
 Experimenta la plataforma de inferencia de IA generativa más rápida del mundo. Utiliza un modelo de código abierto de última generación o ajústalo y despliégalo sin costos adicionales.
 
 ## Conectar tu cuenta de Fireworks
+
 - Crea una cuenta en [Fireworks](https://app.fireworks.ai/login).
 - Ve a tu [Perfil / Claves API](https://app.fireworks.ai/users?tab=apps).
 - Elige `Fireworks` como `Proveedor`
@@ -20,17 +22,17 @@ Experimenta la plataforma de inferencia de IA generativa más rápida del mundo.
   
 - Pega tu Clave API
 
-
 :::caution Eliminar Clave
 Si deseas eliminar tu Clave API de CodeGPT, abre la Paleta de Comandos y busca `CodeGPT: Eliminar API KEY`. O puedes seleccionar el botón `⋮` y hacer clic en `Eliminar Conexión`
 :::
 
 ## Fireworks disponibles en Code GPT
+
 - llama-v2-7b-chat
 - llama-v2-70b-chat
 - mixtral-8x7b
 - zephyr-7b-beta
 
 ## Errores de API
-Si estás recibiendo errores de API, consulta el siguiente enlace: [Documentación de Fireworks](https://readme.fireworks.ai/docs)
 
+Si estás recibiendo errores de API, consulta el siguiente enlace: [Documentación de Fireworks](https://readme.fireworks.ai/docs)

@@ -13,6 +13,7 @@ En este tutorial, verás cómo conectar tu cuenta de CodeGPT Plus con la extensi
 ## Conectar cuenta de CodeGPT Plus
 
 ### Conectar por inicio de sesión
+
 - Elige `CodeGPT Plus legacy` como `Proveedor`
 - `Establece conexión` y vincúlalo con tu cuenta de [CodeGPT Plus legacy](https://account.codegpt.co/).
 :::note CodeGPT Plus
@@ -22,9 +23,10 @@ En este tutorial, verás cómo conectar tu cuenta de CodeGPT Plus con la extensi
 :::
 
 ### Conectar por clave API
-  - Solicita tu Clave API desde [CodeGPT Plus](https://plus.codegpt.co/settings/apikey)
-  - Después de crear una cuenta, abre VSCode y elige CodeGPT como `Provider`
-  - Pega tu Clave API
+
+- Solicita tu Clave API desde [CodeGPT Plus](https://plus.codegpt.co/settings/apikey)
+- Después de crear una cuenta, abre VSCode y elige CodeGPT como `Provider`
+- Pega tu Clave API
 
 :::caution Eliminar Clave
 Si deseas eliminar tu Clave API de CodeGPT, abre la Paleta de Comandos y busca `CodeGPT: Eliminar API KEY`. O puedes seleccionar el botón `⋮` y hacer clic en `Eliminar Conexión`
@@ -35,15 +37,18 @@ Si deseas eliminar tu Clave API de CodeGPT, abre la Paleta de Comandos y busca `
 </p>
 
 ## Seleccionar tu proveedor y modelo
+
 Asegúrate de tener **CodeGPT Plus** seleccionado como el proveedor y **CodeGPT Plus** como el modelo en la configuración.
 
 :::note Configuración
+
 <p align="center">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6216945/274446065-993eca0d-30e3-4642-8e08-c5e51381f0e6.png" />
 </p>
 :::
 
 ## Seleccionar un Agente 🤖
+
 Abre el chat y selecciona tu agente después de `Establecer conexión`
 
 <p align="center">
