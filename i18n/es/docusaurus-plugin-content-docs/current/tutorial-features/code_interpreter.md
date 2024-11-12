@@ -9,7 +9,7 @@ El **_Intérprete de Código_** te permite ejecutar código dentro de los bloque
 ## Cómo configurar:
 
 - Ve a Marketplace en la Extensión de VSCode
-- Busca e instala agentes con este ícono (por ejemplo, `Python`, `Claude 3.5 Sonnet`, `GPT-4o`)
+- Busca e instala agentes con este ícono (por ejemplo, `Python`, `Claude 3.5 Sonnet`, `GPT-4o`, etc)
 
 <table>
   <tr>
