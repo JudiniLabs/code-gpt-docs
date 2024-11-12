@@ -37,4 +37,3 @@ Si prefieres usar Cursor, puedes descargarlo desde este enlace: [Descargar](http
 :::note Busca "Code GPT" en la pestaña de Extensiones
 ![extensiones](https://github.com/davila7/code-gpt-docs/assets/6216945/58262780-461f-4e88-8a53-08a313e0297b)
 :::
-
