@@ -1,6 +1,9 @@
 # CodeGPT Plus 
 https://codegpt.co
 
+# VSCode Extension
+[Download from VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
+
 # Extension Docs
 https://docs.codegpt.co
 
