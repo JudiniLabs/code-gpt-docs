@@ -15,14 +15,19 @@ The Autocomplete feature empowers you to choose from a curated selection of mode
         - CodeGPT Plus
         - CodeGPT Plus-turbo
         - Mistral-codestral-latest
+        - Ollama-qwen2.5-code:0.5b
         - Ollama-qwen2.5-code:1.5b
+        - Ollama-qwen2.5-code:3b
         - Ollama qwen2.5-code:7b
+        - Ollama-qwen2.5-code:14b
+        - Ollama-qwen2.5-code:32b
         - Ollama deepseeek-coder:base
         - Ollama deepseek-coder-v2
         - Ollama codellama:code
         - Ollama codegemma:code
-
-    - By default, the AI model determines the maximum number of tokens. Please refer to the documentation of each provider for specific details. Additionally, there is a delay of 3000 milliseconds in generating the suggestion.
+          
+    - ⚠️**IMPORTANT**⚠️: Ensure that Ollama is running locally and that the model you are using is properly installed. For Mistral Codestral, insert the API Key and set Mistral as the main provider.
+    - By default, the AI model determines the maximum number of tokens. Please refer to each provider's documentation for specific details. Additionally, the suggestion is generated with a delay of 3000 milliseconds.
 
 :::note Autocomplete settings
 <p align="center">
