@@ -6,7 +6,7 @@ To ensure CodeGPT functions correctly, the following software and hardware requi
 
 | Component                  | Requirement Details                                                                 |
 |----------------------------|-------------------------------------------------------------------------------------|
-| **Compatible Operating Systems** | - **macOS:** Works on all versions except Sonoma.  - **Linux:** Compatible starting from deployments in 2024.  - **Windows:** Works well on Windows 11 and later versions. |
+| **Compatible Operating Systems** |- **macOS:** Works on all versions except Sonoma.<br>- **Linux:** Compatible starting from deployments in 2024.  - **Windows:** Works well on Windows 11 and later versions. |
 | **Visual Studio Code (VSCode) Version** | Version 1.96.0 or higher. |
 | **Node.js Version**        | Version 20.0.0 or higher.                                                   |
 | **Port**                   | Ensure port 54112 is available, as the extension requires it to function.           |
@@ -16,7 +16,7 @@ To ensure CodeGPT functions correctly, the following software and hardware requi
 | Component      | Requirement Details               |
 |----------------|-----------------------------------|
 | **RAM**        | Minimum of 1GB.               |
-| **Disk Space** | Minimum of 20MB of available disk space. Depending on the specific model, if you are using local models such as Ollama, additional space will be required. |
+| **Disk Space** | Minimum of 20MB of available disk space. Depending on the specific model, additional space will be required if you are using local models such as Ollama. |
 | **Processor**  | - Intel Core i5 or higher. - Not compatible with ARM processors older than 2024. |
 
 ## Connection Requirements
