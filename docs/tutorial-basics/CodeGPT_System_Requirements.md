@@ -6,7 +6,7 @@ To ensure CodeGPT functions correctly, the following software and hardware requi
 
 | Component                  | Requirement Details                                                                 |
 |----------------------------|-------------------------------------------------------------------------------------|
-| **Compatible Operating Systems** |- **macOS:** Works on all versions except Sonoma.<br>- **Linux:** Compatible starting from deployments in 2024.  - **Windows:** Works well on Windows 11 and later versions. |
+| **Compatible Operating Systems** |- **macOS:** Works on all versions except Sonoma.- **Linux:** Compatible starting from deployments in 2024.  - **Windows:** Works well on Windows 11 and later versions. |
 | **Visual Studio Code (VSCode) Version** | Version 1.96.0 or higher. |
 | **Node.js Version**        | Version 20.0.0 or higher.                                                   |
 | **Port**                   | Ensure port 54112 is available, as the extension requires it to function.           |
@@ -24,6 +24,13 @@ To ensure CodeGPT functions correctly, the following software and hardware requi
 | Component | Requirement Details                                                                 |
 |-----------|-------------------------------------------------------------------------------------|
 | **Network** | - Should not be on a VLAN or VPN connection unless the administrator or firewall authorizes the domains of codepg.co. - Can work with local models but requires an internet connection to use CodeGPT. |
+
+## Other domains:
+- api.github.com
+- github.com
+### CodeGPT:
+- storage.codegpt.co
+- api.codegpt.co
 
 These requirements ensure that CodeGPT operates optimally on your system.
 
