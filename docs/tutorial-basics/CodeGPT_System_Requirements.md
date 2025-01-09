@@ -6,5 +6,5 @@ To ensure CodeGPT functions correctly, the following software and hardware requi
 
 | Component                  | Requirement Details                                                                 |
 |----------------------------|-------------------------------------------------------------------------------------|
-| **Compatible Operating Systems** | - **macOS:** Works on all versions except Sonoma. <br> - **Linux:** Compatible starting from deployments in 2024.  <br> - **Windows:** Works well on Windows 11 and later versions. |
+| **Compatible Operating Systems** | - **macOS:** Works on all versions except Sonoma. - **Linux:** Compatible starting from deployments in 2024.  - **Windows:** Works well on Windows 11 and later versions. |
 
