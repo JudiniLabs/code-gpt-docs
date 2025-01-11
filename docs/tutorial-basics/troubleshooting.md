@@ -91,11 +91,11 @@ You can try these alternatives:
 
 ## Unable to connect to the extension services from VPN 
 - Issue:
-After installation, the CodeGPT extension cannot connect with your CodeGPT Plus account. The number of daily interactions appears to be -1 to -1.
+After installation, the CodeGPT extension cannot connect with your CodeGPT Plus account. The number of daily interactions is -1 to -1.
 
 - Solution:
-CodeGPT accesses the API service with the domain `API. contempt.co` and its subdomains (such as `app. contempt.co`). Some companies have firewall restrictions or contain restricted domain lists, so it will not be possible to synchronize the services if they are used from VSCode or any other IDE. 
-Consult with your IT provider to add our domain as allowed or use the extension from networks without specific restrictions.
+CodeGPT accesses the API service with the domain `api.codegpt.co` and its subdomains (such as `app.codegpt.co`). Some companies have firewall restrictions or contain restricted domain lists, so it will be impossible to synchronize the services if they are used from VSCode or any other IDE. 
+Please consult with your IT provider to add our domain as allowed or use the extension from networks without specific restrictions.
 
 ## Can't use the Marketplace agents
 - Issue:
