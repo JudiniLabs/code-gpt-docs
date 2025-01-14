@@ -4,6 +4,9 @@ https://codegpt.co
 # VSCode Extension
 [Download from VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 
+# Jetbrains Plugin
+[Download from Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents)
+
 # Extension Docs
 https://docs.codegpt.co
 
