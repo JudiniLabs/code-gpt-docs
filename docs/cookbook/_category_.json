@@ -1,7 +1,7 @@
 {
     "label": "📜🍴 Cookbook",
     "position": 5,
-    "subtitle": "Explore various ways to interact and get the most out of CodeGPT.",
+    
     "link": {
       "type": "generated-index",
       "description": "Check out the examples and try your use cases. Feel free to comment and share your experiences in our Discord community."
