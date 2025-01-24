@@ -44,7 +44,7 @@ window.onload = function() {
 
 ## Using `Refactor` command
 - Go to VSCode Extension
-- Pick a Model or agent that has the `Refactor` feature. Please refer to the [Refactoring(https://docs.codegpt.co/docs/tutorial-features/code_refactoring) section to learn more information.
+- Pick a Model or agent that has the `Refactor` feature. Please refer to the [Refactoring](https://docs.codegpt.co/docs/tutorial-features/code_refactoring) section to learn more information.
 - Write slash `/` and choose `Refactor` command
 - wait the response
 
