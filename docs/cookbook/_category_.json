@@ -3,7 +3,6 @@
     "position": 5,
     
     "link": {
-      "type": "generated-index",
-      "description": "Check out the examples and try your use cases. Feel free to comment and share your experiences in our Discord community."
+      "type": "generated-index"
     }
 }
