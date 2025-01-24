@@ -7,8 +7,6 @@ CodeGPT features like /Refactor can help refactor the code using modern practice
 
 ## Example with Javascript ES5 legacy code:
 
-# Refactorización de Código Legacy a Código Actualizado (ES6+)
-
 ```javascript
 
 // Código Legacy (ES5)
