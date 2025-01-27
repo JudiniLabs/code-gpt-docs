@@ -32,7 +32,7 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 </p>
 
 :::caution Remove Key 
-There is no need to disconnect; change the provider. If the agent doesn't respond and a "Gain error" appears, please close VSCode. Then, please make sure that LM Studio runs with the model before reopening it.
+There is no need to disconnect; change the provider. If the agent doesn't respond and a "Gain error" appears, please close VSCode. Then, please ensure LM Studio runs with the model before reopening it.
 :::
 
    
