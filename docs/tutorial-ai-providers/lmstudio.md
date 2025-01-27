@@ -28,11 +28,11 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 - Choose LM Studio as `Provider`.
  
    <p align="center">
-  <img width="350" height="170" src="(https://github.com/user-attachments/assets/e73743e8-8102-4168-b482-6481189367d6" />
+  <img width="350" height="170" src="https://github.com/user-attachments/assets/e73743e8-8102-4168-b482-6481189367d6"/>
 </p>
 
 :::caution Remove Key 
-There is no need to disconnect; just change the provider. If the agent doesn't respond and a "Gain error" appears, please close VSCode. Then, ensure that LM Studio runs with the model before reopening it.
+There is no need to disconnect; change the provider. If the agent doesn't respond and a "Gain error" appears, please close VSCode. Then, please make sure that LM Studio runs with the model before reopening it.
 :::
 
    
