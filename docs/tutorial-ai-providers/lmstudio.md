@@ -9,20 +9,26 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 ## Connect LM Studio
 - Download LM Studio here [lmstudio.ai](https://lmstudio.ai/)
 - Open LM Studio and navigate to the `My Models` tab. Please ensure that you download a model.
+- If you have not downloaded a model, go to the `Search` tab and search for a model.
+
+<p align="center">
+       <img width="425" height="100" src="https://github.com/user-attachments/assets/c248167b-32be-415a-9650-f5a8a83ba294"/>
+ </p>
+
 - Next, go to `Local Server` tab.
 - Click on `Select a model to load` and choose a model.
 
   <p align="center">
-       <img width="425" height="100" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4ef13a7b-0ba9-42cc-8644-4d7a93b5734a"/>
+       <img width="425" height="100" src="https://github.com/user-attachments/assets/2e3fb6ed-d64c-4938-b243-372f3ef9d06d"/>
  </p>
 
 - Please wait until the loading reaches 100% completion.
 - Click on `Start Server` and keep LMStudio running.
-- Launch CodeGPT extension on VSCode.
+- Launch CodeGPT extension on VSCode/Local LLMs .
 - Choose LM Studio as `Provider`.
  
    <p align="center">
-  <img width="350" height="170" src="https://github.com/davila7/code-gpt-docs/assets/37567214/8bfeb19f-e4ce-4a79-b56d-37a7e8b9f5ac" />
+  <img width="350" height="170" src="(https://github.com/user-attachments/assets/e73743e8-8102-4168-b482-6481189367d6" />
 </p>
 
 :::caution Remove Key 

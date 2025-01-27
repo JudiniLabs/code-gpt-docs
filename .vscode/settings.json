@@ -1,5 +1,5 @@
 {
-    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "CodeGPT.apiKey": "LM Studio",
     "CodeGPT.Autocomplete.enabled": true,
     "CodeGPT.Autocomplete.provider": "CodeGPT Plus - Plus",
     "CodeGPT.Autocomplete.suggestionDelay": 700
