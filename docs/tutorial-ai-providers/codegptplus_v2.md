@@ -90,4 +90,4 @@ You can choose the model you want to use in the chat, click on the model name, a
 
 You can install the agents from your account click [here](https://app.codegpt.co/en/marketplace)
 
-<img width="650" height="500" alt="" src="https://github.com/davila7/code-gpt-docs/assets/6216945/6dd16f48-c8da-4e23-94b6-6f63e23eb5e1" />
+<img width="650" height="500" alt="" src="https://github.com/JudiniLabs/code-gpt-docs/assets/6216945/6dd16f48-c8da-4e23-94b6-6f63e23eb5e1" />

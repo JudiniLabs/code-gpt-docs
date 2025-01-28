@@ -22,7 +22,7 @@ Select the code, right-click, then select `CodeGPT: Find Problems CodeGPT`
 
 :::note CodeGPT: Find Problems CodeGPT
 <p align="center">
-  <img width="850" height="550" src="https://github.com/davila7/code-gpt-docs/assets/37567214/0f5b4840-5e56-4d8b-a626-e0114ba7f408" />
+  <img width="850" height="550" src="https://github.com/JudiniLabs/code-gpt-docs/assets/37567214/0f5b4840-5e56-4d8b-a626-e0114ba7f408" />
 </p>
 :::
 

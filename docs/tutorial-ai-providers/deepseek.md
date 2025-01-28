@@ -40,7 +40,7 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 
 ## How to use it
 <p align="center">
-      <img width="500" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/6fb41a1e-71cf-4518-a073-47317168d8dd" />
+      <img width="500" height="250" src="https://github.com/JudiniLabs/code-gpt-docs/assets/37567214/6fb41a1e-71cf-4518-a073-47317168d8dd" />
 </p>
 
 

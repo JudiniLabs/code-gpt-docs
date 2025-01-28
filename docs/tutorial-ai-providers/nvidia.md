@@ -13,7 +13,7 @@ The leading open models built by the community, optimized and accelerated by NVI
 - Select any model and then click on **Get API Key**
 
 <p align="center">
-      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/6216945/23065164-e04e-4f8f-a3f0-36e1ff65bcab" />
+      <img width="450" height="300" src="https://github.com/JudiniLabs/code-gpt-docs/assets/6216945/23065164-e04e-4f8f-a3f0-36e1ff65bcab" />
 </p>
 
 - Open VSCode and then open the CodeGPT tab

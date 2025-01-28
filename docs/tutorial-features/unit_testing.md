@@ -21,7 +21,7 @@ Select the code, right-click, then select `Unit Test CodeGPT`
 
 :::note CodeGPT: Unit Test CodeGPT
 <p align="center">
-  <img width="850" height="600" src="https://github.com/davila7/code-gpt-docs/assets/37567214/fc3d47ca-cf39-4412-b7af-ecf5ef7f8098" />
+  <img width="850" height="600" src="https://github.com/JudiniLabs/code-gpt-docs/assets/37567214/fc3d47ca-cf39-4412-b7af-ecf5ef7f8098" />
 </p>
 :::
 

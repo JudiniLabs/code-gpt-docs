@@ -23,7 +23,7 @@ Once the chat tab opens, you can start a conversation by typing a message and hi
 
 :::note CodeGPT Chat conversation
 <p align="center">
-      <img width="750" height="550" src="https://github.com/davila7/code-gpt-docs/assets/37567214/acc01012-7309-4669-a3e6-87ed1ec78923"/>
+      <img width="750" height="550" src="https://github.com/JudiniLabs/code-gpt-docs/assets/37567214/acc01012-7309-4669-a3e6-87ed1ec78923"/>
 </p>
 :::
 
