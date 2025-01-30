@@ -12,14 +12,14 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 - If you have not downloaded a model, go to the `Search` tab and search for a model.
 
 <p align="center">
-       <img width="425" height="100" src="https://github.com/user-attachments/assets/c248167b-32be-415a-9650-f5a8a83ba294"/>
+       <img width="625" height="200" src="https://github.com/user-attachments/assets/c248167b-32be-415a-9650-f5a8a83ba294"/>
  </p>
 
 - Next, go to `Local Server` tab.
 - Click on `Select a model to load` and choose a model.
 
   <p align="center">
-       <img width="425" height="100" src="https://github.com/user-attachments/assets/2e3fb6ed-d64c-4938-b243-372f3ef9d06d"/>
+       <img width="625" height="200" src="https://github.com/user-attachments/assets/2e3fb6ed-d64c-4938-b243-372f3ef9d06d"/>
  </p>
 
 - Please wait until the loading reaches 100% completion.
@@ -28,7 +28,7 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 - Choose LM Studio as `Provider`.
  
    <p align="center">
-  <img width="350" height="170" src="https://github.com/user-attachments/assets/e73743e8-8102-4168-b482-6481189367d6"/>
+  <img width="650" height="325" src="https://github.com/user-attachments/assets/e73743e8-8102-4168-b482-6481189367d6"/>
 </p>
 
 :::caution Remove Key 
