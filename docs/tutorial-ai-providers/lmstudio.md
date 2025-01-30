@@ -28,7 +28,7 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 - Choose LM Studio as `Provider`.
  
    <p align="center">
-  <img width="650" height="325" src="https://github.com/user-attachments/assets/e73743e8-8102-4168-b482-6481189367d6"/>
+  <img width="450" height="125" src="https://github.com/user-attachments/assets/e73743e8-8102-4168-b482-6481189367d6"/>
 </p>
 
 :::caution Remove Key 
