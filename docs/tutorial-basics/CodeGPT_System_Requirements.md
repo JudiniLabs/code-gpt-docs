@@ -25,13 +25,16 @@ To ensure CodeGPT functions correctly, the following software and hardware requi
 |-----------|-------------------------------------------------------------------------------------|
 | **Network** | - Should not be on a VLAN or VPN connection unless the administrator or firewall authorizes the domains of codepg.co. - Can work with local models but requires an internet connection to use CodeGPT. |
 
-## Other domains:
-- api.github.com
-- github.com
-### CodeGPT:
+### CodeGPT domanins:
 - storage.codegpt.co
 - api.codegpt.co
+
+### Other domains:
+- api.github.com
+- github.com
 - https://marketplace.visualstudio.com/ (to install from VSCode)
+
+
 
 These requirements ensure that CodeGPT operates optimally on your system.
 
