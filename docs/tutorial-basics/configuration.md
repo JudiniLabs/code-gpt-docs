@@ -13,22 +13,18 @@ The main menu is your primary navigation hub within the CodeGPT application. It 
 ### Tools
 
 - `Chat`: Engage in AI conversations using the models of your chosen provider or with agents on CodeGPT Plus.
-- `Autocomplete`: 💻 Enhance your coding experience with intelligent code completion suggestions.
+- `Autocomplete`: 💻 Enhance your coding experience with intelligent code completion suggestions (enable by default). Also, you can find the button for direct access here:
 
-### Experimental 
+<p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/4439410d-c759-48d6-990d-5d7496849bc3"/></p>
 
-This section showcases experimental features 🧪 that are in the development phase.
+## Help
 
-- `React Sandbox`: Experiment with React components through interaction or image upload.
-
-
-### Help
-Look here when you need help.
+Please be sure to look here when you need help.
 
 - `Extension Docs`: The document you are reading right now.
 - `API Docs`: 📝 Access the API documentation for CodeGPT.
 - `Report an issue`: Any issues you encounter can be reported in the [Github repository](https://github.com/JudiniLabs/code-gpt-docs/issues).
-- `Feedback`: Send 💌 feedback to the team to help us improve the product. 
+- `Feedback`: [Send](https://codegpt.canny.io/requests) 💌 feedback to the team to help us improve the product. 
 
 ### Settings
 
@@ -37,67 +33,21 @@ These optional configurations enhance your user experience.
 - `Font Size`: Adjust the font size to your preference.
 - `Color Mode`: Alter the visual interface of the application by switching between the dark and light themes.
 
+## Sync Your CodeGPT Account
 
+- To sync your CodeGPT account, log in using `Gmail`, `GitHub`, or other `More login options`.
+- The browser will open CodeGPT Studio. If you don't have an account, you can create one by following the on-screen instructions.
+- A confirmation message will appear once logged in, and you can return to the VS Extension.
 
-## Select model provider
+<p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/9de1b8ef-110b-486a-9291-4602e4ad43e3"/></p>
 
-1. Select your AI provider from the dropdown menu, then enter the `API Key` for the selected provider or follow the instructions for specific steps.
+- Now, you can use the CodeGPT Extension to synchronize the custom agents. For more information, check this [guide](https://docs.codegpt.co/docs/tutorial-ai-providers/codegptplus_v2).
 
-:::info Get your API Key
-
-- [CodeGPT Plus](/docs/tutorial-ai-providers/codegptplus_v2)
-- [OpenAI](/docs/tutorial-ai-providers/openai)
-- [Anthropic](/docs/tutorial-ai-providers/anthropic)
-- [GitHub](/docs/tutorial-ai-providers/github_models)
-- [Mistral](/docs/tutorial-ai-providers/mistral)
-- [Cohere](/docs/tutorial-ai-providers/cohere)
-- [Groq](/docs/tutorial-ai-providers/groq)
-- [Google AI Studio](/docs/tutorial-ai-providers/google_studio)
-- [Microsoft Azure](/docs/tutorial-ai-providers/microsoft-azure)
-- [Google Vertex AI](/docs/tutorial-ai-providers/google_vertex)
-- [AWS Bedrock](https://docs.codegpt.co/docs/tutorial-ai-providers/bedrock)
-- [DeepSeek](/docs/tutorial-ai-providers/deepseek)
-- [NVIDIA](/docs/tutorial-ai-providers/nvidia)
-- [Huggingface](/docs/tutorial-ai-providers/huggingface)
-- [Ollama](/docs/tutorial-ai-providers/ollama)
-- [Fireworks](/docs/tutorial-ai-providers/fireworks)
-- [LM Studio](/docs/tutorial-ai-providers/lmstudio)
-- [Perplexity](/docs/tutorial-ai-providers/perplexity)
-- [Cerebras](/docs/tutorial-ai-providers/cerebras)
-- [Custom](/docs/tutorial-ai-providers/custom)
-
+:::info
+If you have your API Key from another AI provider, please go to the specific section [here](https://docs.codegpt.co/docs/category/-ai-providers) and choose your provider.
 :::
 
-1. 🔑 Set the connection `Connect`. The status must change on the window. For more details, please check the page or every provider above.
-
-  <table>
-    <tr>
-      <td align="center">
-        <img width="250" height="150" src="https://github.com/user-attachments/assets/0f562594-1023-44ce-beed-f2d5d9321fff" />
-      </td>
-      <td align="center">
-        <img width="250" height="150" src="https://github.com/user-attachments/assets/a4230449-9148-44cb-b784-ed2835b519da" />
-      </td>
-    </tr>
-  </table>
-
-## Chat Settings 
-
-- Explore this menu to adjust provider attributes, refine temperature control or conversation Style, and manage window memory.
-
-:::note Explore chat settings
-<p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/d5971d49-a13a-472b-a0a2-601359154bf3"/></p>
-
+:::caution
+The Window memory stores the history of your last 10 conversations.
 :::
 
-### Conversation style
-
-The default value is 0.3, representing the randomness or "creativity" in the text generation. A higher value generates more diverse output, while a lower value sticks closely to the training data. 0 is the most deterministic, and 1 is the most random.
-
-### Window Memory
-
-This tool stores the historical log of your past conversations. By default, it is set to 4, but you can adjust this value to your preference.
-
-- Default: 4
-- Minimum: 1
-- Maximum: 10
