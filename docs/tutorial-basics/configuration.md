@@ -15,7 +15,7 @@ The main menu is your primary navigation hub within the CodeGPT application. It 
 - `Chat`: Engage in AI conversations using the models of your chosen provider or with agents on CodeGPT Plus.
 - `Autocomplete`: 💻 Enhance your coding experience with intelligent code completion suggestions (enable by default). Also, you can find the button for direct access here:
 
-<p align="center"><img width="100" height="200" src="https://github.com/user-attachments/assets/4439410d-c759-48d6-990d-5d7496849bc3"/></p>
+<p align="center"><img width="200" height="200" src="https://github.com/user-attachments/assets/4439410d-c759-48d6-990d-5d7496849bc3"/></p>
 
 ## Help
 
