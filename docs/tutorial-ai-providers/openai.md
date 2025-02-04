@@ -9,13 +9,13 @@ Official website https://openai.com
 OpenAI is an artificial intelligence research organization that aims to develop and promote friendly AI that benefits humanity. It has produced several AI models, including GPT-4, arguably the world's most advanced natural language processing model.
 
 ## Connect your OpenAI Account
-- Go to the [API Keys page on OpenAI](https://platform.openai.com/account/api-keys).
-- Log in with your OpenAI account (or [create a new account](https://platform.openai.com/signup)
+- Log in with your OpenAI account (or [create a new account](https://platform.openai.com/signup))
+- Go to the [API Keys page on OpenAI](https://platform.openai.com/settings/organization/api-keys).
 - Click the button labeled **`Create a new secret key`**
 - A new dialog window containing a text box with your API key will appear.
-- Go to VSCode and choose `OpenAI` as `Provider`
-- `Connect` on the button.
-- Paste the API Key here, and click on `Connect` and Organization ID here:
+- Go to VSCode and `Select Your AI`
+- Select `OpenAI` as `Provider` and a model
+- Paste the API Key here, and click on `Connect` and Organization ID
 
 
   
@@ -29,12 +29,18 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 
 
 ## GPT models available in Code GPT
-- gpt-4
+- o3-mini
+- o3-mini-high
+- o1-mini
+- o1-preview
+- o1-mini-2024-09-12
+- o1-preview-2024-09-12
 - gpt-4o
 - gpt-4o-mini
 - gpt-4o-2024-05-13
 - gpt-4-turbo
 - gpt-4-turbo-2024-04-09
+- gpt-4-turbo-2024-11-20
 - gpt-4-32k
 - gpt-4-32k-0613
 - gpt-4-1106-preview
