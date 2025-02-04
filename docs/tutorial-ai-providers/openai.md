@@ -18,7 +18,7 @@ OpenAI is an artificial intelligence research organization that aims to develop 
 - Paste the API Key here, and click on `Connect` and Organization ID
 
 <p align="center">
-      <img width="400" height="350" src="https://github.com/user-attachments/assets/a48d7c73-900b-4997-952f-b6255c9bcd14" />
+      <img width="600" height="350" src="https://github.com/user-attachments/assets/a48d7c73-900b-4997-952f-b6255c9bcd14" />
 </p>
 
 
@@ -26,7 +26,7 @@ OpenAI is an artificial intelligence research organization that aims to develop 
 To remove your API Key from CodeGPT, click on the provider box and `Disconnect`.
 
 <p align="center">
-      <img width="600" height="450" src="https://github.com/user-attachments/assets/2048048f-0b1a-41be-a985-af97066b0cdb" />
+      <img width="400" height="250" src="https://github.com/user-attachments/assets/2048048f-0b1a-41be-a985-af97066b0cdb" />
 </p>
 
 :::
