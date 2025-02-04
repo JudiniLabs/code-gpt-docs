@@ -31,30 +31,6 @@ To remove your API Key from CodeGPT, click on the provider box and `Disconnect`.
 
 :::
 
-
-## GPT models available in Code GPT
-- o3-mini
-- o3-mini-high
-- o1-mini
-- o1-preview
-- o1-mini-2024-09-12
-- o1-preview-2024-09-12
-- gpt-4o
-- gpt-4o-mini
-- gpt-4o-2024-05-13
-- gpt-4-turbo
-- gpt-4-turbo-2024-04-09
-- gpt-4-turbo-2024-11-20
-- gpt-4-32k
-- gpt-4-32k-0613
-- gpt-4-1106-preview
-- gpt-4-0125-preview
-- gpt-3.5-turbo
-- gpt-3.5-turbo-16k
-- gpt-3.5-turbo-16k-0613
-- gpt-3.5-turbo-0125
-- gpt-3.5-turbo-1106
-
 ## OpenAI API
 
 You must have credits loaded into your OpenAI account to use this extension.
