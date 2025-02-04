@@ -17,23 +17,12 @@ xAI, led by Elon Musk, is revolutionizing scientific discovery through advanced 
 - Click on `Connect` or `Set connection`
 - Paste API Key here, and click on `Connect`:
 
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/e5a1c889-20b8-4141-8f58-89cab2c2b264" />
-      </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/9bf218f0-d172-46b3-aa28-d3ab8edc4c5e" />
-    </td>
-  </tr>
-</table>
+
 
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
 
-<p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/ad39bb68-4c50-4705-9d94-65b22ca94d4e" />
-</p>
+
 
 :::
 

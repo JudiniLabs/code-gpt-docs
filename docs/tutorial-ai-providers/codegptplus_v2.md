@@ -18,16 +18,7 @@ This tutorial will teach you how to connect your CodeGPT Plus account with the V
 - If you connect successfully, the connection icon must change
 - Now you can use the chat
 
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/dd5d2b6a-d483-4d89-92e1-b360ee7d932e" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/a3c28248-b9b7-4e77-98d7-c53f94117341" />
-    </td>
-  </tr>
-</table>
+
 
 :::note Connect your account
 
@@ -38,15 +29,6 @@ This tutorial will teach you how to connect your CodeGPT Plus account with the V
 
 :::
 
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
-
-
-<p align="center">
-      <img width="350" height="200" src="https://github.com/user-attachments/assets/e8299791-a842-46b8-afd7-3ef5c42ad7ae" />
-</p>
-
-:::
 
 ## Select an Agent 🤖
 

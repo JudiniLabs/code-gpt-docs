@@ -15,24 +15,13 @@ Google AI Studio is a browser-based IDE tailored for prototyping with generative
 - Go to VSCode and choose `Googe AI Studio` as `Provider`
 - Click on `Connect` or `Set connection`
 - Paste API Key here, and click on `Connect`: 
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/1a917a98-5c10-4b07-9e06-1daeaee2fc2f" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/d5ca6a20-7bb0-439d-98db-857796ed0869" />
-    </td>
-  </tr>
-</table>
+
 
 
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
 
-<p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/ddcfc0b4-2564-4e04-90b3-73cad9642011" />
-</p>
+
 
 :::
 

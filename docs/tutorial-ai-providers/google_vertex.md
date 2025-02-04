@@ -26,23 +26,11 @@ You'll be directed to the Service Account page. From there, navigate to the "Key
 - Click on `Connect`
 
 
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/fbfca711-3941-4d84-bde3-969457a36978" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/b0e04c27-4332-40d0-94b8-80dbecdcbeab" />
-    </td>
-  </tr>
-</table>
+
 
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
 
-<p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/e29e919c-0e36-436d-a8bd-acb01c266c3a" />
-</p>
 
 :::
  

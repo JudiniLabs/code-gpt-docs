@@ -22,25 +22,16 @@ The Cerebras Wafer-Scale Cluster is meticulously engineered to enable neural net
 - Click on "Join Now"
 - Fill out the form
 
-<p align="center">
-      <img width="500" height="350" src="https://github.com/user-attachments/assets/78cb13e7-eb4f-4883-ae70-cee010c3d5a0" />
-</p>
 
 - Once you have the API Key, go to the VSCode extension
 - Select Cerebras as the provider with the desired model
 - Paste the API Key
 - Click on "Connect"
 
-<p align="center">
-      <img width="500" height="350" src="https://github.com/user-attachments/assets/1593cb8a-7727-459a-8b9b-526af4d0a06c" />
-</p>
 
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, click on the provider box and "Disconnect".
 
-<p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/eb8a35bf-ba6d-4113-b3b5-af4f8e6bedb5" />
-</p>
 
 :::
 

@@ -13,17 +13,12 @@ To connect, follow these steps in VSCode:
 2. Click on `Connect` or `Set connection`
 3. Choose from the available models to begin
 
-<p align="center">
-  <img width="300" height="150" src="https://github.com/user-attachments/assets/64c3d5c4-ca9f-435c-aed7-cd80f8004666" />
-</p>
 
 
 :::caution Switching Providers
 You don't need to worry about disconnecting GitHub Copilot. To close it, you can just select another provider.
 
-<p align="center">
-  <img width="600" height="350" src="https://github.com/user-attachments/assets/b3466304-2bac-4336-9688-b3507c1473ec" />
-</p>
+
 :::
 
 ### Available GitHub Copilot Models in Code GPT

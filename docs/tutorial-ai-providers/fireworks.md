@@ -14,25 +14,13 @@ Experience the world's fastest Generative AI inference platform. Use a state-of-
 - Click on `Connect` or `Set connection`
 - Paste API Key here, and click on `Connect`:
   
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/304467e4-ba5e-4124-982a-eaa4f3b8f2fd" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/8a88eeb6-7e4e-4264-a920-a585f42cf490" />
-    </td>
-  </tr>
-</table>
+
 
   
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
 
 
-<p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/996db2bf-1a23-4449-be7c-de362ad1204a" />
-</p>
 
 :::
 

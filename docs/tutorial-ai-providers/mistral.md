@@ -14,24 +14,12 @@ We’re a small creative team with high scientific standards. Through groundbrea
 - Go to VSCode and choose `Mistral` as `Provider`
 - Click on `Connect` or `Set connection`
 - Paste API Key here, and click on `Connect`:
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/4f142aa5-3f0e-41fb-959c-c60063af674b" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/9df74899-d1b9-4d9d-b5b9-ba0239f14b92" />
-    </td>
-  </tr>
-</table>
 
 
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`
 
-<p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/e98c0eb3-ff7c-4c53-a6d1-ec7a531065ab" />
-</p>
+
 
 :::
 

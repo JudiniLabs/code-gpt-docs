@@ -25,25 +25,13 @@ Please be aware of the credits; not having credits can result in a 500 error.
 - Click on `Connect` or `Set connection` 
 - Paste API Key here, and click on `Connect`:
   
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/7fc7a21a-c4d4-49dc-943f-430d82bd42c2" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/281e4ea0-acfd-4369-9c14-7b39d23099d2" />
-    </td>
-  </tr>
-</table>
+
 
 
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`
 
-<td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/539023cc-aed9-4cf3-bb07-02c0f083ae70" />
 
-</td>
 
 :::
 

@@ -19,9 +19,7 @@ Opensource project to run, create, and share large language models (LLMs).
 - Select the model
 - Click the `Download` button
 
-<p align="center">
-      <img width="300" height="250" src="https://github.com/JudiniLabs/code-gpt-docs/assets/6216945/40a47458-7d7a-46c5-8500-b7c00ce99b72" />
-</p>
+
 
 # How to use Ollama
 
@@ -29,10 +27,7 @@ Opensource project to run, create, and share large language models (LLMs).
 - Please be aware that Ollama is running locally on your computer.
 - Choose a model
 
-    <p align="center">
-      <img width="300" height="150" src="https://github.com/JudiniLabs/code-gpt-docs/assets/37567214/65f81b2c-cf92-4e94-9041-bc4bcfe80477" />
-    </p>
-  
+
 
 :::caution Remove Key 
 There is no need to disconnect; just change the provider.
@@ -106,9 +101,6 @@ If you are getting API errors, check the following link: [Ollama Documentation](
 ## Ollama Errors
 - If the Ollama model does not respond in the chat, consider restarting it locally by turning it off and then on again. This action should resolve the issue.
 
-    <p align="center">
-      <img width="250" height="00" src="https://github.com/JudiniLabs/code-gpt-docs/assets/37567214/4bd4e2c8-dbfb-46f3-b4d3-c3484cc7692c"/>
-    </p>
   
 - If the Ollama is running but not responding, please manually remove 'Ollama_Host' from the environment variables and let it revert to the default setting.
     

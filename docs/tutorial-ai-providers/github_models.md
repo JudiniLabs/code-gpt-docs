@@ -17,16 +17,7 @@ Tools from the community and partners to simplify tasks and automate processes
 - Fill the Note field with "codegpt"
 - Then Copy your access token
    
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/73d5af91-536e-4288-b674-2ed23b73d71d" />
-    </td>
-     <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/2455c07b-42d8-44b7-b6bf-7c1cabb29af6" />
-    </td>
-  </tr>
-  </table>
+
 
 :::caution Remove Key
 If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`
@@ -61,9 +52,6 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 - Phi-3.5-mini-instruct
 
 ## How to use it
-<p align="center">
-      <img width="500" height="250" src="https://github.com/user-attachments/assets/4f49ff43-c408-4593-b912-2ec094f0f395" />
-</p>
 
 
 
