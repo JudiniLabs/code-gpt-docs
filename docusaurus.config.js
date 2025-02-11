@@ -39,6 +39,11 @@ const config = {
         label: 'Español',
         direction: 'ltr',
       },
+      {
+      ch: {
+        label: 'Chino',
+        direction: 'ltr',
+      }
     },
   },
   customFields:{
