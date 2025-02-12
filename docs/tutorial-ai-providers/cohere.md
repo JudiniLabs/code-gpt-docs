@@ -21,12 +21,6 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 
 :::
 
-## Models available in CodeGPT
-- aya
-- command-r-plus
-- command-r
-- command
-- command-light
   
 ## API Errors
 If you are getting API errors, check the following link: [Cohere API Errors](https://docs.cohere.ai/reference/errors)
