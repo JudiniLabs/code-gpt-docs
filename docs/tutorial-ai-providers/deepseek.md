@@ -23,9 +23,6 @@ If you want to remove your API Key from CodeGPT, click on the provider box and c
 
 :::
 
-## Models available in CodeGPT
-- Deepseek-chat
-- Deepseek-coder
 
 ## How to use it
 
