@@ -6,24 +6,15 @@ sidebar_position: 1
 The CodeGPT Chat feature enhances your development experience by allowing you to engage in conversations with a Large Language Models (LLM) directly within your text editor. This tutorial will guide you through the steps to make the most of this powerful tool.
 
 ## How to Use:
-### Open the Chat Tab:
-- Navigate to the tools tab and click on `Chat.` By default, `Gpt-4o-Mini` will answer on the chat.
-- Now the chat allows you `Clean` the chat or `Reload` the question
+- Open the Chat Tab
+- Navigate to the tools tab and click on `Chat.` By default, `Claude-3.5-Sonnet` will answer on the chat.
+- Once the chat tab opens, you can start a conversation by typing a message and hitting `Enter`.
 - If you request code, copy or paste it directly into the file with the `Insert code` button.
-
-:::note CodeGPT Chat
-<p align="center">
-      <img width="750" height="550" src="https://github.com/user-attachments/assets/47fa9b6d-ce0a-4091-96d0-9fb12fed551c"/>
-</p>
-:::
-
-### Engage in Conversation:
-
-Once the chat tab opens, you can start a conversation by typing a message and hitting `Enter`.
+- You can clean the chat by clicking on `New chat` button or `Reload` the question
 
 :::note CodeGPT Chat conversation
 <p align="center">
-      <img width="750" height="550" src="https://github.com/JudiniLabs/code-gpt-docs/assets/37567214/acc01012-7309-4669-a3e6-87ed1ec78923"/>
+      <img width="750" height="550" src="https://github.com/user-attachments/assets/099fe893-08e3-4c31-a845-5f117a1de696"/>
 </p>
 :::
 
@@ -35,22 +26,19 @@ Select the desired code in your editor by level to share code snippets. The sele
 To read the name of the file or segment, you can use the slide bar to navigate through the name.
  
 <p align="center">
-    <img width="750" height="550"  src="https://github.com/user-attachments/assets/f1c77cfb-8225-4064-809b-62d0e7761d01" />
+    <img width="750" height="550"  src="https://github.com/user-attachments/assets/90a920ed-74c6-458b-9444-55c4b60128f9" />
 </p>
 :::
 
 #### Context level
 
+Please enable it, and AI will be able to understand the context of your code. 
+
 You have three levels of context:
 
 - `Selected code`: manually selected code
-- `Codebase`: we auto-select the codebase
+- `Codebase`: we auto-select the codebase. Please index the codebase before on the `Codebase` button
 - `Deep insights`: we enrich the responses with code knowledge graphs.
-
-### Configuration
-
-Enable it, and AI will be able to understand the context of your code. 
-
 
 ### Shortcuts
 You can use the shortcuts to make the most of the CodeGPT Chat feature. Here are some of the most useful shortcuts:
@@ -71,7 +59,7 @@ You can use the shortcuts to make the most of the CodeGPT Chat feature. Here are
 :::note Shortcuts
 
 <p align="center">
-    <img width="750" height="550"  src="https://github.com/user-attachments/assets/eaf74c24-ab64-4d41-9211-6682f54f0a4b" />
+    <img width="750" height="550"  src="https://github.com/user-attachments/assets/6aba86fa-0c6c-49f2-89bc-47456d2c61e5" />
 </p>
 :::
 
