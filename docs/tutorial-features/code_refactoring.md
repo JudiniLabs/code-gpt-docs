@@ -23,7 +23,7 @@ Experience the power of CodeGPT's intelligent refactoring capabilities. Elevate 
 
 :::note CodeGPT: Code Refactoring
 <p align="center">
-  <img width="950" height="700" src="https://github.com/user-attachments/assets/c2e8bb6f-c34b-43bb-80b8-0ff1c66d48cc" 
+  <img width="950" height="700" src="https://github.com/user-attachments/assets/c2e8bb6f-c34b-43bb-80b8-0ff1c66d48cc"/>
 </p>
 :::
 
