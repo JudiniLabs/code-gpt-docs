@@ -6,33 +6,14 @@ sidebar_position: 9
 
 The ***Code Interpreter*** allows you to execute code within the code blocks provided by agents in the CodeGPT chat.
 
-## How to configure:
-- Go to Marketplace on VSCode Extension
-- Search and install agents with this icon (for instance, `Python`, `Claude 3.5 Sonnet`, `GPT-4o`)
-
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/31e598e3-42fe-4ca9-8ced-60c526bc2b17" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/acb0f71d-a655-40b5-aeb6-f57dd364ea83" />
-    </td>
-  </tr>
-</table>
-
-- Back to the Main Menu
-- Choose CodeGPT Plus as `Provider`
-- Select the agent with the Code Interpreter functions installed in the previous step
-
 ## How to use
 
 :::note CodeGPT: Refactor CodeGPT
 To use this feature, log in with your CodeGPT account, and you will have limited daily free interactions. You can subscribe to one of our plans to get many more interactions and access the selected AI models without worrying about creating API keys or accounts with each provider (we make it easy for you!). In case you want to use CodeGPT for free, you must add your own API key from the desired provider (e.g., Anthropic, OpenAI) and you will pay for the consumption directly to them.
 
-### Case 1: Select code from the editor and then ask the Agent to create code. For example, Violin plot.
+### Using the slash icon `/` on the chat box 
 
-- Select the code from Workspace. Example:
+- - Select the code from Workspace. Example:
 ```python 
 #Context:
 import numpy as np
@@ -45,16 +26,7 @@ data = [category1, category2, category3]
 ```
 
 - Make a prompt on CodeGPT chat. Example: `create a Violin plot`
-- Wait for the code to be executed and click on `Run` icon <img width="20" height="20" src="https://github.com/user-attachments/assets/26cf6d75-9e52-4bf1-82eb-bef9f4950ca9" />
-
-:::Code interpreter with Python agent
-<p align="center">
-      <img width="550" height="300" src="https://github.com/JudiniLabs/code-gpt-docs/assets/6216945/dfb51437-3706-438e-ba32-abf1f7d61213" />
-</p>
-:::
-
-### Case 2: Using the slash icon `/` on the chat box 
-
+- Wait for the code to be executed and click on `Send` icon <img width="20" height="20" src="https://github.com/user-attachments/assets/26cf6d75-9e52-4bf1-82eb-bef9f4950ca9" />
 - On the chat box, write `/` to show the Code-Interpreter option
 - `Send` the request or press `Enter`
 - Wait for the code to be executed, and then you will see the result
