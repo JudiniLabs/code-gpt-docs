@@ -18,7 +18,7 @@ The CodeGPT Chat feature enhances your development experience by allowing you to
 </p>
 :::
 
-### Using Code Selection:
+## Using Code Selection:
 Select the desired code in your editor by level to share code snippets. The selected code will be automatically inserted into the chat interface, allowing CodeGPT to provide more accurate and context-specific responses. Call the function using `@`.
 
 :::note Code Selection
@@ -30,7 +30,7 @@ To read the name of the file or segment, you can use the slide bar to navigate t
 </p>
 :::
 
-#### Context level
+### Context level
 
 Please enable it, and AI will be able to understand the context of your code. 
 
@@ -40,7 +40,7 @@ You have three levels of context:
 - `Codebase`: we auto-select the codebase. Please index the codebase before on the `Codebase` button
 - `Deep insights`: we enrich the responses with code knowledge graphs.
 
-### Using Custom Context
+## Using Custom Context
 Using custom contexts allows you to tailor the responses to specific situations.
 
 <p align="center">
@@ -48,7 +48,7 @@ Using custom contexts allows you to tailor the responses to specific situations.
 </p>
 
 
-#### Add Files
+### Add Files
 1. Click the `+Add Context` button
 2. Choose `#Files` to add a file from your current project as context
 3. Click outside the window to save the changes
@@ -87,7 +87,7 @@ You can also add the current file to the workshop automatically by clicking on t
 </p>
 
 
-### Shortcuts
+## Shortcuts
 You can use the shortcuts to make the most of the CodeGPT Chat feature. Here are some of the most useful shortcuts:
 
 - [`/Fix`](https://docs.codegpt.co/docs/tutorial-features/find_problems): Fix the code selected
