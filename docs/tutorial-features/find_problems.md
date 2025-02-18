@@ -19,9 +19,7 @@ To use this feature, log in with your CodeGPT account, and you will have limited
 ## Example
 
 :::note Case 1: Fix this with CodeGPT
-<p align="center">
-  <img width="850" height="550" src="https://github.com/user-attachments/assets/cb4fc74c-ae3b-41da-9feb-6ed2b225c4ba"/>
-</p>
+
 :::
 
 :::note Case 2: Fix your code from "/" command
