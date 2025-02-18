@@ -39,7 +39,8 @@ These optional configurations enhance your user experience.
 - The browser will open CodeGPT Studio. If you don't have an account, you can create one by following the on-screen instructions.
 - A confirmation message will appear once logged in, and you can return to the VS Extension.
 
-<p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/9de1b8ef-110b-486a-9291-4602e4ad43e3"/></p>
+<p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/06f76e59-524a-488e-82e5-c8836fd9302d"/></p>
+
 
 - Now, you can use the CodeGPT Extension to synchronize the custom agents. For more information, check this [guide](https://docs.codegpt.co/docs/tutorial-ai-providers/codegptplus_v2).
 
