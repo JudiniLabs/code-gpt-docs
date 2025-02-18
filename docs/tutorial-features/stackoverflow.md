@@ -23,7 +23,7 @@ sidebar_position: 11
 
 :::note CodeGPT: Stack Overflow
 <p align="center">
-  <img width="900" height="650" src="https://github.com/user-attachments/assets/81d76e57-3f0c-4564-99fd-8b82cae03cf6" />
+  <img width="900" height="650" src="https://github.com/user-attachments/assets/81d76e57-3f0c-4564-99fd-8b82cae03cf6"/>
 </p>
 :::
 
