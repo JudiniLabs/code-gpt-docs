@@ -10,24 +10,10 @@ The Autocomplete feature empowers you to choose from a curated selection of mode
 - Go to Menu on CodeGPT sidebar:
     - Click on the **Autocomplete** option
     - Check the Status
-    - Choose the AI model
-    - **Provider:**
-        - CodeGPT Plus
-        - CodeGPT Plus-turbo
-        - Mistral-codestral-latest
-        - Ollama-qwen2.5-code:0.5b
-        - Ollama-qwen2.5-code:1.5b
-        - Ollama-qwen2.5-code:3b
-        - Ollama qwen2.5-code:7b
-        - Ollama-qwen2.5-code:14b
-        - Ollama-qwen2.5-code:32b
-        - Ollama deepseeek-coder:base
-        - Ollama deepseek-coder-v2
-        - Ollama codellama:code
-        - Ollama codegemma:code
+    - Choose the AI model, by default is CodeGPT Plus-Turbo
           
-    - ⚠️**IMPORTANT**⚠️: Ensure that Ollama is running locally and that the model you are using is properly installed. For Mistral Codestral, insert the API Key and set Mistral as the main provider.
-    - By default, the AI model determines the maximum number of tokens. Please refer to each provider's documentation for specific details. Additionally, the suggestion is generated with a delay of 3000 milliseconds.
+    - ⚠️**IMPORTANT**⚠️: Ensure that Ollama is running locally and that the model you are using is appropriately installed. For Mistral Codestral, insert the API Key and set Mistral as the leading provider.
+    - By default, the AI model determines the maximum number of tokens. Please take a look at each provider's documentation for specific details. Additionally, the suggestion is generated with a delay of 3000 milliseconds.
 
 :::note Autocomplete settings
 <p align="center">
@@ -40,7 +26,7 @@ The Autocomplete feature empowers you to choose from a curated selection of mode
 
 :::note Autocomplete
 <p align="center">
-      <img width="750" height="550" src="https://github.com/user-attachments/assets/569560e6-588f-4e42-8a8c-032363cd2196" />
+      <img width="750" height="550" src="https://github.com/user-attachments/assets/7faa45c0-55b4-4a72-a825-abcb0de78f48" />
 </p>
 
 :::
