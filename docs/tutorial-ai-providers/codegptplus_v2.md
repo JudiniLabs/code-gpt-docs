@@ -18,15 +18,10 @@ This tutorial will teach you how to connect your CodeGPT Plus account with the V
 - If you connect successfully, the connection icon must change
 - Now you can use the chat
 
-
-
 :::note Connect your account
-
 <p align="center">
       <img width="1150" height="1000" src="https://github.com/user-attachments/assets/30397e30-21dc-446a-ae2d-ad0131e21ef1" />
 </p>
-
-
 :::
 
 
@@ -38,35 +33,9 @@ Open the chat and select your agent.
 Now is possible to interact with `models`, `Marketplace` agents, and the agents that you create in `CodeGPT Studio`:
 
 ### Models
-On [CodeGPT Studio](https://app.codegpt.co/en), you can set the agents with these models:
-
-- Mistral Large 2
-- Codestral
-- Meta/Llama 3.1 405b
-- Meta/Llama 3.1 70b
-- Groq/Llama 3.1 70b
-- Groq/Llama 3.2 90b
-- Command R Plus
-- Mixtral 8x7b 32768
-- Gemini 1.5 Flash
-- Gemini 1.5 Pro Latest
-- Google/Claude 3.5 Sonnet
-- GPT-4o
-- GPT-4o mini
-- Claude-3.5 Sonnet V2
-- Claude-3-Sonnet
-- Claude-3-Haiku
-- Gemini-10-Pro
-- Claude-Instant-1.2
-
-:::note Choose a model
+On [CodeGPT Studio](https://app.codegpt.co/en),
 You can choose the model you want to use in the chat, click on the model name, and select the model you want to use.
 
-<p align="center">
-      <img width="1150" height="1000" src="https://github.com/user-attachments/assets/5acb46af-4a8e-48a3-a278-e84fd5cb92ca" />
-</p>
-
-:::
 
 ### Marketplace Agents
 
