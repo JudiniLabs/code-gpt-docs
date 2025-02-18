@@ -16,20 +16,20 @@ You can identify and locate objects within the image. The model can then provide
 
 :::note Ask about the text within the images
 <p align="center">
-  <img width="800" height="650" src="https://github.com/user-attachments/assets/1afdec55-3bed-4f12-af94-6ea1e425505a" />
+  <img width="800" height="650" src="https://github.com/user-attachments/assets/1afdec55-3bed-4f12-af94-6ea1e425505a"/>
 </p>
 :::
 
 
 :::note Ask about the images
 <p align="center">
-  <img width="800" height="650" src="https://github.com/user-attachments/assets/c94b808c-48b6-4b74-b9ad-30b474d3f84e" />
+  <img width="800" height="650" src="https://github.com/user-attachments/assets/c94b808c-48b6-4b74-b9ad-30b474d3f84e"/>
 </p>
 :::
 
 :::note Ask about webpages pictures and make code
 <p align="center">
-  <img width="800" height="650" src="https://github.com/user-attachments/assets/8c189ca6-106c-4f21-b928-0a8f94d0cf26" />
+  <img width="800" height="650" src="https://github.com/user-attachments/assets/8c189ca6-106c-4f21-b928-0a8f94d0cf26"/>
 </p>
 :::
 
