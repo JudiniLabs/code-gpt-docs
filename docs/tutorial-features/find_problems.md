@@ -13,7 +13,7 @@ To use this feature, log in with your CodeGPT account, and you will have limited
 :::
 
 - Select the Code: Highlight the code snippet
-- Write the / slash and, select Document, press Enter to send the request
+- Write the `/` slash and, select `Fix`, press Enter to send the request
 - Or look the icon 💡 , make right-click and choose `Fix this with CodeGPT` option
 
 ## Example
