@@ -17,6 +17,9 @@ To use this feature, log in with your CodeGPT account, and you will have limited
 ## Example
 
 :::note CodeGPT Planning
-:::
+<p align="center">
+  <img width="900" height="650" src="https://github.com/user-attachments/assets/97b9f513-02e5-4a37-8d42-b2f86fbeb8cc" />
 
+</p>
+:::
 
