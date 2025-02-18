@@ -22,8 +22,6 @@ When you configure CodeGPT as a provider, you can use the /CodeBuilder tool to:
 
 :::note CodeGPT: CodeBuilder
 
-Update to `v3.5.13 (pre-release)`
-
 <p align="center">
   <img width="900" height="650" src="https://github.com/user-attachments/assets/4c5834ef-d4dc-4228-8c31-ed5176002eb3" />
 </p>
