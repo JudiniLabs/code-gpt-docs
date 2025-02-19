@@ -21,27 +21,23 @@ The Cerebras Wafer-Scale Cluster is meticulously engineered to enable neural net
 - Create an account
 - Click on "Join Now"
 - Fill out the form
+- On the VSCode CodeGPT Extension, change the model on the chat
 
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/9589828c-c794-4d67-b806-9eff0adf3798"/></p>
 
-- Once you have the API Key, go to the VSCode extension
-- Select Cerebras as the provider with the desired model
-- Paste the API Key
-- Click on "Connect"
+- Pick the LLMs Cloud model and select `Cerebras` as `Provider`
+- Paste API Key here, and click on Connect
+- Click outside the options and ask to chat.
 
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, click on the provider box and "Disconnect".
-
-
+If you want to remove your API Key from CodeGPT, change the provider to `Disconnect`
 :::
 
-### Cerebras Models Available in Code GPT
-- Llama3.1-70b
-- Llama3.1-8b
 
 ## API Errors
 If you are experiencing API errors, please refer to the following documentation: [Cerebras Documentation](https://docs.cerebras.ai/)
 
 :::info Important Note
-This provider is only available in version 3.5.73 of the CodeGPT extension for VSCode and later. Make sure you have the extension updated.
+This provider is only available in version 3.5.73 of the CodeGPT extension for VSCode and later. Ensure that you have the extension updated.
 :::
