@@ -21,6 +21,9 @@ Please be aware of the credits; not having credits can result in a 500 error.
 - Go to your [API Keys](https://console.anthropic.com/settings/keys)
 - Generate and copy the API Key
 - On the VSCode CodeGPT Extension, change the model on the chat
+
+  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/6b93e3a4-6175-43a4-a73a-ab53b4f64a79"/></p>
+ 
 - Pick the `LLMs Cloud model` and select `Anthropic` as `Provider`
 - Click on `Connect` or `Set connection` 
 - Paste API Key here, and click on `Connect`
