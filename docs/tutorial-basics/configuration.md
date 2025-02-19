@@ -41,8 +41,9 @@ These optional configurations enhance your user experience.
 
 <p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/06f76e59-524a-488e-82e5-c8836fd9302d"/></p>
 
+- Now, you can use the CodeGPT Extension to synchronize the [custom agents](https://docs.codegpt.co/docs/tutorial-features/chat_code_gpt), a LLM model or the [provider of your preference](https://docs.codegpt.co/docs/category/-ai-providers). 
 
-- Now, you can use the CodeGPT Extension to synchronize the custom agents. For more information, check this [guide](https://docs.codegpt.co/docs/tutorial-ai-providers/codegptplus_v2).
+<p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/8ba019c9-200e-4609-8f6c-ba5b25ce0bfc"/></p>
 
 :::info
 If you have your API Key from another AI provider, please go to the specific section [here](https://docs.codegpt.co/docs/category/-ai-providers) and choose your provider.
