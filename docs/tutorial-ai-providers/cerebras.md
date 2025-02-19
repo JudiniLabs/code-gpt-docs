@@ -26,12 +26,13 @@ The Cerebras Wafer-Scale Cluster is meticulously engineered to enable neural net
 <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/9589828c-c794-4d67-b806-9eff0adf3798"/></p>
 
 - Pick the LLMs Cloud model and select `Cerebras` as `Provider`
-- Paste API Key here, and click on Connect
+- Paste `API Key` here, and click on `Connect`
 - Click outside the options and ask to chat.
 
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, change the provider to `Disconnect`
+To remove your API Key from CodeGPT, click on `Change connection settings` button
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/b7189968-c88a-4891-82b7-3cbc59a46b25"/></p>
 :::
 
 
