@@ -26,7 +26,7 @@ Please be aware of the credits; not having credits can result in a 500 error.
 - Paste API Key here, and click on `Connect`
 - Click outside the options and ask to chat.
 
-<p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/b3a24d4c-242d-4b7d-bbf4-8c62bd8e436f"/></p>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/b3a24d4c-242d-4b7d-bbf4-8c62bd8e436f"/></p>
 
 
 :::caution Remove Key
