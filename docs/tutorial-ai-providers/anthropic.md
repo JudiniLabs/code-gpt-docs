@@ -32,7 +32,9 @@ Please be aware of the credits; not having credits can result in a 500 error.
 
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, change the provider to `Disconnect`
+To remove your API Key from CodeGPT, click on `Change connection settings` button
+
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/72aa519d-cc4c-4979-b380-75167b1ba3ed"/></p>
 :::
 
 ## API Errors
