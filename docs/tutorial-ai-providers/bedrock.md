@@ -26,7 +26,8 @@ Amazon Bedrock, a fully managed service, offers top foundation models (FMs) from
 
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, change the provider to `Disconnect`
+To remove your API Key from CodeGPT, click on `Change connection settings` button
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/97221226-2cd3-4f9b-9ed3-b41555f23c04"/></p>
 :::
 
 ## Models available in CodeGPT
