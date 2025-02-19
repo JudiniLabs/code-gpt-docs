@@ -12,24 +12,24 @@ Amazon Bedrock, a fully managed service, offers top foundation models (FMs) from
 ## Connect your Provider account
 - Create an account in [AWS Bedrock](https://aws.amazon.com/es/console/)
 - Create an AWS user with **AmazonBedrockFullAccess** Permissions policies
-
-
-
 - Go to **Security Credentials** and create a new **Access keys**
 - Generate and copy the Access Key and Secret Key
-- Choose `Bedrock` as `Provider`
-- - Click on `Connect` or `Set connection` to link with your account.
-- Paste the `region`, `Access Key` and `Secret Access Key`, and click `Connect`.
+- On the VSCode CodeGPT Extension, change the model on the chat
 
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/f5d1245b-d58d-4c93-85c1-fa1c055585e4"/></p>
+
+- Pick the LLMs Cloud model and select `Bedrock` as `Provider`
+- Paste `API Key` here, and click on `Connect`
+
+Click outside the options and ask to chat.
+
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/375fd655-e3eb-4367-be42-c6cec8736f43"/></p>
 
 
 :::caution Remove Key
-To remove your API Key from CodeGPT, click on the provider box and `Disconnect`.
-
-
-
+If you want to remove your API Key from CodeGPT, change the provider to `Disconnect`
 :::
 
 ## Models available in CodeGPT
-Please note that the models you configure on your Amazon Bedrock account will be synchronized with the models on the extension.
+The models you configure on your Amazon Bedrock account will be synchronized with the models on the extension.
 
