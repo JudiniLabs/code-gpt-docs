@@ -7,7 +7,6 @@ Official website https://www.anthropic.com
 
 Anthropic is a San Francisco-based AI safety startup that develops techniques to ensure that AI systems align with human values and behave ethically.
 
-
 # Claude
 Claude can be a delightful company representative, a research assistant, a creative partner, a task Automator, and more. Personality, tone, and behavior can all be customized to your needs.
 
@@ -21,28 +20,18 @@ Please be aware of the credits; not having credits can result in a 500 error.
 - Create an account in [Anthropic](https://console.anthropic.com/)
 - Go to your [API Keys](https://console.anthropic.com/settings/keys)
 - Generate and copy the API Key
-- Go to VSCode and choose `Anthropic` as `Provider`
+- On the VSCode CodeGPT Extension, change the model on the chat
+- Pick the `LLMs Cloud model` and select `Anthropic` as `Provider`
 - Click on `Connect` or `Set connection` 
-- Paste API Key here, and click on `Connect`:
-  
+- Paste API Key here, and click on `Connect`
+- Click outside the options and ask to chat.
 
+<p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/b3a24d4c-242d-4b7d-bbf4-8c62bd8e436f"/></p>
 
 
 :::caution Remove Key
-If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`
-
-
-
+If you want to remove your API Key from CodeGPT, just change the provider to `Disconnect`
 :::
-
-### Claude Models available in Code GPT
-- claude-3.5-sonnet-20240620 
-- claude-3-opus-20240229
-- claude-3-sonnet-20240229
-- claude-3-haiku-20240307
-- claude-2.1
-- claude-2.0
-- claude-instant-1.2
 
 ## API Errors
 If you are getting API errors, check the following link: [Anthropic API Errors](https://docs.anthropic.com/claude/reference/errors-and-rate-limits)
