@@ -9,16 +9,20 @@ Cohere is an artificial intelligence company that specializes in developing lang
 ## Connect your Cohere account
 - Create an account in [cohere.ai](https://cohere.ai/)
 - Go to your [dashboard](https://dashboard.cohere.com/api-keys)
-- Go to VSCode and choose `Cohere` as `Provider`
-- Click on `Connect` or `Set connection` 
-- Paste the API Key here, and click on `Connect`:
-  
+- On the VSCode CodeGPT Extension, change the model on the chat
+- Paste `API Key` here, and click on `Connect`
+- Click outside the options and ask to chat.
 
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
+- Pick the `LLMs Cloud model` and select `Cohere` as `Provider`
+- Use the models available directly. Click outside the options and ask to chat.
 
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
+  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/377eab5e-9abb-4272-a985-b62ff484b5b1"/></p>
 
+:::caution Remove or edit Key
+To remove your API Key from CodeGPT, click on `Change connection settings` button
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/21e7d4b8-8d59-49d5-9b5e-2caeef9d1786"/></p>
 :::
 
 ## Models available in CodeGPT
