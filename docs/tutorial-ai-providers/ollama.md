@@ -9,7 +9,7 @@ Official website https://ollama.ai
 Opensource project to run, create, and share large language models (LLMs).
 ## Connect Ollama Models
 - Download and Install Ollama from the link: [ollama.ai](https://ollama.ai/).
-- - Please wait until the loading reaches 100% completion.
+
 
 ### Download models via the console
 - Download the model, for example, `ollama run deepseek-r1` from the terminal.
@@ -17,6 +17,9 @@ Opensource project to run, create, and share large language models (LLMs).
    <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/258d5faa-3d8c-4198-aabe-5378b3bf3aae"/></p>
 
 - Use the model by running the command ```ollama pull MODEL```, for example :``ollama pull deepseek-r1```.
+- Please wait until the loading reaches 100% completion.
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/11bc56a1-62d1-46ad-96cd-465a325b2c7c"/></p>
+
 
 # How to use Ollama
 
