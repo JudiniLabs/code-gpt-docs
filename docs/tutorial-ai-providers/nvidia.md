@@ -12,7 +12,7 @@ The leading open models built by the community, optimized and accelerated by NVI
 - Create an account in [Nvidia](https://build.nvidia.com/).
 - Select any model and then click on **Get API Key**.
 
-
+<p align="center"><img width="650" height="500" src="https://github.com/user-attachments/assets/e691b72f-904d-424a-a5ad-bf18198ef3c4"/></p>
 
 - On the VSCode CodeGPT Extension, change the model on the chat.
 
