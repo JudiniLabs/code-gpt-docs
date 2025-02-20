@@ -10,34 +10,24 @@ Experience the world's fastest Generative AI inference platform. Use a state-of-
 ## Connect your Fireworks account
 - Create an account in [Fireworks](https://app.fireworks.ai/login).
 - Go to your [Profile / API Keys](https://app.fireworks.ai/users?tab=apps).
-- Go to VSCode and choose `Fireworks` as `Provider`
-- Click on `Connect` or `Set connection`
-- Paste API Key here, and click on `Connect`:
-  
+- On the VSCode CodeGPT Extension, change the model on the chat
 
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
-  
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
+- Paste `API Key` here, and click on `Connect`
+- Click outside the options and ask to chat
+- Pick the `LLMs Cloud model` and select `Fireworks` as `Provider`
+- Select a model like llama-v3p1-8b-instruct
+- Use the models available directly. Click outside the options and ask to chat
 
+  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/411dc9da-04fa-4c04-b8a5-5913155227ce"/></p>
 
-
+:::caution Remove or edit Key
+To remove your API Key from CodeGPT, click on `Change connection settings` button
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/d1622215-5939-47a0-8180-a20d04425d37"/></p>
 :::
 
-## Fireworks available in Code GPT
-- llama-v3-70b-instruct
-- llama-v3p1-405b-instruct
-- llama-v3p1-8b-instruct
-- llama-v3p1-70b-instruct
-- llama-v2-7b-chat
-- llama-v2-70b-chat
-- mixtral-8x22b-instruct
-- mixtral-8x7b
-- yi-large
-- qwen2-72b-instruct
-- gemma-7b-it
-- dbrx-instruct
-- zephyr-7b-beta
+
 
 ## API Errors
 If you are getting API errors, check the following link: [Fireworks Documentation](https://readme.fireworks.ai/docs)
