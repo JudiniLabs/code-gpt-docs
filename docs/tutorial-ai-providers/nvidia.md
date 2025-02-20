@@ -14,43 +14,22 @@ The leading open models built by the community, optimized and accelerated by NVI
 
 
 
-- Open VSCode and then open the CodeGPT tab
-- Choose `Nvidia` as `Provider`
-- Click on `Connect` or `Set connection`
-- Paste your Nvidia API Key here, and click on `Connect`
-  
+- On the VSCode CodeGPT Extension, change the model on the chat
 
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/540bcc6a-7b28-47af-8bff-379bc442eb78"/></p>
 
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, click on `Disconnect from Nvidia`
+- Paste `API Key` here, and click on `Connect`
+- Click outside the options and ask to chat.
+- Pick the `LLMs Cloud model` and select `NVidia` as `Provider`
+- Select a model, for instance, `nvidia/nemotron-4-340b-instruct`
 
+  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/4228e78e-ee31-4636-98fd-516d851da36a"/></p>
 
-
+:::caution Remove or edit Key
+To remove your API Key from CodeGPT, click on `Change connection settings` button
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/8635da96-6e07-49fa-9dd2-20fca610cc9e"/></p>
 :::
-
-## Nvidia models available in CodeGPT
-- meta/llama3-70b
-- meta/llama3-8b 
-- nv-mistralai/mistral-nemo-12b-instruct
-- meta/llama-3.1-8b-instruct
-- meta/llama3-70b-instruct
-- meta/llama3-8b-instruct
-- ibm/granite-34b-code-instruct
-- microsoft/phi-3-mini-128k-instruct
-- nv-mistralai/mistral-nemo-12b-instruct
-- mistralai/codestral-22b-instruct-v0.1
-- mistralai/mixtral-8x22b-v0.1
-- mistralai/mistral-large
-- mistralai/mistral-7b-instruct-V0.2
-- google/gemma-2-2b-it
-- google/gemma-2-9b-it
-- google/gemma-2-27b-it
-- google/gemma-7b
-- google/gemma-2b
-- google/codegemma-7b
-- google/recurrentgemma-2b
-- meta/codellama-70b 
-- meta/llama2-70b
+ 
 
 ## API Errors
 If you are getting API errors, check the following link: [Nvidia Documentation](https://docs.api.nvidia.com/)
