@@ -9,30 +9,19 @@ Groq provides a simple way to leverage models running on LPU (Language Processin
 ## Connect your Groq account
 - Create an account in [https://groq.com/](https://console.groq.com/playground)
 - Go to your [dashboard](https://console.groq.com/keys)
-- Go to VSCode and choose `Groq` as `Provider`
-- Click on `Connect` or `Set connection`
-- Paste API Key here, and click on `Connect`:
-  
+- On the VSCode CodeGPT Extension, change the model on the chat
 
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
+- Paste `API Key` here, and click on `Connect`
+- Click outside the options and ask to chat.
+- Pick the `LLMs Cloud model` and select `Groq` as `Provider`
+- Use the models available directly. Click outside the options and ask to chat.
 
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
+  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/092d235c-dc0c-4ee1-8913-fb5f744bb8d1"/></p>
 
-
-
+:::caution Remove or edit Key
+To remove your API Key from CodeGPT, click on `Change connection settings` button
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/47abac9f-59a6-454d-a4b1-626d87052727"/></p>
 :::
 
-## Groq models available in CodeGPT
-- llama-3.2-90b-text-preview
-- llama-3.2-11b-text-preview
-- llama-3.2-3b-preview
-- llama-3.2-1b-preview
-- llama-3.1-405b-reasoning
-- llama-3.1-70b-versatile
-- llama-3.1-8b-instant
-- llama3-70b-8192
-- llama3-8b-8192
-- mixtral-8x7b-32768
-- gemma-7b-it
-- gemma2-9b-it
