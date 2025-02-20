@@ -8,30 +8,35 @@ Official website https://ollama.ai
 
 Opensource project to run, create, and share large language models (LLMs).
 ## Connect Ollama Models
-- Download Ollama from the following link: [ollama.ai](https://ollama.ai/)
+- Download and Install Ollama from the link: [ollama.ai](https://ollama.ai/).
+- - Please wait until the loading reaches 100% completion.
 
 ### Download models via the console
-- Install Ollama and use the model `codellama` by running the command ```ollama pull codellama```
-- If you want to use `Mistral` or other models, you must replace `codellama` with the desired model. For example: ```ollama pull mistral```
+- Download the model, for example, `ollama run deepseek-r1` from the terminal.
 
-### Download models via CodeGPT UI
-- Select Ollama as the `Provider`
-- Select the model
-- Click the `Download` button
+   <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/258d5faa-3d8c-4198-aabe-5378b3bf3aae"/></p>
 
-
+- Use the model by running the command ```ollama pull MODEL```, for example :``ollama pull deepseek-r1```.
 
 # How to use Ollama
 
-- In VSCode select Ollama as a `Provider`
-- Please be aware that Ollama is running locally on your computer.
-- Choose a model
+- On the VSCode CodeGPT Extension, change the model on the chat.
+
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
+
+- Pick the `Local LLMs` and select `Ollama` as `Provider`.
+- Use the models available directly.
+- Paste the link of the server where the model is running. For localhost: `htttp://localhost:11434`. 
+- Click outside the options and ask to chat.
+
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/28ec0abc-2928-4225-b1e9-764111291db2"/></p>
 
 
-
-:::caution Remove Key 
-There is no need to disconnect; just change the provider.
+:::caution Remove or edit Key
+To remove the port, click on `Change connection settings` button.
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/b32595a0-47de-4f9b-804b-3d6188fb1027"/></p>
 :::
+ 
 
 ## Autocomplete models availables:
 - codestral:latest
