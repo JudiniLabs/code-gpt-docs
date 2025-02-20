@@ -7,9 +7,9 @@ sidebar_position: 16
 Official website [https://www.perplexity.ai](https://www.perplexity.ai)
 
 ## Connect Perplexity
-- Login on Perplexity account [here](https://www.perplexity.ai/settings/account)
+- Login on Perplexity account [here](https://www.perplexity.ai/settings/account).
 - Get your [API Key](https://www.perplexity.ai/settings/api)
-- On the VSCode CodeGPT Extension, change the model on the chat
+- On the VSCode CodeGPT Extension, change the model on the chat.
 
 <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
@@ -21,7 +21,7 @@ Official website [https://www.perplexity.ai](https://www.perplexity.ai)
   <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/fd0f32d5-3836-4969-bb3a-44eaca0e7426"/></p>
 
 :::caution Remove or edit Key
-To remove your API Key from CodeGPT, click on `Change connection settings` button
+To remove your API Key from CodeGPT, click on `Change connection settings` button.
  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/d6462f3e-2bb4-46aa-9489-e54ed7343096"/></p>
 :::
  
