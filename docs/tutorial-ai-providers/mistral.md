@@ -11,32 +11,21 @@ We’re a small creative team with high scientific standards. Through groundbrea
 ## Connect your Mistral account
 - Create an account in [Mistral](https://auth.mistral.ai/ui/login)
 - Go to your [Platform / API Keys](https://console.mistral.ai/users/api-keys/)
-- Go to VSCode and choose `Mistral` as `Provider`
-- Click on `Connect` or `Set connection`
-- Paste API Key here, and click on `Connect`:
+- On the VSCode CodeGPT Extension, change the model on the chat
 
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`
+- Paste `API Key` here, and click on `Connect`
+- Click outside the options and ask to chat.
+- Pick the `LLMs Cloud model` and select `Mistral` as `Provider`
+- Select a model, for instance, `codestral-latest`
 
+  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/f30615e9-60f1-49d5-834c-b2637e2bf318"/></p>
 
-
+:::caution Remove or edit Key
+To remove your API Key from CodeGPT, click on `Change connection settings` button
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/5f345829-186c-46bf-b135-afa318f687f4"/></p>
 :::
-
-## Mistral available in Code GPT
-- pixtral-latest
-- codestral-mamba-latest
-- codestral-latest
-- mistral-tiny
-- mistral-small-latest
-- mistral-medium-latest
-- mistral-large-latest
-- mistral-mamba-latest
-- open mistral-nemo-2407
-- open-mistral-7b
-- open-mixtral-8x7b
-- open-mixtral-22x7b
-- ministral-8b-latest
  
 ## API Errors
 If you are getting API errors, check the following link: [Mistral Documentation](https://docs.mistral.ai/)
