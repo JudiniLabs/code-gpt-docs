@@ -23,7 +23,7 @@ The leading open models built by the community, optimized and accelerated by NVI
 - Pick the `LLMs Cloud model` and select `NVidia` as `Provider`
 - Select a model, for instance, `nvidia/nemotron-4-340b-instruct`
 
-  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/4228e78e-ee31-4636-98fd-516d851da36a"/></p>
+  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/6aa5f0c6-8871-453a-9637-b07b87ff24e9"/></p>
 
 :::caution Remove or edit Key
 To remove your API Key from CodeGPT, click on `Change connection settings` button
