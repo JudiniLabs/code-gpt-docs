@@ -12,30 +12,20 @@ Google AI Studio is a browser-based IDE tailored for prototyping with generative
 - Create an account in [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)
 - Create a new project to attach the API Key
 - Generate and copy the [API Key](https://aistudio.google.com/app/apikey)
-- Go to VSCode and choose `Googe AI Studio` as `Provider`
-- Click on `Connect` or `Set connection`
-- Paste API Key here, and click on `Connect`: 
+- On the VSCode CodeGPT Extension, change the model on the chat
 
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
+- Paste `API Key` here, and click on `Connect`
+- Click outside the options and ask to chat.
+- Pick the `LLMs Cloud model` and select `Google AI Studio` as `Provider`
+- Select a model, for instance, `gemini-1.5-flash-latest`
+- Use the models available directly. Click outside the options and ask to chat.
 
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
+  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/baa3ce4b-7675-4efe-b2a8-d65c40e99537"/></p>
 
-
-
+:::caution Remove or edit Key
+To remove your API Key from CodeGPT, click on `Change connection settings` button
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/f3f77803-d725-4dd1-a642-1c0843cf3b2e"/></p>
 :::
 
-### Models available in Code GPT
-- Gemma-2-2b-it
-- Gemma-2-9b-it
-- Gemma-2-27b-it
-- gemini-1.5-flash-latest
-- gemini-1.5-flash
-- gemini-1.5-pro-exp-0801
-- gemini-1.5-pro-latest
-- gemini-1.5-pro
-- gemini-1.0-pro
-- gemini-1.0-pro-latest
-- gemini-pro
-- gemini-ultra
-- gemini-nano
