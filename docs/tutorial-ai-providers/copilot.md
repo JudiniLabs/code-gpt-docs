@@ -15,8 +15,6 @@ To connect, follow these steps in VSCode:
 
 - Pick the LLMs Cloud model and select Bedrock as Provider
 - Paste API Key here, and click on Connect
-- Click outside the options and ask to chat.
-
 - Pick the `LLMs Cloud model` and select `GitHub Copilot` as `Provider`
 - Use the models available directly. Click outside the options and ask to chat.
 
