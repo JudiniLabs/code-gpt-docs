@@ -26,4 +26,4 @@ To remove your API Key from CodeGPT, click on `Change connection settings` butto
 
  
 ## API Errors
-If you are getting API errors, check the following link: [Cohere API Errors](https://docs.cohere.ai/reference/errors)
+If you are getting API errors, check the following link: [Cohere API Errors](https://docs.cohere.ai/reference/errors).
