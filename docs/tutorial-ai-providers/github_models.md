@@ -24,6 +24,7 @@ Tools from the community and partners to simplify tasks and automate processes
 - Paste `API Key` here, and click on `Connect`
 - Click outside the options and ask to chat.
 - Pick the `LLMs Cloud model` and select `Github Models` as `Provider`
+- Select a model, for instance, Mistral-large
 - Use the models available directly. Click outside the options and ask to chat.
 
   <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/9d12c9d3-9cc8-47ec-8708-8e35b4a214a2"/></p>
