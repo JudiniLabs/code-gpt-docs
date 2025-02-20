@@ -14,7 +14,7 @@ The leading open models built by the community, optimized and accelerated by NVI
 
 
 
-- On the VSCode CodeGPT Extension, change the model on the chat
+- On the VSCode CodeGPT Extension, change the model on the chat.
 
 <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
