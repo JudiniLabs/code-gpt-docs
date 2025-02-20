@@ -9,24 +9,23 @@ GitHub Copilot, an AI-driven coding assistant, is designed to simplify your codi
 
 ## How to connect
 To connect, follow these steps in VSCode:
-1. Select `GitHub Copilot` as your `Provider`
-2. Click on `Connect` or `Set connection`
-3. Choose from the available models to begin
+- On the VSCode CodeGPT Extension, change the model on the chat
 
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
+- Pick the LLMs Cloud model and select Bedrock as Provider
+- Paste API Key here, and click on Connect
+- Click outside the options and ask to chat.
+
+- Pick the `LLMs Cloud model` and select `GitHub Copilot` as `Provider`
+- Use the models available directly. Click outside the options and ask to chat.
+
+  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/a80472f8-d258-467a-9588-1e723a6e74d8"/></p>
 
 :::caution Switching Providers
-You don't need to worry about disconnecting GitHub Copilot. To close it, you can just select another provider.
-
-
+You don't need to worry about disconnecting `GitHub Copilot`. To close it, you can select another provider.
 :::
 
-### Available GitHub Copilot Models in Code GPT
-- gpt-4o
-- gpt-4o-mini
-- gpt-4-turbo
-- gpt-4
-- gpt-3.5 turbo
 
 ## Troubleshooting API Errors
 If you encounter API errors, refer to the following link: [GitHub Copilot Documentation](https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot)
