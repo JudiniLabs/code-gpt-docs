@@ -20,11 +20,11 @@ Official website [https://lmstudio.ai/](https://lmstudio.ai/)
 
 - Please wait until the loading reaches 100% completion.
 - Click on `Start Server` and keep LMStudio running.
-- On the VSCode CodeGPT Extension, change the model on the chat
+- On the VSCode CodeGPT Extension, change the model on the chat.
 
 <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
-- Pick the `Local LLMs` and select `LLM Studio` as `Provider`
+- Pick the `Local LLMs` and select `LLM Studio` as `Provider`.
 - Use the models available directly. Click outside the options and ask to chat.
 
   <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/3d79427b-efc1-46d7-84ba-21a5870993d4"/></p>
