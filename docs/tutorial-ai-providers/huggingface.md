@@ -15,11 +15,11 @@ The Hugging Face is a platform designed to share pre-trained AI models and colla
 
 <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
-- Paste `API Key` here, and click on `Connect`
-- Click outside the options and ask to chat.
+
 - Pick the `LLMs Cloud model` and select `Huggingface` as `Provider`.
 - Select a model such as `Qwen/Qwen2.5-1.5B-Instruct`.
-- Use the models available directly. Click outside the options and ask to chat.
+- Paste `API Key` here, and click on `Connect`
+- Click outside the options and ask to chat.
 
   <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/066c9009-af2e-4f33-ace7-e67c31a61cb1"/></p>
 
