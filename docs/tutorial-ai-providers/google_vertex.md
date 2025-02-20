@@ -22,14 +22,13 @@ You'll be directed to the Service Account page. From there, navigate to the `Key
 `https://LOCATION-aiplatform.googleapis.com/v1/projects/PROJECT_ID/locations/LOCATION/publishers/google/models/MODEL:streamGenerateContent`
 
 ## On CodeGPT Extension 
-- On the VSCode CodeGPT Extension, change the model on the chat
+- On the VSCode CodeGPT Extension, change the model on the chat.
 
 <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
-- Paste `API Key` here, and click on `Connect`.
-- Click outside the options and ask to chat.
 - Pick the `LLMs Cloud model` and select `Cohere` as `Provider`.
 - Select a model, for example, `llama3-70b-chat-hf`.
+- Paste `API Key` here, and click on `Connect`.
 - Paste the link model and Upload the credential.json file.
 - Use the models available directly. Click outside the options and ask to chat.
 
