@@ -6,7 +6,7 @@ sidebar_position: 17
 
 This option allows you to choose a provider. All you need to connect is the API key and the provider's Custom Link (completion endpoint), commonly the registration link.
 
-## Connect your DeepSeek account
+## Connect to Custom provider
 
 - Get your API Key from the provider.
 - On the VSCode CodeGPT Extension, change the model on the chat
