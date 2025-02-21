@@ -23,7 +23,7 @@ The Cerebras Wafer-Scale Cluster is meticulously engineered to enable neural net
 - Fill out the form.
 
 <p align="center">
-      <img width="500" height="350" src="https://github.com/user-attachments/assets/1593cb8a-7727-459a-8b9b-526af4d0a06c" />
+      <img width="500" height="350" src="https://github.com/user-attachments/assets/78cb13e7-eb4f-4883-ae70-cee010c3d5a0" />
 </p>
   
 - On the VSCode CodeGPT Extension, change the model on the chat
