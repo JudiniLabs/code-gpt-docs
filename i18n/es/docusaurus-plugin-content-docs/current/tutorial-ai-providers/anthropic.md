@@ -3,60 +3,38 @@ sidebar_position: 3
 ---
 
 # Anthropic
-
 Sitio web oficial https://www.anthropic.com
 
-Anthropic es una startup de seguridad en IA con sede en San Francisco que desarrolla técnicas para garantizar que los sistemas de IA se alineen con los valores humanos y se comporten de manera ética.
+Anthropic es una startup de seguridad de IA con sede en San Francisco que desarrolla técnicas para garantizar que los sistemas de IA se alineen con los valores humanos y se comporten éticamente.
 
 # Claude
-
 Claude puede ser un representante encantador de la empresa, un asistente de investigación, un socio creativo, un automatizador de tareas y más. La personalidad, el tono y el comportamiento se pueden personalizar según tus necesidades.
 
-Para acceder a Claude, ingresa a https://www.anthropic.com/product y luego selecciona "Solicitar Acceso".
+Para acceder a Claude, ingresa a https://www.anthropic.com/product y luego selecciona "Solicitar acceso".
 
 :::caution Verifica tus créditos
 Ten en cuenta los créditos; no tener créditos puede resultar en un error 500.
 :::
 
-## Conectar tu cuenta de Anthropic
-
+## Conecta tu cuenta de Anthropic
 - Crea una cuenta en [Anthropic](https://console.anthropic.com/)
 - Ve a tus [Claves API](https://console.anthropic.com/settings/keys)
 - Genera y copia la Clave API
-- Ve a VSCode y elige `Anthropic` como `Proveedor`
-- Haz clic en `Conectar` o `Establecer conexión`
-- Pega la Clave API aquí y haz clic en `Conectar`:
+- En la extensión CodeGPT de VSCode, cambia el modelo en el chat
 
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/7fc7a21a-c4d4-49dc-943f-430d82bd42c2" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/281e4ea0-acfd-4369-9c14-7b39d23099d2" />
-    </td>
-  </tr>
-</table>
+  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/6b93e3a4-6175-43a4-a73a-ab53b4f64a79"/></p>
+ 
+- Selecciona el modelo `LLMs Cloud` y elige `Anthropic` como `Proveedor`
+- Pega la Clave API aquí y haz clic en `Conectar`
+- Haz clic fuera de las opciones y pide chatear.
+
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/b3a24d4c-242d-4b7d-bbf4-8c62bd8e436f"/></p>
 
 :::caution Eliminar Clave
-Si deseas eliminar tu Clave API de CodeGPT, haz clic en el cuadro del proveedor y haz clic en `Desconectar`
+Para eliminar tu Clave API de CodeGPT, haz clic en el botón `Cambiar configuración de conexión`
 
-<td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/539023cc-aed9-4cf3-bb07-02c0f083ae70" />
-</td>
-
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/72aa519d-cc4c-4979-b380-75167b1ba3ed"/></p>
 :::
 
-### Modelos de Claude disponibles en Code GPT
-
-- claude-3.5-sonnet-20240620
-- claude-3-opus-20240229
-- claude-3-sonnet-20240229
-- claude-3-haiku-20240307
-- claude-2.1
-- claude-2.0
-- claude-instant-1.2
-
 ## Errores de API
-
-Si estás recibiendo errores de API, consulta el siguiente enlace: [Errores de API de Anthropic](https://docs.anthropic.com/claude/reference/errors-and-rate-limits)
+Si estás recibiendo errores de API, verifica el siguiente enlace: [Errores de API de Anthropic](https://docs.anthropic.com/claude/reference/errors-and-rate-limits)
