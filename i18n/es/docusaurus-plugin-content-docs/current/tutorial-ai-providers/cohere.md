@@ -1,49 +1,29 @@
 ---
 sidebar_position: 5
 ---
-
 # Cohere
+Official website [https://cohere.ai](https://cohere.ai)
 
-Sitio web oficial [https://cohere.ai](https://cohere.ai)
+Cohere is an artificial intelligence company that specializes in developing language models. It uses advanced natural language processing and machine learning techniques to improve understanding of human language and the ability to generate text automatically. Its models are used in sentiment analysis, summarization, and machine translation applications.
 
-Cohere es una empresa de inteligencia artificial que se especializa en el desarrollo de modelos de lenguaje. Utiliza técnicas avanzadas de procesamiento de lenguaje natural y aprendizaje automático para mejorar la comprensión del lenguaje humano y la capacidad de generar texto automáticamente. Sus modelos se utilizan en aplicaciones de análisis de sentimientos, resumen y traducción automática.
+## Connect your Cohere account.
+- Create an account in [cohere.ai](https://cohere.ai/).
+- Go to your [dashboard](https://dashboard.cohere.com/api-keys).
+- On the VSCode CodeGPT Extension, change the model on the chat.
 
-## Conectar tu cuenta de Cohere
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
-- Crea una cuenta en [cohere.ai](https://cohere.ai/)
-- Ve a tu [tablero](https://dashboard.cohere.com/api-keys)
-- Ve a VSCode y elige `Cohere` como `Proveedor`
-- Haz clic en `Conectar` o `Establecer conexión`
-- Pega la clave API aquí y haz clic en `Conectar`:
+- Pick the `LLMs Cloud model` and select `Cohere` as `Provider`.
+- Paste `API Key` here, and click on `Connect`.
+- Use the models available directly. Click outside the options and ask to chat.
 
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/bfc0836e-ad54-48b5-95cb-4d55d09a3fcd" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/4c614029-24a3-4c9e-9c38-6f7524efa568" />
-    </td>
-  </tr>
-</table>
+  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/377eab5e-9abb-4272-a985-b62ff484b5b1"/></p>
 
-:::caution Eliminar Clave
-Si deseas eliminar tu clave API de CodeGPT, haz clic en el cuadro del proveedor y luego en `Desconectar`.
-
-<p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/e3170e92-6388-4141-b960-fc1ec41f507c" />
-</p>
-
+:::caution Remove or edit Key
+To remove your API Key from CodeGPT, click on `Change connection settings` button.
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/21e7d4b8-8d59-49d5-9b5e-2caeef9d1786"/></p>
 :::
 
-## Modelos disponibles en CodeGPT
-
-- aya
-- command-r-plus
-- command-r
-- command
-- command-light
-
-## Errores de API
-
-Si estás recibiendo errores de API, consulta el siguiente enlace: [Errores de API de Cohere](https://docs.cohere.ai/reference/errors)
+ 
+## API Errors
+If you are getting API errors, check the following link: [Cohere API Errors](https://docs.cohere.ai/reference/errors).
