@@ -1,5 +1,5 @@
 ---
-sidebar_position: 16
+sidebar_position: 16 
 ---
 
 # Perplexity
@@ -7,44 +7,20 @@ sidebar_position: 16
 Sitio web oficial [https://www.perplexity.ai](https://www.perplexity.ai)
 
 ## Conectar Perplexity
+- Inicia sesión en tu cuenta de Perplexity [aquí](https://www.perplexity.ai/settings/account).
+- Obtén tu [Clave API](https://www.perplexity.ai/settings/api).
+- En la extensión CodeGPT de VSCode, cambia el modelo en el chat.
 
-- Inicia sesión en tu cuenta de Perplexity [aquí](https://www.perplexity.ai/settings/account)
-- Obtén tu [Clave API](https://www.perplexity.ai/settings/api)
-- Lanza la extensión CodeGPT en VSCode.
-- Elige Perplexity como `Proveedor`.
-- Haz clic en `Conectar` o `Establecer conexión`.
-- Pega la Clave API aquí y haz clic en `Conectar`:
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/43e59d58-2752-4dbc-8055-663ab7a1b19f" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/d61172aa-2176-407c-9b35-89e0ac518b88" />
-    </td>
-  </tr>
-</table>
-:::caution Eliminar clave
-Si deseas eliminar tu Clave API de CodeGPT, haz clic en el cuadro del proveedor y haz clic en `Desconectar`.
-<p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/14f39809-2536-4f5f-ace0-22e6f908e97e" />
-</p>
+- Selecciona el modelo `LLMs Cloud` y elige `Perplexity` como `Proveedor`.
+- Selecciona un modelo, por ejemplo, `pplx-7b-chat`.
+- Pega la `Clave API` aquí y haz clic en `Conectar`.
+- Haz clic fuera de las opciones y pide chatear.
+
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/fd0f32d5-3836-4969-bb3a-44eaca0e7426"/></p>
+
+:::caution Eliminar o editar Clave
+Para eliminar tu Clave API de CodeGPT, haz clic en el botón `Cambiar configuración de conexión`.
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/d6462f3e-2bb4-46aa-9489-e54ed7343096"/></p>
 :::
-## Modelos disponibles en CodeGPT
-- llama-3-8b-chat
-- llama-3-70b-chat
-- llama-2-70b-chat
-- llama-2-70b-chat
-- codellama-34b-instruct
-- codellama-70b-instruct
-- mistral-7b-instruct
-- mixtral-8x7b-instruct
-- pplx-7b-chat
-- pplx-70b-chat
-- pplx-7b-online
-- pplx-70b-online
-- sonar-small-chat
-- sonar-small-online
-- sonar-medium-chat
-- sonar-medium-online
