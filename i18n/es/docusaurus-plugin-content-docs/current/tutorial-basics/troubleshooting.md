@@ -20,9 +20,9 @@ Para ejecutar la extensión CodeGPT, tu configuración debe cumplir con los sigu
 ### Problemas Comunes y Soluciones
 
 - Problema:
-  La extensión CodeGPT requiere el uso del puerto 54112 para localhost. Si este puerto no está disponible, la extensión no podrá ejecutarse.
+La extensión CodeGPT requiere el uso del puerto 54112 para localhost. Si este puerto no está disponible, la extensión no podrá ejecutarse.
 
 - Solución:
-  Asegúrate de que el puerto 54112 esté libre y no esté siendo utilizado por ninguna otra aplicación. Puedes verificar y liberar este puerto utilizando los siguientes comandos:
+Asegúrate de que el puerto 54112 esté libre y no esté siendo utilizado por ninguna otra aplicación. Puedes verificar y liberar este puerto utilizando los siguientes comandos:
 
 Para Windows:
