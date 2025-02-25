@@ -4,99 +4,42 @@ sidebar_position: 14
 
 # Ollama
 
-Sitio web oficial https://ollama.ai
+Sitio web oficial [https://ollama.ai](https://ollama.ai)
 
 Proyecto de código abierto para ejecutar, crear y compartir modelos de lenguaje grande (LLMs).
 
-## Conectar modelos de Ollama
-
-- Descarga Ollama desde el siguiente enlace: [ollama.ai](https://ollama.ai/)
+## Conectar Modelos Ollama
+- Descarga e instala Ollama desde el siguiente enlace: [ollama.ai](https://ollama.ai/).
 
 ### Descargar modelos a través de la consola
+- Descarga el modelo, por ejemplo, `ollama run deepseek-r1` desde la terminal.
 
-- Instala Ollama y utiliza el modelo `codellama` ejecutando el comando `ollama pull codellama`
-- Si deseas usar `Mistral` u otros modelos, debes reemplazar `codellama` con el modelo deseado. Por ejemplo: `ollama pull mistral`
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/258d5faa-3d8c-4198-aabe-5378b3bf3aae"/></p>
 
-### Descargar modelos a través de la interfaz de usuario de CodeGPT
+- Utiliza el modelo ejecutando el comando ```ollama pull MODEL```, por ejemplo: ``ollama pull deepseek-r1``.
+- Por favor, espera hasta que la carga alcance el 100% de finalización.
 
-- Selecciona Ollama como `Proveedor`
-- Selecciona el modelo
-- Haz clic en el botón `Descargar`
-
-<p align="center">
-      <img width="300" height="250" src="https://github.com/JudiniLabs/code-gpt-docs/assets/6216945/40a47458-7d7a-46c5-8500-b7c00ce99b72" />
-</p>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/11bc56a1-62d1-46ad-96cd-465a325b2c7c"/></p>
 
 # Cómo usar Ollama
 
-- En VSCode selecciona Ollama como `Proveedor`
-- Ten en cuenta que Ollama se está ejecutando localmente en tu computadora.
-- Elige un modelo
+- En la extensión CodeGPT de VSCode, cambia el modelo en el chat.
 
-    <p align="center">
-      <img width="300" height="150" src="https://github.com/davila7/code-gpt-docs/assets/37567214/65f81b2c-cf92-4e94-9041-bc4bcfe80477" />
-    </p>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
-:::caution Eliminar clave
-No es necesario desconectar; solo cambia el proveedor.
+- Selecciona `LLMs Locales` y elige `Ollama` como `Proveedor`.
+- Utiliza los modelos disponibles directamente.
+- Pega el enlace del servidor donde se está ejecutando el modelo. Para localhost: `http://localhost:11434`.
+- Haz clic fuera de las opciones y pide chatear.
+
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/28ec0abc-2928-4225-b1e9-764111291db2"/></p>
+
+:::caution Eliminar o editar Clave
+Para eliminar el puerto, haz clic en el botón `Cambiar configuración de conexión`.
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/b32595a0-47de-4f9b-804b-3d6188fb1027"/></p>
 :::
 
-## Modelos de chat disponibles:
-
-- llama3.2:3b
-- llama3.2:1b
-- llama3.1:405b
-- llama3.1:70b
-- llama3.1:8b
-- llama3:70b
-- llama3:8b
-- codellama:latest
-- codestral:latest
-- mathstral:latest
-- mixtral:latest
-- mistral:v0.3
-- mistral:latest
-- codegeex4:9b
-- reflection:70b
-- yi-coder:1.5b
-- yi-coder:9b
-- qwen2.5-coder:1.5b
-- qwen2.5-coder:7b
-- codeqwen
-- qwen2:72b
-- qwen2:7b
-- qwen2:1.5b
-- qwen2:0.5b
-- command-r-plus:latest
-- command-r:latest
-- aya:8b
-- aya:35b
-- phi3.5:latest
-- phi3:mini
-- phi3:medium
-- phi3:latest
-- granite-code:3b
-- granite-code:8b
-- granite-code:20b
-- granite-code:34b
-- codegemma:latest
-- gemma2:2b
-- gemma2:9b
-- gemma2:27b
-- gemma:2b
-- gemma:7b
-- dbrx:latest
-- deepseek-v2.5:236b
-- deepseek-coder:latest
-- deepseek-coder-v2
-- starcoder2:latest
-- dolphincoder:latest
-- dolphin-mixtral:latest
-- starling-lm:latest
-- llama2-uncensored:latest
-
 ## Modelos de autocompletado disponibles:
-
 - codestral:latest
 - qwen2.5-coder:7b
 - deepseek-coder:base
@@ -105,15 +48,9 @@ No es necesario desconectar; solo cambia el proveedor.
 - codellama:code
 
 ## Errores de API
-
-Si estás recibiendo errores de API, verifica el siguiente enlace: [Documentación de Ollama](https://ollama.ai/)
+Si estás recibiendo errores de API, consulta el siguiente enlace: [Documentación de Ollama](https://ollama.ai/)
 
 ## Errores de Ollama
-
 - Si el modelo de Ollama no responde en el chat, considera reiniciarlo localmente apagándolo y encendiéndolo nuevamente. Esta acción debería resolver el problema.
 
-    <p align="center">
-      <img width="250" height="00" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4bd4e2c8-dbfb-46f3-b4d3-c3484cc7692c"/>
-    </p>
-
-- Si Ollama está en funcionamiento pero no responde, por favor elimina manualmente 'Ollama_Host' de las variables de entorno y déjalo revertir a la configuración predeterminada.
+- Si Ollama está en ejecución pero no responde, por favor elimina manualmente 'Ollama_Host' de las variables de entorno y deja que vuelva a la configuración predeterminada.
