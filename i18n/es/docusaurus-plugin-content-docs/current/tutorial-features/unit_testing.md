@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Prueba Unitaria
+# Pruebas Unitarias
 
 La función Prueba Unitaria de CodeGPT te permite generar pruebas unitarias para tu código de manera rápida. Al seleccionar segmentos de código específicos, puedes solicitar a CodeGPT que cree una prueba unitaria correspondiente, mejorando la fiabilidad y calidad del código.
 
