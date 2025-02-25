@@ -8,46 +8,22 @@ Sitio web oficial [https://aistudio.google.com/](https://aistudio.google.com/)
 
 Google AI Studio es un IDE basado en navegador diseñado para la creación de prototipos con modelos generativos. Los usuarios pueden experimentar rápidamente con varios modelos y prompts dentro de Google AI Studio.
 
-## Conectar tu cuenta de Proveedor
+## Conecta tu cuenta de Proveedor
+- Crea una cuenta en [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat).
+- Crea un nuevo proyecto para adjuntar la Clave API.
+- Genera y copia la [Clave API](https://aistudio.google.com/app/apikey).
+- En la extensión CodeGPT de VSCode, cambia el modelo en el chat.
 
-- Crea una cuenta en [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)
-- Crea un nuevo proyecto para adjuntar la Clave API
-- Genera y copia la [Clave API](https://aistudio.google.com/app/apikey)
-- Ve a VSCode y elige `Google AI Studio` como `Proveedor`
-- Haz clic en `Conectar` o `Establecer conexión`
-- Pega la Clave API aquí y haz clic en `Conectar`:
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/1a917a98-5c10-4b07-9e06-1daeaee2fc2f" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/d5ca6a20-7bb0-439d-98db-857796ed0869" />
-    </td>
-  </tr>
-</table>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
-:::caution Eliminar Clave
-Si deseas eliminar tu Clave API de CodeGPT, haz clic en el cuadro del proveedor y haz clic en `Desconectar`.
+- Selecciona el modelo `LLMs Cloud` y elige `Google AI Studio` como `Proveedor`.
+- Selecciona un modelo, por ejemplo, `gemini-1.5-flash-latest`.
+- Pega la `Clave API` aquí y haz clic en `Conectar`.
+- Haz clic fuera de las opciones y pide chatear.
 
-<p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/ddcfc0b4-2564-4e04-90b3-73cad9642011" />
-</p>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/baa3ce4b-7675-4efe-b2a8-d65c40e99537"/></p>
 
+:::caution Eliminar o editar Clave
+Para eliminar tu Clave API de CodeGPT, haz clic en el botón `Cambiar configuración de conexión`.
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/f3f77803-d725-4dd1-a642-1c0843cf3b2e"/></p>
 :::
-
-### Modelos disponibles en Code GPT
-
-- Gemma-2-2b-it
-- Gemma-2-9b-it
-- Gemma-2-27b-it
-- gemini-1.5-flash-latest
-- gemini-1.5-flash
-- gemini-1.5-pro-exp-0801
-- gemini-1.5-pro-latest
-- gemini-1.5-pro
-- gemini-1.0-pro
-- gemini-1.0-pro-latest
-- gemini-pro
-- gemini-ultra
-- gemini-nano
