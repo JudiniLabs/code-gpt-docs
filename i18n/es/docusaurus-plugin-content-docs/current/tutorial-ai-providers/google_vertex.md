@@ -3,69 +3,40 @@ sidebar_position: 8
 ---
 
 # Google Vertex AI
-
 Sitio web oficial [https://cloud.google.com/](https://cloud.google.com/)
 
-## Conectar tus credenciales de Vertex
-
+## Conecta tus credenciales de Vertex
 Obtener tus credenciales en Google Cloud puede ser complicado. A partir del 28 de marzo de 2024, aquí está el proceso para obtenerlas:
 
 ### En Google Cloud
-
-- Navega a [https://cloud.google.com/](https://cloud.google.com/) e inicia sesión con tu cuenta de Gmail.
+- Navega a https://cloud.google.com/ e inicia sesión con tu cuenta de Gmail.
 - Inicia la Consola seleccionando la opción en la esquina superior derecha.
 - En el panel izquierdo, haz clic en la pestaña "Models Garden".
-- En el cuadro de búsqueda en la parte superior, escribe "Vertex AI". Elige "Virtual Studio Vertex".
+- En el cuadro de búsqueda en la parte superior, escribe `Vertex AI`. Elige `Virtual Studio Vertex`.
 - Asegúrate de haber habilitado la API de Vertex AI, la API de Dataform y la API de Compute Engine.
 - Ve al [Tablero](https://console.cloud.google.com/home/dashboard).
-- Desde el menú de la derecha, selecciona "API y Servicios" y haz clic en "Credenciales". Haz clic en el correo electrónico asociado con las Cuentas de Servicio.
-  Serás dirigido a la página de Cuentas de Servicio. Desde allí, navega a la pestaña "Claves" y selecciona "Agregar clave". La descarga debería comenzar automáticamente, y el archivo debería guardarse como un .json.
-- Renombra el archivo descargado a "credentials".
-- Para el Enlace Personalizado, personalízalo según sea necesario, asegurándote de que la UBICACIÓN, PROJECT_ID y el MODELO sean cambiados.
+- Selecciona "API y Servicios" en el menú de la derecha y haz clic en `Credenciales`. Haz clic en el correo electrónico asociado con las Cuentas de Servicio.
+Serás dirigido a la página de Cuentas de Servicio. Desde allí, navega a la pestaña `Keys` y selecciona `Add Key`. La descarga debería comenzar automáticamente y el archivo debería guardarse como un .json.
+- Renombra el archivo descargado a `credentials`.
+- Para el Enlace Personalizado, personalízalo según sea necesario, asegurándote de que LOCATION, PROJECT_ID y MODEL sean cambiados.
+`https://LOCATION-aiplatform.googleapis.com/v1/projects/PROJECT_ID/locations/LOCATION/publishers/google/models/MODEL:streamGenerateContent`
 
-#img-representation-1
+## En la Extensión CodeGPT 
+- En la extensión CodeGPT de VSCode, cambia el modelo en el chat.
 
-- Elige `Vertex` como `Proveedor`.
-- Haz clic en `Conectar` o `Establecer conexión`.
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
+
+- Selecciona el modelo `LLMs Cloud` y elige `Cohere` como `Proveedor`.
+- Selecciona un modelo, por ejemplo, `llama3-70b-chat-hf`.
+- Pega la `Clave API` aquí y haz clic en `Conectar`.
 - Pega el enlace del modelo y sube el archivo credential.json.
-- Haz clic en `Conectar`.
+- Utiliza los modelos disponibles directamente. Haz clic fuera de las opciones y pide chatear.
 
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/fbfca711-3941-4d84-bde3-969457a36978" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/b0e04c27-4332-40d0-94b8-80dbecdcbeab" />
-    </td>
-  </tr>
-</table>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/928e0dbd-27a8-4f1b-8904-784da652bf02"/></p>
 
-:::caution Eliminar Clave
-Si deseas eliminar tu Clave API de CodeGPT, haz clic en el cuadro del proveedor y haz clic en `Desconectar`.
-
-<p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/e29e919c-0e36-436d-a8bd-acb01c266c3a" />
-</p>
-
+:::caution Eliminar o editar Clave
+Para eliminar tu Clave API de CodeGPT, haz clic en el botón `Cambiar configuración de conexión`.
 :::
 
-## Modelos de Vertex disponibles en CodeGPT
-
-### Gemini
-
-- Llama3-8b-Hf
-- llama3-8b-chat-hf
-- llama3-70b-hf
-- llama3-70b-chat-hf
-- gemini-pro
-- gemini-1.0-pro
-- gemini-1.5-pro-latest
-- gemini-1.5-pro-preview-0514
-- gemini-1.5-flash-preview-0514
-- gemini-ultra
-- gemini-nano
-
 ## Errores de API
-
-Si estás recibiendo errores de API, verifica el siguiente enlace: [Documentación de Vertex AI](https://cloud.google.com/vertex-ai/docs)
+Si estás recibiendo errores de API, consulta el siguiente enlace: [Documentación de Vertex AI](https://cloud.google.com/vertex-ai/docs)
