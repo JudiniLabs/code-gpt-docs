@@ -27,14 +27,14 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ["en", "es"],
-    //locales: ["en", "pt", "es"],
+    //locales: ["en", "es"],
+    locales: ["en", "pt", "es"],
     localeConfigs: {
       // add portuguese
-     // pt: {
-       // label: 'Português',
-        //direction: 'ltr',
-     // },
+      pt: {
+        label: 'Português',
+        direction: 'ltr',
+      },
       // add spanish
       es: {
         label: 'Español',
