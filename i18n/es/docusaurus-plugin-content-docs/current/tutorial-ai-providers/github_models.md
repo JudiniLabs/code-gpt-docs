@@ -1,69 +1,33 @@
 ---
 sidebar_position: 4
 ---
+# Github Models
 
-# Modelos de GitHub
+Sitio web oficial https://github.com/marketplace/models
 
-Sitio web oficial [https://github.com/marketplace/models](https://github.com/marketplace/models)
+Puedes asegurarte de mejorar tu flujo de trabajo con extensiones. Herramientas de la comunidad y socios para simplificar tareas y automatizar procesos.
 
-Mejora tu flujo de trabajo con extensiones.
-Herramientas de la comunidad y socios para simplificar tareas y automatizar procesos.
+## Conecta tu cuenta de Proveedor
 
-## Conectar tu cuenta de Proveedor
+- Únete a la lista de espera de Github Models: https://github.com/marketplace/models/waitlist/join.
+- Obtén tu Token de Github de [Configuraciones de Desarrollador](https://github.com/settings/apps).
+- Ve a `Tokens de Acceso Personal` y haz clic en [Token (clásico)](https://github.com/settings/tokens).
+- Haz clic en `Generar nuevo token`, luego `Generar nuevo token (clásico)`.
+- Completa el campo Nota con "codegpt".
+- Luego copia tu token de acceso.
 
-- Únete a la lista de espera de Modelos de GitHub: [https://github.com/marketplace/models/waitlist/join](https://github.com/marketplace/models/waitlist/join)
-- Obtén tu Token de GitHub desde [Configuraciones de Desarrollador](https://github.com/settings/apps)
-- Ve a `Tokens de Acceso Personal` y haz clic en [Token (clásico)](https://github.com/settings/tokens)
-- Haz clic en `Generar nuevo token`, luego `Generar nuevo token (clásico)`
-- Rellena el campo Nota con "codegpt"
-- Luego copia tu token de acceso
+- En la extensión CodeGPT de VSCode, cambia el modelo en el chat.
 
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/73d5af91-536e-4288-b674-2ed23b73d71d" />
-    </td>
-     <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/2455c07b-42d8-44b7-b6bf-7c1cabb29af6" />
-    </td>
-  </tr>
-</table>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
-:::caution Eliminar Clave
-Si deseas eliminar tu Clave API de CodeGPT, haz clic en el cuadro del proveedor y haz clic en `Desconectar`.
+- Selecciona el modelo `LLMs Cloud` y elige `Github Models` como `Proveedor`.
+- Selecciona un modelo, por ejemplo, `Mistral-large`.
+- Pega la `Clave API` aquí y haz clic en `Conectar`.
+- Utiliza los modelos disponibles directamente. Haz clic fuera de las opciones y pide chatear.
 
-<p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/85685219-b9fc-4d1f-a388-db7a483b0fcb" />
-</p>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/9d12c9d3-9cc8-47ec-8708-8e35b4a214a2"/></p>
 
+:::caution Eliminar o editar Clave
+Para eliminar tu Clave API de CodeGPT, haz clic en el botón `Cambiar configuración de conexión`.
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/80c61868-3a7a-4972-bd46-c2540604a5d6"/></p>
 :::
-
-## Modelos disponibles en CodeGPT
-
-- gpt-4o
-- gpt-4o-mini
-- Mistral-large
-- Mistral-large-2407
-- Mistral-Nemo
-- Mistral-Small
-- IA21-Jamba-Instruct
-- Meta-Llama-3-70B-Instruct
-- Meta-Llama-3-8B-Instruct
-- Meta-Llama-3.1-405B-Instruct
-- Meta-Llama-3.1-70B-Instruct
-- Meta-Llama-3.1-8B-Instruct
-- Cohere-command-r
-- Cohere-command-r-plus
-- Phi-3-medium-128k-instruct
-- Phi-3-medium-4k-instruct
-- Phi-3-mini-128k-instruct
-- Phi-3-mini-4k-instruct
-- Phi-3-small-128k-instruct
-- Phi-3-small-8k-instruct
-- Phi-3.5-mini-instruct
-
-## Cómo usarlo
-
-<p align="center">
-      <img width="500" height="250" src="https://github.com/user-attachments/assets/4f49ff43-c408-4593-b912-2ec094f0f395" />
-</p>
