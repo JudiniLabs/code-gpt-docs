@@ -7,22 +7,28 @@ sidebar_position: 15
 Sitio web oficial [https://lmstudio.ai/](https://lmstudio.ai/)
 
 ## Conectar LM Studio
-
 - Descarga LM Studio aquí [lmstudio.ai](https://lmstudio.ai/)
-- Abre LM Studio y navega a la pestaña `Mis Modelos`. Asegúrate de descargar un modelo.
+- Abre LM Studio y navega a la pestaña `Mis Modelos`. Asegúrate de haber descargado un modelo.
+- Si no has descargado un modelo, ve a la pestaña `Buscar` y busca un modelo.
+
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/1c55f614-9fff-449f-a5df-2a0655d6e7ec"/></p>
+
 - A continuación, ve a la pestaña `Servidor Local`.
 - Haz clic en `Seleccionar un modelo para cargar` y elige un modelo.
- <p align="center">
-      <img width="425" height="100" src="https://github.com/davila7/code-gpt-docs/assets/37567214/4ef13a7b-0ba9-42cc-8644-4d7a93b5734a"/>
-</p>
+
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/4286c491-2a27-435f-8aa5-4300733da972"/></p>
+
 - Por favor, espera hasta que la carga alcance el 100% de finalización.
 - Haz clic en `Iniciar Servidor` y mantén LM Studio en ejecución.
-- Lanza la extensión CodeGPT en VSCode.
-- Elige LM Studio como `Proveedor`.
-   <p align="center">
-  <img width="350" height="170" src="https://github.com/davila7/code-gpt-docs/assets/37567214/8bfeb19f-e4ce-4a79-b56d-37a7e8b9f5ac" />
-</p>
+- En la extensión CodeGPT de VSCode, cambia el modelo en el chat.
 
-:::caution Eliminar Clave
-No es necesario desconectar; solo cambia el proveedor. Si el agente no responde y aparece un "Error de Ganancia", por favor cierra VSCode. Luego, asegúrate de que LM Studio esté en funcionamiento con el modelo antes de volver a abrirlo.
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
+
+- Selecciona `LLMs Locales` y elige `LLM Studio` como `Proveedor`.
+- Utiliza los modelos disponibles directamente. Haz clic fuera de las opciones y pide chatear.
+
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/3d79427b-efc1-46d7-84ba-21a5870993d4"/></p>
+
+:::caution Eliminar Clave 
+No necesitas desconectar; puedes cambiar el proveedor. Si el agente no responde y aparece un "Error de Ganancia", cierra VSCode. Luego, asegúrate de que LM Studio esté en ejecución con el modelo antes de volver a abrirlo.
 :::
