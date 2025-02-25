@@ -1,47 +1,27 @@
 ---
 sidebar_position: 9
 ---
-
 # DeepSeek
 
-Sitio web oficial [https://www.deepseek.com/](https://www.deepseek.com/)
+Sitio web oficial https://www.deepseek.com/
 
-Establecida en 2023, DeepSeek (深度求索) es una empresa china comprometida a hacer de la Inteligencia General Artificial (AGI) una realidad. Abordan preguntas fundamentales con una perspectiva a largo plazo.
+Establecida en 2023, DeepSeek (深度求索) es una empresa china comprometida con hacer de la Inteligencia General Artificial (AGI) una realidad. Abordan preguntas fundamentales con una perspectiva a largo plazo.
 
-## Conectar tu cuenta de Proveedor
+## Conecta tu cuenta de DeepSeek
 
-- Obtén tu clave API de [https://platform.deepseek.com/api_keys](https://platform.deepseek.com/api_keys)
-- Ve a VSCode y elige `Deepseek` como `Proveedor`
-- Haz clic en `Conectar` o `Establecer conexión`
-- Pega la clave API aquí y haz clic en `Conectar`:
+- Obtén tu Clave API de https://platform.deepseek.com/api_keys
+- En la extensión CodeGPT de VSCode, cambia el modelo en el chat
 
-<table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/ded7886e-48eb-4edd-8ab8-2ca79a09270a" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/ded7886e-48eb-4edd-8ab8-2ca79a09270a" />
-    </td>
-  </tr>
-</table>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
 
-:::caution Eliminar Clave
-Si deseas eliminar tu clave API de CodeGPT, haz clic en el cuadro del proveedor y luego en `Desconectar`.
+- Selecciona el modelo `LLMs Cloud` y elige `DeepSeek` como `Proveedor`.
+- Pega la `Clave API` aquí y haz clic en `Conectar`.
+- Selecciona un modelo, como `deepsek-chat`.
+- Haz clic fuera de las opciones y pide chatear.
 
-<p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/748aadae-704a-4c34-be8c-570b3facd831" />
-</p>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/ebf98076-a38a-4814-a1c0-b5c4bc91a316"/></p>
 
+:::caution Eliminar o editar Clave
+Para eliminar tu Clave API de CodeGPT, haz clic en el botón `Cambiar configuración de conexión`.
+ <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0f418db3-33a0-463c-abee-917a3b840245"/></p>
 :::
-
-## Modelos disponibles en CodeGPT
-
-- Deepseek-chat
-- Deepseek-coder
-
-## Cómo usarlo
-
-<p align="center">
-      <img width="500" height="250" src="https://github.com/davila7/code-gpt-docs/assets/37567214/6fb41a1e-71cf-4518-a073-47317168d8dd" />
-</p>
