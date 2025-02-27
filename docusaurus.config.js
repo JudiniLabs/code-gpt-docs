@@ -28,7 +28,7 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     //locales: ["en", "es"],
-    locales: ["en", "pt", "es","zh-hans"],
+    locales: ["en", "pt", "es","zh-Hans"],
     localeConfigs: {
       // add portuguese
       pt: {
