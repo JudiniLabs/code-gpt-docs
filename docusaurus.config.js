@@ -40,7 +40,7 @@ const config = {
         label: 'Español',
         direction: 'ltr',
       },
-      zh-Hans: {
+      zh: {
         label: '中文',
         direction: 'ltr',
       },
