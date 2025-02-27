@@ -35,13 +35,13 @@ const config = {
         label: 'Português',
         direction: 'ltr',
       },
-      zh-hans: {
-        label: '中文',
-        direction: 'ltr',
-      },
       // add spanish
       es: {
         label: 'Español',
+        direction: 'ltr',
+      },
+      zh-Hans: {
+        label: '中文',
         direction: 'ltr',
       },
     },
