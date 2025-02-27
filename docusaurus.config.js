@@ -28,11 +28,15 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     //locales: ["en", "es"],
-    locales: ["en", "pt", "es"],
+    locales: ["en", "pt", "es","zh-hans"],
     localeConfigs: {
       // add portuguese
       pt: {
         label: 'Português',
+        direction: 'ltr',
+      },
+      zh-hans: {
+        label: '中文',
         direction: 'ltr',
       },
       // add spanish
