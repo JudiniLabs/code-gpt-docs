@@ -12,11 +12,13 @@ Opensource project to run, create, and share large language models (LLMs).
 
 
 ### Download models via the console
-- Download the model, for example, `ollama run deepseek-r1` from the terminal.
+- To download and use a model immediately in the terminal, run: `ollama run MODEL`. For example: `ollama run deepseek-r1`
 
    <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/258d5faa-3d8c-4198-aabe-5378b3bf3aae"/></p>
+   This command downloads the model (if not already available) and starts using it right away.
 
-- Use the model by running the command ```ollama pull MODEL```, for example :``ollama pull deepseek-r1```.
+- To only download the model for later use in CodeGPT, run: `ollama pull MODEL`, for example :`ollama pull deepseek-r1`.
+  This command downloads the model without running it, making it available for integration in CodeGPT.
 - Please wait until the loading reaches 100% completion.
 <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/11bc56a1-62d1-46ad-96cd-465a325b2c7c"/></p>
 
@@ -48,7 +50,6 @@ To remove the port, click on `Change connection settings` button.
 - qwen2.5-coder:1.5b
 - codegemma:code
 - codellama:code
-
 
 ## API Errors
 If you are getting API errors, check the following link: [Ollama Documentation](https://ollama.ai/)
