@@ -148,6 +148,12 @@ const config = {
             position: 'right',
           },
           {
+            to: 'https://app.codegpt.co/login',
+            label: 'Login',
+            position: 'right',
+            className: 'navbar-login-button',
+          },
+          {
             type: 'localeDropdown',
           },
         ],
