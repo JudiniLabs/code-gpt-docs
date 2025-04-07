@@ -1,5 +1,3 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
 const { ProvidePlugin } = require("webpack");
 const path = require("path");
 
@@ -17,37 +15,26 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'codegpt', // Usually your GitHub org/user name.
-  projectName: 'code-gpt-docs', // Usually your repo name.
+  organizationName: 'codegpt',
+  projectName: 'code-gpt-docs',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    //locales: ["en", "es"],
-    locales: ["en", "pt", "es","zh-Hans"],
+    locales: ["en", "pt", "es", "zh-Hans"],
     localeConfigs: {
-      // add portuguese
       pt: {
         label: 'Português',
         direction: 'ltr',
-      },
-      // add spanish
-      es: {
-        label: 'Español',
-        direction: 'ltr',
+        },
+        es: {
+          label: 'Español',
+          direction: 'ltr',
       },
       zh: {
         label: '中文',
         direction: 'ltr',
       },
     },
-  },
-  customFields:{
-    mendableAnonKey: process.env.MENDABLE_ANON_KEY,
   },
   plugins: [
     () => ({
@@ -89,26 +76,18 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          //editUrl:
-            //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        gtag: {
+          docs: {
+            sidebarPath: require.resolve('./sidebars.js'),
+          },
+          gtag: {
           trackingID: 'G-GEEJMKY9EX',
           anonymizeIP: true,
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          blog: {
+            showReadingTime: true,
+          },
+          theme: {
+            customCss: require.resolve('./src/css/custom.css'),
         },
       }),
     ],
@@ -121,6 +100,26 @@ const config = {
         defaultMode: 'dark',
         disableSwitch: true,
         respectPrefersColorScheme: false,
+      },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'YOUR_APP_ID',
+        // Public API key: it is safe to commit it
+        apiKey: 'YOUR_SEARCH_API_KEY',
+        indexName: 'YOUR_INDEX_NAME',
+        // Optional: see doc section below
+        contextualSearch: true,
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        externalUrlRegex: 'external\\.com|domain\\.com',
+        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+        replaceSearchResultPathname: {
+          from: '/docs/', // or as RegExp: /\/docs\//
+          to: '/',
+        },
+        // Optional: Algolia search parameters
+        searchParameters: {},
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
       },
       navbar: {
         title: 'CodeGPT',
@@ -175,19 +174,11 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/vgTGsVr69s',
-              },
-              // {
-              //   label: 'Reddit',
-              //   href: 'https://www.reddit.com/r/CodeGPT_VSCode/',
-              // },
-              // {
-              //   label: 'Facebook Group',
-              //   href: 'https://www.facebook.com/groups/1590127588169761',
-              // },
-              {
-                label: 'Product Hunt',
-                href: 'https://www.producthunt.com/posts/code-gpt'
+                  href: 'https://discord.gg/vgTGsVr69s',
+                },
+                {
+                  label: 'Product Hunt',
+                  href: 'https://www.producthunt.com/posts/code-gpt'
               }
             ],
           },
@@ -214,11 +205,7 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} CodeGPT`,
-      },
-      // prism: {
-      //   theme: lightCodeTheme,
-      //   darkTheme: darkCodeTheme,
-      // },
+      }
     }),
 };
 
