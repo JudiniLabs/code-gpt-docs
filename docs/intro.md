@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+keywords: [introduction, welcome, getting started, codegpt, ai, coding, productivity, workflow, insights, visual studio code, jetbrains, ide, extension, features, benefits, revolutionize, coding experience, seasoned developer, starting out, productivity, streamline, insights, development environment, range of features, empower, coding journey]
 ---
 
 # 👋 Welcome

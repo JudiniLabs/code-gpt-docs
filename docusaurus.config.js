@@ -106,18 +106,8 @@ const config = {
         appId: 'AYBRSMR447',
         // Public API key: it is safe to commit it
         apiKey: '950469f5479f9eaf95ebc825d2a30a49',
-        indexName: 'docs_codegpt_co_aybrsmr447_articles',
-        // Optional: see doc section below
-        contextualSearch: true,
-        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-        replaceSearchResultPathname: {
-          from: '/docs/', // or as RegExp: /\/docs\//
-          to: '/',
-        },
-        // Optional: Algolia search parameters
-        searchParameters: {},
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: 'search',
+        indexName: 'codegpt_docs_pages',
+        placeholder: 'Search in CodeGPT Docs'
       },
       navbar: {
         title: 'CodeGPT',
