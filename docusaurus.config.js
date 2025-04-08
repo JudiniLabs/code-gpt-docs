@@ -101,14 +101,6 @@ const config = {
         disableSwitch: true,
         respectPrefersColorScheme: false,
       },
-      algolia: {
-        // The application ID provided by Algolia
-        appId: 'AYBRSMR447',
-        // Public API key: it is safe to commit it
-        apiKey: '950469f5479f9eaf95ebc825d2a30a49',
-        indexName: 'codegpt_docs_pages',
-        placeholder: 'Search in CodeGPT Docs'
-      },
       navbar: {
         title: 'CodeGPT',
         logo: {
