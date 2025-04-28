@@ -6,7 +6,12 @@ sidebar_position: 1
 
 CodeGPT now supports the integration of external tools via the Model Context Protocol (MCP), allowing AI models to interact with various services and data sources. This tutorial will walk you through the process of configuring an MCP server within CodeGPT.
 
-[photo]
+:::note CodeGPT MCP Host
+<p align="center">
+      <img width="350" height="250" src="https://github.com/user-attachments/assets/291406a3-4f04-462d-b033-ced9578338ee" />
+</p>
+:::
+
 
 ## Understanding MCP
 ### What is an MCP Host?
