@@ -33,8 +33,7 @@ Official website https://docs.docker.com
 - Paste the link of the server where the model is running. For localhost: `htttp://localhost:12434`. 
 - Click outside the options and ask to chat.
 
-<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/28ec0abc-2928-4225-b1e9-764111291db2"/></p>
- 
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/77c4631c-5cec-4594-8d5b-6775866231d1"/></p>
 
 ## API Errors
 If you are getting API errors, check the following link: [Docker Documentation](https://docs.docker.com/desktop/features/model-runner/)
