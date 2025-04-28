@@ -25,17 +25,18 @@ Follow these steps to add and configure an MCP server in CodeGPT:
 
 1. Open Settings
 Click on the gear icon (⚙️) located in the sidebar to open the Settings menu.​
-[photo]
+
+<img width="495" alt="Screenshot 2025-04-28 at 12 20 35" src="https://github.com/user-attachments/assets/ae687290-1380-428d-a954-73e6c5bb4f34" />
 
 2. Navigate to the MCP Configuration Tab
 In the Settings menu, select the MCP Configuration tab to access MCP-related settings.​
-[photo]
 
-3. Open the MCP Config File
+4. Open the MCP Config File
 Click on Open MCP Config File to open the configuration file (mcp.json) where you can define your MCP servers.​
-[photo]
 
-4. Add Your Server Configuration
+<img width="454" alt="Screenshot 2025-04-28 at 12 21 08" src="https://github.com/user-attachments/assets/97891032-c399-4301-b40b-ce1b8eaed708" />
+
+5. Add Your Server Configuration
 In the mcp.json file, add your server configuration. For example, to add a filesystem server:​
 
 ```json
@@ -60,7 +61,7 @@ In the mcp.json file, add your server configuration. For example, to add a files
 
 5. Refresh Server Connections
 After saving your configuration, return to the MCP Configuration tab and click on Refresh Server Connections to apply the changes and start the new server.​
-[photo]
+
 
 ## Exploring Available Tools
 Once the server is running:​
@@ -71,6 +72,7 @@ Once the server is running:​
 
 - Select the tools you wish to enable for use by the AI models.​
 
-[photo]
+<img width="377" alt="Screenshot 2025-04-28 at 12 22 08" src="https://github.com/user-attachments/assets/55bd3913-daba-4c06-ab3b-5f7ede6436ad" />
+
 
 This setup allows you to customize the capabilities available to your models, enhancing their functionality based on your specific needs.
