@@ -26,12 +26,15 @@ Please be sure to look here when you need help.
 - `Report an issue`: Any issues you encounter can be reported in the [Github repository](https://github.com/JudiniLabs/code-gpt-docs/issues).
 - `Feedback`: [Send](https://codegpt.canny.io/requests) 💌 feedback to the team to help us improve the product. 
 
-### Settings
+## Settings
 
 These optional configurations enhance your user experience.
 
 - `Font Size`: Adjust the font size to your preference.
 - `Color Mode`: Alter the visual interface of the application by switching between the dark and light themes.
+
+### Panel Position
+You can adjust the position of the chat panel by dragging it from the sidebar menu.
 
 ## Sync Your CodeGPT Account
 
@@ -64,7 +67,6 @@ Click on `Deep Insights` to connect your Knowledge Graph from CodeGPT Studio  an
 
 With this feature, the agent will have access to the Knowledge Graph Tool, which allows you to search nodes and edges based on their meaning.
 
-:::caution
-The Window memory stores the history of your last 10 conversations.
-:::
+## Chat History
+You can access the chat history by clicking on the `Chat History` button in the sidebar menu.
 
