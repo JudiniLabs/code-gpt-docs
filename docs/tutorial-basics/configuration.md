@@ -36,6 +36,8 @@ These optional configurations enhance your user experience.
 ### Panel Position
 You can adjust the position of the chat panel by dragging it from the sidebar menu.
 
+![Move Tabs](https://github.com/user-attachments/assets/edd071ce-ce86-41d6-b119-5eca680881f9)
+
 ## Sync Your CodeGPT Account
 
 - To sync your CodeGPT account, log in using `Gmail`, `GitHub`, or other `More login options`.
@@ -53,17 +55,21 @@ If you have your API Key from another AI provider, please go to the specific sec
 :::
 
 ## Codebase Indexing
-The Codebase Indexing feature allows you to index your codebase and use it as context for your conversations.
+The Codebase Indexing feature allows you to index your codebase and use it as context for your conversations. In the main menu, you can find the `Codebase` button. Click on it to see the Augmented Context options.
 
-In the main menu, you can find the `Codebase` button. Click on it to see the Augmented Context options.
+<img width="307" alt="Screenshot 2025-05-19 at 16 37 40" src="https://github.com/user-attachments/assets/c3023f78-8681-4ed0-a311-efc191b1e6b4" />
 
 ### Codebase
 Click on `Create Codebase Index` to start indexing your codebase.
+
+<img width="489" alt="Screenshot 2025-05-19 at 16 38 13" src="https://github.com/user-attachments/assets/a0f272b2-a652-4cfa-9e7f-b5f41b8fe745" />
 
 With this feature, the agent will have accesso to the Semantic Search Tool, which allows you to search for code snippets based on their meaning.
 
 ### Deep Insights
 Click on `Deep Insights` to connect your Knowledge Graph from CodeGPT Studio  and use it as context for your conversations.
+
+<img width="485" alt="Screenshot 2025-05-19 at 16 40 04" src="https://github.com/user-attachments/assets/6798f46b-ab54-4cfa-abdd-ef0fecf5ba59" />
 
 With this feature, the agent will have access to the Knowledge Graph Tool, which allows you to search nodes and edges based on their meaning.
 
