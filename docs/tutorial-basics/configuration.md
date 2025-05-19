@@ -49,6 +49,21 @@ These optional configurations enhance your user experience.
 If you have your API Key from another AI provider, please go to the specific section [here](https://docs.codegpt.co/docs/category/-ai-providers) and choose your provider.
 :::
 
+## Codebase Indexing
+The Codebase Indexing feature allows you to index your codebase and use it as context for your conversations.
+
+In the main menu, you can find the `Codebase` button. Click on it to see the Augmented Context options.
+
+### Codebase
+Click on `Create Codebase Index` to start indexing your codebase.
+
+With this feature, the agent will have accesso to the Semantic Search Tool, which allows you to search for code snippets based on their meaning.
+
+### Deep Insights
+Click on `Deep Insights` to connect your Knowledge Graph from CodeGPT Studio  and use it as context for your conversations.
+
+With this feature, the agent will have access to the Knowledge Graph Tool, which allows you to search nodes and edges based on their meaning.
+
 :::caution
 The Window memory stores the history of your last 10 conversations.
 :::
