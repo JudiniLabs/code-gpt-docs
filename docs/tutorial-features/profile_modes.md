@@ -7,7 +7,7 @@ CodeGPT offers three distinct profile modes to match your development workflow. 
 Available Profiles
 
 ## 💬 Chat Mode
-Best for: Learning, code explanations, and general programming questions
+**Best for: Learning, code explanations, and general programming questions**
 
 Provides expert programming guidance without project context
 Perfect for debugging code snippets you share
@@ -15,7 +15,7 @@ Explains concepts, algorithms, and best practices
 Works with any code you copy-paste into the conversation
 
 ## 🔍 Search Mode
-Best for: Understanding existing codebases and getting context-aware suggestions
+**Best for: Understanding existing codebases and getting context-aware suggestions**
 
 Automatically explores your project structure and dependencies
 Provides suggestions based on your existing codebase
@@ -23,7 +23,7 @@ Analyzes architecture patterns and project organization
 Read-only operations - explores without making changes
 
 ## 🤖 Agent Mode
-Best for: Active development, implementing features, and project modifications
+**Best for: Active development, implementing features, and project modifications**
 
 Full project modification capabilities (create, edit, delete files)
 Executes terminal commands (install packages, run tests, etc.)
@@ -32,17 +32,15 @@ Implements complete features with best practices
 
 # How to Switch Profiles
 - Step 1: Access Profile Selection
-
-Open CodeGPT
-Look for the profile selector in the chat interface
-Click on the current profile name to open the dropdown
+  - Open CodeGPT
+  - Look for the profile selector in the chat interface
+  - Click on the current profile name to open the dropdown
 
 - Step 2: Choose Your Profile
-Select the appropriate profile based on your current task:
-
-- Chat Mode: For questions and explanations
-- Search Mode: To explore and understand your project
-- Agent Mode: To modify files and implement features
+**Select the appropriate profile based on your current task:**
+  - Chat Mode: For questions and explanations
+  - Search Mode: To explore and understand your project
+  - Agent Mode: To modify files and implement features
 
 <img width="585" alt="Screenshot 2025-06-08 at 12 26 01" src="https://github.com/user-attachments/assets/e8754c78-906a-4a31-bc88-6eb360dd87db" />
 
