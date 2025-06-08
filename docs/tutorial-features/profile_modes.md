@@ -37,8 +37,6 @@ Open CodeGPT
 Look for the profile selector in the chat interface
 Click on the current profile name to open the dropdown
 
-[Screenshot: Profile selector dropdown]
-
 - Step 2: Choose Your Profile
 Select the appropriate profile based on your current task:
 
@@ -46,32 +44,37 @@ Select the appropriate profile based on your current task:
 - Search Mode: To explore and understand your project
 - Agent Mode: To modify files and implement features
 
-[Screenshot: Profile options in dropdown]
+<img width="585" alt="Screenshot 2025-06-08 at 12 26 01" src="https://github.com/user-attachments/assets/e8754c78-906a-4a31-bc88-6eb360dd87db" />
 
 - Step 3: Verify Profile Selection
 The active profile will be displayed in the chat interface. You'll see different capabilities based on your selection.
-[Screenshot: Active profile indicator]
+
+<img width="662" alt="Screenshot 2025-06-08 at 12 34 13" src="https://github.com/user-attachments/assets/8e6b58c0-a7ec-4fb2-93b2-edcbba02977c" />
 
 ## Quick Start Examples
 
 ### Using Chat Mode
 You: "Explain how async/await works in JavaScript"
 Perfect for learning concepts without needing project context.
-[Screenshot: Chat mode conversation]
+
+<img width="732" alt="Screenshot 2025-06-08 at 12 35 50" src="https://github.com/user-attachments/assets/aa12a1fb-cc09-4d3a-a4e3-62c3075700aa" />
 
 ### Using Search Mode
 You: "How is authentication handled in this project?"
 CodeGPT will automatically explore your project to understand the auth implementation.
-[Screenshot: Search mode analyzing project]
+
+<img width="696" alt="Screenshot 2025-06-08 at 12 36 48" src="https://github.com/user-attachments/assets/24bf2c4d-4afb-4c6c-acdf-b490db494f1a" />
 
 ### Using Agent Mode
-You: "Add input validation to the user registration form"
+You: "Add a sing up button in the sidebar"
 CodeGPT will explore your project, plan the implementation, and make the necessary file changes.
-[Screenshot: Agent mode implementing changes]
+
+<img width="692" alt="Screenshot 2025-06-08 at 13 20 23" src="https://github.com/user-attachments/assets/8d56c9ed-ee1c-41c8-ab36-d6f066ac2700" />
+
 
 ## When to Use Each Mode
 
-[screenshot]
+![Screenshot 2025-06-08 at 12 28 15](https://github.com/user-attachments/assets/3b74b38f-7bca-40f8-ad63-864c37c2808c)
 
 # Profile Switching Tips
 - ✅ Best Practices
