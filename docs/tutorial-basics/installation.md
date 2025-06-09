@@ -1,4 +1,3 @@
-# File: docs/tutorial-basics/installation.md
 ---
 sidebar_position: 1
 ---
