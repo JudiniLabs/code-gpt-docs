@@ -1,3 +1,4 @@
+# File: docs/tutorial-basics/installation.md
 ---
 sidebar_position: 1
 ---
@@ -6,7 +7,7 @@ sidebar_position: 1
 
 CodeGPT is accessible on both [VSCode](https://code.visualstudio.com/), [Cursor](https://cursor.sh/) and [Jetbrains](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents/). This tutorial will guide you through the installation process regardless of your preferred text editor.
 
-## Visual Studio Code
+# VSCode
 First, download and install Visual Studio Code: [Download](https://code.visualstudio.com/download)
 
 ### VSCode Marketplace tab
@@ -26,7 +27,24 @@ You can either click on this link to go directly to CodeGPT's Visual Studio Mark
 You can download the extension via Open VSX:
 - [Download from Open VSX](https://open-vsx.org/extension/DanielSanMedium/dscodegpt)
 
-## Cursor
+# Visual Studio Enterprise
+First, download and install Visual Studio Enterprise: 
+[https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com)
+
+To install CodeGPT in Visual Studio Enterprise, please follow these steps:
+
+1.  **Open Visual Studio Enterprise.**
+2.  Navigate to **Extensions > Manage Extensions**.
+3.  In the Manage Extensions window, select **Online** from the left-hand pane.
+4.  In the search box in the upper-right corner, type `CodeGPT`.
+5.  Locate CodeGPT in the search results and click **Download**.
+6.  Once the download is complete, close all instances of Visual Studio Enterprise to begin the installation process. The VSIX Installer will launch automatically.
+7.  Follow the prompts in the VSIX Installer to complete the installation.
+8.  After the installation is finished, re-open Visual Studio Enterprise. CodeGPT should now be installed and ready to use.
+
+- [Download from Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.CodeGPT)
+
+# Cursor
 If you prefer to use Cursor, you can download it at this link: [Download](https://cursor.sh/)
 
 ### Cursor Markteplace tab
