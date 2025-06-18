@@ -7,6 +7,9 @@
 ## Jetbrains Plugin
 [Download from Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents)
 
+## Visual Studio Enterprise
+[Download from Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.CodeGPT)
+
 ## Extension Documentation
 [View Extension Docs](https://docs.codegpt.co)
 
