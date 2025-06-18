@@ -1,4 +1,4 @@
-# CodeGPT System Requirements
+# CodeGPT VSCode System Requirements
 
 To ensure CodeGPT functions correctly, the following software and hardware requirements must be met:
 
@@ -34,6 +34,40 @@ To ensure CodeGPT functions correctly, the following software and hardware requi
 - github.com
 - https://marketplace.visualstudio.com/ (to install from VSCode)
 
+# CodeGPT Jetbrains System Requirements
+
+## Software Requirements
+
+| Component                  | Requirement Details                                                                                               |
+|----------------------------|------------------------------------------------------------------------------------------------------------------|
+| Compatible Operating Systems | - **macOS**: macOS 12 (Monterey) or later (Intel & Apple Silicon) <br> - **Linux**: Ubuntu 20.04+ (64-bit) <br> - **Windows**: Windows 10/11 (64-bit) |
+| JetBrains IDE Version      | IntelliJ IDEA, PyCharm, WebStorm, PhpStorm, or other JetBrains IDEs, version 2022.1 or higher                    |
+| JDK Version                | JDK 17 or higher                                                                                                |
+| Node.js                    | Node.js 18.15.0 is automatically downloaded and managed by the extension (no manual installation required)        |
+| Port                       | Ensure ports 54112 or 54113 are available, as the extension may require them for local server communication       |
+
+## Hardware Requirements
+
+| Component  | Requirement Details                                                                                   |
+|------------|------------------------------------------------------------------------------------------------------|
+| RAM        | Minimum 8 GB (16 GB recommended for large projects or heavy AI usage)                                |
+| Disk Space | Minimum 1.5 GB free (includes JetBrains IDE, CodeGPT extension, Node.js, and dependencies)           |
+| Processor  | Intel Core i5 (4 cores) or higher, Apple M1/M2, or equivalent AMD processor                          |
+
+## Connection Requirements
+
+| Component | Requirement Details                                                                 |
+|-----------|-------------------------------------------------------------------------------------|
+| **Network** | - Internet connection required for downloading dependencies and using cloud AI models. - Can work with local models, but some features require access to CodeGPT servers. - Avoid restrictive VPNs or firewalls that block required domains. |
+
+### CodeGPT domanins:
+- storage.codegpt.co
+- api.codegpt.co
+
+### Other domains:
+- api.github.com
+- github.com
+- https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents (to install from Jetbrains)
 
 
 These requirements ensure that CodeGPT operates optimally on your system.
