@@ -2,7 +2,8 @@
 sidebar_position: 3
 ---
 
-<img width="669" height="470" alt="image" src="https://github.com/user-attachments/assets/654fde38-2dac-453c-9769-830a70086504" />
+<img src='https://github.com/user-attachments/assets/b1064d76-63ba-43d4-a441-18af6bf4e8da' width='100%' height='auto'>
+       
 
 
 
