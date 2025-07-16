@@ -1,75 +1,84 @@
-# CodeGPT VSCode System Requirements
+# CodeGPT System Requirements
 
-To ensure CodeGPT functions correctly, the following software and hardware requirements must be met:
+## VSCode Extension
 
-## Software Requirements
+### Software Requirements
 
-| Component                  | Requirement Details                                                                 |
-|----------------------------|-------------------------------------------------------------------------------------|
-| **Compatible Operating Systems** |- **macOS:** Works on all versions except Sonoma.- **Linux:** Compatible starting from deployments in 2024.  - **Windows:** Works well on Windows 11 and later versions. |
-| **Visual Studio Code (VSCode) Version** | Version 1.96.0 or higher. |
-| **Node.js Version**        | Version 20.0.0 or higher.                                                   |
-| **Port**                   | Ensure port 54112 or 54113 is available, as the extension requires it to function.           |
+| Component | Requirement Details |
+|-----------|-------------------|
+| **Operating Systems** | • **Windows:** Windows 10/11 (64-bit)<br>• **macOS:** All versions (Intel & Apple Silicon)<br>• **Linux:** Ubuntu 20.04+ and compatible distributions (64-bit) |
+| **Visual Studio Code** | Version 1.96.0 or higher |
+| **Node.js** | Version 20.0.0 or higher |
+| **Network Ports** | Ports 54112 or 54113 must be available |
 
-## Hardware Requirements
+### Hardware Requirements
 
-| Component      | Requirement Details               |
-|----------------|-----------------------------------|
-| **RAM**        | Minimum of 1GB.               |
-| **Disk Space** | Minimum of 20MB of available disk space. Depending on the specific model, additional space will be required if you are using local models such as Ollama. |
-| **Processor**  | - Intel Core i5 or higher. - Not compatible with ARM processors older than 2024. |
+| Component | Minimum | Recommended |
+|-----------|---------|-------------|
+| **RAM** | 1 GB | 4 GB |
+| **Disk Space** | 20 MB (base installation) | 1 GB+ (with local models) |
+| **Processor** | Intel Core i5 or equivalent<br>ARM processors (2024+) | Intel Core i7 or equivalent |
 
-## Connection Requirements
+---
 
-| Component | Requirement Details                                                                 |
-|-----------|-------------------------------------------------------------------------------------|
-| **Network** | - Should not be on a VLAN or VPN connection unless the administrator or firewall authorizes the domains of codepg.co. - Can work with local models but requires an internet connection to use CodeGPT. |
+## JetBrains Plugin
 
-### CodeGPT domanins:
-- storage.codegpt.co
-- api.codegpt.co
+### Software Requirements
 
-### Other domains:
-- api.github.com
-- github.com
-- https://marketplace.visualstudio.com/ (to install from VSCode)
+| Component | Requirement Details |
+|-----------|-------------------|
+| **Operating Systems** | • **Windows:** Windows 10/11 (64-bit)<br>• **macOS:** macOS 12 (Monterey) or later (Intel & Apple Silicon)<br>• **Linux:** Ubuntu 20.04+ and compatible distributions (64-bit) |
+| **JetBrains IDE** | IntelliJ IDEA, PyCharm, WebStorm, PhpStorm, or other JetBrains IDEs<br>Version 2022.1 or higher |
+| **JDK** | Version 17 or higher |
+| **Node.js** | Version 18.15.0 (automatically managed by extension) |
+| **Network Ports** | Ports 54112 or 54113 must be available |
 
-# CodeGPT Jetbrains System Requirements
+### Hardware Requirements
 
-## Software Requirements
+| Component | Minimum | Recommended |
+|-----------|---------|-------------|
+| **RAM** | 8 GB | 16 GB |
+| **Disk Space** | 1.5 GB | 3 GB+ |
+| **Processor** | Intel Core i5 (4 cores), Apple M1/M2, or equivalent AMD | Intel Core i7 or higher |
 
-| Component                  | Requirement Details                                                                                               |
-|----------------------------|------------------------------------------------------------------------------------------------------------------|
-| Compatible Operating Systems | - **macOS**: macOS 12 (Monterey) or later (Intel & Apple Silicon) <br> - **Linux**: Ubuntu 20.04+ (64-bit) <br> - **Windows**: Windows 10/11 (64-bit) |
-| JetBrains IDE Version      | IntelliJ IDEA, PyCharm, WebStorm, PhpStorm, or other JetBrains IDEs, version 2022.1 or higher                    |
-| JDK Version                | JDK 17 or higher                                                                                                |
-| Node.js                    | Node.js 18.15.0 is automatically downloaded and managed by the extension (no manual installation required)        |
-| Port                       | Ensure ports 54112 or 54113 are available, as the extension may require them for local server communication       |
+---
 
-## Hardware Requirements
+## Network Requirements
 
-| Component  | Requirement Details                                                                                   |
-|------------|------------------------------------------------------------------------------------------------------|
-| RAM        | Minimum 8 GB (16 GB recommended for large projects or heavy AI usage)                                |
-| Disk Space | Minimum 1.5 GB free (includes JetBrains IDE, CodeGPT extension, Node.js, and dependencies)           |
-| Processor  | Intel Core i5 (4 cores) or higher, Apple M1/M2, or equivalent AMD processor                          |
+### Internet Connection
+- **Required for:** Cloud AI models, extension updates, and authentication
+- **Local models:** Can work offline but initial setup requires internet
+- **VPN/Firewall:** Ensure access to required domains
 
-## Connection Requirements
+### Required Domains
 
-| Component | Requirement Details                                                                 |
-|-----------|-------------------------------------------------------------------------------------|
-| **Network** | - Internet connection required for downloading dependencies and using cloud AI models. - Can work with local models, but some features require access to CodeGPT servers. - Avoid restrictive VPNs or firewalls that block required domains. |
+#### CodeGPT Services
+- `storage.codegpt.co`
+- `api.codegpt.co`
 
-### CodeGPT domanins:
-- storage.codegpt.co
-- api.codegpt.co
+#### Third-party Services
+- `api.github.com`
+- `github.com`
 
-### Other domains:
-- api.github.com
-- github.com
-- https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents (to install from Jetbrains)
+#### Installation Sources
+- **VSCode:** `marketplace.visualstudio.com`
+- **JetBrains:** `plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents`
 
+---
 
-These requirements ensure that CodeGPT operates optimally on your system.
+## Installation Links
 
+| Platform | Installation Method |
+|----------|-------------------|
+| **VSCode** | [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/) |
+| **JetBrains** | [JetBrains Plugin Repository](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents) |
+
+---
+
+## Notes
+
+- **ARM Compatibility:** ARM processors supported from 2024 onwards
+- **Local Models:** Additional disk space required for models like Ollama
+- **Network Restrictions:** Contact your network administrator if domains are blocked
+- **Performance:** Higher specifications recommended for large projects and intensive AI usage
 
