@@ -2,19 +2,7 @@
 
 ## VSCode Extension
 
-### Software Requirements
 
-
-
-### Hardware Requirements
-
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| **RAM** | 8 GB | 16 GB |
-| **Disk Space** | 1.5 GB | 3 GB+ |
-| **Processor** | Intel Core i5 (4 cores), Apple M1/M2, or equivalent AMD | Intel Core i7 or higher |
-
----
 
 ## Network Requirements
 
@@ -37,7 +25,6 @@
 - **VSCode:** `marketplace.visualstudio.com`
 - **JetBrains:** `plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents`
 
----
 
 ## Installation Links
 
@@ -46,7 +33,7 @@
 | **VSCode** | [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/) |
 | **JetBrains** | [JetBrains Plugin Repository](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents) |
 
----
+
 
 ## Notes
 
