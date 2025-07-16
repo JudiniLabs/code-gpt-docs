@@ -2,6 +2,10 @@
 sidebar_position: 3
 ---
 
+<img width="669" height="470" alt="image" src="https://github.com/user-attachments/assets/654fde38-2dac-453c-9769-830a70086504" />
+
+
+
 # Anthropic
 Official website https://www.anthropic.com
 
