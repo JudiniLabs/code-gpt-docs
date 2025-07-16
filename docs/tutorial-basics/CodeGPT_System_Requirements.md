@@ -25,13 +25,6 @@
 - **VSCode:** marketplace.visualstudio.com
 - **JetBrains:** plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents
 
-## Installation Links
-
-| Platform | Installation Method |
-|----------|-------------------|
-| **VSCode** | [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/) |
-| **JetBrains** | [JetBrains Plugin Repository](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents) |
-
 
 
 ## Notes
