@@ -14,17 +14,16 @@
 ### Required Domains
 
 #### CodeGPT Services
-- `storage.codegpt.co`
-- `api.codegpt.co`
+- storage.codegpt.co
+- api.codegpt.co
 
 #### Third-party Services
-- `api.github.com`
-- `github.com`
+- api.github.com
+- github.com
 
 #### Installation Sources
-- **VSCode:** `marketplace.visualstudio.com`
-- **JetBrains:** `plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents`
-
+- **VSCode:** marketplace.visualstudio.com
+- **JetBrains:** plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents
 
 ## Installation Links
 
