@@ -13,16 +13,18 @@ The main menu is your primary navigation hub within the CodeGPT application. It 
 ### Tools
 
 - `Chat`: Engage in AI conversations using the models of your chosen provider or with agents on CodeGPT Plus.
-- `Autocomplete`: 💻 Enhance your coding experience with intelligent code completion suggestions (enable by default). Also, you can find the button for direct access here:
+- `Autocomplete`: 💻 Enhance your coding experience with intelligent code completion suggestions (enabled by default). Also, you can find the button for direct access here:
 
-<p align="center"><img width="350" height="140" src="https://github.com/user-attachments/assets/fad500f4-b276-4973-b450-3bfea4784ec9"/></p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/77eaef66-7fbc-4db0-85de-bcc33124e5d2" width="350" height="140">
+</p>
 
 ## Help
 
-Please be sure to look here when you need help.
+Please refer to this section when you need assistance.
 
 - `Extension Docs`: The document you are reading right now.
-- `API Docs`: 📝 Access the API documentation for CodeGPT.
+- `API Docs`: 📝 Access the [API documentation](https://developers.codegpt.co/) for CodeGPT.
 - `Report an issue`: Any issues you encounter can be reported in the [Github repository](https://github.com/JudiniLabs/code-gpt-docs/issues).
 - `Feedback`: [Send](https://codegpt.canny.io/requests) 💌 feedback to the team to help us improve the product. 
 
@@ -46,12 +48,12 @@ You can adjust the position of the chat panel by dragging it from the sidebar me
 
 <p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/06f76e59-524a-488e-82e5-c8836fd9302d"/></p>
 
-- Now, you can use the CodeGPT Extension to synchronize the [custom agents](https://docs.codegpt.co/docs/tutorial-features/chat_code_gpt), a LLM model or the [provider of your preference](https://docs.codegpt.co/docs/category/-ai-providers). 
+- Now, you can use the CodeGPT Extension to synchronize the [custom agents](https://docs.codegpt.co/docs/tutorial-features/chat_code_gpt), an LLM model, or the [provider of your preference](https://docs.codegpt.co/docs/category/-ai-providers). 
 
 <p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/8ba019c9-200e-4609-8f6c-ba5b25ce0bfc"/></p>
 
 :::info
-If you have your API Key from another AI provider, please go to the specific section [here](https://docs.codegpt.co/docs/category/-ai-providers) and choose your provider.
+If you have an API Key from another AI provider, please navigate to the specific section [here](https://docs.codegpt.co/docs/category/-ai-providers) and select your provider.
 :::
 
 ## Codebase Indexing
@@ -59,22 +61,38 @@ The Codebase Indexing feature allows you to index your codebase and use it as co
 
 <img width="307" alt="Screenshot 2025-05-19 at 16 37 40" src="https://github.com/user-attachments/assets/c3023f78-8681-4ed0-a311-efc191b1e6b4" />
 
+What is the difference between Codebase Indexing and simply highlighting text for context? Here's a quick guide on why you might choose to use each:
+
+Use Highlighting When:
+- You’re focused on a small snippet or a specific bug
+- You don’t want to give access to your whole project
+- You need quick, one-off explanations
+
+Use Codebase Indexing When:
+- You want CodeGPT to understand and work with your entire project
+- You need context-aware suggestions, navigation, or implementations
+- You're working on larger features, refactors, or debugging across files
+- You want access to more advanced tools like Semantic Search and Knowledge Graphs
+
 ### Codebase
-Click on `Create Codebase Index` to start indexing your codebase.
+Click on `Create Codebase Index` and select a target folder to start indexing your codebase.
 
-<img width="489" alt="Screenshot 2025-05-19 at 16 38 13" src="https://github.com/user-attachments/assets/a0f272b2-a652-4cfa-9e7f-b5f41b8fe745" />
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/c8bbbe7a-55ee-4d89-bfd8-4621a3439b8b" />
 
-With this feature, the agent will have accesso to the Semantic Search Tool, which allows you to search for code snippets based on their meaning.
+With this feature, the agent will have access to the Semantic Search Tool, which allows you to search for code snippets based on their meaning.
 
-### Deep Insights
-Click on `Deep Insights` to connect your Knowledge Graph from CodeGPT Studio  and use it as context for your conversations.
+### Repo Insight Agents
+Click on `Repo Insight Agents` to connect your Knowledge Graph from CodeGPT Studio  and use it as context for your conversations.
 
-<img width="485" alt="Screenshot 2025-05-19 at 16 40 04" src="https://github.com/user-attachments/assets/6798f46b-ab54-4cfa-abdd-ef0fecf5ba59" />
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/83608526-5013-41d0-b392-1bddd236dda4" />
 
-With this feature, the agent will have access to the Knowledge Graph Tool, which allows you to search nodes and edges based on their meaning.
+With this feature, the agent will have access to the Knowledge Graph Tool, which enables searching for nodes and edges based on their meaning.
 
 ## Chat History
 You can access the chat history by clicking on the `Chat History` button in the sidebar menu.
 
-<img width="187" alt="Screenshot 2025-05-19 at 17 11 54" src="https://github.com/user-attachments/assets/759ed241-e96b-45c6-afb6-48b57679f96d" />
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/38c68ed0-83bb-4792-b5dd-bfe20568e150" width="350" height="140">
+</p>
+
 
