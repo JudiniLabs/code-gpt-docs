@@ -11,27 +11,21 @@ Powerful tools to simplify tasks and automate processes directly from your termi
 
 ## Connect your Provider account
 
-- Go to [Google AI Studio](https://aistudio.google.com/app/apikey) to get your API Key.
-- Sign in with your Google account.
-- Click `Create API Key` to generate a new key.
-- Copy your Gemini API Key.
-   
-- In the VSCode CodeGPT Extension, change the model in the chat.
+- In the CodeGPT VSCode extension, change the model in the chat.
 
 <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/654fde38-2dac-453c-9769-830a70086504"/></p>
 
-- Select the `Cloud Model` and choose `Gemini CLI` as `Provider`.
-- Paste your `API Key` here, and click `Connect`.
-- Use the available Gemini models directly. Click outside the options and start chatting.
+- Select `Cloud Model` and choose `Gemini CLI` as the `Provider`.
+- The connection with Gemini CLI is **automatic** and is performed via an **OAuth** process with your Google account. Make sure to log in with the Gmail account you wish to use.
+
 
   <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/1f3cc8ef-0e18-4d6a-b401-b1dd714f7c87" /></p>
-  
+
+- **Important:** For now, this functionality is exclusively available for Google accounts with the `@gmail.com` domain.
+- Once connected, select the Model you want to use.
+- Then click on the `Use this Model` button.
   
 :::caution Remove or edit Key
-To remove your API Key from CodeGPT, click on `Change connection settings` button
+To disconnect your Google account from CodeGPT, click the `Change connection settings` button.
 
 :::
-
-
-
-
