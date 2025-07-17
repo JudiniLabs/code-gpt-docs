@@ -23,9 +23,9 @@ Powerful tools to simplify tasks and automate processes directly from your termi
 
 - **Important:** For now, this functionality is exclusively available for Google accounts with the `@gmail.com` domain.
 - Once connected, select the Model you want to use.
-- Then click on the `Use this Model` button.
+- Then click on the `Use model` button.
   
 :::caution Remove or edit Key
-To disconnect your Google account from CodeGPT, click the `Change connection settings` button.
+To disconnect your Google account from CodeGPT, click the `Logout from gemini cli oauth` button.
 
 :::
