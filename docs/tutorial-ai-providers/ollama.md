@@ -27,14 +27,14 @@ Opensource project to run, create, and share large language models (LLMs).
 
 - On the VSCode CodeGPT Extension, change the model on the chat.
 
-<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/654fde38-2dac-453c-9769-830a70086504"/></p>
 
 - Pick the `Local LLMs` and select `Ollama` as `Provider`.
 - Use the models available directly.
 - Paste the link of the server where the model is running. For localhost: `htttp://localhost:11434`. 
 - Click outside the options and ask to chat.
 
-<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/28ec0abc-2928-4225-b1e9-764111291db2"/></p>
+<p align="center"><img width="537" height="771" alt="image" src="https://github.com/user-attachments/assets/6471e45a-b971-41cf-9033-fbf538c1e800" /></p>
 
 
 :::caution Remove or edit Key
@@ -56,11 +56,10 @@ If you are getting API errors, check the following link: [Ollama Documentation](
 
 ## Ollama Errors
 - If the Ollama model does not respond in the chat, consider restarting it locally by turning it off and then on again. This action should resolve the issue.
-
-  
+ 
 - If the Ollama is running but not responding, please manually remove 'Ollama_Host' from the environment variables and let it revert to the default setting.
     
-
+We recomment this article to solve the issue of : [Ollama_Host](https://insights.codegpt.co/codegpt-wsl-ollama-setup-guide) 
 
  
 

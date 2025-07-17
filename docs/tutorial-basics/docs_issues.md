@@ -1,6 +1,10 @@
+---
+sidebar_position: 3
+---
+
 # How to Document Issues on GitHub for CodeGPT
 
-Please follow these guidelines when creating a new issue on the CodeGPT repository to make sure that issues are effectively communicated and resolved.
+Please follow these guidelines when creating a new issue in the CodeGPT repository to make sure that issues are effectively communicated and resolved.
 
 ⚠️ **Warning:** Issues that do not follow these guidelines may not be considered.⚠️
 
@@ -8,7 +12,7 @@ Please follow these guidelines when creating a new issue on the CodeGPT reposito
 ## Steps to Document an Issue
 
 1. **Check Existing Issues**
-   - Before creating a new issue, please check the existing issues to ensure that your issue has not already been reported.
+   - Before you create a new issue, please check the existing issues to make sure that your issue has not already been reported.
 
 2. **Open a New Issue**
    - Navigate to the [Issues tab](https://github.com/davila7/code-gpt-docs/issues/) of the CodeGPT repository.

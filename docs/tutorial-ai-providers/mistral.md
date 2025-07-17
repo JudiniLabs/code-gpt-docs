@@ -13,8 +13,7 @@ We’re a small creative team with high scientific standards. Through groundbrea
 - Go to your [Platform / API Keys](https://console.mistral.ai/users/api-keys/).
 - On the VSCode CodeGPT Extension, change the model on the chat.
 
-<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
-
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/654fde38-2dac-453c-9769-830a70086504"/></p>
 
 - Pick the `LLMs Cloud model` and select `Mistral` as `Provider`.
 - Select a model, for instance, `codestral-latest`.

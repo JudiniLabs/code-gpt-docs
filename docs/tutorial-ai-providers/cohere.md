@@ -11,7 +11,7 @@ Cohere is an artificial intelligence company that specializes in developing lang
 - Go to your [dashboard](https://dashboard.cohere.com/api-keys).
 - On the VSCode CodeGPT Extension, change the model on the chat.
 
-<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/654fde38-2dac-453c-9769-830a70086504"/></p>
 
 - Pick the `LLMs Cloud model` and select `Cohere` as `Provider`.
 - Paste `API Key` here, and click on `Connect`.

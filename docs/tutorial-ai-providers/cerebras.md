@@ -28,7 +28,7 @@ The Cerebras Wafer-Scale Cluster is meticulously engineered to enable neural net
   
 - On the VSCode CodeGPT Extension, change the model on the chat
 
-<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/9589828c-c794-4d67-b806-9eff0adf3798"/></p>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/654fde38-2dac-453c-9769-830a70086504"/></p>
 
 - Pick the LLMs Cloud model and select `Cerebras` as `Provider`.
 - Paste `API Key` here, and click on `Connect`.

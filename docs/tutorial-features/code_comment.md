@@ -4,13 +4,11 @@ sidebar_position: 6
 
 # Document CodeGPT
 
-The CodeGPT Document CodeGPT feature effortlessly generates comprehensive documentation for your codebase. You can prompt CodeGPT to create detailed and informative documentation by selecting specific code segments.
+With the Comment CodeGPT feature, CodeGPT analyzes your selected code snippet and automatically generates clear, concise, and contextually relevant comments for it.
 
 ## How to Use:
-
-
 - Select the Code: Highlight the code snippet
-- Write the `/` slash and, select `Document`, press `Enter` to send the request
+- Write the `/` slash and, select `Comment,` press `Enter` to send the request.
 
 Empower your codebase with well-structured documentation. Enhance collaboration and comprehension for both current and future development efforts.
 

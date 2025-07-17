@@ -4,8 +4,14 @@
     "link": {
       "type": "generated-index",
       "description": "If you have a BYOK plan, use the API Key option, which allows you to use your preferred LLM provider's API key. With secure encryption, unlimited interactions, and token cost on you."
-    
-    }
+      
+      
+
+
+    },
+      "customProps": {
+            "html": "<img src='https://github.com/user-attachments/assets/b1064d76-63ba-43d4-a441-18af6bf4e8da' width='100%' height='auto'>"
+          } 
     
   }
   

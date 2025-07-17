@@ -10,7 +10,7 @@ CodeGPT is accessible on both [VSCode](https://code.visualstudio.com/), [Cursor]
 First, download and install Visual Studio Code: [Download](https://code.visualstudio.com/download)
 
 ### VSCode Marketplace tab
-You could go to the Extensions tab in VSCode and search for CodeGPT.
+You can go to the Extensions tab in VS Code and search for CodeGPT.
 
 :::note Search for CodeGPT in the Extensions tab
 <p align="center">
@@ -66,12 +66,12 @@ You could go to the Plugins tab in JetBrains and search for CodeGPT.
 :::
 
 ### JetBrains Marketplace directly
-You can either click on this link to go directly to the CodeGPT's JetBrains Marketplace page:
+You can either click on this link to go directly to CodeGPT's JetBrains Marketplace page:
 - [Download from Marketplace](https://plugins.jetbrains.com/plugin/24372-codegpt-chat--ai-agents)
 
-___
+
 :::caution
 Please ensure that port 54112 or 54113 is available.
 :::
 
-Now that you have the extension installed, you need to proceed with the appropriate [configuration](/docs/tutorial-basics/configuration).
+Now that you have the extension installed, you will need to go ahead with the appropriate [configuration](/docs/tutorial-basics/configuration).

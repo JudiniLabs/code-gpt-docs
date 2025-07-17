@@ -11,20 +11,11 @@ Official website https://azure.microsoft.com/en-us/products/ai-services/openai-s
 - Get access to [Azure OpenAI Services](https://azure.microsoft.com/en-us/products/ai-services/openai-service).
 - Go to [Azure OpenAI Studio](https://oai.azure.com/)
 - Get your `Secret Key` and the `Custom Link`.
-
-To obtain the endpoint and the secret, you must deploy the model and then open it in Azure OpenAI Studio:
-- Then select "View Code"
-
-
-
-This section provides the API key and the custom link. To display the full custom link, select CURL in the code selection and copy the endpoint.
-
-
-
-
+- To obtain the endpoint and the secret, you must deploy the model and then open it in Azure OpenAI Studio. Then select "View Code"
+- This section provides the API key and the custom link. To display the full custom link, select CURL in the code selection and copy the endpoint.
 - On the VSCode CodeGPT Extension, change the model on the chat.
 
-<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/0a6791c5-bdf1-4410-a77a-4e9083993b7a"/></p>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/654fde38-2dac-453c-9769-830a70086504"/></p>
 
 
 - Pick the `LLMs Cloud model` and select `Azure` as `Provider`.

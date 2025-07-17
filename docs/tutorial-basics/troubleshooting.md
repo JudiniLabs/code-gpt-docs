@@ -14,8 +14,8 @@ This guide is designed to help you resolve common issues that may arise during t
 
 To run the CodeGPT extension, your setup must meet the following requirements:
 
-- VSCode Version: Your VSCode must be version **1.82.0** or higher.
-- Node.js Version: Your Node.js must be version **18.0.0** or higher.
+- VSCode Version: Your VSCode must be version **1.96.0** or higher.
+- Node.js Version: Your Node.js must be version **20.0.0** or higher.
 
 ### Common Issues and Solutions
 
@@ -38,13 +38,13 @@ For macOS and Linux:
 lsof -i :54112
 kill -9 <PID>
 ```
-Replace `<PID>` with the actual Process ID using the port.
+Replace `<PID>` with the actual Process ID using the port. The first command will provide you with a 4-digit Process ID number.
 
 
 ### Using devcontainer
 
 - Issue:
-When using a devcontainer, port 54112 must be opened in the docker-compose configuration.
+When using a devcontainer, port 54112 must be opened in the Docker Compose configuration.
 
 - Solution:
 Ensure that your docker-compose.yml includes the following configuration to open port 54112:
@@ -72,14 +72,14 @@ The CodeGPT extension requires cache clearance after reinstallation or an update
 ```
 
 - Press Ctrl + Shift + P
-- Type command "Clear Editor History"
+- Type the command "Clear Editor History"
 - Press Enter
 - Shut VSCode and install CodeGPT again
 ```
 
 ## Unable to connect to the extension services
 - Issue:
-After installation, the CodeGPT extension requires restarting the environment.
+After installation, the CodeGPT extension requires a restart of the environment.
 
 - Solution:
 You can try these alternatives:
@@ -94,8 +94,8 @@ You can try these alternatives:
 After installation, the CodeGPT extension cannot connect with your CodeGPT Plus account. The number of daily interactions is -1 to -1.
 
 - Solution:
-CodeGPT accesses the API service with the domain `api.codegpt.co` and its subdomains (such as `app.codegpt.co`). Some companies have firewall restrictions or contain restricted domain lists, so it will be impossible to synchronize the services if they are used from VSCode or any other IDE. 
-Please consult with your IT provider to add our domain as allowed or use the extension from networks without specific restrictions.
+CodeGPT accesses the API service with the domain `api.codegpt.co` and its subdomains (such as `app.codegpt.co`). Some companies have firewall restrictions or contain restricted domain lists, making it impossible to synchronize services if they are used from VSCode or any other IDE. 
+Please consult with your IT provider to add our domain to the list of allowed domains or use the extension from networks without specific restrictions.
 
 ## Can't use the Marketplace agents
 - Issue:

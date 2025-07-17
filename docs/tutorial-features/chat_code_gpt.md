@@ -7,10 +7,14 @@ The CodeGPT Chat feature enhances your development experience by allowing you to
 
 ## How to Use:
 - Open the Chat Tab
-- Navigate to the tools tab and click on `Chat` By default, `Claude-3.5-Sonnet` will answer on the chat.
+- Navigate to the tools tab and click on `Chat` By default, `Gemini-2.5-Flash` will answer on the chat.
 - Once the chat tab opens, you can start a conversation by typing a message and hitting `Enter`.
-- If you request code, copy or paste it directly into the file with the `Insert code` button.
+- If you request code, copy or paste it directly into the file with the `Insert code` button which is the arrow on the top right of the code.
 - You can clean the chat by clicking on `New chat` button or `Reload` the question
+
+<p align="center">
+    <img width="450" height="250" src="https://github.com/user-attachments/assets/e4c4e54d-9421-4fe7-84d3-d0998e1144ce" />
+</p>
 
 :::note CodeGPT Chat conversation
 <p align="center">
@@ -38,7 +42,7 @@ You have three levels of context:
 
 - `Selected code`: manually selected code
 - `Codebase`: we auto-select the codebase. Please index the codebase before on the `Codebase` button
-- `Deep insights`: we enrich the responses with code knowledge graphs.
+- `Code Graphs`: we enrich the responses with code knowledge graphs.
 
 ## Using Custom Context
 Using custom contexts allows you to tailor the responses to specific situations.
@@ -90,25 +94,33 @@ You can also add the current file to the workshop automatically by clicking on t
 ## Shortcuts
 You can use the shortcuts to make the most of the CodeGPT Chat feature. Here are some of the most useful shortcuts:
 
-- [`/Fix`](https://docs.codegpt.co/docs/tutorial-features/find_problems): Fix the code selected
 - [`/Explain`](https://docs.codegpt.co/docs/tutorial-features/code_explanation): Explain the code selected
-- [`/Refactor`](https://docs.codegpt.co/docs/tutorial-features/code_refactoring): Refactor the code selected
-- [`/Document`](https://docs.codegpt.co/docs/tutorial-features/code_documentation): Generate documentation for the code selected
-- [`/Inline code`](https://docs.codegpt.co/docs/tutorial-features/code_inline): edit specific words inside the selected code. 
-- [`/Unit Test`](https://docs.codegpt.co/docs/tutorial-features/unit_testing): Test the code selected
 - [`/Comment`](ddd): Comment the code selected
-- [`/StackOverflow`](https://docs.codegpt.co/docs/tutorial-features/stackoverflow): Search for the code selected on StackOverflow 
-- [`/Code Builder`](https://docs.codegpt.co/docs/tutorial-features/code_builder): Generate a code builder for the code selected
-- [`/Code Interpreter`](https://docs.codegpt.co/docs/tutorial-features/code_interpreter): Interpret the code selected without executing it
-- [`/Planning`](dddd): allow expert agents from our Marketplace to help you plan the code.
+- [`/Fix`](https://docs.codegpt.co/docs/tutorial-features/find_problems): Fix the code selected
+- [`/Document`](https://docs.codegpt.co/docs/tutorial-features/code_documentation): Generate documentation for the code selected
+- [`/Refactor`](https://docs.codegpt.co/docs/tutorial-features/code_refactoring): Refactor the code selected
+- [`/Unit Test`](https://docs.codegpt.co/docs/tutorial-features/unit_testing): Test the code selected
+- [`/Debug`](https://docs.codegpt.co/docs/tutorial-features/debug): Debug the code selected
 
 
 :::note Shortcuts
 
 <p align="center">
-    <img width="450" height="250"  src="https://github.com/user-attachments/assets/6aba86fa-0c6c-49f2-89bc-47456d2c61e5" />
+    <img width="413" alt="image" src="https://github.com/user-attachments/assets/3596f633-808b-4aed-90dd-d89a0a7c4280" />
 </p>
+
+
+
 :::
 
-Make the most of CodeGPT Chat and experience a new level of productivity in your coding endeavors.
+:::note CodeGPT: Features
+To use any of the above features, log in to your CodeGPT account. You’ll get a limited number of free interactions each day.
 
+If you want more usage and access to advanced AI models without setting up your API keys, you can subscribe to a paid plan.
+
+Prefer to use it for free? Simply add your own API key (such as one from OpenAI or Anthropic), and you'll be billed directly by that provider.
+
+To learn how to do this, please refer to the following [link](https://help.codegpt.co/en/articles/9939744-connect-codegpt-to-vscode)
+:::
+
+Maximize your productivity with CodeGPT Chat and unlock a new level of efficiency in your coding endeavors.
