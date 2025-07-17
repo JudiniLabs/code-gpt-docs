@@ -1,6 +1,10 @@
 # CodeGPT Plus 
 [Visit our website](https://codegpt.co)
 
+<img width="1037" height="581" alt="Screenshot 2025-07-17 at 09 00 49" src="https://github.com/user-attachments/assets/77cc527c-c023-42bc-a593-58932b05d07c" />
+
+--- 
+
 ## VSCode Extension
 [Download from VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 
