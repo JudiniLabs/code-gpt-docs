@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 ---
+<img width="596" height="428" alt="image" src="https://github.com/user-attachments/assets/68adca4e-4883-46b4-a834-34a4a11aa559" />
 
 
 # Anthropic
