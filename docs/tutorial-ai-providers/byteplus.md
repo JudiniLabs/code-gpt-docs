@@ -12,7 +12,7 @@ You can connect your trained models and use them with CodeGPT.
 - Get your [API KEY](https://console.byteplus.com/ark/region:ark-stg+ap-southeast-1/apiKey?apikey=%7B%7D).
 - On the VSCode CodeGPT Extension, change the model in the chat.
 
-<p align="center"><img width="550" height="400" src=""/></p>
+<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/6d5a8bbb-f024-49f5-bbbb-223ce0b983f6" /></p>
 
 
 
