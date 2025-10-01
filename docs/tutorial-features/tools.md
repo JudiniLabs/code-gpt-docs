@@ -47,7 +47,7 @@ CodeGPT includes several built-in tools to enhance your development experience:
 - **`edit_file`**: Modify existing file content with precise changes
 - **`todo_list`**: Manage project tasks, bugs, and feature requests
 
-:::info Security Considerations
+:::note Security Considerations
 
 1. Tools that modify the file system (`create_file_or_folder`, `delete_file`, `edit_file`) or execute commands (`execute_terminal_command`) are potentially dangerous and should be used with caution.
 2. The system implements a limit of 20 auto-approvals for potentially dangerous operations, after which manual user approval is required.
