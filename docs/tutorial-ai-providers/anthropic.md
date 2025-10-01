@@ -20,7 +20,7 @@ Please be aware of the credits; not having credits can result in a 500 error.
 - Create an account in [Anthropic](https://console.anthropic.com/)
 - Go to your [API Keys](https://console.anthropic.com/settings/keys)
 - Generate and copy the API Key
-- On the VSCode CodeGPT Extension, change the model on the chat
+- On the VSCode CodeGPT Extension, change the model on the chat, click on `Manage Models` button
 
   <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/a90fc799-f6d4-49bb-a72d-4752dd8330e1"/></p>
 
