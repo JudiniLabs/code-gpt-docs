@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Document CodeGPT
+# Comment Code CodeGPT
 
 With the Comment CodeGPT feature, CodeGPT analyzes your selected code snippet and automatically generates clear, concise, and contextually relevant comments for it.
 
