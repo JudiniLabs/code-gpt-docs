@@ -26,18 +26,21 @@ The Cerebras Wafer-Scale Cluster is meticulously engineered to enable neural net
       <img width="500" height="350" src="https://github.com/user-attachments/assets/78cb13e7-eb4f-4883-ae70-cee010c3d5a0" />
 </p>
   
-- On the VSCode CodeGPT Extension, change the model on the chat
+- On the VSCode CodeGPT Extension, change the model on the chat, click on `Manage Models` button
 
-<p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/654fde38-2dac-453c-9769-830a70086504"/></p>
+  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/a90fc799-f6d4-49bb-a72d-4752dd8330e1"/></p>
 
-- Pick the LLMs Cloud model and select `Cerebras` as `Provider`.
-- Paste `API Key` here, and click on `Connect`.
+- Pick the `API Keys` tab and select `Cerebras` as `Provider`
+
+<p align="center"><img width="323" height="416"  src="https://github.com/user-attachments/assets/e8c0b245-be36-4096-a256-b2998adc4dae" /></p>
+
+- Paste API Key here, and click on `Connect`
 - Click outside the options and ask to chat.
 
-
 :::caution Remove Key
-To remove your API Key from CodeGPT, click on `Change connection settings` button
- <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/b7189968-c88a-4891-82b7-3cbc59a46b25"/></p>
+To remove your API Key from CodeGPT:
+- Click again on  the `Manage models` button.
+- Click on "Change connection settings"
 :::
 
 
