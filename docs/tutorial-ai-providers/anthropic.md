@@ -26,7 +26,7 @@ Please be aware of the credits; not having credits can result in a 500 error.
 
 - Pick the `API Keys` tab and select `Anthropic` as `Provider`
 
-<p align="center"><img width="323" height="416" src="image" src="https://github.com/user-attachments/assets/dd38b82c-a78c-42b9-b5d8-3d24bf7c924f" /></p>
+<p align="center"><img width="323" height="416"  src="https://github.com/user-attachments/assets/dd38b82c-a78c-42b9-b5d8-3d24bf7c924f" /></p>
 
   
 - Paste API Key here, and click on `Connect`
