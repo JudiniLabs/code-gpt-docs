@@ -24,7 +24,11 @@ Please be aware of the credits; not having credits can result in a 500 error.
 
   <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/a90fc799-f6d4-49bb-a72d-4752dd8330e1"/></p>
 
-- Pick the `LLMs Cloud model` and select `Anthropic` as `Provider`
+- Pick the `API Keys` tab and select `Anthropic` as `Provider`
+
+<p align="center"><img width="323" height="416" src="image" src="https://github.com/user-attachments/assets/dd38b82c-a78c-42b9-b5d8-3d24bf7c924f" /></p>
+
+  
 - Paste API Key here, and click on `Connect`
 - Click outside the options and ask to chat.
 
