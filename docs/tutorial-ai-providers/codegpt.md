@@ -8,7 +8,7 @@ keywords: [codegpt, codegpt pro, codegpt pro extension, codegpt pro extension fo
 
 ⭐️ Official Website [https://codegpt.co](https://app.codegpt.co/en/extensions/plans)
 
-CodeGPT Pro allow you to connect the best AI models like Claude 3.7, GPT-4o, o3-mini and more.
+CodeGPT Pro allow you to connect the best AI models like Claude 3.7, GPT-4o, and more.
 
 
 ## Upgrade to Pro
