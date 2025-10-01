@@ -24,7 +24,7 @@ CodeGPT offers three pre-configured profiles to match different use cases:
 - All tools enabled
 - Includes write and execution tools
 
-  :::attention
+  :::caution
 - The active profile determines which tools are available to the assistant. Agent mode is the most powerful but also requires more user supervision.
 - The auto-approval limit is 20 interactions. After this limit, all tool requests will require manual user approval.
 :::
@@ -52,16 +52,11 @@ CodeGPT includes several built-in tools to enhance your development experience:
 - **`edit_file`**: Modify existing file content with precise changes
 - **`todo_list`**: Manage project tasks, bugs, and feature requests
 
-## Security Considerations
-
-:::attention
+:::caution Security Considerations
 
 1. Tools that modify the file system (`create_file_or_folder`, `delete_file`, `edit_file`) or execute commands (`execute_terminal_command`) are potentially dangerous and should be used with caution.
-
 2. The system implements a limit of 20 auto-approvals for potentially dangerous operations, after which manual user approval is required.
-
 3. Commands that could compromise system security should never be executed, such as deleting critical directories or running unknown scripts.
-
 4. It's recommended to always review proposed changes before approving them, especially when dealing with modifications to existing files.
 :::
 
