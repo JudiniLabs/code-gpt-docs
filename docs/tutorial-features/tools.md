@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 1
 ---
 # Internal Tools
 CodeGPT's internal tools are a set of functionalities that allow the AI assistant to interact with the file system and execute commands in the user's environment. These tools are designed to facilitate development, code exploration, and automation of common tasks.
