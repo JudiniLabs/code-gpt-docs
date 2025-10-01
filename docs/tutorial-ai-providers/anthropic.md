@@ -33,7 +33,9 @@ Please be aware of the credits; not having credits can result in a 500 error.
 - Click outside the options and ask to chat.
 
 :::caution Remove Key
-To remove your API Key from CodeGPT, click on `Change connection settings` button
+To remove your API Key from CodeGPT:
+- Click again on  the `Manage models` button.
+- Click on "Change connection settings"
 :::
 
 ## API Errors
