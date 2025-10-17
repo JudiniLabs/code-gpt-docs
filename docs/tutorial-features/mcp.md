@@ -42,17 +42,17 @@ In the mcp.json file, add your server configuration. For example, to add a files
 ```json
 {
   "mcpServers": {
-    "filesystem": {
+    "playwright": {
       "command": "npx",
       "args": [
-        "-y",
-        "@modelcontextprotocol/server-filesystem",
-        "/Users/username/Desktop",
-        "/path/to/other/allowed/dir"
+        "@playwright/mcp@latest"
       ]
     }
   }
 }
+
+
+
 ```
 
 - `"command"` specifies the executable to run (e.g., npx).
