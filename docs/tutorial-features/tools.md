@@ -8,9 +8,10 @@ CodeGPT's internal tools comprise a set of functionalities that enable the AI as
 
 CodeGPT offers three pre-configured profiles to match different use cases:
 
-<tr>
-    <td><img src="https://github.com/user-attachments/assets/498300dd-483b-48be-be78-aed298be9e12"/></td>
-</tr>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/65e8b406-7adb-4de4-a135-8f719c7ba2d5" width="550" height="540"/>
+</p>
+
 
 ### 1. Chat Mode 🗨️
 - No tools enabled
