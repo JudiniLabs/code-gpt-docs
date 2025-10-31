@@ -2,27 +2,28 @@
 sidebar_position: 1
 ---
 # Internal Tools
-CodeGPT's internal tools are a set of functionalities that allow the AI assistant to interact with the file system and execute commands in the user's environment. These tools are designed to facilitate development, code exploration, and automation of common tasks.
+CodeGPT's internal tools comprise a set of functionalities that enable the AI assistant to interact with the file system and execute commands within the user's environment. These tools are designed to facilitate development, code exploration, and automation of common tasks.
 
 ## Pre-defined Profiles
 
 CodeGPT offers three pre-configured profiles to match different use cases:
+
+<tr>
+    <td><img src="https://github.com/user-attachments/assets/498300dd-483b-48be-be78-aed298be9e12"/></td>
+</tr>
 
 ### 1. Chat Mode 🗨️
 - No tools enabled
 - Questions and answers only
 
 ### 2. Search Mode 🔍
-- Read-only tools:
-  - `code_semantic_search`
-  - `get_file_content`
-  - `get_folder_tree_structure`
+- Read-only tools
+- Search and read your codebase to find relevant code snippets from the structure to the content
 
 ### 3. Agent Mode 🤖
-- All tools enabled
+- All tools enabled (Create, delete, edit file, and run terminal)
 - Includes write and execution tools
 - The active profile determines which tools are available to the assistant. Agent mode is the most powerful but also requires more user supervision.
-
 
 ## Configuration
 
@@ -38,18 +39,18 @@ Before using tools, you need to configure them in the settings menu:
 ## Available Internal Tools
 
 CodeGPT includes several built-in tools to enhance your development experience:
-- **`code_semantic_search`**: Search codebase for similar code patterns and functions using semantic analysis
-- **`get_file_content`**: Retrieve content from a specific file in the codebase
-- **`get_folder_tree_structure`**: Display project folder hierarchy and file structure
-- **`create_file_or_folder`**: Create new files or directories in the codebase
-- **`delete_file`**: Remove files from the codebase with confirmation
-- **`execute_terminal_command`**: Run terminal commands for builds, tests, and system operations
-- **`edit_file`**: Modify existing file content with precise changes
-- **`todo_list`**: Manage project tasks, bugs, and feature requests
+- **`Code Search`**: Search codebase for similar code patterns and functions using semantic analysis
+- **`Read File`**: Retrieve content from a specific file in the codebase
+- **`View Folder Structure`**: Display project folder hierarchy and file structure
+- **`Create File/Folder`**: Create new files or directories in the codebase
+- **`Delete File`**: Remove files from the codebase with confirmation
+- **`Run Terminal Command`**: Run terminal commands for builds, tests, and system operations
+- **`Edit File`**: Modify existing file content with precise changes
+- **`Update ToDo List`**: Manage project tasks, bugs, and feature requests
 
 :::note Security Considerations
 
-1. Tools that modify the file system (`create_file_or_folder`, `delete_file`, `edit_file`) or execute commands (`execute_terminal_command`) are potentially dangerous and should be used with caution.
+1. Tools that modify the file system (`Create File/Folder`, `delete file`, `Edit File`) or execute commands (`Execute Terminal Command`) are potentially dangerous and should be used with caution.
 2. The system implements a limit of 20 auto-approvals for potentially dangerous operations, after which manual user approval is required.
 3. Commands that could compromise system security should never be executed, such as deleting critical directories or running unknown scripts.
 4. It's recommended to always review proposed changes before approving them, especially when dealing with modifications to existing files.
@@ -57,15 +58,8 @@ CodeGPT includes several built-in tools to enhance your development experience:
 
 :::caution Important Note About Tool Compatibility
 
-**Tools only work with specific models that support function calling capabilities.** If you select a model from the "Providers and Models without Tools" section, the tool functionality will not be available. Make sure to choose a model from the "Providers and Models with Tools" section to access the full range of CodeGPT's tool features.
+**Tools only work with specific models that support function calling capabilities.** If you select a model from the "Providers and Models without Tools" section, the tool functionality will not be available. Ensure you select a model from the "Providers and Models with Tools" section to access the full range of CodeGPT's tool features.
 :::
-
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/307f3480-d303-4689-af11-3e3c94196417"/></td>
-    <td><img src="https://github.com/user-attachments/assets/9293dab3-b411-414b-9eea-52a1993e980c"/></td>
-  </tr>
-</table>
 
 # Providers and Models with Tools
 
@@ -83,6 +77,7 @@ This table shows providers that offer development tools along with their compati
 | **DeepSeek** | 1. deepseek-reasoner<br>2. deepseek-chat<br>3. deepseek-coder |
 | **Mistral** | 1. magistral-medium-2506<br>2. magistral-small-2506<br>3. devstral-small-latest<br>4. devstral-small-2505<br>5. mistral-large-lastest<br>6. mistral-medium-lastest<br>7. mistral-small-lastest<br>8. pixtral-large-latest<br>9. codestral-lastest<br>10. mistral-saba-latest<br>11. ministral-8b-latest<br>12. ministral-3b-latest<br>13. mistral-small<br>14. mistral-tiny<br>15. open-mistral-nemo |
 | **Claude Code** | 1. claude-opus-4.1.20250805<br>2. claude-sonnet-4-20250514<br>3. claude-opus-4-20250514<br>4. claude-3-7-sonnet-20250219<br>5. claude-3-5-haiku-20241022<br>6. claude-3-5-sonnet-20241022 |
+| **Azure** | The models available in the user's Azure account come from external providers, so model availability depends on what the Azure user has chosen and purchased|
 | **Nvidia** | 1. deepseek-ai/deepseek-r1<br>2. meta/llama-3.1-405b-instruct<br>3. meta/llama-3.1-8b-instruct<br>4. meta/llama-3-70b-instruct<br>5. meta/llama-3-8b-instruct<br>6. nvidia/nemotron-4-340b-instruct<br>7. nvidia/llama-3.1-nemotron-4-340b-instruct<br>8. nvidia/usdcode-llama3.70b-instruct<br>9. ibm/granite-34b-code-instruct<br>10. microsoft/phi-3-mini-128k-instruct<br>11. nv-mistralai/mistral-nemo-12b-instruct<br>12. mistralai/codestral-22b-instruct-v0.1<br>13. mistralai/mistral-large<br>14. mistralai/mistral-7b-instruct-v0.2<br>15. google/gemma-2-2b-it<br>16. google/gemma-2-9b-it<br>17. google/gemma-2-27b-it<br>18. google/gemma-7b<br>19. google/gemma-2b<br>20. google/codegemma-7b<br>21. google/recurrectgemma-2b<br>22. meta/codellama-70b<br>23. meta/llama2-70b |
 | **Cohere** | 1. command-a-03-2025<br>2. command-a-reasoning-08-2025<br>3. command-r-plus-08-2024 |
 | **Gemini CLI** | 1. gemini-2.5-pro<br>2. gemini-2.5-flash |
