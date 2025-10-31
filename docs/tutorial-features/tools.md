@@ -73,35 +73,19 @@ This table shows providers that offer development tools along with their compati
 
 | Provider | Models |
 |----------|--------|
-| OpenAI | gpt-4.1, gpt-4.1-2025-04-14, gpt-4.1-mini-2025-04-14, gpt-4.1-nano-2025-04-14, gpt-4.5-preview, o4-mini, o3, o3-mini, o3-mini-high, o1-preview, o1-preview-2024-09-12, o1-mini, o1-mini-2024-09-12, gpt-4o, gpt-4o-mini, gpt-4o-2024-11-20, gpt-4o-2024-05-13 |
-| Anthropic | claude-sonnet-4-20250514, claude-opus-4-20250514, claude-3-7-sonnet-latest, claude-3-7-sonnet-20250219, claude-3-5-sonnet-20241022, claude-3-5-sonnet-20240620, claude-3-5-haiku-latest, claude-3-5-haiku-20241022, claude-3-opus-latest, claude-3-opus-20240229, claude-3-sonnet-20240229, claude-3-haiku-20240307 |
-| Claude Code | claude-sonnet-4-20250514, claude-opus-4-20250514, claude-3-7-sonnet-20250219, claude-3-5-haiku-20241022, claude-3-5-sonnet-20241022, claude-3-5-sonnet-20240620, claude-3-haiku-20240307, claude-3-sonnet-20240229, claude-3-opus-20240229 |
-| Grok | grok-4, grok-4-0709, grok-3, grok-3-fast, grok-3-mini, grok-3-mini-fast, grok-3-1702, grok-2-1212 |
-| Cohere | command-a-03-2025, command-r7b-12-2024, command-r-plus-04-2024, command-r-plus, command-r-08-2024, command-r-03-2024, command-r, command, command-nightly, command-light, command-light-nightly, c4ai-aya-expanse-32b, c4ai-aya-expanse-8b |
-| Google AI Studio | gemini-2.5-pro-preview-05-06, gemini-2.5-flash-preview-04-17, gemini-2.5-pro-preview-03-25, gemini-2.5-pro-exp-03-25, gemini-2.0-flash, gemini-2.0-flash-thinking-exp-1219, gemini-2.0-flash-exp, gemma-3-27b-it, gemma-3-12b-it, gemma-3-4b-it, gemma-3-1b-it |
-| Gemini CLI | gemini-2.5-pro, gemini-2.5-flash, gemini-2.5-pro-preview-05-06, gemini-2.5-pro-preview-06-05, gemini-2.5-flash-preview-04-17, gemini-2.5-flash-preview-05-20, gemini-2.5-flash-lite-preview-06-17, gemini-2.0-flash, gemini-2.0-flash-lite, gemini-1.5-flash-8b |
-| Mistral | magistral-medium-2506, magistral-small-2506, devstral-small-latest, devstral-small-2505, mistral-large-latest, mistral-medium-latest, mistral-small-latest, pixtral-large-latest, codestral-latest, mistral-saba-latest, ministral-8b-latest, ministral-3b-latest, mistral-small, mistral-tiny, open-mistral-nemo |
-| Perplexity | sonar-deep-research, sonar-reasoning-pro, sonar-reasoning, sonar-pro, r1-1776 |
-| Groq | meta-llama/llama-4-scout-17b-16e-instruct, meta-llama/llama-4-maverick-17b-128e-instruct, qwen-qwq-32b, qwen-2.5-coder-32b, qwen-2.5-32b, gemma2-9b-it, deepseek-r1-distill-qwen-32b, deepseek-r1-distill-llama-70b, llama-3.3-70b-versatile, llama-3.1-8b-instant |
-| Cerebras | llama-4-scout-17b-16e-instruct, llama-3.3-70b, llama3.1-8b, deepseek-r1-distill-llama-70b |
-
-# Providers and Models without Tools
-
-This table shows providers that do not specify the use of development tools along with their available models.
-
-| Provider | Models |
-|----------|--------|
-| CodeGPT Plus Beta | gpt-3.5-turbo, GPT-4, gpt-4o |
-| Nvidia | deepseek-ai/deepseek-r1, meta/llama-3.1-405b-instruct, meta/llama-3.1-8b-instruct, meta/llama3-70b-instruct, meta/llama3-8b-instruct, nvidia/llama-3.1-nemotron-70b-instruct, nvidia/nemotron-4-340b-instruct, nvidia/usdcode-llama3-70b-instruct, ibm/granite-34b-code-instruct, microsoft/phi-3-mini-128k-instruct, nv-mistralai/mistral-nemo-12b-instruct, mistralai/codestral-22b-instruct-v0.1, mistralai/mixtral-8x22b-v0.1, mistralai/mistral-large, mistralai/mistral-7b-instruct-v0.2, google/gemma-2-2b-it, google/gemma-2-9b-it, google/gemma-2-27b-it, google/gemma-7b, google/gemma-2b, google/codegemma-7b, google/recurrentgemma-2b, meta/codellama-70b, meta/llama2-70b |
-| Azure | Azure |
-| Github Models | DeepSeek-R1, gpt-4o, gpt-4o-mini, Mistral-large, Mistral-large-2407, Mistral-Nemo, Mistral-small, AI21-Jamba-Instruct, Meta-Llama-3-70B-Instruct, Meta-Llama-3-8B-Instruct, Meta-Llama-3.1-405B-Instruct, Meta-Llama-3.1-70B-Instruct, Meta-Llama-3.1-8B-Instruct, Cohere-command-r, Cohere-command-r-plus, Phi-3-medium-128k-instruct, Phi-3-medium-4k-instruct, Phi-3-mini-128k-instruct, Phi-3-mini-4k-instruct, Phi-3-small-128k-instruct, Phi-3-small-8k-instruct, Phi-3.5-mini-instruct |
-| DeepSeek | deepseek-reasoner, deepseek-chat, deepseek-coder |
-| Ollama | llama4:scout, llama4:maverick, llama3.3:70b, llama3.2:3b, llama3.2:1b, llama3.1:405b and many others. |
-| Fireworks AI | llama-v3p1-405b-instruct, llama-v3p1-70b-instruct, llama-v3p1-8b-instruct, llama-v3-70b-instruct, llama-v2-7b-chat, llama-v2-70b-chat, yi-large, qwen2-72b-instruct, mixtral-8x22b-instruct, mixtral-8x7b, gemma-7b-it, dbrx-instruct, zephyr-7b-beta |
-| Huggingface | meta-llama/Llama-3.2-1B-Instruct, meta-llama/Llama-3.2-3B-Instruct, meta-llama/Meta-Llama-3-8B-Instruct, mistralai/Mixtral-8x7B-Instruct-v0.1, microsoft/Phi-3.5-mini-instruct, Qwen/Qwen2.5-72B-Instruct, Qwen/Qwen2.5-1.5B-Instruct |
-| Bedrock | claude-opus-4-20250514-v1:0, claude-sonnet-4-20250514-v1:0, claude-3-7-sonnet-20250219-v1:0, claude-3-5-sonnet-20241022-v2:0, claude-3-5-sonnet-20240620-v1:0, claude-3.7-sonnet, claude-3.5-sonnet, claude-3-sonnet, claude-v2, claude-v2.1, claude-v1, claude-instant |
-| LM Studio | Not required |
-| Docker | ai/qwen3, ai/deepseek-r1-distill-llama, ai/deepcoder-preview, ai/phi4, ai/qwq, ai/qwen2.5, ai/gemma3, ai/gemma3-qa, ai/smollm2, ai/llama3.1, ai/llama3.2, ai/llama3.3, ai/mxbai-embed-large, ai/mistral-nemo, ai/mistral |
-| OpenRouter | openrouter/cypher-alpha:free, deepseek/deepseek-chat-v3-0324:free, google/gemini-2.0-flash-exp:free, deepseek/deepseek-r1-0528:free, qwen/qwen3-235b-a22b:free, qwen/qwq-32b:free |
-| Custom | No specified models |
-| CodeGPT Enterprise | gpt-3.5-turbo, GPT-4 |
+| **Anthropic** | 1. claude-sonnet-4-5-20250929<br>2. claude-opus-4-1-20250805<br>3. claude-sonnet-4-20250514<br>4. claude-opus-4-20250514<br>5. claude-3-7-sonnet-latest<br>6. claude-3-5-sonnet-latest<br>7. claude-3-5-haiku-latest |
+| **OpenAI** | 1. gpt-4.1<br>2. gpt-4.1-mini<br>3. o4<br>4. o4-mini<br>5. o3<br>6. o3-mini<br>7. o3-mini-high<br>8. o1<br>9. o1-mini<br>10. gpt-4o<br>11. gpt-4o-mini<br>12. gpt-5<br>13. gpt-5-mini<br>14. gpt-5-nano |
+| **Gemini** | 1. gemini-2.5-pro<br>2. gemini-2.5-flash<br>3. gemini-2.5-flash-lite<br>4. gemma-3-27b-it<br>5. gemma-3-12b-it |
+| **OpenRouter** | 1. anthropic/claude-3.5-sonnet<br>2. deepseek/deepseek-chat-v3v0324:free<br>3. deepseek/deepseek-r1-0528:free<br>4. qwen/qwen3-235b-a22b:free<br>5. qwen/qwq-32b:free<br>6. moonshotai/kimi-k2<br>7. switchpoint/router<br>8. google/gemini-2.5-flash<br>9. google/gemini-2.5-pro<br>10. anthropic/claude-3.7-sonnet<br>11. anthropic/claude-3.7-sonnet:thinking<br>12. anthropic/claude-sonnet-4<br>13. anthropic/claude-opus-4 |
+| **Bedrock** | 1. claude-opus-4.1-20250805<br>2. claude-opus-4-20250514<br>3. claude-sonnet-4-20250514<br>4. claude-3.7-sonnet-20250219<br>5. claude-3.5-sonnet-20240620<br>6. claude-3.5-haiku-20241022 |
+| **Grok** | 1. grok-4-fast-non-reasoning<br>2. grok-4-fast-reasoning<br>3. grok-4-0709<br>4. grok-code-fast-1<br>5. grok-4<br>6. grok-3<br>7. grok-3-fast<br>8. grok-3-mini<br>9. grok-3-mini-fast |
+| **Groq** | 1. openai/gpt-oss-120b<br>2. openai/gpt-oss-20b<br>3. moonshotai/kimi-k2-instruct<br>4. meta-llama/llama-4-scout-17b-16e-instruct<br>5. meta-llama/llama-4-maverick-17b-128e-instruct<br>6. qwem-qwq-32b<br>7. qwen-2.5-coder-32b<br>8. qwen-2.5-32b<br>9. gemma2-9b-it<br>10. deepseek-r1-distill-qwrn-32b<br>11. deepseek-r1-distill-qwrn-70b<br>12. llama-3.3-70b-versatile<br>13. llama-3.1-8b-instant |
+| **DeepSeek** | 1. deepseek-reasoner<br>2. deepseek-chat<br>3. deepseek-coder |
+| **Mistral** | 1. magistral-medium-2506<br>2. magistral-small-2506<br>3. devstral-small-latest<br>4. devstral-small-2505<br>5. mistral-large-lastest<br>6. mistral-medium-lastest<br>7. mistral-small-lastest<br>8. pixtral-large-latest<br>9. codestral-lastest<br>10. mistral-saba-latest<br>11. ministral-8b-latest<br>12. ministral-3b-latest<br>13. mistral-small<br>14. mistral-tiny<br>15. open-mistral-nemo |
+| **Claude Code** | 1. claude-opus-4.1.20250805<br>2. claude-sonnet-4-20250514<br>3. claude-opus-4-20250514<br>4. claude-3-7-sonnet-20250219<br>5. claude-3-5-haiku-20241022<br>6. claude-3-5-sonnet-20241022 |
+| **Nvidia** | 1. deepseek-ai/deepseek-r1<br>2. meta/llama-3.1-405b-instruct<br>3. meta/llama-3.1-8b-instruct<br>4. meta/llama-3-70b-instruct<br>5. meta/llama-3-8b-instruct<br>6. nvidia/nemotron-4-340b-instruct<br>7. nvidia/llama-3.1-nemotron-4-340b-instruct<br>8. nvidia/usdcode-llama3.70b-instruct<br>9. ibm/granite-34b-code-instruct<br>10. microsoft/phi-3-mini-128k-instruct<br>11. nv-mistralai/mistral-nemo-12b-instruct<br>12. mistralai/codestral-22b-instruct-v0.1<br>13. mistralai/mistral-large<br>14. mistralai/mistral-7b-instruct-v0.2<br>15. google/gemma-2-2b-it<br>16. google/gemma-2-9b-it<br>17. google/gemma-2-27b-it<br>18. google/gemma-7b<br>19. google/gemma-2b<br>20. google/codegemma-7b<br>21. google/recurrectgemma-2b<br>22. meta/codellama-70b<br>23. meta/llama2-70b |
+| **Cohere** | 1. command-a-03-2025<br>2. command-a-reasoning-08-2025<br>3. command-r-plus-08-2024 |
+| **Gemini CLI** | 1. gemini-2.5-pro<br>2. gemini-2.5-flash |
+| **Perplexity** | 1. sonar-deep-research<br>2. sonar-reasoning-pro<br>3. sonar-reasoning<br>4. sonar-pro<br>5. r1-1776 |
+| **Cerebras** | 1. qwen-3-coder-480b<br>2. gpt-oss-120b<br>3. qwen-3-235b-a22b-instruct-2507<br>4. qwen-3-235b-a22b-thinking-2507<br>5. llama-4-scout-17b-16e-instruct<br>6. llama-3.3-70b<br>7. llama3.1-8b<br>8. deepseek-r1-distill-llama-70b |
+| **Byteplus** | 1. kimi-k2-250711<br>2. deepseek-v3-8-250821<br>3. deepseek-r1-250528<br>4. gpt-oss-120b-250805 |
