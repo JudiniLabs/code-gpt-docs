@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# ⚙️ Configuration
+# Configuration
 
 The following sections describe the various utilities and configuration options available in the CodeGPT application.
 
-## 🔄 Sync Your CodeGPT Account
+## Sync Your CodeGPT Account
 
 - To sync your CodeGPT account, log in using `Gmail`, `GitHub`, or explore `More login options`.
 - 🎁 Try before you buy! New users can sign up for free and gain immediate access.
@@ -19,16 +19,16 @@ The following sections describe the various utilities and configuration options 
 
 - Now you can use the CodeGPT Extension to synchronize your [custom agents](https://docs.codegpt.co/docs/tutorial-features/chat_code_gpt). 
 
-## 📊 Usage According to Your Plan
+## Usage According to Your Plan
 
-### 🆓 Free Plan
+### Free Plan
 - Choose from available free models
 - 30 monthly interactions included
 - Providers: Only available with your own API keys
 
 When you reach your free tier limit, the provider configuration modal will automatically open.
 
-### 🔑 Bring Your Own API Key (BYOK)
+### Bring Your Own API Key (BYOK)
 The BYOK plan allows you to use CodeGPT with your own API keys—no interaction limits imposed by CodeGPT.
 
 - Subscribe to BYOK by visiting app.codegpt.co/en/extensions/plans
@@ -48,7 +48,7 @@ If you have an API Key from another AI provider, please navigate [here](https://
 :::  
 
 
-### 👥 Teams Plan
+### Teams Plan
 - Navigate to app.codegpt.co/account/subscription/plans
 - Select the **TEAMS** plan and complete the payment. Your account will update automatically
 - Sign in to VS Code
@@ -61,19 +61,19 @@ If you have an API Key from another AI provider, please navigate [here](https://
 - Select your preferred model
 - Start chatting—with unlimited interactions! 
 
-## 📚 Codebase Indexing
+## Codebase Indexing
 The Codebase Indexing feature enables you to index your entire codebase and use it as context for your conversations. In the main menu, you'll find the `Codebase` button. Click on it to explore the Augmented Context options.
 
 <img width="307" alt="Screenshot 2025-05-19 at 16 37 40" src="https://github.com/user-attachments/assets/c3023f78-8681-4ed0-a311-efc191b1e6b4" />
 
-### 💻 Codebase
+### Codebase
 Click on `Create Codebase Index` and select a target folder to begin indexing your codebase.
 
 <img width="413" alt="image" src="https://github.com/user-attachments/assets/c8bbbe7a-55ee-4d89-bfd8-4621a3439b8b" />
 
 With this feature enabled, the agent gains access to the **Semantic Search Tool**, which allows you to search for code snippets based on their semantic meaning.
 
-### 🕸️ Code Graph (Teams Plan Only)
+### Code Graph (Teams Plan Only)
 Click on `Code Graph` to connect your Knowledge Graph from CodeGPT Studio and leverage it as context for your conversations.
 
 <img width="413" alt="image" src="https://github.com/user-attachments/assets/83608526-5013-41d0-b392-1bddd236dda4" />
