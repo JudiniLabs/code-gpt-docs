@@ -44,7 +44,7 @@ If you have an API Key from another AI provider, please navigate [here](https://
 <p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/8ba019c9-200e-4609-8f6c-ba5b25ce0bfc"/></p>
 
 :::caution 
-⚠️ Important: With BYOK, you MUST select a model before sending messages. If you attempt to send a message without selecting a model, you'll see the error: "You must select a model first"
+⚠️ Important: With BYOK, you MUST select a model before sending messages. If you attempt to send a message without selecting a model, you'll see the error: "You must select a model first."
 :::  
 
 
@@ -53,13 +53,13 @@ If you have an API Key from another AI provider, please navigate [here](https://
 - Select the **TEAMS** plan and complete the payment. Your account will update automatically
 - Sign in to VS Code
 - Once authenticated, click the model selector to view all premium models:
-- 🤖 GPT-4o
-- 🧠 Claude 3.7 Sonnet
-- 💎 Claude 3.5 Sonnet
-- ✨ Gemini Pro
-- And many more...
+ - GPT-4o
+ - Claude 3.7 Sonnet
+ - Claude 3.5 Sonnet
+ - Gemini Pro
+ - And many more...
 - Select your preferred model
-- Start chatting—with unlimited interactions! 🚀
+- Start chatting—with unlimited interactions! 
 
 ## 📚 Codebase Indexing
 The Codebase Indexing feature enables you to index your entire codebase and use it as context for your conversations. In the main menu, you'll find the `Codebase` button. Click on it to explore the Augmented Context options.
@@ -84,40 +84,40 @@ With this feature, the agent gains access to the **Knowledge Graph Tool**, which
 What is the difference between Codebase Indexing and simply highlighting text for context? Here's a quick guide to help you decide:
 
 **Use Highlighting When:**
-- 🎯 You're focused on a small snippet or a specific bug
-- 🔒 You don't want to grant access to your entire project
-- ⚡ You need quick, one-off explanations
+- You're focused on a small snippet or a specific bug
+- You don't want to grant access to your entire project
+- You need quick, one-off explanations
 
 **Use Codebase Indexing When:**
-- 🌐 You want CodeGPT to understand and work with your entire project
-- 🎨 You need context-aware suggestions, navigation, or implementations
-- 🔧 You're working on larger features, refactors, or debugging across multiple files
-- 🛠️ You want access to advanced tools like Semantic Search and Knowledge Graphs
+- You want CodeGPT to understand and work with your entire project
+- You need context-aware suggestions, navigation, or implementations
+- You're working on larger features, refactors, or debugging across multiple files
+- You want access to advanced tools like Semantic Search and Knowledge Graphs
 
 ## 🛠️ Tools and Context Settings
 
-### 🌍 Global
+### Global
 - Enable options to automatically add the current file as context, or configure the model to start responses with a To-Do list.
 
-### 🔌 MCP
+### MCP
 - Add your MCP integration. For more information, check [here](https://docs.codegpt.co/docs/tutorial-features/mcp).
 
-### 🧰 Internal Tools
+### Internal Tools
 - Customize the interaction mode. For more details, check [here](https://docs.codegpt.co/docs/tutorial-features/tools).
 
-## 🎨 Appearance
+## Appearance
 
 These optional configurations enhance your user experience.
 
 - `Font Size`: Adjust the font size to match your preference.
 - `Color Mode`: Customize the visual interface by switching between dark 🌙 and light ☀️ themes.
 
-## 📍 Panel Position
+## Panel Position
 You can adjust the position of the chat panel by dragging it from the sidebar menu.
 
 ![Move Tabs](https://github.com/user-attachments/assets/edd071ce-ce86-41d6-b119-5eca680881f9)
 
-## 💬 Chat History
+## Chat History
 You can access your chat history by clicking on the `Chat History` button in the sidebar menu.
 
 <p align="center">
