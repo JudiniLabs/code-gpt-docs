@@ -9,7 +9,7 @@ CodeGPT's internal tools comprise a set of functionalities that enable the AI as
 CodeGPT offers three pre-configured profiles to match different use cases:
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/65e8b406-7adb-4de4-a135-8f719c7ba2d5" width="550" height="540"/>
+    <img src="https://github.com/user-attachments/assets/f78409d8-85af-4c08-867d-76b918eb0777" width="550" height="540"/>
 </p>
 
 
