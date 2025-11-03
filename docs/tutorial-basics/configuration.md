@@ -41,7 +41,7 @@ The BYOK plan allows you to use CodeGPT with your own API keys—no interaction 
 If you have an API Key from another AI provider, please navigate [here](https://docs.codegpt.co/docs/category/-ai-providers) to find your specific provider section.
 :::
 
-<p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/8ba019c9-200e-4609-8f6c-ba5b25ce0bfc"/></p>
+<p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/4975f264-0da5-413d-a4d0-b2d2148fbd18"/></p>
 
 :::caution 
 ⚠️ Important: With BYOK, you MUST select a model before sending messages. If you attempt to send a message without selecting a model, you'll see the error: "You must select a model first."
